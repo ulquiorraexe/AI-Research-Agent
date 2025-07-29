@@ -2,7 +2,7 @@ name: Telegram Daily Report
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Her gün saat 12:00'da çalışacak (UTC)
+    - cron: '*/2 * * * *'  # Her gün saat 12:00'da çalışacak (UTC)
   workflow_dispatch: # İstersen manuel tetikleme
 
 jobs:
