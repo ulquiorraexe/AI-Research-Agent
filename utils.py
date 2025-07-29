@@ -20,7 +20,7 @@ def has_new_data(new_text: str, old_text: str) -> bool:
 
 def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=3900) -> bool:
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    
+    success = True  # Her parçanın başarılı olup olmadığını takip et
     try:
         lines = message.splitlines()
         chunk = ""
@@ -32,27 +32,26 @@ def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=3900
                 payload = {
                     "chat_id": chat_id,
                     "text": chunk.strip(),
-                    "parse_mode": "HTML"
+                    "parse_mode": "HTML",
                 }
                 response = requests.post(url, data=payload)
                 if not response.ok:
                     print(f"Telegram API hatası: {response.status_code} - {response.text}")
-                    return False
+                    success = False  # Ama diğer chunk'lara devam et
                 chunk = line + "\n"
 
-        # Son kalan parçayı da gönder
         if chunk.strip():
             payload = {
                 "chat_id": chat_id,
                 "text": chunk.strip(),
-                "parse_mode": "HTML"
+                "parse_mode": "HTML",
             }
             response = requests.post(url, data=payload)
             if not response.ok:
                 print(f"Telegram API hatası: {response.status_code} - {response.text}")
-                return False
+                success = False
 
-        return True
+        return success
 
     except Exception as e:
         print(f"Telegram mesaj gönderirken hata oluştu: {e}")
