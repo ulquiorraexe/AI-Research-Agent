@@ -18,14 +18,30 @@ def has_new_data(new_text: str, old_text: str) -> bool:
     return new_clean != old_clean
 
 
-def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=4000) -> bool:
+def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=3900) -> bool:
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     
     try:
-        # Mesajı güvenli bir şekilde böl (paragrafları veya satırları bölmeden)
-        chunks = textwrap.wrap(message, width=chunk_size, break_long_words=False, replace_whitespace=False)
+        lines = message.splitlines()
+        chunk = ""
 
-        for chunk in chunks:
+        for line in lines:
+            if len(chunk) + len(line) + 1 < chunk_size:
+                chunk += line + "\n"
+            else:
+                payload = {
+                    "chat_id": chat_id,
+                    "text": chunk.strip(),
+                    "parse_mode": "HTML"
+                }
+                response = requests.post(url, data=payload)
+                if not response.ok:
+                    print(f"Telegram API hatası: {response.status_code} - {response.text}")
+                    return False
+                chunk = line + "\n"
+
+        # Son kalan parçayı da gönder
+        if chunk.strip():
             payload = {
                 "chat_id": chat_id,
                 "text": chunk.strip(),
