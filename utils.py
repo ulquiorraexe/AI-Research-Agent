@@ -2,7 +2,8 @@ import textwrap
 import os
 import requests
 import re
-import difflib
+from difflib import unified_diff, difflib
+from datetime import date
 
 def is_similar(text1: str, text2: str, threshold: float = 0.92) -> bool:
     """İki metin ne kadar benzer? %92 ve üzeri benzerse 'aynı' say."""
