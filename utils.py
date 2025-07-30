@@ -17,23 +17,31 @@ def has_new_data(new_text: str, old_text: str) -> bool:
     old_clean = " ".join(old_text.split())
     return new_clean != old_clean
 
-def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=3900) -> bool:
+def escape_html(text: str) -> str:
+    return (
+        text.replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+    )
+
+def split_message(message: str, max_length: int = 3500) -> list[str]:
+    parts = []
+    while len(message) > max_length:
+        split_at = message.rfind("\n", 0, max_length)
+        if split_at == -1:
+            split_at = max_length
+        parts.append(message[:split_at])
+        message = message[split_at:].lstrip()
+    parts.append(message)
+    return parts
+
+def send_to_telegram(message: str, bot_token: str, chat_id: str) -> bool:
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     success = True
 
-    # HTML tag'leri varsa Telegram bozulmasın diye kaçış karakterleri
-    def escape_html(text):
-        return (
-            text.replace("&", "&amp;")
-                .replace("<", "&lt;")
-                .replace(">", "&gt;")
-        )
-
     try:
         safe_message = escape_html(message)
-
-        # Satıra göre değil, sabit karakter sayısına göre böl
-        chunks = textwrap.wrap(safe_message, width=chunk_size, break_long_words=False, break_on_hyphens=False)
+        chunks = split_message(safe_message, max_length=3500)
 
         for i, chunk in enumerate(chunks):
             payload = {
@@ -45,7 +53,8 @@ def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=3900
             if not response.ok:
                 print(f"Chunk {i+1} gönderilirken Telegram API hatası: {response.status_code} - {response.text}")
                 success = False
-
+            else:
+                print(f"Chunk {i+1} başarıyla gönderildi. ({len(chunk)} karakter)")
         return success
 
     except Exception as e:
