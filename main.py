@@ -110,6 +110,14 @@ Provide the latest data for each category as separate sections, clearly labeled 
 agent_runner = AgentExecutor(agent = agent, tools = tools, verbose = True, return_intermediate_steps=True)
 raw_response = agent_runner.invoke({"query": query})
 
+import requests
+
+bot_token = "BOT_TOKENUNUZU_BURAYA_YAZIN"
+url = f"https://api.telegram.org/bot{bot_token}/getUpdates"
+
+response = requests.get(url).json()
+print(response)
+
 try:
     raw_output = raw_response.get("output", "")
     if not raw_output.strip():
@@ -133,7 +141,7 @@ try:
                 print("Mesaj gönderiminde hata oluştu ama dosyalar güncellendi.")
         else:
             send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
-            
+
 except Exception as e:
     print("Error parsing response:", e, "Raw Response -", raw_response)
 
