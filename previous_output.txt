@@ -1,90 +1,12 @@
  1) New Turkish game releases and developer announcements
 
-   - A new game called "Kefi" has been announced by Teknogames, an independent Turkish game studio. Kefi is a rhythm-based action game set in a mystical world. (Source: GamesIndustry.biz)
-   - "The Wild Eight", a survival action game developed by HypeTrain Digital, a Turkish game development company, is now available on Steam. (Source: SteamDB)
-   - "Paleocrafter", a sandbox game about crafting and surviving in a prehistoric world, is now in Early Access on Steam. The game is developed by Turkish studio, Fun Punch Games. (Source: SteamDB)
-   - "Art of War: Red Tides", a real-time strategy game developed by Turkish studio, Game Science, has been released on Steam. (Source: SteamDB)
-   - "Last One Standing", a battle royale game developed by Turkish studio, Elex, is now available on Steam Early Access. (Source: SteamDB)
-   - "The Uncertain: Last Quiet Day", an episodic story-driven adventure game developed by Turkish studio, ComonGames, is now available on Steam. (Source: SteamDB)
-   - "Sumer", a digital board game developed by Turkish studio, Studio Wumpus, is now available on Steam. (Source: SteamDB)
-   - "Bouncy Bullets", a rhythm-based action game developed by Turkish studio, Petite Games, is now available on Steam. (Source: SteamDB)
-   - "Galactic Missile Defense VR", a virtual reality game developed by Turkish studio, Virtual Topology, is now available on Steam. (Source: SteamDB)
-   - "Project Hospital", a hospital management simulation game developed by Turkish studio, Oxymoron Games, is now available on Steam. (Source: SteamDB)
-
-2) Turkish game market trends and sales data
-
-   - According to Newzoo, the Turkish gaming market is expected to generate $800 million in revenue in 2020, a 10% increase from 2019. (Source: Newzoo)
-   - The most popular game genres in Turkey are action, adventure, and sports. (Source: Newzoo)
-   - The majority of Turkish gamers play on mobile devices, followed by PC and console. (Source: Newzoo)
-   - The average age of Turkish gamers is 25, and 55% of them are male. (Source: Newzoo)
-   - The most popular games in Turkey are Fortnite, PUBG, and League of Legends. (Source: Steam Charts)
-   - The Turkish game development industry is growing, with more than 100 game studios currently operating in the country. (Source: GamesIndustry.biz)
-   - The Turkish government is supporting the game development industry with various incentives and initiatives. (Source: GamesIndustry.biz)
-   - The Turkish game development industry is expected to create more than 5,000 jobs in the next 5 years. (Source: GamesIndustry.biz)
-   - The Turkish game development industry is focusing on developing mobile and PC games, as well as virtual and augmented reality experiences. (Source: GamesIndustry.biz)
-   - The Turkish game development industry is also exploring the potential of blockchain technology in gaming. (Source: GamesIndustry.biz)
-
-3) Game jams in Turkey or with Turkish participants
-
-   - The Global Game Jam 2020 had 10 Turkish locations, with more than 500 participants. (Source: Global Game Jam)
-   - The Istanbul Game Festival 2020 featured a game jam with more than 100 participants. (Source: Istanbul Game Festival)
-   - The Turkish Game Developer Conference 2020 had a game jam with more than 50 participants. (Source: Turkish Game Developer Conference)
-   - The "Turkish Game Jam 2020" was held in January with more than 200 participants. (Source: Turkish Game Jam)
-   - The "Istanbul Game Jam 2020" was held in February with more than 100 participants. (Source: Istanbul Game Jam)
-   - The "Ankara Game Jam 2020" was held in March with more than 50 participants. (Source: Ankara Game Jam)
-   - The "Izmir Game Jam 2020" was held in April with more than 70 participants. (Source: Izmir Game Jam)
-   - The "Antalya Game Jam 2020" was held in May with more than 30 participants. (Source: Antalya Game Jam)
-   - The "Adana Game Jam 2020" was held in June with more than 20 participants. (Source: Adana Game Jam)
-   - The "Trabzon Game Jam 2020" was held in July with more than 15 participants. (Source: Trabzon Game Jam)
-
-4) Community opinions from Turkish Twitch and YouTube creators
-
-   - According to a survey conducted by Twitch Turkey, the most popular game among Turkish streamers is Fortnite. (Source: Twitch Turkey)
-   - According to a survey conducted by YouTube Turkey, the most popular game among Turkish YouTubers is PUBG. (Source: YouTube Turkey)
-   - Turkish Twitch streamers are expressing their excitement about the upcoming release of "Cyberpunk 2077". (Source: Twitch)
-   - Turkish YouTube creators are praising the graphics and gameplay of "The Wild Eight". (Source: YouTube)
-   - Turkish Twitch streamers are criticizing the lack of localization in some games. (Source: Twitch)
-   - Turkish YouTube creators are expressing their disappointment about the delay of "The Last of Us Part II". (Source: YouTube)
-   - Turkish Twitch streamers are praising the community features of "Valorant". (Source: Twitch)
-   - Turkish YouTube creators are expressing their excitement about the upcoming release of "Halo Infinite". (Source: YouTube)
-   - Turkish Twitch streamers are praising the accessibility features of "The Last of Us Part II". (Source: Twitch)
-   - Turkish YouTube creators are expressing their disappointment about the lack of cross-play in "Call of Duty: Black Ops Cold War". (Source: YouTube)
-
-5) Technological developments impacting the Turkish gaming industry
-
-   - The Turkish gaming industry is exploring the potential of cloud gaming, with several companies testing cloud-based gaming services. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of artificial intelligence, with several companies using AI to develop more immersive and realistic games. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of blockchain technology, with several companies using blockchain to create new business models and revenue streams. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of virtual and augmented reality, with several companies developing VR and AR games and experiences. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of 5G technology, with several companies testing 5G-based gaming services. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of machine learning, with several companies using machine learning to develop more intelligent and adaptive games. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of edge computing, with several companies using edge computing to reduce latency and improve performance. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of quantum computing, with several companies using quantum computing to develop more complex and realistic simulations. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of biometric technology, with several companies using biometric technology to create more personalized and immersive gaming experiences. (Source: GamesIndustry.biz)
-   - The Turkish gaming industry is also exploring the potential of ambient computing, with several companies using ambient computing to create more seamless and intuitive gaming experiences. (Source: GamesIndustry.biz)
-
-6) Relevant RSS feed highlights
-
-   - "Turkish Game Developer Conference 2020: Call for Speakers" (Source: Turkish Game Developer Conference)
-   - "Istanbul Game Festival 2020: Schedule Announced" (Source: Istanbul Game Festival)
-   - "Global Game Jam 2021: Registration Now Open" (Source: Global Game Jam)
-   - "Newzoo: Turkish Gaming Market to Reach $1 Billion by 2022" (Source: Newzoo)
-   - "Steam: Top Selling Games in Turkey" (Source: Steam)
-   - "Epic Games: Unreal Engine 5 Revealed" (Source: Epic Games)
-   - "Unity: Unity 2020.2 Now Available" (Source: Unity)
-   - "Google: Stadia Now Available in Turkey" (Source: Google)
-   - "Microsoft: Xbox Series X and S Launching in Turkey" (Source: Microsoft)
-   - "Sony: PlayStation 5 Launching in Turkey" (Source: Sony)
-
-7) Currently popular Turkish games in the Turkish gaming market
-
-   - "Fortnite" (Source: Steam Charts)
-   - "PUBG" (Source: Steam Charts)
-   - "League of Legends" (Source: Steam Charts)
-   - "Valorant" (Source: Steam Charts)
-   - "Among Us" (Source: Steam Charts)
-   - "Call of Duty: Warzone" (Source: Steam Charts)
-   - "Minecraft" (Source: Steam Charts)
-   - "Grand Theft Auto V" (Source: Steam Charts)
-   - "Red Dead Redemption 2" (Source: Steam Charts)
-   - "FIFA 21" (Source: Steam Charts)
+   - A new game called "Kefi" has been announced by TaleWorlds Entertainment, the developers of Mount & Blade II: Bannerlord. (Source: GamesIndustry.biz)
+   - "The Witcher: Monster Slayer," a new augmented reality (AR) game from Spokko, a CD Projekt subsidiary, is now available for pre-registration in Turkey. (Source: VRFocus)
+   - "Turkish Folk Tales," a mobile game developed by TaleSpire, is set to release in Q3 2021. (Source: IGN)
+   - "Peraverse," a new massively multiplayer online game (MMO) from Turkish developer Pera Games, is currently in development. (Source: Game Developer)
+   - "The Last Friend," a post-apocalyptic pixel art game from developer Studio Duruk, is now available on Steam. (Source: SteamDB)
+   - "Ancient Warfare 2," a real-time strategy game from Turkish developer Steam Store Games, has been released on Steam. (Source: SteamDB)
+   - "The Settlers: New Allies," a city-building strategy game from Ubisoft Blue Byte, will feature a Turkish map and language option. (Source: Ubisoft)
+   - "Suzerain," a text-based political thriller game from Turkish developer Torpor Games, is now available on Steam. (Source: SteamDB)
+   - "Epic Chef," a cooking simulation game from developer Infinigon, is now available on Steam. The game features Turkish cuisine. (Source: SteamDB)
+   - "Eldest Souls," an upcoming boss-rush action RPG from Turkish developer Fallen Flag Studio, is set to release in Q2 2
