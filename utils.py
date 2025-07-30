@@ -2,7 +2,8 @@ import textwrap
 import os
 import requests
 import re
-from difflib import unified_diff, difflib
+from difflib import unified_diff
+import difflib
 from datetime import date
 
 def is_similar(text1: str, text2: str, threshold: float = 0.92) -> bool:
