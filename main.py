@@ -7,12 +7,11 @@ from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, ValidationError
 from langchain.agents import create_tool_calling_agent, AgentExecutor
 from tools import save_tool, save_to_txt
-from utils import *
+from utils import load_previous_text, save_current_text, has_new_data, prepare_and_send_message, send_to_telegram
 
 # .env dosyasını yükle
 load_dotenv()
 
-# Together API ve tokenları al
 api_key = os.getenv("TOGETHER_API_KEY")
 telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
 telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
@@ -26,7 +25,6 @@ class ResearchResponse(BaseModel):
     rss_feeds: str
     popular_games: str 
 
-# Together'ı OpenAI uyumlu API gibi kullan
 llm = ChatOpenAI(
     openai_api_key=api_key,
     openai_api_base="https://api.together.xyz/v1",
@@ -36,7 +34,6 @@ llm = ChatOpenAI(
 )
 parser = PydanticOutputParser(pydantic_object=ResearchResponse)
 
-# Prompt Template
 prompt = ChatPromptTemplate.from_messages(
     [
         (
@@ -95,8 +92,6 @@ prompt = ChatPromptTemplate.from_messages(
     ]
 ).partial(format_instructions=parser.get_format_instructions())
 
-# Agent
-
 tools = [save_tool]
 agent = create_tool_calling_agent(
     llm = llm,
@@ -121,36 +116,24 @@ Provide the latest data for each category as separate sections, clearly labeled 
 agent_runner = AgentExecutor(agent = agent, tools = tools, verbose = True, return_intermediate_steps=True)
 raw_response = agent_runner.invoke({"query": query})
 
-
-# Cevap bloğu
 try:
     raw_output = raw_response.get("output", "")
     if not raw_output.strip():
         print("Boş çıktı alındı. İşlem yapılmıyor.")
     else:
-        previous_output = load_previous_text()
-
-        if has_new_data(raw_output, previous_output):
-            success = send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
+        previous_raw = load_previous_text()
+        if has_new_data(raw_output, previous_raw):
+            # Yeni içerik varsa karşılaştırma, dosya güncelleme ve telegram gönderme
+            success = prepare_and_send_message(
+                new_output=raw_output,
+                bot_token=telegram_token,
+                chat_id=telegram_chat_id
+            )
             if success:
                 print("Mesaj başarıyla gönderildi.")
             else:
-                print("Bazı parçalar gönderilemedi.")
-            save_current_text(raw_output)
+                print("Mesaj gönderiminde hata oluştu.")
         else:
             send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
-
-        save_to_txt(raw_output)
-
-#     text_output = (
-#     f"1) New game releases and developer announcements:\n{structured_response.new_releases}\n\n"
-#     f"2) Turkish game market trends and sales data:\n{structured_response.market_trends}\n\n"
-#     f"3) Game jams in Turkey or with Turkish participants:\n{structured_response.game_jams}\n\n"
-#     f"4) Community opinions from Turkish Twitch and YouTube creators:\n{structured_response.community_opinions}\n\n"
-#     f"5) Technological developments impacting Turkish gaming industry:\n{structured_response.tech_developments}\n\n"
-#     f"6) Relevant RSS feeds:\n{structured_response.rss_feeds}\n"
-#     f"7) Popular games in the Turkish market currently:\n{structured_response.popular_games}\n"
-# )
-
 except Exception as e:
-    print("Error parsing response", e, "Raw Response - ", raw_response)
+    print("Error parsing response:", e, "Raw Response -", raw_response)
