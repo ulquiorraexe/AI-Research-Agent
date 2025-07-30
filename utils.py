@@ -13,6 +13,7 @@ def save_current_text(text, filepath="previous_output.txt"):
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(text)
 
+
 def has_new_data(new_text: str, old_text: str) -> bool:
     new_clean = " ".join(new_text.split())
     old_clean = " ".join(old_text.split())

@@ -117,25 +117,23 @@ try:
     else:
         previous_raw = load_previous_text()
         if has_new_data(raw_output, previous_raw):
-            # Yeni içerik varsa karşılaştırma, dosya güncelleme ve telegram gönderme
+            # Ham veriyi previous_output.txt dosyasına yaz
+            save_current_text(raw_output, "previous_output.txt")
+
+            # Yeni içerik varsa karşılaştır, sadeleştir ve telegrama gönder
             success = prepare_and_send_message(
                 new_output=raw_output,
                 bot_token=telegram_token,
                 chat_id=telegram_chat_id
             )
 
-            # 🔽 Dosyaya kaydetmeyi garanti altına al!
-            from tools import save_to_txt
-            save_to_txt(raw_output)  # Bu agent yazmamış olsa bile kaydeder
-
             if success:
-                print("Mesaj başarıyla gönderildi ve dosya kaydedildi.")
+                print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
             else:
-                print("Mesaj gönderiminde hata oluştu ama dosya kaydedildi.")
-
+                print("Mesaj gönderiminde hata oluştu ama dosyalar güncellendi.")
         else:
             send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
-
+            
 except Exception as e:
     print("Error parsing response:", e, "Raw Response -", raw_response)
 
