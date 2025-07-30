@@ -2,6 +2,12 @@ import textwrap
 import os
 import requests
 import re
+import difflib
+
+def is_similar(text1: str, text2: str, threshold: float = 0.92) -> bool:
+    """İki metin ne kadar benzer? %92 ve üzeri benzerse 'aynı' say."""
+    ratio = difflib.SequenceMatcher(None, text1.strip(), text2.strip()).ratio()
+    return ratio >= threshold
 
 def load_previous_text(filepath="previous_output.txt"):
     if os.path.exists(filepath):
@@ -80,8 +86,7 @@ def compare_categories(new_cats: list[str], old_cats: list[str]) -> list[str]:
             result.append("Bugün bu kategoride yeni bir gelişme yok.")
             continue
 
-        if " ".join(new_cat.split()) == " ".join(old_cat.split()):
-            # Aynıysa, başlığı koruyup mesajı değiştir
+        if is_similar(new_cat, old_cat):
             lines = new_cat.splitlines()
             if lines:
                 header = lines[0]
