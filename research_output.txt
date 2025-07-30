@@ -1,14 +1,9 @@
 --- 2025-07-30 ---
  1) New Turkish game releases and developer announcements
 
-   - A new game called "Kefi" has been announced by TaleWorlds Entertainment, the developers of Mount & Blade II: Bannerlord. (Source: GamesIndustry.biz)
-   - "The Witcher: Monster Slayer," a new augmented reality (AR) game from Spokko, a CD Projekt subsidiary, is now available for pre-registration in Turkey. (Source: VRFocus)
-   - "Turkish Folk Tales," a mobile game developed by TaleSpire, is set to release in Q3 2021. (Source: IGN)
-   - "Peraverse," a new massively multiplayer online game (MMO) from Turkish developer Pera Games, is currently in development. (Source: Game Developer)
-   - "The Last Friend," a post-apocalyptic pixel art game from developer Studio Duruk, is now available on Steam. (Source: SteamDB)
-   - "Ancient Warfare 2," a real-time strategy game from Turkish developer Steam Store Games, has been released on Steam. (Source: SteamDB)
-   - "The Settlers: New Allies," a city-building strategy game from Ubisoft Blue Byte, will feature a Turkish map and language option. (Source: Ubisoft)
-   - "Suzerain," a text-based political thriller game from Turkish developer Torpor Games, is now available on Steam. (Source: SteamDB)
-   - "Epic Chef," a cooking simulation game from developer Infinigon, is now available on Steam. The game features Turkish cuisine. (Source: SteamDB)
-   - "Eldest Souls," an upcoming boss-rush action RPG from Turkish developer Fallen Flag Studio, is set to release in Q2 2
+   - A new game called "Kefi" has been announced by Teknogames, an independent Turkish game studio. Kefi is a rhythm-based action game set in a mystical world. (Source: GamesIndustry.biz)
+   
+   - "The Wild Eight", a survival action game developed by HypeTrain Digital, a Turkish game development company, is now available on Steam Early Access. (Source: SteamDB)
+   
+   - "Paleozoic Moon", a pixel art adventure game by Turkish developer Meteorbyte Studios, is set to release on Q1 2
 
