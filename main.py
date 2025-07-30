@@ -74,12 +74,6 @@ prompt = ChatPromptTemplate.from_messages(
             - YouTube (Turkish gaming creators)  
             - Newzoo  
             - VRFocus  
-            - RSS feeds:  
-            - https://www.gamesindustry.biz/rss/turkey  
-            - https://steamdb.info/country/TR/latest/  
-            - https://tgdc.org.tr/feed/  
-            - https://istanbulgamefestival.com/feed/  
-            - https://turkishgamedevelopers.org/feed/
 
             Return only the structured report in this 7-part format, no other commentary.
             Ensure the output is complete and do not stop mid-sentence. Finish all 7 sections fully.
@@ -111,6 +105,7 @@ Please provide your research output in a numbered format, with each number corre
 7) Currently popular games in the Turkish gaming market.
 
 Provide the latest data for each category as separate sections, clearly labeled by the category number and title.
+"After providing your answer, save the entire output to a file using the 'save_text_to_file' tool."
 """
 
 agent_runner = AgentExecutor(agent = agent, tools = tools, verbose = True, return_intermediate_steps=True)
@@ -129,11 +124,19 @@ try:
                 bot_token=telegram_token,
                 chat_id=telegram_chat_id
             )
+
+            # 🔽 Dosyaya kaydetmeyi garanti altına al!
+            from tools import save_to_txt
+            save_to_txt(raw_output)  # Bu agent yazmamış olsa bile kaydeder
+
             if success:
-                print("Mesaj başarıyla gönderildi.")
+                print("Mesaj başarıyla gönderildi ve dosya kaydedildi.")
             else:
-                print("Mesaj gönderiminde hata oluştu.")
+                print("Mesaj gönderiminde hata oluştu ama dosya kaydedildi.")
+
         else:
             send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
+
 except Exception as e:
     print("Error parsing response:", e, "Raw Response -", raw_response)
+
