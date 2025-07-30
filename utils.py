@@ -118,6 +118,33 @@ def compare_and_prepare_output(new_output: str, previous_filepath="previous_outp
 
     return final_text
 
-def prepare_and_send_message(new_output: str, bot_token: str, chat_id: str, previous_filepath="previous_output.txt", research_filepath="research_output.txt") -> bool:
-    message = compare_and_prepare_output(new_output, previous_filepath, research_filepath)
-    return send_to_telegram(message, bot_token, chat_id)
+def prepare_and_send_message(new_output: str, bot_token: str, chat_id: str) -> bool:
+    try:
+        previous_output = load_previous_text()
+
+        # Farkları bul (satır satır)
+        previous_lines = previous_output.splitlines(keepends=True)
+        new_lines = new_output.splitlines(keepends=True)
+        diff = unified_diff(previous_lines, new_lines, lineterm='')
+
+        # Farklı satırları al
+        diff_lines = [line for line in diff if line.startswith('+ ') and not line.startswith('+++')]
+
+        if not diff_lines:
+            return False  # Gerçek bir fark yok
+
+        today = date.today().isoformat()
+        message = f"📌 {today} - Güncelleme:\n\n" + ''.join(diff_lines)
+
+        # Telegram'a gönder
+        send_to_telegram(message, bot_token, chat_id)
+
+        # Güncel veriyi iki dosyaya yaz
+        save_current_text(new_output, "previous_output.txt")
+        save_current_text(f"--- {today} ---\n{new_output}\n\n", "research_output.txt")
+
+        return True
+
+    except Exception as e:
+        print("prepare_and_send_message error:", e)
+        return False
