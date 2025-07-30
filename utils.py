@@ -1,6 +1,7 @@
 import textwrap
 import os
 import requests
+import re
 
 def load_previous_text(filepath="previous_output.txt"):
     if os.path.exists(filepath):
@@ -60,3 +61,52 @@ def send_to_telegram(message: str, bot_token: str, chat_id: str) -> bool:
     except Exception as e:
         print(f"Telegram mesaj gönderirken genel hata oluştu: {e}")
         return False
+
+def split_into_categories(text: str) -> list[str]:
+    # "1)", "2)", ... "7)" başlıklarına göre böl
+    pattern = re.compile(r"(?=\d\))")
+    parts = pattern.split(text)
+    return [p.strip() for p in parts if p.strip()]
+
+def compare_categories(new_cats: list[str], old_cats: list[str]) -> list[str]:
+    max_len = max(len(new_cats), len(old_cats))
+    result = []
+    for i in range(max_len):
+        new_cat = new_cats[i] if i < len(new_cats) else ""
+        old_cat = old_cats[i] if i < len(old_cats) else ""
+
+        if not new_cat:
+            result.append("Bugün bu kategoride yeni bir gelişme yok.")
+            continue
+
+        if " ".join(new_cat.split()) == " ".join(old_cat.split()):
+            # Aynıysa, başlığı koruyup mesajı değiştir
+            lines = new_cat.splitlines()
+            if lines:
+                header = lines[0]
+                replaced = header + "\nBugün bu kategoride yeni bir gelişme yok."
+                result.append(replaced)
+            else:
+                result.append("Bugün bu kategoride yeni bir gelişme yok.")
+        else:
+            result.append(new_cat)
+    return result
+
+def compare_and_prepare_output(new_output: str, previous_filepath="previous_output.txt", research_filepath="research_output.txt") -> str:
+    old_output = load_previous_text(previous_filepath)
+    new_cats = split_into_categories(new_output)
+    old_cats = split_into_categories(old_output)
+
+    compared = compare_categories(new_cats, old_cats)
+    final_text = "\n\n".join(compared)
+
+    # research_output.txt'ye kaydet
+    save_current_text(final_text, research_filepath)
+    # previous_output.txt'yi yeni çıktı ile güncelle
+    save_current_text(new_output, previous_filepath)
+
+    return final_text
+
+def prepare_and_send_message(new_output: str, bot_token: str, chat_id: str, previous_filepath="previous_output.txt", research_filepath="research_output.txt") -> bool:
+    message = compare_and_prepare_output(new_output, previous_filepath, research_filepath)
+    return send_to_telegram(message, bot_token, chat_id)
