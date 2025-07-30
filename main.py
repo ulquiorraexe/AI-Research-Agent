@@ -121,10 +121,13 @@ try:
         print("Boş çıktı alındı. İşlem yapılmıyor.")
     else:
         previous_raw = load_previous_text()
-        if has_new_data(raw_output, previous_raw):
-            # Ham veriyi previous_output.txt dosyasına yaz
+        if not previous_raw.strip():
+            # İlk çalıştırma: tüm çıktıyı olduğu gibi gönder
+            send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
             save_current_text(raw_output, "previous_output.txt")
-
+            save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
+            print("İlk çalıştırma: tam çıktı gönderildi ve dosyalar kaydedildi.")
+        elif has_new_data(raw_output, previous_raw):
             # Yeni içerik varsa karşılaştır, sadeleştir ve telegrama gönder
             success = prepare_and_send_message(
                 new_output=raw_output,
@@ -141,4 +144,3 @@ try:
 
 except Exception as e:
     print("Error parsing response:", e, "Raw Response -", raw_response)
-

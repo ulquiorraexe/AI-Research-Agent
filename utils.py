@@ -9,6 +9,10 @@ def is_similar(text1: str, text2: str, threshold: float = 0.92) -> bool:
     ratio = difflib.SequenceMatcher(None, text1.strip(), text2.strip()).ratio()
     return ratio >= threshold
 
+def append_to_text_file(text, filepath="research_output.txt"):
+    with open(filepath, "a", encoding="utf-8") as f:
+        f.write(text + "\n\n" + "="*80 + "\n\n")
+
 def load_previous_text(filepath="previous_output.txt"):
     if os.path.exists(filepath):
         with open(filepath, "r", encoding="utf-8") as f:
@@ -106,8 +110,9 @@ def compare_and_prepare_output(new_output: str, previous_filepath="previous_outp
     compared = compare_categories(new_cats, old_cats)
     final_text = "\n\n".join(compared)
 
-    # research_output.txt'ye kaydet
-    save_current_text(final_text, research_filepath)
+    # research_output.txt'ye ekle
+    append_to_text_file(final_text, research_filepath)
+
     # previous_output.txt'yi yeni çıktı ile güncelle
     save_current_text(new_output, previous_filepath)
 
