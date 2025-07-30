@@ -105,7 +105,6 @@ Please provide your research output in a numbered format, with each number corre
 7) Currently popular games in the Turkish gaming market.
 
 Provide the latest data for each category as separate sections, clearly labeled by the category number and title.
-"After providing your answer, save the entire output to a file using the 'save_text_to_file' tool."
 """
 
 agent_runner = AgentExecutor(agent = agent, tools = tools, verbose = True, return_intermediate_steps=True)
