@@ -94,18 +94,23 @@ agent = create_tool_calling_agent(
 )
 
 query = """
-Please provide your research output in a numbered format, with each number corresponding exactly to these categories:
+Your task is to generate a detailed, structured report in 7 numbered sections:
 
-1) New game releases and developer announcements (sources: GamesIndustry.biz, IGN, Game Developer, Kotaku, Polygon),
-2) Turkish game market trends and sales data (sources: SteamDB, Steam Charts),
-3) Game jams in Turkey or with Turkish participants,
-4) Community opinions from Turkish Twitch and YouTube creators,
-5) Technological developments impacting the Turkish game industry,
-6) Relevant RSS feeds,
-7) Currently popular games in the Turkish gaming market.
+1) New Turkish game releases and developer announcements  
+2) Turkish game market trends and sales data  
+3) Game jams in Turkey or with Turkish participants  
+4) Community opinions from Turkish Twitch and YouTube creators  
+5) Technological developments impacting the Turkish gaming industry  
+6) Relevant RSS feed highlights  
+7) Currently popular Turkish games in the Turkish gaming market
 
-Provide the latest data for each category as separate sections, clearly labeled by the category number and title.
+Each section must begin with its number and title exactly as listed, followed by your findings.
+If there is no new information in a section, simply say: 'There is no new update in this category today.'
+
+After completing the full 7-category report, respond with everything in one single output. 
+Do not stop midway. Ensure all categories are included before you finish.
 """
+
 
 agent_runner = AgentExecutor(agent = agent, tools = tools, verbose = True, return_intermediate_steps=True)
 raw_response = agent_runner.invoke({"query": query})
