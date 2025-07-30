@@ -5,6 +5,9 @@ on:
     - cron: '*/2 * * * *'  # Her gün saat 12:00'da çalışacak (UTC)
   workflow_dispatch: # İstersen manuel tetikleme
 
+  permissions:
+  contents: write
+
 jobs:
   send_report:
     runs-on: ubuntu-latest
