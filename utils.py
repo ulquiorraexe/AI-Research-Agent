@@ -17,30 +17,25 @@ def has_new_data(new_text: str, old_text: str) -> bool:
     old_clean = " ".join(old_text.split())
     return new_clean != old_clean
 
-
 def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=3900) -> bool:
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    success = True  # Her parçanın başarılı olup olmadığını takip et
+    success = True
+
+    # HTML tag'leri varsa Telegram bozulmasın diye kaçış karakterleri
+    def escape_html(text):
+        return (
+            text.replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+        )
+
     try:
-        lines = message.splitlines()
-        chunk = ""
+        safe_message = escape_html(message)
 
-        for line in lines:
-            if len(chunk) + len(line) + 1 < chunk_size:
-                chunk += line + "\n"
-            else:
-                payload = {
-                    "chat_id": chat_id,
-                    "text": chunk.strip(),
-                    "parse_mode": "HTML",
-                }
-                response = requests.post(url, data=payload)
-                if not response.ok:
-                    print(f"Telegram API hatası: {response.status_code} - {response.text}")
-                    success = False  # Ama diğer chunk'lara devam et
-                chunk = line + "\n"
+        # Satıra göre değil, sabit karakter sayısına göre böl
+        chunks = textwrap.wrap(safe_message, width=chunk_size, break_long_words=False, break_on_hyphens=False)
 
-        if chunk.strip():
+        for i, chunk in enumerate(chunks):
             payload = {
                 "chat_id": chat_id,
                 "text": chunk.strip(),
@@ -48,11 +43,11 @@ def send_to_telegram(message: str, bot_token: str, chat_id: str, chunk_size=3900
             }
             response = requests.post(url, data=payload)
             if not response.ok:
-                print(f"Telegram API hatası: {response.status_code} - {response.text}")
+                print(f"Chunk {i+1} gönderilirken Telegram API hatası: {response.status_code} - {response.text}")
                 success = False
 
         return success
 
     except Exception as e:
-        print(f"Telegram mesaj gönderirken hata oluştu: {e}")
+        print(f"Telegram mesaj gönderirken genel hata oluştu: {e}")
         return False

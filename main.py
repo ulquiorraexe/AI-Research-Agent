@@ -125,16 +125,22 @@ raw_response = agent_runner.invoke({"query": query})
 # Cevap bloğu
 try:
     raw_output = raw_response.get("output", "")
-
-    previous_output = load_previous_text()
-
-    if has_new_data(raw_output, previous_output):
-        send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
-        save_current_text(raw_output)
+    if not raw_output.strip():
+        print("Boş çıktı alındı. İşlem yapılmıyor.")
     else:
-        send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
+        previous_output = load_previous_text()
 
-    save_to_txt(raw_output)
+        if has_new_data(raw_output, previous_output):
+            success = send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
+            if success:
+                print("Mesaj başarıyla gönderildi.")
+            else:
+                print("Bazı parçalar gönderilemedi.")
+            save_current_text(raw_output)
+        else:
+            send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
+
+        save_to_txt(raw_output)
 
 #     text_output = (
 #     f"1) New game releases and developer announcements:\n{structured_response.new_releases}\n\n"
