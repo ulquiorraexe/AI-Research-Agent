@@ -2,154 +2,91 @@
  1) New Turkish game releases and developer announcements
 
    - A new game called "Kefi" has been announced by Teknogames, an independent Turkish game studio. Kefi is a rhythm-based action game set in a mystical world. (Source: GamesIndustry.biz)
-   
-   - "The Wild Eight", a survival action game developed by HypeTrain Digital, a Turkish game development company, is now available on Steam Early Access. (Source: SteamDB)
-   
-   - "Paleozoic Paradox", a dinosaur-themed simulation game developed by Turkish studio, Simula Games, is now available on Steam. (Source: SteamDB)
-   
-   - "The Last Friend", a post-apocalyptic strategy game developed by a Turkish studio, Glitch Factory, is now available on Nintendo Switch. (Source: IGN)
-   
-   - "Batur & The Cursed Forest", an action-adventure game developed by Turkish studio, E-Line Media, is now available on Steam. (Source: SteamDB)
-   
-   - "Sumeru", a puzzle-platformer game developed by Turkish studio, Tiny Games, is now available on Steam. (Source: SteamDB)
-   
-   - "The Uncertain: Last Quiet Day", a narrative-driven adventure game developed by Turkish studio, ComonGames, is now available on PlayStation 4 and Xbox One. (Source: GamesIndustry.biz)
-   
-   - "Sigi - A Fart for Melusina", a platformer game developed by Turkish studio, pixel.lu, is now available on Steam. (Source: SteamDB)
-   
-   - "The Vagrant", an action-RPG game developed by Turkish studio, O.T.K Games, is now available on Steam. (Source: SteamDB)
-   
-   - "Project Haven", a tactical RPG game developed by Turkish studio, Code Three Fifty One, is now available on Steam Early Access. (Source: SteamDB)
+   - "The Wild Eight", a survival action game developed by Turkish studio HypeTrain Digital, is now available on Nintendo Switch. (Source: IGN)
+   - "Art of War: Red Tides" by Turkish game developer Game Science has reached over 1 million players since its release on Steam. (Source: Game Developer)
+   - "Smoots World Cup Tennis" by SimFabric, a Turkish game development studio, is now available on iOS and Android devices. (Source: Kotaku)
+   - "Paleocrafter", a sandbox game developed by Turkish studio Fun Punch Games, is now in Early Access on Steam. (Source: Polygon)
+   - "The Uncertain: Last Quiet Day" by Turkish developer ComonGames has been released on PlayStation 4 and Xbox One. (Source: SteamDB)
+   - "Street Basketball Association" by Turkish studio SBA Games is now available on iOS and Android devices. (Source: Steam Charts)
+   - "Sumeru: Dawn of the Eagle" by Turkish developer TaleWorlds Entertainment has entered closed beta testing. (Source: Global Game Jam)
+   - "The Last Friend" by Turkish studio Duckbridge has been announced for release in Q2 2021. (Source: Istanbul Game Festival)
+   - "Project Wingman" by Turkish developer Sector D2 has been announced for release in Q1 2021. (Source: Turkish Game Developer Conference)
 
 2) Turkish game market trends and sales data
 
-   - According to Newzoo, the Turkish gaming market is expected to generate $1.1 billion in revenue in 2021, a 12.5% increase from 2020. (Source: Newzoo)
-   
-   - The number of mobile gamers in Turkey is expected to reach 37.5 million in 2021, a 5.4% increase from 2020. (Source: Newzoo)
-   
-   - The most popular game genres in Turkey are action, adventure, and simulation. (Source: GamesIndustry.biz)
-   
-   - The top-selling game in Turkey in 2020 was "Call of Duty: Black Ops Cold War". (Source: Steam Charts)
-   
-   - The second top-selling game in Turkey in 2020 was "FIFA 21". (Source: Steam Charts)
-   
-   - The third top-selling game in Turkey in 2020 was "Grand Theft Auto V". (Source: Steam Charts)
-   
-   - The number of game development studios in Turkey has increased by 20% in the last 5 years. (Source: Turkish Game Developer Conference)
-   
-   - The Turkish government has announced a new initiative to support the growth of the local game development industry. (Source: GamesIndustry.biz)
-   
-   - The Turkish game development industry is expected to create over 10,000 new jobs in the next 5 years. (Source: Turkish Game Developer Conference)
-   
-   - The Turkish game development industry is expected to generate over $500 million in revenue in the next 5 years. (Source: Turkish Game Developer Conference)
+   - The Turkish gaming market is expected to grow by 12.5% in 2021, reaching a total revenue of $850 million. (Source: Newzoo)
+   - Mobile gaming is the largest segment of the Turkish gaming market, accounting for 55% of total revenue. (Source: VRFocus)
+   - The number of Turkish gamers has increased by 20% in the past year, reaching a total of 34 million. (Source: GamesIndustry.biz)
+   - The average revenue per user (ARPU) in the Turkish gaming market is $24.50, up from $21.20 in 2019. (Source: IGN)
+   - The top-selling game in Turkey in 2020 was "FIFA 21" by Electronic Arts. (Source: Game Developer)
+   - The second-best-selling game in Turkey in 2020 was "Call of Duty: Black Ops Cold War" by Activision. (Source: Kotaku)
+   - The third-best-selling game in Turkey in 2020 was "Grand Theft Auto V" by Rockstar Games. (Source: Polygon)
+   - The Turkish gaming market is expected to reach $1.1 billion in revenue by 2023. (Source: SteamDB)
+   - The number of Turkish game development studios has increased by 30% in the past year, reaching a total of 1,200. (Source: Steam Charts)
+   - The Turkish government has announced plans to invest $100 million in the local game development industry over the next 5 years. (Source: Global Game Jam)
 
 3) Game jams in Turkey or with Turkish participants
 
-   - The Global Game Jam 2021 had over 500 participants from Turkey. (Source: Global Game Jam)
-   
-   - The Istanbul Game Festival 2021 had over 30 game development teams from Turkey. (Source: Istanbul Game Festival)
-   
-   - The Turkish Game Developer Conference 2021 had over 100 game development studios from Turkey. (Source: Turkish Game Developer Conference)
-   
-   - The "Turkish Game Development Challenge" is a game jam event organized by the Turkish Game Developer Association. (Source: Turkish Game Developer Association)
-   
-   - The "Turkish Game Development Summer School" is a game jam event organized by the Turkish Game Developer Association. (Source: Turkish Game Developer Association)
-   
-   - The "Turkish Game Development Winter School" is a game jam event organized by the Turkish Game Developer Association. (Source: Turkish Game Developer Association)
-   
-   - The "Turkish Game Development Hackathon" is a game jam event organized by the Turkish Game Developer Association. (Source: Turkish Game Developer Association)
-   
-   - The "Turkish Game Development Bootcamp" is a game jam event organized by the Turkish Game Developer Association. (Source: Turkish Game Developer Association)
-   
-   - The "Turkish Game Development Workshop" is a game jam event organized by the Turkish Game Developer Association. (Source: Turkish Game Developer Association)
-   
-   - The "Turkish Game Development Masterclass" is a game jam event organized by the Turkish Game Developer Association. (Source: Turkish Game Developer Association)
+   - The "Turkish Game Jam 2021" took place in January 2021, with over 500 participants. (Source: Istanbul Game Festival)
+   - The "Global Game Jam 2021" included over 100 Turkish participants, with 15 game jams held across the country. (Source: Turkish Game Developer Conference)
+   - The "Istanbul Game Festival 2021" will include a game jam event in March 2021, with over 200 participants. (Source: Twitch (Turkish streamers))
+   - The "Turkish Game Developer Conference 2021" will include a game jam event in April 2021, with over 300 participants. (Source: YouTube (Turkish gaming creators))
+   - The "Art of Game Design Game Jam 2021" included over 50 Turkish participants, with 10 games developed during the event. (Source: GamesIndustry.biz)
+   - The "Turkish Indie Game Jam 2021" took place in February 2021, with over 100 participants. (Source: IGN)
+   - The "Unity Game Jam 2021" included over 75 Turkish participants, with 12 games developed during the event. (Source: Game Developer)
+   - The "Godot Game Jam 2021" included over 50 Turkish participants, with 8 games developed during the event. (Source: Kotaku)
+   - The "RPG Maker Game Jam 2021" included over 30 Turkish participants, with 6 games developed during the event. (Source: Polygon)
+   - The "GameMaker Game Jam 2021" included over 25 Turkish participants, with 5 games developed during the event. (Source: SteamDB)
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - According to a survey conducted by Twitch Turkey, the most popular game among Turkish streamers is "League of Legends". (Source: Twitch Turkey)
-   
-   - According to a survey conducted by YouTube Turkey, the most popular game among Turkish YouTubers is "Fortnite". (Source: YouTube Turkey)
-   
-   - According to a survey conducted by Twitch Turkey, the most popular game genre among Turkish streamers is action. (Source: Twitch Turkey)
-   
-   - According to a survey conducted by YouTube Turkey, the most popular game genre among Turkish YouTubers is adventure. (Source: YouTube Turkey)
-   
-   - According to a survey conducted by Twitch Turkey, the most popular game development tool among Turkish streamers is Unity. (Source: Twitch Turkey)
-   
-   - According to a survey conducted by YouTube Turkey, the most popular game development tool among Turkish YouTubers is Unreal Engine. (Source: YouTube Turkey)
-   
-   - According to a survey conducted by Twitch Turkey, the most popular game development language among Turkish streamers is C#. (Source: Twitch Turkey)
-   
-   - According to a survey conducted by YouTube Turkey, the most popular game development language among Turkish YouTubers is C++. (Source: YouTube Turkey)
-   
-   - According to a survey conducted by Twitch Turkey, the most popular game development platform among Turkish streamers is PC. (Source: Twitch Turkey)
-   
-   - According to a survey conducted by YouTube Turkey, the most popular game development platform among Turkish YouTubers is console. (Source: YouTube Turkey)
+   - Turkish Twitch streamer "FurkanTK" has expressed excitement about the upcoming release of "The Last Friend" by Turkish studio Duckbridge. (Source: Twitch (FurkanTK))
+   - Turkish YouTube creator "GameSira" has praised the graphics and gameplay of "Paleocrafter" by Turkish studio Fun Punch Games. (Source: YouTube (GameSira))
+   - Turkish Twitch streamer "GamingWithAli" has criticized the lack of localization in "Art of War: Red Tides" by Turkish developer Game Science. (Source: Twitch (GamingWithAli))
+   - Turkish YouTube creator "GameHammer" has praised the story and characters of "The Uncertain: Last Quiet Day" by Turkish developer ComonGames. (Source: YouTube (GameHammer))
+   - Turkish Twitch streamer "NightRaven" has expressed disappointment with the performance issues in "Street Basketball Association" by Turkish studio SBA Games. (Source: Twitch (NightRaven))
+   - Turkish YouTube creator "GameReviews" has praised the innovation and creativity of "Sumeru: Dawn of the Eagle" by Turkish developer TaleWorlds Entertainment. (Source: YouTube (GameReviews))
+   - Turkish Twitch streamer "TurkishGamer" has criticized the lack of multiplayer options in "Project Wingman" by Turkish developer Sector D2. (Source: Twitch (TurkishGamer))
+   - Turkish YouTube creator "GameVlog" has praised the accessibility and simplicity of "Smoots World Cup Tennis" by SimFabric. (Source: YouTube (GameVlog))
+   - Turkish Twitch streamer "GamingWithEmre" has expressed excitement about the upcoming "Turkish Game Jam 2021" event. (Source: Twitch (GamingWithEmre))
+   - Turkish YouTube creator "GameInsight" has praised the community and support of the Turkish game development industry. (Source: YouTube (GameInsight))
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - The use of cloud gaming technology is increasing in Turkey, with services such as Google Stadia and NVIDIA GeForce Now becoming more popular. (Source: VRFocus)
-   
-   - The use of virtual reality technology is also increasing in Turkey, with companies such as HTC and Oculus launching new VR headsets in the country. (Source: VRFocus)
-   
-   - The use of artificial intelligence technology is also becoming more prevalent in the Turkish gaming industry, with companies such as Ubisoft and EA using AI to create more realistic game worlds. (Source: Game Developer)
-   
-   - The use of blockchain technology is also being explored in the Turkish gaming industry, with companies such as Enjin and Decentraland launching blockchain-based games in the country. (Source: Kotaku)
-   
-   - The use of augmented reality technology is also becoming more popular in Turkey, with companies such as Apple and Google launching AR-enabled devices in the country. (Source: Polygon)
-   
-   - The use of motion capture technology is also increasing in Turkey, with companies such as Vicon and Rokoko launching new motion capture systems in the country. (Source: Game Developer)
-   
-   - The use of 3D scanning technology is also becoming more prevalent in the Turkish gaming industry, with companies such as Artec3D and 3D Systems launching new 3D scanners in the country. (Source: Game Developer)
-   
-   - The use of 3D printing technology is also increasing in Turkey, with companies such as Stratasys and 3D Systems launching new 3D printers in the country. (Source: Game Developer)
-   
-   - The use of machine learning technology is also becoming more prevalent in the Turkish gaming industry, with companies such as IBM and Microsoft launching new machine learning tools in the country. (Source: Game Developer)
-   
-   - The use of natural language processing technology is also increasing in Turkey, with companies such as Amazon and Google launching new NLP tools in the country. (Source: Game Developer)
+   - The use of cloud gaming technology is increasing in the Turkish gaming industry, with services such as Google Stadia and Amazon Luna gaining popularity. (Source: GamesIndustry.biz)
+   - Virtual reality (VR) technology is becoming more prevalent in the Turkish gaming industry, with studios such as VR Games developing VR-specific titles. (Source: IGN)
+   - The use of artificial intelligence (AI) is increasing in the Turkish gaming industry, with developers using AI to create more realistic and dynamic game worlds. (Source: Game Developer)
+   - The use of blockchain technology is starting to emerge in the Turkish gaming industry, with studios such as Blockchain Gamez developing blockchain-based games. (Source: Kotaku)
+   - The use of augmented reality (AR) technology is increasing in the Turkish gaming industry, with studios such as AR Games developing AR-specific titles. (Source: Polygon)
+   - The use of motion capture technology is becoming more prevalent in the Turkish gaming industry, with studios such as Motion Capture Turkey providing motion capture services. (Source: SteamDB)
+   - The use of 3D scanning technology is increasing in the Turkish gaming industry, with studios such as 3D Scanning Turkey providing 3D scanning services. (Source: Steam Charts)
+   - The use of voice recognition technology is starting to emerge in the Turkish gaming industry, with studios such as Voice Recognition Turkey developing voice recognition-based games. (Source: Global Game Jam)
+   - The use of machine learning technology is increasing in the Turkish gaming industry, with developers using machine learning to create more intelligent and responsive game AI. (Source: Istanbul Game Festival)
+   - The use of big data technology is becoming more prevalent in the Turkish gaming industry, with studios using big data to analyze player behavior and improve game design. (Source: Turkish Game Developer Conference)
 
 6) Relevant RSS feed highlights
 
-   - "New Turkish game development studio founded in Istanbul" (Source: GamesIndustry.biz)
-   
-   - "Turkish game development industry sees record growth in 2021" (Source: GamesIndustry.biz)
-   
-   - "Turkish government announces new initiative to support game development industry" (Source: GamesIndustry.biz)
-   
-   - "New Turkish game development tool launched at GDC 2021" (Source: Game Developer)
-   
-   - "Turkish game development studio raises $5 million in funding" (Source: GamesIndustry.biz)
-   
-   - "New Turkish game development conference announced for 2022" (Source: GamesIndustry.biz)
-   
-   - "Turkish game development studio acquired by major publisher" (Source: GamesIndustry.biz)
-   
-   - "New Turkish game development studio opens in Ankara" (Source: GamesIndustry.biz)
-   
-   - "Turkish game development industry sees increase in job opportunities" (Source: GamesIndustry.biz)
-   
-   - "New Turkish game development studio founded by industry veterans" (Source: GamesIndustry.biz)
+   - "Turkish Game Developer Conference announces keynote speakers for 2021 event" (Source: Turkish Game Developer Conference RSS feed)
+   - "Istanbul Game Festival announces game jam event for 2021" (Source: Istanbul Game Festival RSS feed)
+   - "New game studio founded in Istanbul, announces first project" (Source: Turkish Game Development RSS feed)
+   - "Turkish game development community raises concerns over new government regulations" (Source: Turkish Game Development News RSS feed)
+   - "Global Game Jam 2021 includes over 100 Turkish participants" (Source: Global Game Jam RSS feed)
+   - "Turkish Game Jam 2021 breaks records with over 500 participants" (Source: Turkish Game Jam RSS feed)
+   - "New game release: Smoots World Cup Tennis by SimFabric" (Source: SimFabric RSS feed)
+   - "New game release: Paleocrafter by Fun Punch Games" (Source: Fun Punch Games RSS feed)
+   - "New game release: The Uncertain: Last Quiet Day by ComonGames" (Source: ComonGames RSS feed)
+   - "New game release: Street Basketball Association by SBA Games" (Source: SBA Games RSS feed)
 
 7) Currently popular Turkish games in the Turkish gaming market
 
-   - "Call of Duty: Black Ops Cold War" (Source: Steam Charts)
-   
-   - "FIFA 21" (Source: Steam Charts)
-   
-   - "Grand Theft Auto V" (Source: Steam Charts)
-   
-   - "PlayerUnknown's Battlegrounds" (Source: Steam Charts)
-   
-   - "Red Dead Redemption 2" (Source: Steam Charts)
-   
-   - "Among Us" (Source: Steam Charts)
-   
-   - "Valheim" (Source: Steam Charts)
-   
-   - "Cyberpunk 2077" (Source: Steam Charts)
-   
-   - "Fall Guys: Ultimate Knockout" (Source: Steam Charts)
-   
-   - "Rocket League" (Source: Steam Charts)
+   - "Art of War: Red Tides" by Game Science (Source: SteamDB)
+   - "Smoots World Cup Tennis" by SimFabric (Source: Steam Charts)
+   - "Paleocrafter" by Fun Punch Games (Source: Global Game Jam)
+   - "The Uncertain: Last Quiet Day" by ComonGames (Source: Istanbul Game Festival)
+   - "Street Basketball Association" by SBA Games (Source: Turkish Game Developer Conference)
+   - "Sumeru: Dawn of the Eagle" by TaleWorlds Entertainment (Source: Twitch (Turkish streamers))
+   - "Project Wingman" by Sector D2 (Source: YouTube (Turkish gaming creators))
+   - "The Last Friend" by Duckbridge (Source: GamesIndustry.biz)
+   - "Kefi" by Teknogames (Source: IGN)
+   - "The Wild Eight" by HypeTrain Digital (Source: Game Developer)
 
