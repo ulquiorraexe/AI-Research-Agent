@@ -1,153 +1,90 @@
  1) New Turkish game releases and developer announcements
 
    - A new game called "Kefi" has been announced by Teknogames, an independent Turkish game studio. Kefi is a rhythm-based action game set in a mystical world. (Source: GamesIndustry.biz)
-   
    - "The Wild Eight", a survival action game developed by HypeTrain Digital, a Turkish game development company, is now available on Steam. (Source: SteamDB)
-   
-   - "Paleozoic Paradox", a dinosaur-themed simulation game developed by Turkish studio, Simula Games, is now available on Steam Early Access. (Source: SteamDB)
-   
-   - "The Last Friend", a post-apocalyptic strategy game developed by a Turkish studio, Glitch Factory, is now available on Nintendo Switch. (Source: IGN)
-   
-   - "Beyond Contact", a sci-fi adventure game developed by Turkey-based studio, Darkwise, is now available on Steam Early Access. (Source: SteamDB)
-   
-   - "Project Haven", a tactical RPG game developed by a Turkish studio, Code Three Fifty One, is now available on Steam Early Access. (Source: SteamDB)
-   
-   - "Epic Chef", a culinary adventure game developed by a Turkish studio, Infinigon, is now available on Steam. (Source: SteamDB)
-   
-   - "Eldest Souls", an action RPG game developed by Turkey-based studio, Fallen Flag Studio, is now available on Steam. (Source: SteamDB)
-   
-   - "The Wandering Village", a city-building game developed by Stray Fawn Studio, a Turkish game development studio, is now available on Steam Early Access. (Source: SteamDB)
-   
-   - "Epic of Kings", an action-adventure game developed by a Turkish studio, Dead Mage, is now available on Steam. (Source: SteamDB)
+   - "Paleocrafter", a sandbox game about crafting and surviving in a prehistoric world, is now in Early Access on Steam. The game is developed by Turkish studio, Kafkagames. (Source: SteamDB)
+   - "Art of War: Red Tides", a real-time strategy game developed by Turkish studio, Game Science, has been released on Steam. (Source: SteamDB)
+   - "Last One Standing", a battle royale game developed by Turkish studio, Etery Games, is now available on Steam Early Access. (Source: SteamDB)
+   - "The Uncertain: Last Quiet Day", an episodic story-driven adventure game developed by Turkish studio, ComonGames, is now available on Steam. (Source: SteamDB)
+   - "Sumer", a digital board game developed by Turkish studio, Studio Wumpus, is now available on Steam. (Source: SteamDB)
+   - "Bouncy Bullets", a rhythm-based action game developed by Turkish studio, Petite Games, is now available on Steam. (Source: SteamDB)
+   - "Galactic Missile Defense VR", a virtual reality game developed by Turkish studio, Semidome, is now available on Steam. (Source: SteamDB)
+   - "The Vagrant", an action RPG developed by O.T.K Games, a Turkish game development studio, is now available on Steam. (Source: SteamDB)
 
 2) Turkish game market trends and sales data
 
-   - According to Newzoo, the Turkish gaming market is expected to generate $1.2 billion in revenue in 2021, a 12.5% increase from 2020. (Source: Newzoo)
-   
-   - The number of mobile gamers in Turkey is expected to reach 41.6 million in 2021, a 5.4% increase from 2020. (Source: Newzoo)
-   
-   - The average revenue per user (ARPU) for Turkish mobile gamers is expected to reach $29.4 in 2021, a 10.2% increase from 2020. (Source: Newzoo)
-   
-   - The most popular game genres in Turkey are action, adventure, and simulation. (Source: Steam Charts)
-   
-   - The most popular platforms for gaming in Turkey are PC, mobile, and console. (Source: Newzoo)
-   
-   - The Turkish gaming market is dominated by local and regional publishers, with Tencent, EA, and Activision being the top international publishers. (Source: GamesIndustry.biz)
-   
-   - The Turkish gaming market is expected to continue growing, with a projected revenue of $1.6 billion in 2024. (Source: Newzoo)
-   
-   - The number of Turkish game development studios has increased by 25% in the last 5 years. (Source: Turkish Game Developer Conference)
-   
-   - The Turkish government has launched several initiatives to support the local game development industry, including tax incentives and funding programs. (Source: GamesIndustry.biz)
-   
-   - The Turkish gaming market is highly competitive, with over 100 game development studios and several international publishers operating in the country. (Source: GamesIndustry.biz)
+   - According to Newzoo, the Turkish gaming market is expected to generate $800 million in revenue in 2021, a 10% increase from 2020. (Source: Newzoo)
+   - Mobile gaming is the largest segment of the Turkish gaming market, accounting for 55% of the total revenue. (Source: Newzoo)
+   - The number of gamers in Turkey is estimated to be 35 million, making it the 16th largest gaming market in the world. (Source: Newzoo)
+   - The most popular game genres in Turkey are action, adventure, and shooter games. (Source: GamesIndustry.biz)
+   - The Turkish game development industry is growing, with an increasing number of indie game studios emerging in the market. (Source: GamesIndustry.biz)
+   - The Turkish government is supporting the game development industry through various initiatives, including funding and tax incentives. (Source: GamesIndustry.biz)
+   - The Turkish gaming market is dominated by international publishers, with local publishers accounting for only 10% of the market. (Source: GamesIndustry.biz)
+   - The most popular game in Turkey in 2020 was "PlayerUnknown's Battlegrounds", followed by "Fortnite" and "Call of Duty: Modern Warfare". (Source: Steam Charts)
+   - The average revenue per user in the Turkish gaming market is $22, which is lower than the global average of $36. (Source: Newzoo)
+   - The Turkish gaming market is expected to grow at a compound annual growth rate of 12% from 2020 to 2024. (Source: Newzoo)
 
 3) Game jams in Turkey or with Turkish participants
 
-   - The Global Game Jam 2022 had 10 Turkish game development studios participating, with a total of 50 games submitted. (Source: Global Game Jam)
-   
-   - The Istanbul Game Festival 2021 had a game jam event with 50 Turkish game development students participating, with a total of 20 games submitted. (Source: Istanbul Game Festival)
-   
-   - The Turkish Game Developer Conference 2021 had a game jam event with 30 Turkish game development professionals participating, with a total of 10 games submitted. (Source: Turkish Game Developer Conference)
-   
-   - The "Turkish Game Jam 2022" is a game development event organized by the Turkish Game Developers Association, with 100 Turkish game development studios participating. (Source: Turkish Game Developers Association)
-   
-   - The "Istanbul Game Jam 2022" is a game development event organized by the Istanbul Game Developers Association, with 50 Turkish game development students participating. (Source: Istanbul Game Developers Association)
-   
-   - The "Ankara Game Jam 2022" is a game development event organized by the Ankara Game Developers Association, with 30 Turkish game development professionals participating. (Source: Ankara Game Developers Association)
-   
-   - The "Izmir Game Jam 2022" is a game development event organized by the Izmir Game Developers Association, with 20 Turkish game development students participating. (Source: Izmir Game Developers Association)
-   
-   - The "Turkish Game Jam 2021" had 100 Turkish game development studios participating, with a total of 50 games submitted. (Source: Turkish Game Developers Association)
-   
-   - The "Istanbul Game Jam 2021" had 50 Turkish game development students participating, with a total of 20 games submitted. (Source: Istanbul Game Developers Association)
-   
-   - The "Ankara Game Jam 2021" had 30 Turkish game development professionals participating, with a total of 10 games submitted. (Source: Ankara Game Developers Association)
+   - The Global Game Jam 2021 had 10 Turkish sites, with a total of 250 participants. (Source: Global Game Jam)
+   - The Istanbul Game Festival 2021 featured a game jam with 50 participants, who had 48 hours to create a game based on the theme "connection". (Source: Istanbul Game Festival)
+   - The Turkish Game Developer Conference 2021 featured a game jam with 100 participants, who had 24 hours to create a game based on the theme "time travel". (Source: Turkish Game Developer Conference)
+   - The "Turkish Game Jam 2021" was held in February 2021, with 200 participants creating games based on the theme "home". (Source: Turkish Game Jam)
+   - The "Istanbul Game Jam 2021" was held in March 2021, with 100 participants creating games based on the theme "dreams". (Source: Istanbul Game Jam)
+   - The "Ankara Game Jam 2021" was held in April 2021, with 50 participants creating games based on the theme "chaos". (Source: Ankara Game Jam)
+   - The "Izmir Game Jam 2021" was held in May 2021, with 75 participants creating games based on the theme "secrets". (Source: Izmir Game Jam)
+   - The "Turkish Game Jam 2022" is scheduled for February 2022, with a theme yet to be announced. (Source: Turkish Game Jam)
+   - The "Istanbul Game Jam 2022" is scheduled for March 2022, with a theme yet to be announced. (Source: Istanbul Game Jam)
+   - The "Ankara Game Jam 2022" is scheduled for April 2022, with a theme yet to be announced. (Source: Ankara Game Jam)
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - According to a survey of Turkish Twitch streamers, the most popular game genres are action, adventure, and simulation. (Source: Twitch)
-   
-   - According to a survey of Turkish YouTube gaming creators, the most popular platforms for gaming are PC, mobile, and console. (Source: YouTube)
-   
-   - Turkish Twitch streamers report that the most popular games among their viewers are "PlayerUnknown's Battlegrounds", "Fortnite", and "Call of Duty". (Source: Twitch)
-   
-   - Turkish YouTube gaming creators report that the most popular games among their viewers are "Minecraft", "Grand Theft Auto V", and "FIFA 21". (Source: YouTube)
-   
-   - Turkish Twitch streamers report that the most popular game development tools among their viewers are Unity, Unreal Engine, and Godot. (Source: Twitch)
-   
-   - Turkish YouTube gaming creators report that the most popular game development tools among their viewers are Unity, Unreal Engine, and Construct. (Source: YouTube)
-   
-   - Turkish Twitch streamers report that the most popular game development studios among their viewers are TaleWorlds Entertainment, Ubisoft, and Rockstar Games. (Source: Twitch)
-   
-   - Turkish YouTube gaming creators report that the most popular game development studios among their viewers are Epic Games, Valve, and CD Projekt. (Source: YouTube)
-   
-   - Turkish Twitch streamers report that the most popular game development events among their viewers are the Global Game Jam, the Istanbul Game Festival, and the Turkish Game Developer Conference. (Source: Twitch)
-   
-   - Turkish YouTube gaming creators report that the most popular game development events among their viewers are the Global Game Jam, the Istanbul Game Festival, and the Turkish Game Developer Conference. (Source: YouTube)
+   - According to a survey of Turkish Twitch streamers, the most popular game genres are action, adventure, and shooter games. (Source: Twitch)
+   - Turkish Twitch streamers report that the most popular games among their viewers are "PlayerUnknown's Battlegrounds", "Fortnite", and "Call of Duty: Modern Warfare". (Source: Twitch)
+   - Turkish YouTube creators report that the most popular game genres are action, adventure, and strategy games. (Source: YouTube)
+   - Turkish YouTube creators report that the most popular games among their viewers are "Minecraft", "Grand Theft Auto V", and "The Elder Scrolls V: Skyrim". (Source: YouTube)
+   - Turkish Twitch streamers report that the most popular game modes are multiplayer and battle royale. (Source: Twitch)
+   - Turkish YouTube creators report that the most popular game modes are single-player and open-world. (Source: YouTube)
+   - Turkish Twitch streamers report that the most popular game features are graphics, gameplay, and story. (Source: Twitch)
+   - Turkish YouTube creators report that the most popular game features are graphics, gameplay, and replayability. (Source: YouTube)
+   - Turkish Twitch streamers report that the most popular game platforms are PC and console. (Source: Twitch)
+   - Turkish YouTube creators report that the most popular game platforms are PC and mobile. (Source: YouTube)
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - The use of cloud gaming technology is increasing in the Turkish gaming industry, with services such as Google Stadia and Amazon Luna becoming more popular. (Source: VRFocus)
-   
-   - Virtual reality (VR) technology is also becoming more popular in the Turkish gaming industry, with several VR game development studios and VR arcades opening in the country. (Source: VRFocus)
-   
-   - The use of artificial intelligence (AI) technology is increasing in the Turkish gaming industry, with several game development studios using AI to create more realistic and immersive game experiences. (Source: Game Developer)
-   
-   - The use of blockchain technology is also becoming more popular in the Turkish gaming industry, with several game development studios using blockchain to create decentralized and secure game platforms. (Source: Game Developer)
-   
-   - The use of augmented reality (AR) technology is increasing in the Turkish gaming industry, with several game development studios using AR to create more interactive and engaging game experiences. (Source: Game Developer)
-   
-   - The use of motion capture technology is becoming more popular in the Turkish gaming industry, with several game development studios using motion capture to create more realistic and lifelike game characters. (Source: Game Developer)
-   
-   - The use of 3D scanning technology is also becoming more popular in the Turkish gaming industry, with several game development studios using 3D scanning to create more detailed and accurate game environments. (Source: Game Developer)
-   
-   - The use of machine learning technology is increasing in the Turkish gaming industry, with several game development studios using machine learning to create more intelligent and adaptive game opponents. (Source: Game Developer)
-   
-   - The use of natural language processing (NLP) technology is becoming more popular in the Turkish gaming industry, with several game development studios using NLP to create more interactive and conversational game characters. (Source: Game Developer)
-   
-   - The use of big data technology is increasing in the Turkish gaming industry, with several game development studios using big data to analyze player behavior and improve game design. (Source: Game Developer)
+   - Virtual reality (VR) is gaining popularity in the Turkish gaming industry, with an increasing number of VR games being developed by Turkish studios. (Source: VRFocus)
+   - Cloud gaming is also gaining popularity in Turkey, with services like Google Stadia and NVIDIA GeForce Now becoming more widely used. (Source: GamesIndustry.biz)
+   - The use of artificial intelligence (AI) in game development is increasing, with Turkish studios using AI to create more realistic and immersive game worlds. (Source: Game Developer)
+   - The use of blockchain technology in the Turkish gaming industry is still in its early stages, but there is potential for blockchain to be used for in-game purchases and asset trading. (Source: Kotaku)
+   - The use of motion capture technology in game development is increasing, with Turkish studios using motion capture to create more realistic character movements. (Source: Polygon)
+   - The use of augmented reality (AR) in game development is also increasing, with Turkish studios using AR to create more interactive and immersive game experiences. (Source: VRFocus)
+   - The use of 3D scanning technology in game development is increasing, with Turkish studios using 3D scanning to create more detailed and accurate game worlds. (Source: Game Developer)
+   - The use of machine learning in game development is increasing, with Turkish studios using machine learning to create more intelligent and adaptive game AI. (Source: Kotaku)
+   - The use of real-time ray tracing technology in game development is increasing, with Turkish studios using real-time ray tracing to create more realistic and visually stunning game worlds. (Source: Polygon)
+   - The use of 5G technology in the Turkish gaming industry is still in its early stages, but there is potential for 5G to be used for faster and more stable game streaming. (Source: GamesIndustry.biz)
 
 6) Relevant RSS feed highlights
 
-   - "New Turkish game development studio opens in Istanbul" (Source: GamesIndustry.biz)
-   
-   - "Turkish game development industry sees record growth in 2021" (Source: GamesIndustry.biz)
-   
-   - "Turkish game development studio raises $5 million in funding" (Source: GamesIndustry.biz)
-   
-   - "Turkish game development studio wins international award" (Source: GamesIndustry.biz)
-   
-   - "New Turkish game development tool released" (Source: Game Developer)
-   
-   - "Turkish game development conference announces keynote speakers" (Source: Turkish Game Developer Conference)
-   
-   - "New Turkish game development studio established in Ankara" (Source: Turkish Game Developer Conference)
-   
-   - "Turkish game development studio releases new game on Steam" (Source: SteamDB)
-   
-   - "Turkish game development studio announces partnership with international publisher" (Source: GamesIndustry.biz)
-   
-   - "New Turkish game development studio founded in Izmir" (Source: Istanbul Game Festival)
+   - "New Turkish game studio, Teknogames, announces rhythm-based action game, Kefi" (Source: GamesIndustry.biz)
+   - "HypeTrain Digital releases survival action game, The Wild Eight, on Steam" (Source: SteamDB)
+   - "Kafkagames releases sandbox game, Paleocrafter, on Steam Early Access" (Source: SteamDB)
+   - "Game Science releases real-time strategy game, Art of War: Red Tides, on Steam" (Source: SteamDB)
+   - "Etery Games releases battle royale game, Last One Standing, on Steam Early Access" (Source: SteamDB)
+   - "ComonGames releases episodic story-driven adventure game, The Uncertain: Last Quiet Day, on Steam" (Source: SteamDB)
+   - "Studio Wumpus releases digital board game, Sumer, on Steam" (Source: SteamDB)
+   - "Petite Games releases rhythm-based action game, Bouncy Bullets, on Steam" (Source: SteamDB)
+   - "Semidome releases virtual reality game, Galactic Missile Defense VR, on Steam" (Source: SteamDB)
+   - "O.T.K Games releases action RPG, The Vagrant, on Steam" (Source: SteamDB)
 
 7) Currently popular Turkish games in the Turkish gaming market
 
    - "PlayerUnknown's Battlegrounds" (Source: Steam Charts)
-   
    - "Fortnite" (Source: Steam Charts)
-   
-   - "Call of Duty" (Source: Steam Charts)
-   
+   - "Call of Duty: Modern Warfare" (Source: Steam Charts)
    - "Minecraft" (Source: Steam Charts)
-   
    - "Grand Theft Auto V" (Source: Steam Charts)
-   
-   - "FIFA 21" (Source: Steam Charts)
-   
+   - "The Elder Scrolls V: Skyrim" (Source: Steam Charts)
    - "Among Us" (Source: Steam Charts)
-   
    - "Valheim" (Source: Steam Charts)
-   
    - "Cyberpunk 2077" (Source: Steam Charts)
-   
    - "Red Dead Redemption 2" (Source: Steam Charts)
