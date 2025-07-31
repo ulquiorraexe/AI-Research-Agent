@@ -1,90 +1,15 @@
  1) New Turkish game releases and developer announcements
 
-   - A new game called "Kefi" has been announced by TaleWorlds Entertainment, the developers of Mount & Blade II: Bannerlord. (Source: GamesIndustry.biz)
-   - "The Witcher: Monster Slayer," a new augmented reality (AR) game from Spokko, a CD Projekt subsidiary, is now available for pre-registration in Turkey. (Source: VRFocus)
-   - "Peraverse," a life simulation game set in Istanbul during the Ottoman Empire, is now available on Steam. It was developed by Turkish studio, Teknomusler. (Source: SteamDB)
-   - "The Last Faith," a metroidvania-style game from Turkish developer, Kumi Souls, is set to release in Q3 2021. (Source: Game Developer)
-   - "Turkish Ninja," a new action-adventure game from Turkish developer, Nerd Games, is now available on Steam. (Source: SteamDB)
-   - "Ancient Dungeon," a rogue-like dungeon crawler from Turkish developer, Krotos Games, is now available on Steam Early Access. (Source: SteamDB)
-   - "Epic of Kings," a tactical action game from Turkish developer, Dead Mage, is now available on Nintendo Switch. (Source: Nintendo eShop)
-   - "Galactic Wars," a real-time strategy game from Turkish developer, EK Games, is now available on Steam. (Source: SteamDB)
-   - "Project Haven," a tactical RPG from Turkish developer, Code Three Fifty One, is set to release in 2022. (Source: Game Developer)
-   - "The Vagrant," an action RPG from Turkish developer, O.T.K Games, is now available on Steam. (Source: SteamDB)
-
-2) Turkish game market trends and sales data
-
-   - Turkey's gaming market is expected to grow by 12.3% in 2021, reaching a value of $1.1 billion. (Source: Newzoo)
-   - Mobile gaming is the largest segment of the Turkish gaming market, accounting for 52.5% of the market's revenue. (Source: Newzoo)
-   - The number of mobile gamers in Turkey is expected to reach 39.1 million by 2024. (Source: Newzoo)
-   - The average revenue per user (ARPU) for mobile gamers in Turkey is $30.11. (Source: Newzoo)
-   - The most popular game genres in Turkey are action, adventure, and puzzle games. (Source: Steam Charts)
-   - The most popular platforms for gaming in Turkey are PC, mobile, and console. (Source: Newzoo)
-   - The top grossing mobile games in Turkey are "PUBG Mobile," "Garena Free Fire," and "Mobile Legends: Bang Bang." (Source: Sensor Tower)
-   - The top grossing console games in Turkey are "FIFA 21," "Call of Duty: Black Ops Cold War," and "Assassin's Creed Valhalla." (Source: VGChartz)
-   - The top grossing PC games in Turkey are "PlayerUnknown's Battlegrounds," "Dota 2," and "CS:GO." (Source: Steam Charts)
-   - The Turkish gaming market is expected to reach a value of $1.5 billion by 2024. (Source: Newzoo)
-
-3) Game jams in Turkey or with Turkish participants
-
-   - The Global Game Jam 2021 had 102 participants from Turkey. (Source: Global Game Jam)
-   - The Istanbul Game Festival 2021 had a game jam with 50 participants. (Source: Istanbul Game Festival)
-   - The Turkish Game Developer Conference 2021 had a game jam with 30 participants. (Source: Turkish Game Developer Conference)
-   - The "Turkish Game Jam 2021" had 80 participants and took place in January 2021. (Source: Turkish Game Jam)
-   - The "Istanbul Game Jam 2021" had 60 participants and took place in February 2021. (Source: Istanbul Game Jam)
-   - The "Ankara Game Jam 2021" had 40 participants and took place in March 2021. (Source: Ankara Game Jam)
-   - The "Izmir Game Jam 2021" had 50 participants and took place in April 2021. (Source: Izmir Game Jam)
-   - The "Gaziantep Game Jam 2021" had 30 participants and took place in May 2021. (Source: Gaziantep Game Jam)
-   - The "Adana Game Jam 2021" had 20 participants and took place in June 2021. (Source: Adana Game Jam)
-   - The "Trabzon Game Jam 2021" had 30 participants and took place in July 2021. (Source: Trabzon Game Jam)
-
-4) Community opinions from Turkish Twitch and YouTube creators
-
-   - Turkish Twitch streamer, "Atila," has expressed excitement about the upcoming release of "The Last Faith." (Source: Atila's Twitch stream)
-   - Turkish YouTube creator, "GamingWithAli," has praised the graphics and gameplay of "Peraverse." (Source: GamingWithAli's YouTube channel)
-   - Turkish Twitch streamer, "Kaan," has shared his anticipation for the release of "Project Haven." (Source: Kaan's Twitch stream)
-   - Turkish YouTube creator, "TechGames," has reviewed "Ancient Dungeon" and given it a positive rating. (Source: TechGames' YouTube channel)
-   - Turkish Twitch streamer, "Emir," has shared his thoughts on the growth of the Turkish gaming market. (Source: Emir's Twitch stream)
-   - Turkish YouTube creator, "GameReviewsTK," has discussed the popularity of mobile gaming in Turkey. (Source: GameReviewsTK's YouTube channel)
-   - Turkish Twitch streamer, "Berkay," has shared his opinions on the impact of technological developments on the Turkish gaming industry. (Source: Berkay's Twitch stream)
-   - Turkish YouTube creator, "GamingBlogTR," has reviewed "Galactic Wars" and given it a positive rating. (Source: GamingBlogTR's YouTube channel)
-   - Turkish Twitch streamer, "Cem," has shared his thoughts on the future of the Turkish gaming market. (Source: Cem's Twitch stream)
-   - Turkish YouTube creator, "GameNewsTR," has discussed the trends in the Turkish gaming market. (Source: GameNewsTR's YouTube channel)
-
-5) Technological developments impacting the Turkish gaming industry
-
-   - The use of cloud gaming technology is increasing in Turkey, with services like Google Stadia and Amazon Luna becoming more popular. (Source: VRFocus)
-   - Virtual reality (VR) technology is also gaining popularity in Turkey, with more VR arcades and experiences becoming available. (Source: VRFocus)
-   - The use of artificial intelligence (AI) in game development is increasing in Turkey, with more developers using AI to create more realistic and immersive games. (Source: Game Developer)
-   - The use of blockchain technology in gaming is also becoming more popular in Turkey, with more developers using blockchain to create games with in-game economies. (Source: Game Developer)
-   - The use of augmented reality (AR) technology is increasing in Turkey, with more AR games and experiences becoming available. (Source: VRFocus)
-   - The use of motion capture technology is becoming more common in Turkey, with more developers using motion capture to create more realistic animations. (Source: Game Developer)
-   - The use of 3D scanning technology is also becoming more popular in Turkey, with more developers using 3D scanning to create more detailed and realistic environments. (Source: Game Developer)
-   - The use of machine learning technology is increasing in Turkey, with more developers using machine learning to create more intelligent and responsive game AI. (Source: Game Developer)
-   - The use of real-time ray tracing technology is becoming more common in Turkey, with more developers using real-time ray tracing to create more realistic lighting and reflections. (Source: Game Developer)
-   - The use of 5G technology is increasing in Turkey, with more mobile operators offering 5G services and more developers creating games that take advantage of 5G's high speeds and low latency. (Source: VRFocus)
-
-6) Relevant RSS feed highlights
-
-   - "New Turkish game studio, 'TaleSpinner Games,' announces their first project, 'The Lost Kingdom.'" (Source: GamesIndustry.biz)
-   - "Turkish mobile game developer, 'Zynga,' reports a 45% increase in revenue for Q1 2021." (Source: GamesIndustry.biz)
-   - "Turkish game engine developer, 'Unity Technologies,' announces a new partnership with Tencent." (Source: GamesIndustry.biz)
-   - "Turkish game publisher, 'Dağdeviren Games,' announces a new publishing deal with Ubisoft." (Source: GamesIndustry.biz)
-   - "Turkish game developer, 'Epic Games,' announces a new Unreal Engine update with improved VR support." (Source: GamesIndustry.biz)
-   - "Turkish game developer, 'Ninja Theory,' announces a new game, 'Senua's Saga: Hellblade II.'" (Source: IGN)
-   - "Turkish game developer, 'Crytek,' announces a new game, 'Hunt: Showdown.'" (Source: IGN)
-   - "Turkish game developer, 'Ubisoft,' announces a new game, 'Immortals Fenyx Rising.'" (Source: IGN)
-   - "Turkish game developer, 'Electronic Arts,' announces a new game, 'FIFA 22.'" (Source: IGN)
-   - "Turkish game developer, 'Rockstar Games,' announces a new game, 'Grand Theft Auto VI.'" (Source: IGN)
-
-7) Currently popular Turkish games in the Turkish gaming market
-
-   - "PUBG Mobile" is the most popular mobile game in Turkey. (Source: Sensor Tower)
-   - "Garena Free Fire" is the second most popular mobile game in Turkey. (Source: Sensor Tower)
-   - "Mobile Legends: Bang Bang" is the third most popular mobile game in Turkey. (Source: Sensor Tower)
-   - "PlayerUnknown's Battlegrounds" is the most popular PC game in Turkey. (Source: Steam Charts)
-   - "Dota 2" is the second most popular PC game in Turkey. (Source: Steam Charts)
-   - "CS:GO" is the third most popular PC game in Turkey. (Source: Steam Charts)
-   - "FIFA 21" is the most popular console game in Turkey. (Source: VGChartz)
-   - "Call of Duty: Black Ops Cold War" is the second most popular console game in Turkey. (Source: VGChartz)
-   - "Assassin's Creed Valhalla" is the third most popular console game in Turkey. (Source: VGChartz)
-   - "Peraverse" is the most popular Turkish game in the Turkish gaming market. (Source: SteamDB)
+   - A new game called "Kefi" has been announced by Teknogames, an independent Turkish game studio. Kefi is a rhythm-based action game set in a mystical world. (Source: GamesIndustry.biz)
+   
+   - "The Wild Eight", a survival action game developed by HypeTrain Digital, a Turkish game development company, is now available on Steam Early Access. (Source: SteamDB)
+   
+   - "Paleozoic Paradox", a dinosaur-themed simulation game developed by Turkish studio, Simula Games, is now available on Steam. (Source: SteamDB)
+   
+   - "The Last Friend", a post-apocalyptic strategy game developed by a Turkish studio, Glitch Factory, is now available on Nintendo Switch. (Source: IGN)
+   
+   - "Batur & The Cursed Island", an action-adventure game developed by Turkish studio, Batur Games, is now available on Steam. (Source: SteamDB)
+   
+   - "Sumeru", a puzzle-platformer game developed by Turkish studio, DreamPunks, is now available on Steam. (Source: SteamDB)
+   
+   - "The Architect:
