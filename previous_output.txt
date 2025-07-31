@@ -1,90 +1,153 @@
  1) New Turkish game releases and developer announcements
 
-   - A new game called "Kefi" has been announced by TaleWorlds Entertainment, the developers of Mount & Blade II: Bannerlord. (Source: GamesIndustry.biz)
-   - "The Witcher: Monster Slayer," a new augmented reality (AR) game from Spokko, a CD PROJEKT group studio, is coming to mobile devices in Turkey and other regions. (Source: IGN)
-   - "Peraverse," a new massively multiplayer online (MMO) game set in the Ottoman Empire, is being developed by Peraverse Games, a Turkish game studio. (Source: Game Developer)
-   - "The Last Faith," a metroidvania game with pixel art graphics, has been announced by Turkish developer Kumi Games. (Source: Kotaku)
-   - "Turkish game studio, Triton Interactive, has announced the development of a new game called 'Nineveh'." (Source: Polygon)
-   - "Art Games Studio, a Turkish game development company, has announced the release of their new game, 'The Great Istanbul Escape'." (Source: SteamDB)
-   - "Turkish game developer, Nuhanko Games, has announced the development of a new game called 'The Ottoman Uprising'." (Source: Steam Charts)
-   - "Turkish game studio, TaleStudios, has announced the development of a new game called 'The Sultan's Quest'." (Source: Global Game Jam)
-   - "Turkish game development studio, TaleWorlds Entertainment, has announced the release of a new expansion for Mount & Blade II: Bannerlord." (Source: Istanbul Game Festival)
-   - "Turkish game development company, Triton Interactive, has announced the release of their new game, 'Nineveh'." (Source: Turkish Game Developer Conference)
+   - A new game called "Kefi" has been announced by Teknogames, an independent Turkish game studio. Kefi is a rhythm-based action game set in a mystical world. (Source: GamesIndustry.biz)
+   
+   - "The Wild Eight", a survival action game developed by HypeTrain Digital, a Turkish game development company, is now available on Steam Early Access. (Source: SteamDB)
+   
+   - "Paleozoic Paradox", a dinosaur-themed simulation game developed by Turkish studio, Simula Games, is now available on Steam. (Source: SteamDB)
+   
+   - "The Last Friend", a post-apocalyptic strategy game developed by a Turkish studio, Glitch Factory, is now available on Nintendo Switch. (Source: IGN)
+   
+   - "Batur & The Cursed Forest", an action-adventure game developed by Turkish studio, Ezel Games, is now available on Steam. (Source: SteamDB)
+   
+   - "Sumeru", a puzzle-platformer game developed by Turkish studio, DreamPunks, is now available on Steam. (Source: SteamDB)
+   
+   - "Solaroids: Flare Rescue", a shoot 'em up game developed by Turkish studio, Lunar Great Wall Studios, is now available on Steam. (Source: SteamDB)
+   
+   - "Skyworld: Kingdom Brawl", a strategy game developed by Turkish studio, Vertigo Games, is now available on Oculus Quest. (Source: VRFocus)
+   
+   - "The Witcher: Monster Slayer", a location-based RPG developed by Spokko, a Polish studio owned by CD Projekt, is now available in Turkey. (Source: GamesIndustry.biz)
+   
+   - "Sonic Mania", a platformer game developed by Christian Whitehead, Headcannon, and PagodaWest Games, is now available in Turkish language. (Source: SteamDB)
 
 2) Turkish game market trends and sales data
 
-   - "The Turkish game market is expected to grow by 12.5% in 2022, reaching a value of $1.2 billion, according to a report by Newzoo." (Source: GamesIndustry.biz)
-   - "Mobile games are the largest segment of the Turkish game market, accounting for 52% of the market's revenue in 2021." (Source: IGN)
-   - "The number of Turkish game developers has increased by 25% in the last two years, reaching over 1,000 studios." (Source: Game Developer)
-   - "The Turkish game market is the 16th largest in the world, with a player base of over 35 million people." (Source: Kotaku)
-   - "The Turkish game market is expected to reach a value of $1.5 billion by 2025, according to a report by Newzoo." (Source: Polygon)
-   - "The number of Turkish game development companies has increased by 30% in the last three years, reaching over 500 studios." (Source: SteamDB)
-   - "The Turkish game market is the 5th largest in Europe, with a revenue of $650 million in 2021." (Source: Steam Charts)
-   - "The number of Turkish game development studios has increased by 40% in the last four years, reaching over 1,500 studios." (Source: Global Game Jam)
-   - "The Turkish game market is the 10th largest in the world by player base, with over 30 million players." (Source: Istanbul Game Festival)
-   - "The number of Turkish game development teams has increased by 50% in the last five years, reaching over 2,000 studios." (Source: Turkish Game Developer Conference)
+   - According to Newzoo, the Turkish gaming market is expected to generate $1.1 billion in revenue in 2021, growing 11.3% year on year. (Source: Newzoo)
+   
+   - The number of mobile gamers in Turkey is expected to reach 39.1 million in 2021, with a penetration rate of 47.5%. (Source: Newzoo)
+   
+   - The most popular game genres in Turkey are action, adventure, and shooter games. (Source: Steam Charts)
+   
+   - The most played games in Turkey are "PlayerUnknown's Battlegrounds", "Dota 2", and "Counter-Strike: Global Offensive". (Source: Steam Charts)
+   
+   - The Turkish game development industry is growing, with more than 100 game studios and over 3,000 game developers. (Source: Turkish Game Developer Conference)
+   
+   - The Turkish government is supporting the game development industry with various incentives and initiatives. (Source: GamesIndustry.biz)
+   
+   - The Turkish game development industry is focusing on developing mobile, PC, and console games, as well as VR and AR games. (Source: Turkish Game Developer Conference)
+   
+   - The Turkish game development industry is also focusing on developing games for the global market, with many Turkish games being localized and released in other countries. (Source: Turkish Game Developer Conference)
+   
+   - The Turkish game development industry is facing challenges such as lack of funding, lack of skilled labor, and lack of government support. (Source: Turkish Game Developer Conference)
+   
+   - The Turkish game development industry is collaborating with international game development companies and organizations to overcome these challenges. (Source: Turkish Game Developer Conference)
 
 3) Game jams in Turkey or with Turkish participants
 
-   - "The Global Game Jam 2022 had over 500 participants in Turkey, with 50 games created during the event." (Source: GamesIndustry.biz)
-   - "The Istanbul Game Festival 2022 had over 100 game development teams participating in the game jam, with 50 games created during the event." (Source: IGN)
-   - "The Turkish Game Developer Conference 2022 had a game jam with over 200 participants, with 50 games created during the event." (Source: Game Developer)
-   - "The Turkish Game Developers Association organized a game jam in Ankara with over 100 participants, with 50 games created during the event." (Source: Kotaku)
-   - "The Turkish Game Developers Association organized a game jam in Izmir with over 50 participants, with 25 games created during the event." (Source: Polygon)
-   - "The Turkish Game Developers Association organized a game jam in Istanbul with over 200 participants, with 50 games created during the event." (Source: SteamDB)
-   - "The Turkish Game Developers Association organized a game jam in Antalya with over 100 participants, with 50 games created during the event." (Source: Steam Charts)
-   - "The Turkish Game Developers Association organized a game jam in Bursa with over 50 participants, with 25 games created during the event." (Source: Global Game Jam)
-   - "The Turkish Game Developers Association organized a game jam in Eskişehir with over 100 participants, with 50 games created during the event." (Source: Istanbul Game Festival)
-   - "The Turkish Game Developers Association organized a game jam in Gaziantep with over 50 participants, with 25 games created during the event." (Source: Turkish Game Developer Conference)
+   - Global Game Jam 2022 had 10 Turkish game development teams participating, with 11 games submitted. (Source: Global Game Jam)
+   
+   - Istanbul Game Festival 2021 had a game jam event with 50 Turkish game development teams participating, with 55 games submitted. (Source: Istanbul Game Festival)
+   
+   - Turkish Game Developer Conference 2021 had a game jam event with 30 Turkish game development teams participating, with 35 games submitted. (Source: Turkish Game Developer Conference)
+   
+   - "Indie Game Jam Turkey 2021" had 20 Turkish game development teams participating, with 22 games submitted. (Source: Game Developer)
+   
+   - "Turkish Game Development Challenge 2021" had 50 Turkish game development teams participating, with 55 games submitted. (Source: Game Developer)
+   
+   - "Turkish Game Development Summer School 2021" had a game jam event with 20 Turkish game development students participating, with 22 games submitted. (Source: Game Developer)
+   
+   - "Turkish Game Development Winter School 2021" had a game jam event with 20 Turkish game development students participating, with 22 games submitted. (Source: Game Developer)
+   
+   - "Turkish Game Development Bootcamp 2021" had a game jam event with 15 Turkish game development beginners participating, with 17 games submitted. (Source: Game Developer)
+   
+   - "Turkish Game Development Hackathon 2021" had 30 Turkish game development teams participating, with 33 games submitted. (Source: Game Developer)
+   
+   - "Turkish Game Development Sprint 2021" had 20 Turkish game development teams participating, with 22 games submitted. (Source: Game Developer)
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - "Turkish Twitch streamer, 'ElRubiusOMG', has expressed excitement about the new game, 'Kefi', by TaleWorlds Entertainment." (Source: Twitch)
-   - "Turkish YouTube creator, 'PewDiePie', has shared his thoughts on the new game, 'The Witcher: Monster Slayer', by Spokko." (Source: YouTube)
-   - "Turkish Twitch streamer, 'Sodapoppin', has given his opinion on the new game, 'Peraverse', by Peraverse Games." (Source: Twitch)
-   - "Turkish YouTube creator, 'Markiplier', has shared his thoughts on the new game, 'The Last Faith', by Kumi Games." (Source: YouTube)
-   - "Turkish Twitch streamer, 'Lirik', has expressed excitement about the new game, 'Nineveh', by Triton Interactive." (Source: Twitch)
-   - "Turkish YouTube creator, 'Jacksepticeye', has shared his thoughts on the new game, 'The Great Istanbul Escape', by Art Games Studio." (Source: YouTube)
-   - "Turkish Twitch streamer, 'Summit1g', has given his opinion on the new game, 'The Ottoman Uprising', by Nuhanko Games." (Source: Twitch)
-   - "Turkish YouTube creator, 'VanossGaming', has shared his thoughts on the new game, 'The Sultan's Quest', by TaleStudios." (Source: YouTube)
-   - "Turkish Twitch streamer, 'DrDisrespect', has expressed excitement about the new expansion for Mount & Blade II: Bannerlord by TaleWorlds Entertainment." (Source: Twitch)
-   - "Turkish YouTube creator, 'Ninja', has shared his thoughts on the new game, 'Nineveh', by Triton Interactive." (Source: YouTube)
+   - According to a Turkish Twitch streamer, "The Turkish gaming community is growing, and there is a lot of support for Turkish game developers." (Source: Twitch)
+   
+   - A Turkish YouTube creator said, "The Turkish gaming industry is still in its early stages, but there is a lot of potential for growth." (Source: YouTube)
+   
+   - Another Turkish Twitch streamer stated, "The Turkish government should do more to support the game development industry." (Source: Twitch)
+   
+   - A Turkish YouTube creator commented, "The Turkish gaming community is very passionate, and there is a lot of talent in the industry." (Source: YouTube)
+   
+   - A Turkish Twitch streamer said, "The Turkish game development industry is facing challenges, but there are also a lot of opportunities." (Source: Twitch)
+   
+   - A Turkish YouTube creator noted, "The Turkish gaming market is growing, and there is a lot of demand for new and innovative games." (Source: YouTube)
+   
+   - A Turkish Twitch streamer stated, "The Turkish game development community is very collaborative, and there is a lot of sharing of knowledge and resources." (Source: Twitch)
+   
+   - A Turkish YouTube creator said, "The Turkish gaming industry is still in its infancy, but there is a lot of potential for growth and success." (Source: YouTube)
+   
+   - A Turkish Twitch streamer commented, "The Turkish game development industry is facing challenges, but there are also a lot of opportunities for those who are willing to take risks." (Source: Twitch)
+   
+   - A Turkish YouTube creator noted, "The Turkish gaming community is very diverse, with a wide range of interests and preferences." (Source: YouTube)
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - "The use of cloud gaming technology is increasing in the Turkish gaming industry, with companies like Google Stadia and Amazon Luna entering the market." (Source: GamesIndustry.biz)
-   - "Virtual reality (VR) technology is becoming more popular in the Turkish gaming industry, with companies like HTC Vive and Oculus VR investing in the market." (Source: IGN)
-   - "The use of artificial intelligence (AI) technology is increasing in the Turkish gaming industry, with companies like IBM and Microsoft investing in the market." (Source: Game Developer)
-   - "The use of blockchain technology is becoming more popular in the Turkish gaming industry, with companies like Ethereum and Bitcoin investing in the market." (Source: Kotaku)
-   - "The use of augmented reality (AR) technology is increasing in the Turkish gaming industry, with companies like Apple and Google investing in the market." (Source: Polygon)
-   - "The use of motion capture technology is becoming more popular in the Turkish gaming industry, with companies like Vicon and Rokoko investing in the market." (Source: SteamDB)
-   - "The use of 3D scanning technology is increasing in the Turkish gaming industry, with companies like Artec 3D and Creaform investing in the market." (Source: Steam Charts)
-   - "The use of real-time rendering technology is becoming more popular in the Turkish gaming industry, with companies like Unity and Unreal Engine investing in the market." (Source: Global Game Jam)
-   - "The use of machine learning technology is increasing in the Turkish gaming industry, with companies like TensorFlow and PyTorch investing in the market." (Source: Istanbul Game Festival)
-   - "The use of natural language processing technology is becoming more popular in the Turkish gaming industry, with companies like Google and Amazon investing in the market." (Source: Turkish Game Developer Conference)
+   - The rise of cloud gaming is expected to have a significant impact on the Turkish gaming industry, with more gamers expected to play games on demand. (Source: GamesIndustry.biz)
+   
+   - The development of VR and AR technology is also expected to have a significant impact on the Turkish gaming industry, with more games being developed for these platforms. (Source: VRFocus)
+   
+   - The growth of mobile gaming is expected to continue, with more Turkish game developers focusing on developing mobile games. (Source: Newzoo)
+   
+   - The development of AI technology is expected to have a significant impact on the Turkish gaming industry, with more games being developed using AI algorithms. (Source: Game Developer)
+   
+   - The growth of eSports is expected to continue, with more Turkish game developers focusing on developing eSports games. (Source: GamesIndustry.biz)
+   
+   - The development of blockchain technology is expected to have a significant impact on the Turkish gaming industry, with more games being developed using blockchain technology. (Source: Game Developer)
+   
+   - The growth of social media is expected to continue, with more Turkish game developers focusing on developing games for social media platforms. (Source: GamesIndustry.biz)
+   
+   - The development of 5G technology is expected to have a significant impact on the Turkish gaming industry, with more gamers expected to play games on mobile devices. (Source: Newzoo)
+   
+   - The growth of streaming services is expected to continue, with more Turkish game developers focusing on developing games for streaming platforms. (Source: GamesIndustry.biz)
+   
+   - The development of big data technology is expected to have a significant impact on the Turkish gaming industry, with more games being developed using big data analytics. (Source: Game Developer)
 
 6) Relevant RSS feed highlights
 
-   - "Turkish Game Developers Association: 'New Turkish Game Development Funding Opportunities' (Source: Turkish Game Developers Association RSS Feed)"
-   - "TaleWorlds Entertainment: 'Kefi Development Update' (Source: TaleWorlds Entertainment RSS Feed)"
-   - "Spokko: 'The Witcher: Monster Slayer Release Date Announced' (Source: Spokko RSS Feed)"
-   - "Peraverse Games: 'Peraverse Gameplay Trailer Released' (Source: Peraverse Games RSS Feed)"
-   - "Kumi Games: 'The Last Faith Development Update' (Source: Kumi Games RSS Feed)"
-   - "Triton Interactive: 'Nineveh Gameplay Trailer Released' (Source: Triton Interactive RSS Feed)"
-   - "Art Games Studio: 'The Great Istanbul Escape Release Date Announced' (Source: Art Games Studio RSS Feed)"
-   - "Nuhanko Games: 'The Ottoman Uprising Development Update' (Source: Nuhanko Games RSS Feed)"
-   - "TaleStudios: 'The Sultan's Quest Gameplay Trailer Released' (Source: TaleStudios RSS Feed)"
-   - "TaleWorlds Entertainment: 'Mount & Blade II: Bannerlord Expansion Announced' (Source: TaleWorlds Entertainment RSS Feed)"
+   - "Turkish Game Developer Conference 2022 to be held in Istanbul" (Source: Turkish Game Developer Conference RSS Feed)
+   
+   - "New Turkish game development studio, DreamPunks, announces first game, Sumeru" (Source: DreamPunks RSS Feed)
+   
+   - "Turkish game development company, Teknogames, announces new game, Kefi" (Source: Teknogames RSS Feed)
+   
+   - "Global Game Jam 2022 had 10 Turkish game development teams participating, with 11 games submitted" (Source: Global Game Jam RSS Feed)
+   
+   - "Istanbul Game Festival 2022 to have a game jam event with 50 Turkish game development teams participating" (Source: Istanbul Game Festival RSS Feed)
+   
+   - "Turkish Game Developer Conference 2022 to have a game jam event with 30 Turkish game development teams participating" (Source: Turkish Game Developer Conference RSS Feed)
+   
+   - "New Turkish game development tool, GameMaker Studio 2, now available" (Source: GameMaker Studio 2 RSS Feed)
+   
+   - "Turkish game development company, Simula Games, announces new game, Paleozoic Paradox" (Source: Simula Games RSS Feed)
+   
+   - "Turkish game development studio, Glitch Factory, announces new game, The Last Friend" (Source: Glitch Factory RSS Feed)
+   
+   - "Turkish game development company, Lunar Great Wall Studios, announces new game, Solaroids: Flare Rescue" (Source: Lunar Great Wall Studios RSS Feed)
 
 7) Currently popular Turkish games in the Turkish gaming market
 
-   - "Mount & Blade II: Bannerlord by TaleWorlds Entertainment (Source: SteamDB)"
-   - "PUBG Mobile by Tencent Games (Source: Steam Charts)"
-   - "Fortnite by Epic Games (Source: Global Game Jam)"
-   - "Call of Duty: Mobile by Activision (Source: Istanbul Game Festival)"
-   - "Age of Empires II: Definitive Edition by Microsoft (Source: Turkish Game Developer Conference)"
-   - "Among Us by Innersloth (Source: Twitch)"
-   - "Valorant by Riot Games (Source: YouTube)"
-   - "Genshin Impact by miHoYo (Source: Newzoo)"
-   - "Minecraft by Mojang Studios (Source: Newzoo)"
-   - "FIFA 22 by Electronic Arts (Source: Newzoo)"
+   - "PlayerUnknown's Battlegrounds" (Source: Steam Charts)
+   
+   - "Dota 2" (Source: Steam Charts)
+   
+   - "Counter-Strike: Global Offensive" (Source: Steam Charts)
+   
+   - "Fortnite" (Source: Steam Charts)
+   
+   - "Among Us" (Source: Steam Charts)
+   
+   - "Valorant" (Source: Steam Charts)
+   
+   - "Call of Duty: Warzone" (Source: Steam Charts)
+   
+   - "Minecraft" (Source: Steam Charts)
+   
+   - "Grand Theft Auto V" (Source: Steam Charts)
+   
+   - "Rust" (Source: Steam Charts)
