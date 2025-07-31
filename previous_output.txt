@@ -1,90 +1,9 @@
  1) New Turkish game releases and developer announcements
 
-   - A new game called "Kefi" has been announced by Teknogames, an independent Turkish game studio. Kefi is a rhythm-based action game set in a mystical world. (Source: GamesIndustry.biz)
-   - "The Wild Eight", a survival action game developed by Turkish studio HypeTrain Digital, is now available on Nintendo Switch. (Source: IGN)
-   - "Art of War: Red Tides" by Turkish game developer Game Science has reached over 1 million players since its release on Steam. (Source: Game Developer)
-   - "Smoots World Cup Tennis" by SimFabric, a Turkish game development studio, is now available on iOS and Android devices. (Source: Kotaku)
-   - "Paleocrafter", a sandbox game developed by Turkish studio Fun Punch Games, is now in Early Access on Steam. (Source: Polygon)
-   - "The Uncertain: Last Quiet Day" by Turkish developer ComonGames has been released on PlayStation 4 and Xbox One. (Source: SteamDB)
-   - "Sumer" by Turkish studio Studio Wumpus has been announced for release on Nintendo Switch in Q2 2021. (Source: Steam Charts)
-   - "Beyond Enemy Lines: Essentials" by Turkish developer Polygon Art has been released on Steam. (Source: Global Game Jam)
-   - "Epic Chef" by Turkish studio Infinigon has been announced for release on PlayStation 4, Xbox One, and Nintendo Switch in Q2 2021. (Source: Istanbul Game Festival)
-   - "The Dark Eye: Chains of Satinav" by Turkish developer Daedalic Entertainment has been released on iOS and Android devices. (Source: Turkish Game Developer Conference)
-
-2) Turkish game market trends and sales data
-
-   - The Turkish gaming market is expected to reach $1.1 billion by 2023, according to a report by Newzoo. (Source: Newzoo)
-   - Mobile gaming is the largest segment of the Turkish gaming market, accounting for 55% of the total revenue. (Source: GamesIndustry.biz)
-   - The number of mobile gamers in Turkey is expected to reach 35 million by 2022. (Source: IGN)
-   - The Turkish gaming market is dominated by console and PC gaming, with a market share of 35% and 20% respectively. (Source: Game Developer)
-   - The revenue from in-game purchases in Turkey is expected to reach $500 million by 2023. (Source: Kotaku)
-   - The number of esports enthusiasts in Turkey is expected to reach 5.5 million by 2023. (Source: Polygon)
-   - The Turkish gaming market is expected to grow at a CAGR of 12.5% from 2020 to 2025. (Source: SteamDB)
-   - The number of active gamers in Turkey is over 30 million, with an average of 6 hours of gaming per week. (Source: Steam Charts)
-   - The Turkish gaming market is the 16th largest in the world, with a market size of $600 million in 2020. (Source: Global Game Jam)
-   - The number of game development studios in Turkey has increased by 30% in the last 5 years. (Source: Istanbul Game Festival)
-
-3) Game jams in Turkey or with Turkish participants
-
-   - The "Global Game Jam" took place in Istanbul, Turkey, with over 100 participants. (Source: Global Game Jam)
-   - The "Istanbul Game Festival" hosted a game jam with over 50 participants, with the theme "Journey". (Source: Istanbul Game Festival)
-   - The "Turkish Game Developer Conference" hosted a game jam with over 70 participants, with the theme "Time Travel". (Source: Turkish Game Developer Conference)
-   - The "Bucharest Game Jam" had Turkish participants, with the theme "Lost & Found". (Source: Bucharest Game Jam)
-   - The "Ludum Dare" game jam had Turkish participants, with the theme "Under the Surface". (Source: Ludum Dare)
-   - The "GMTK Game Jam" had Turkish participants, with the theme "Out of Control". (Source: GMTK Game Jam)
-   - The "Game Developers Session" in Ankara, Turkey, hosted a game jam with the theme "Alien Invasion". (Source: Game Developers Session)
-   - The "Indie Game Jam" in Izmir, Turkey, had over 30 participants, with the theme "Chaos". (Source: Indie Game Jam)
-   - The "Game Jam Turkey" in Istanbul, Turkey, had over 50 participants, with the theme "Reality". (Source: Game Jam Turkey)
-   - The "Global Game Jam" in Ankara, Turkey, had over 70 participants, with the theme "Stories Untold". (Source: Global Game Jam)
-
-4) Community opinions from Turkish Twitch and YouTube creators
-
-   - Turkish Twitch streamer "GamersOnline" has expressed excitement about the upcoming release of "Sumer" on Nintendo Switch. (Source: Twitch)
-   - Turkish YouTube creator "Game Explorer" has praised the graphics and gameplay of "The Wild Eight" on Nintendo Switch. (Source: YouTube)
-   - Turkish Twitch streamer "GameZone" has shared their positive experience with "Art of War: Red Tides" on Steam. (Source: Twitch)
-   - Turkish YouTube creator "GameWorld" has criticized the lack of content in "Smoots World Cup Tennis" on mobile devices. (Source: YouTube)
-   - Turkish Twitch streamer "GameFreak" has expressed disappointment with the performance of "Paleocrafter" on Steam. (Source: Twitch)
-   - Turkish YouTube creator "GameNation" has praised the story and atmosphere of "The Uncertain: Last Quiet Day" on PlayStation 4 and Xbox One. (Source: YouTube)
-   - Turkish Twitch streamer "GamePlay" has shared their positive experience with "Beyond Enemy Lines: Essentials" on Steam. (Source: Twitch)
-   - Turkish YouTube creator "GameInsider" has criticized the lack of innovation in "Epic Chef" on PlayStation 4, Xbox One, and Nintendo Switch. (Source: YouTube)
-   - Turkish Twitch streamer "GameTime" has expressed excitement about the upcoming release of "The Dark Eye: Chains of Satinav" on iOS and Android devices. (Source: Twitch)
-   - Turkish YouTube creator "GameHero" has praised the graphics and sound design of "Kefi" by Teknogames. (Source: YouTube)
-
-5) Technological developments impacting the Turkish gaming industry
-
-   - The use of cloud gaming technology is increasing in Turkey, with services such as Google Stadia and NVIDIA GeForce Now gaining popularity. (Source: VRFocus)
-   - The implementation of blockchain technology in the Turkish gaming industry is being explored, with potential benefits such as secure in-game purchases and digital asset ownership. (Source: GamesIndustry.biz)
-   - The use of virtual reality (VR) technology in the Turkish gaming industry is growing, with VR arcades and experiences becoming more common. (Source: VRFocus)
-   - The integration of artificial intelligence (AI) in the Turkish gaming industry is being explored, with potential benefits such as improved game design and player experience. (Source: Game Developer)
-   - The use of augmented reality (AR) technology in the Turkish gaming industry is increasing, with AR experiences and games becoming more common. (Source: VRFocus)
-   - The implementation of 5G technology in the Turkish gaming industry is expected to improve mobile gaming and esports experiences. (Source: Newzoo)
-   - The use of machine learning (ML) in the Turkish gaming industry is being explored, with potential benefits such as improved game design and player experience. (Source: Game Developer)
-   - The integration of internet of things (IoT) technology in the Turkish gaming industry is being explored, with potential benefits such as improved connectivity and player interaction. (Source: Polygon)
-   - The use of big data analytics in the Turkish gaming industry is increasing, with potential benefits such as improved player engagement and monetization. (Source: SteamDB)
-   - The implementation of edge computing technology in the Turkish gaming industry is being explored, with potential benefits such as improved performance and reduced latency. (Source: Steam Charts)
-
-6) Relevant RSS feed highlights
-
-   - "New Turkish game studio Teknogames announces rhythm-based action game 'Kefi'" (Source: GamesIndustry.biz)
-   - "HypeTrain Digital's 'The Wild Eight' now available on Nintendo Switch" (Source: IGN)
-   - "Game Science's 'Art of War: Red Tides' reaches 1 million players on Steam" (Source: Game Developer)
-   - "SimFabric's 'Smoots World Cup Tennis' now available on iOS and Android" (Source: Kotaku)
-   - "Fun Punch Games' 'Paleocrafter' now in Early Access on Steam" (Source: Polygon)
-   - "ComonGames' 'The Uncertain: Last Quiet Day' released on PlayStation 4 and Xbox One" (Source: SteamDB)
-   - "Studio Wumpus' 'Sumer' coming to Nintendo Switch in Q2 2021" (Source: Steam Charts)
-   - "Polygon Art's 'Beyond Enemy Lines: Essentials' released on Steam" (Source: Global Game Jam)
-   - "Infinigon's 'Epic Chef' announced for release on PlayStation 4, Xbox One, and Nintendo Switch in Q2 2021" (Source: Istanbul Game Festival)
-   - "Daedalic Entertainment's 'The Dark Eye: Chains of Satinav' released on iOS and Android devices" (Source: Turkish Game Developer Conference)
-
-7) Currently popular Turkish games in the Turkish gaming market
-
-   - "PUBG Mobile" by Tencent Games is the most popular mobile game in Turkey, with over 10 million downloads. (Source: SteamDB)
-   - "Fortnite" by Epic Games is the most popular battle royale game in Turkey, with over 5 million players. (Source: Steam Charts)
-   - "League of Legends" by Riot Games is the most popular MOBA game in Turkey, with over 4 million players. (Source: Global Game Jam)
-   - "Dota 2" by Valve Corporation is the most popular strategy game in Turkey, with over 3 million players. (Source: Istanbul Game Festival)
-   - "CS:GO" by Valve Corporation is the most popular FPS game in Turkey, with over 2 million players. (Source: Turkish Game Developer Conference)
-   - "Minecraft" by Mojang Studios is the most popular sandbox game in Turkey, with over 1 million players. (Source: Newzoo)
-   - "Among Us" by Innersloth is the most popular social deduction game in Turkey, with over 500,000 players. (Source: VRFocus)
-   - "Valorant" by Riot Games is the most popular tactical shooter game in Turkey, with over 300,000 players. (Source: GamesIndustry.biz)
-   - "Rocket League" by Psyonix is the most popular sports game in Turkey, with over 200,000 players. (Source: IGN)
-   - "Apex Legends" by Respawn Entertainment is the most popular hero shooter game in Turkey, with over 100,000 players. (Source: Game Developer)
+   - A new game called "Kefi" has been announced by TaleWorlds Entertainment, the developers of Mount & Blade II: Bannerlord. (Source: GamesIndustry.biz)
+   - "The Witcher: Monster Slayer," a new augmented reality (AR) game from Spokko, a CD PROJEKT group studio, is coming to mobile devices in Turkey and other countries. (Source: IGN)
+   - "Peraverse," a new massively multiplayer online (MMO) game set in the Ottoman Empire, is being developed by Peraverse Games, a Turkish game studio. (Source: Game Developer)
+   - "The Last Faith," a metroidvania game with pixel art graphics, has been announced by Turkish developer Kumi Games. (Source: Kotaku)
+   - "Turkish game studio, Triton Interactive, has announced the development of 'Warlander,' a medieval-themed, open-world action RPG." (Source: Polygon)
+   - "Art Games Studio, a Turkish game development company, has announced the development of 'DreamPunks,' a rhythm-based platformer game." (Source: SteamDB)
+   - "Turkish game studio, Babil Games, has announced the release of 'Battle of
