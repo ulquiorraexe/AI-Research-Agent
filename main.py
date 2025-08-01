@@ -135,11 +135,11 @@ try:
         elif has_new_data(raw_output, previous_raw):
             # Yeni içerik varsa karşılaştır, sadeleştir ve telegrama gönder
             success = prepare_and_send_message(
-                new_output=raw_output,
-                previous_output=previous_raw,
-                bot_token=telegram_token,
-                chat_id=telegram_chat_id
-            )
+            new_output=raw_output,
+            previous_output=previous_raw,
+            bot_token=telegram_token,
+            chat_id=telegram_chat_id
+        )
 
             if success:
                 print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")

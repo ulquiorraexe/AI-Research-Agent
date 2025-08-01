@@ -116,24 +116,23 @@ def compare_and_prepare_output(new_output: str, previous_filepath="previous_outp
 
 def prepare_and_send_message(new_output: str, previous_output: str, bot_token: str, chat_id: str) -> bool:
     try:
-        previous_lines = previous_output.splitlines(keepends=True)
-        new_lines = new_output.splitlines(keepends=True)
-        diff = unified_diff(previous_lines, new_lines, lineterm='')
+        new_cats = split_into_categories(new_output)
+        old_cats = split_into_categories(previous_output)
 
-        diff_lines = [line for line in diff if line.startswith('+ ') and not line.startswith('+++')]
-
-        if not diff_lines:
-            return False
+        compared = compare_categories(new_cats, old_cats)
+        final_text = "\n\n".join(compared)
 
         today = date.today().isoformat()
-        message = f"📌 {today} - Güncelleme:\n\n" + ''.join(diff_lines)
+        message = f"📌 {today} - Güncelleme:\n\n{final_text}"
 
-        send_to_telegram(message, bot_token, chat_id)
+        success = send_to_telegram(message, bot_token, chat_id)
 
-        save_current_text(new_output, "previous_output.txt")
-        append_to_text_file(f"--- {today} ---\n{new_output}", "research_output.txt")
+        if success:
+            # Dosyaları güncelle
+            save_current_text(new_output, "previous_output.txt")
+            append_to_text_file(f"--- {today} ---\n{new_output}", "research_output.txt")
 
-        return True
+        return success
 
     except Exception as e:
         print("prepare_and_send_message error:", e)
