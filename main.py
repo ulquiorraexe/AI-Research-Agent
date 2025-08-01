@@ -7,7 +7,13 @@ from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, ValidationError
 from langchain.agents import create_tool_calling_agent, AgentExecutor
 from tools import save_tool, save_to_txt
-from utils import load_previous_text, save_current_text, has_new_data, prepare_and_send_message, send_to_telegram
+from utils import (
+    load_previous_text,
+    save_current_text,
+    has_new_data,
+    prepare_and_send_message,
+    send_to_telegram
+)
 
 # .env dosyasını yükle
 load_dotenv()
@@ -111,8 +117,7 @@ After completing the full 7-category report, respond with everything in one sing
 Do not stop midway. Ensure all categories are included before you finish.
 """
 
-
-agent_runner = AgentExecutor(agent = agent, tools = tools, verbose = True, return_intermediate_steps=True)
+agent_runner = AgentExecutor(agent=agent, tools=tools, verbose=True, return_intermediate_steps=True)
 raw_response = agent_runner.invoke({"query": query})
 
 try:
@@ -131,6 +136,7 @@ try:
             # Yeni içerik varsa karşılaştır, sadeleştir ve telegrama gönder
             success = prepare_and_send_message(
                 new_output=raw_output,
+                previous_output=previous_raw,
                 bot_token=telegram_token,
                 chat_id=telegram_chat_id
             )

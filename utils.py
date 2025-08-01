@@ -7,7 +7,6 @@ import difflib
 from datetime import date
 
 def is_similar(text1: str, text2: str, threshold: float = 0.92) -> bool:
-    """İki metin ne kadar benzer? %92 ve üzeri benzerse 'aynı' say."""
     ratio = difflib.SequenceMatcher(None, text1.strip(), text2.strip()).ratio()
     return ratio >= threshold
 
@@ -24,7 +23,6 @@ def load_previous_text(filepath="previous_output.txt"):
 def save_current_text(text, filepath="previous_output.txt"):
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(text)
-
 
 def has_new_data(new_text: str, old_text: str) -> bool:
     new_clean = " ".join(new_text.split())
@@ -76,7 +74,6 @@ def send_to_telegram(message: str, bot_token: str, chat_id: str) -> bool:
         return False
 
 def split_into_categories(text: str) -> list[str]:
-    # "1)", "2)", ... "7)" başlıklarına göre böl
     pattern = re.compile(r"(?=\d\))")
     parts = pattern.split(text)
     return [p.strip() for p in parts if p.strip()]
@@ -112,38 +109,29 @@ def compare_and_prepare_output(new_output: str, previous_filepath="previous_outp
     compared = compare_categories(new_cats, old_cats)
     final_text = "\n\n".join(compared)
 
-    # research_output.txt'ye ekle
     append_to_text_file(final_text, research_filepath)
-
-    # previous_output.txt'yi yeni çıktı ile güncelle
     save_current_text(new_output, previous_filepath)
 
     return final_text
 
-def prepare_and_send_message(new_output: str, bot_token: str, chat_id: str) -> bool:
+def prepare_and_send_message(new_output: str, previous_output: str, bot_token: str, chat_id: str) -> bool:
     try:
-        previous_output = load_previous_text()
-
-        # Farkları bul (satır satır)
         previous_lines = previous_output.splitlines(keepends=True)
         new_lines = new_output.splitlines(keepends=True)
         diff = unified_diff(previous_lines, new_lines, lineterm='')
 
-        # Farklı satırları al
         diff_lines = [line for line in diff if line.startswith('+ ') and not line.startswith('+++')]
 
         if not diff_lines:
-            return False  # Gerçek bir fark yok
+            return False
 
         today = date.today().isoformat()
         message = f"📌 {today} - Güncelleme:\n\n" + ''.join(diff_lines)
 
-        # Telegram'a gönder
         send_to_telegram(message, bot_token, chat_id)
 
-        # Güncel veriyi iki dosyaya yaz
         save_current_text(new_output, "previous_output.txt")
-        save_current_text(f"--- {today} ---\n{new_output}\n\n", "research_output.txt")
+        append_to_text_file(f"--- {today} ---\n{new_output}", "research_output.txt")
 
         return True
 
