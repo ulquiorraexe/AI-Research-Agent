@@ -63,6 +63,9 @@ prompt = ChatPromptTemplate.from_messages(
             - Write clearly, without unnecessary repetition or generic phrases.
             - Do **not** include extra explanation, just the report.
             - Do **not** break the numbered structure.
+            - Perform research relevant to the **Turkish** gaming industry as of **today's date**.
+            - Only use the sources I've provided — do not rely on external data or tools.
+            - In section 7 (popular games), include download or player count statistics for each game **specifically within Turkey**, where possible.
 
             Only use these sources for your answers:
 
