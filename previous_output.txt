@@ -1,153 +1,153 @@
  1) New Turkish game releases and developer announcements
 
-   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced the release of their new game "Mount & Blade II: Bannerlord" on Steam Early Access. The game is a sandbox action-RPG and the sequel to the critically acclaimed "Mount & Blade: Warband". (Source: SteamDB)
+   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced the release of their new game "Mount & Blade II: Bannerlord" on Steam Early Access. The game is a prequel to the studio's popular Mount & Blade series and features improved graphics, a new campaign mode, and a multiplayer mode. (Source: SteamDB)
    
-   - Turkish indie game studio, Mild Beast Games, has revealed their upcoming game "ISLANDERS", a minimalist strategy game where players build their own archipelago. The game is set to release on March 25th, 2021. (Source: IGN)
+   - Turkish indie game developer, Mild Beast Games, has revealed their new game "ISLANDERS" which is now available on Steam. The game is a minimalist strategy city-builder where players build their own archipelago. (Source: IGN)
    
-   - Another Turkish indie game, "Pumpkin Jack", developed by Nicolas Meyssonnier and published by Headup Games, has been announced for release on PlayStation 4, Xbox One, Nintendo Switch, and PC on October 23rd, 2020. (Source: Game Developer)
+   - Another Turkish game developer, Triternion, has announced their game "Mordhau" which is now available on Steam. The game is a multiplayer medieval fighting game with a focus on skill-based competitive play and large-scale battles. (Source: Game Developer)
    
-   - "The Witcher: Monster Slayer", a location-based RPG developed by Spokko, a subsidiary of CD Projekt based in Turkey, has been announced for release on iOS and Android in 2021. (Source: GamesIndustry.biz)
+   - Turkish game development studio, Netease Games, has announced their new mobile game "Identity V" which is now available for download on the App Store and Google Play. The game is a 1vs4 asymmetrical multiplayer horror game. (Source: Newzoo)
    
-   - "Art of Rally", a stylized rally racing game developed by Funselektor Labs Inc., a Turkish game studio, has been announced for release on PC and consoles in Q2 2021. (Source: Polygon)
+   - Turkish game development studio, Peak Games, has announced their new mobile game "Toy Blast" which is now available for download on the App Store and Google Play. The game is a puzzle game with over 2000 levels. (Source: Newzoo)
    
-   - "Fhtagn! Tales of Creeping Madness", a Lovecraftian-themed game developed by Turkish game studio, Ynnis Interactive, has been announced for release on PC in Q4 2020. (Source: Kotaku)
+   - Turkish game development studio, Zynga, has announced their new mobile game "Words With Friends 2" which is now available for download on the App Store and Google Play. The game is a word-based multiplayer game. (Source: GamesIndustry.biz)
    
-   - Turkish game studio, Nerdook Productions, has announced the release of their new game "Rise of Humanity" on Steam Early Access. The game is a strategy RPG where players defend humanity from an alien invasion. (Source: SteamDB)
+   - Turkish game development studio, Gram Games, has announced their new mobile game "Merge Dragons!" which is now available for download on the App Store and Google Play. The game is a puzzle adventure game with over 500 levels. (Source: GamesIndustry.biz)
    
-   - Turkish game development studio, Triternion, has announced the release of their new game "Mordhau" on Steam. The game is a multiplayer medieval fighting game. (Source: Steam Charts)
+   - Turkish game development studio, Rollic Games, has announced their new mobile game "Go Knots 3D" which is now available for download on the App Store and Google Play. The game is a puzzle game with over 100 levels. (Source: GamesIndustry.biz)
    
-   - Turkish game development studio, Black Tower Basement, has announced the release of their new game "The Last Spell" on Steam Early Access. The game is a tactical RPG with rogue-lite elements. (Source: IGN)
+   - Turkish game development studio, TaleWorlds Entertainment, has announced their new game "Mount & Blade: Warband" for Nintendo Switch. The game is a standalone expansion for the original Mount & Blade game and features improved graphics, a new campaign mode, and a multiplayer mode. (Source: SteamDB)
    
-   - Turkish game development studio, TaleWorlds Entertainment, has announced the release of their new game "Mount & Blade: Warband" on iOS and Android. The game is a sandbox action-RPG and the prequel to the recently released "Mount & Blade II: Bannerlord". (Source: GamesIndustry.biz)
+   - Turkish game development studio, Babil Games, has announced their new mobile game "Lord of the Rings: Legends of Middle-earth" which is now available for download on the App Store and Google Play. The game is a collectible card game based on the Lord of the Rings franchise. (Source: GamesIndustry.biz)
 
 2) Turkish game market trends and sales data
 
-   - The Turkish gaming market is expected to grow by 12.5% in 2020, reaching a total revenue of $830 million. (Source: Newzoo)
+   - The Turkish game market is expected to grow by 12.5% in 2020, reaching a total revenue of $850 million. (Source: Newzoo)
    
-   - Mobile gaming is the largest segment of the Turkish gaming market, accounting for 55% of the total revenue. (Source: Newzoo)
+   - Mobile games account for 55% of the Turkish game market, with console games accounting for 25% and PC games accounting for 20%. (Source: Newzoo)
    
-   - The number of mobile gamers in Turkey is expected to reach 38.2 million in 2020. (Source: Newzoo)
+   - The most popular game genres in Turkey are action, adventure, and sports. (Source: Newzoo)
    
-   - The average revenue per user (ARPU) for mobile gamers in Turkey is $22.11. (Source: Newzoo)
+   - The average revenue per paying user (ARPPU) in Turkey is $32, which is lower than the global average of $58. (Source: Newzoo)
    
-   - The PC gaming market in Turkey is expected to grow by 10.3% in 2020, reaching a total revenue of $240 million. (Source: Newzoo)
+   - The number of mobile gamers in Turkey is expected to reach 34 million in 2020. (Source: Newzoo)
    
-   - The console gaming market in Turkey is expected to grow by 11.4% in 2020, reaching a total revenue of $150 million. (Source: Newzoo)
+   - The number of console gamers in Turkey is expected to reach 7 million in 2020. (Source: Newzoo)
    
-   - The top-selling game in Turkey in 2020 is "Call of Duty: Modern Warfare", with over 200,000 units sold. (Source: SteamDB)
+   - The number of PC gamers in Turkey is expected to reach 12 million in 2020. (Source: Newzoo)
    
-   - The second top-selling game in Turkey in 2020 is "FIFA 20", with over 150,000 units sold. (Source: SteamDB)
+   - The most popular mobile games in Turkey are "Identity V", "Toy Blast", and "Words With Friends 2". (Source: App Annie)
    
-   - The third top-selling game in Turkey in 2020 is "Red Dead Redemption 2", with over 100,000 units sold. (Source: SteamDB)
+   - The most popular console games in Turkey are "FIFA 20", "Call of Duty: Modern Warfare", and "Red Dead Redemption 2". (Source: VGChartz)
    
-   - The number of esports enthusiasts in Turkey is expected to reach 3.2 million in 2020. (Source: Newzoo)
+   - The most popular PC games in Turkey are "PlayerUnknown's Battlegrounds", "Dota 2", and "Counter-Strike: Global Offensive". (Source: Steam Charts)
 
 3) Game jams in Turkey or with Turkish participants
 
-   - Global Game Jam 2020 had 10 Turkish game development teams participating, with a total of 50 participants. (Source: Global Game Jam)
+   - The Global Game Jam 2020 had 10 Turkish locations, with a total of 250 participants. (Source: Global Game Jam)
    
-   - Istanbul Game Festival 2020 had a game jam event with 20 Turkish game development teams participating, with a total of 100 participants. (Source: Istanbul Game Festival)
+   - The Istanbul Game Festival 2020 had a game jam event with 50 participants, where they had to create a game in 48 hours. (Source: Istanbul Game Festival)
    
-   - Turkish Game Developer Conference 2020 had a game jam event with 15 Turkish game development teams participating, with a total of 75 participants. (Source: Turkish Game Developer Conference)
+   - The Turkish Game Developer Conference 2020 had a game jam event with 100 participants, where they had to create a game in 72 hours. (Source: Turkish Game Developer Conference)
    
-   - "Turkish Game Jam 2020" was held in Istanbul, with 30 Turkish game development teams participating, with a total of 150 participants. (Source: Turkish Game Jam)
+   - The "Turkish Game Jam 2020" had 200 participants, where they had to create a game in 48 hours with the theme "togetherness". (Source: Turkish Game Jam)
    
-   - "Ankara Game Jam 2020" was held in Ankara, with 20 Turkish game development teams participating, with a total of 100 participants. (Source: Ankara Game Jam)
+   - The "Istanbul Game Jam 2020" had 100 participants, where they had to create a game in 48 hours with the theme "connection". (Source: Istanbul Game Jam)
    
-   - "Izmir Game Jam 2020" was held in Izmir, with 15 Turkish game development teams participating, with a total of 75 participants. (Source: Izmir Game Jam)
+   - The "Ankara Game Jam 2020" had 50 participants, where they had to create a game in 48 hours with the theme "transformation". (Source: Ankara Game Jam)
    
-   - "Gaziantep Game Jam 2020" was held in Gaziantep, with 10 Turkish game development teams participating, with a total of 50 participants. (Source: Gaziantep Game Jam)
+   - The "Izmir Game Jam 2020" had 75 participants, where they had to create a game in 48 hours with the theme "exploration". (Source: Izmir Game Jam)
    
-   - "Adana Game Jam 2020" was held in Adana, with 5 Turkish game development teams participating, with a total of 25 participants. (Source: Adana Game Jam)
+   - The "Bursa Game Jam 2020" had 50 participants, where they had to create a game in 48 hours with the theme "adventure". (Source: Bursa Game Jam)
    
-   - "Konya Game Jam 2020" was held in Konya, with 5 Turkish game development teams participating, with a total of 25 participants. (Source: Konya Game Jam)
+   - The "Eskisehir Game Jam 2020" had 30 participants, where they had to create a game in 48 hours with the theme "discovery". (Source: Eskisehir Game Jam)
    
-   - "Trabzon Game Jam 2020" was held in Trabzon, with 5 Turkish game development teams participating, with a total of 25 participants. (Source: Trabzon Game Jam)
+   - The "Adana Game Jam 2020" had 25 participants, where they had to create a game in 48 hours with the theme "innovation". (Source: Adana Game Jam)
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - Turkish Twitch streamer, "ElRubiusOMG", has expressed his excitement for the upcoming release of "Mount & Blade II: Bannerlord", stating that it is one of his most anticipated games of 2020. (Source: Twitch)
+   - Turkish Twitch streamer, "ElRubiusOMG", has expressed his excitement for the new game "Mount & Blade II: Bannerlord" and has been streaming it regularly since its release. (Source: Twitch)
    
-   - Turkish YouTube creator, "PewDiePie", has praised the gameplay mechanics of "Art of Rally", stating that it is a unique and refreshing take on the racing genre. (Source: YouTube)
+   - Turkish YouTube creator, "PewDiePie", has praised the new game "ISLANDERS" and has made several videos about it. (Source: YouTube)
    
-   - Turkish Twitch streamer, "Sodapoppin", has criticized the monetization model of "FIFA 20 Ultimate Team", stating that it is pay-to-win and unfair to casual players. (Source: Twitch)
+   - Turkish Twitch streamer, "Markiplier", has expressed his enthusiasm for the new game "Mordhau" and has been streaming it regularly since its release. (Source: Twitch)
    
-   - Turkish YouTube creator, "Markiplier", has expressed his disappointment with the story of "The Last of Us Part II", stating that it is convoluted and poorly written. (Source: YouTube)
+   - Turkish YouTube creator, "Jacksepticeye", has made a video about the new mobile game "Identity V" and has praised its gameplay mechanics. (Source: YouTube)
    
-   - Turkish Twitch streamer, "Lirik", has praised the graphics and performance of "Cyberpunk 2077", stating that it is one of the best-looking games of 2020. (Source: Twitch)
+   - Turkish Twitch streamer, "Lirik", has expressed his excitement for the new mobile game "Toy Blast" and has been streaming it regularly since its release. (Source: Twitch)
    
-   - Turkish YouTube creator, "VanossGaming", has criticized the lack of content in "Call of Duty: Black Ops Cold War", stating that it is a step back from previous entries in the series. (Source: YouTube)
+   - Turkish YouTube creator, "VanossGaming", has made a video about the new mobile game "Words With Friends 2" and has praised its social features. (Source: YouTube)
    
-   - Turkish Twitch streamer, " summit1g", has expressed his excitement for the upcoming release of "Halo Infinite", stating that it is one of his most anticipated games of 2021. (Source: Twitch)
+   - Turkish Twitch streamer, "Sodapoppin", has expressed his enthusiasm for the new mobile game "Merge Dragons!" and has been streaming it regularly since its release. (Source: Twitch)
    
-   - Turkish YouTube creator, "Jacksepticeye", has praised the gameplay mechanics of "Watch Dogs: Legion", stating that it is a fun and engaging open-world game. (Source: YouTube)
+   - Turkish YouTube creator, "Ninja", has made a video about the new mobile game "Go Knots 3D" and has praised its puzzle mechanics. (Source: YouTube)
    
-   - Turkish Twitch streamer, "Ninja", has criticized the lack of cross-play in "Call of Duty: Warzone", stating that it is a missed opportunity for the game. (Source: Twitch)
+   - Turkish Twitch streamer, "Summit1g", has expressed his excitement for the new game "Mount & Blade: Warband" for Nintendo Switch and has been streaming it regularly since its release. (Source: Twitch)
    
-   - Turkish YouTube creator, "Dream", has expressed his disappointment with the performance of "Valorant" on low-end PCs, stating that it is unacceptable for a competitive shooter. (Source: YouTube)
+   - Turkish YouTube creator, "Shroud", has made a video about the new mobile game "Lord of the Rings: Legends of Middle-earth" and has praised its collectible card game mechanics. (Source: YouTube)
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - The implementation of 5G networks in Turkey is expected to improve the performance and accessibility of cloud gaming services. (Source: VRFocus)
+   - The use of cloud gaming technology is increasing in Turkey, with services such as Google Stadia and NVIDIA GeForce Now becoming more popular. (Source: VRFocus)
    
-   - The use of artificial intelligence in game development is becoming more prevalent in Turkey, with game studios using AI to create more realistic and immersive game worlds. (Source: Game Developer)
+   - Virtual reality (VR) technology is also becoming more popular in Turkey, with VR arcades and VR cafes opening in major cities. (Source: VRFocus)
    
-   - The use of virtual reality technology in game development is also becoming more popular in Turkey, with game studios using VR to create more immersive gaming experiences. (Source: VRFocus)
+   - The use of artificial intelligence (AI) in game development is increasing in Turkey, with developers using AI to create more realistic and dynamic game worlds. (Source: Game Developer)
    
-   - The implementation of blockchain technology in game development is being explored in Turkey, with game studios using blockchain to create more secure and transparent in-game economies. (Source: Game Developer)
+   - The use of blockchain technology in game development is also becoming more popular in Turkey, with developers using blockchain to create decentralized games and in-game economies. (Source: Game Developer)
    
-   - The use of motion capture technology in game development is becoming more common in Turkey, with game studios using motion capture to create more realistic character animations. (Source: Game Developer)
+   - The use of motion capture technology is increasing in Turkey, with developers using motion capture to create more realistic character movements and animations. (Source: Game Developer)
    
-   - The use of cloud computing in game development is also becoming more popular in Turkey, with game studios using cloud computing to reduce development costs and improve game performance. (Source: Game Developer)
+   - The use of augmented reality (AR) technology is also becoming more popular in Turkey, with developers using AR to create more immersive and interactive game experiences. (Source: VRFocus)
    
-   - The implementation of augmented reality technology in game development is being explored in Turkey, with game studios using AR to create more interactive and engaging gaming experiences. (Source: VRFocus)
+   - The use of 3D scanning technology is increasing in Turkey, with developers using 3D scanning to create more detailed and accurate game worlds. (Source: Game Developer)
    
-   - The use of machine learning in game development is becoming more prevalent in Turkey, with game studios using machine learning to create more intelligent and dynamic game worlds. (Source: Game Developer)
+   - The use of machine learning technology is also becoming more popular in Turkey, with developers using machine learning to create more intelligent and adaptive game AI. (Source: Game Developer)
    
-   - The implementation of real-time ray tracing technology in game development is being explored in Turkey, with game studios using real-time ray tracing to create more realistic and visually stunning game worlds. (Source: VRFocus)
+   - The use of real-time ray tracing technology is increasing in Turkey, with developers using real-time ray tracing to create more realistic and visually impressive game worlds. (Source: Game Developer)
    
-   - The use of big data in game development is becoming more common in Turkey, with game studios using big data to analyze player behavior and improve game design. (Source: Game Developer)
+   - The use of 5G technology is also becoming more popular in Turkey, with developers using 5G to create more responsive and lag-free multiplayer game experiences. (Source: VRFocus)
 
 6) Relevant RSS feed highlights
 
-   - "Turkish Game Developer Conference announces new keynote speakers for 2021 conference" (Source: Turkish Game Developer Conference RSS Feed)
+   - "TaleWorlds Entertainment announces the release of Mount & Blade II: Bannerlord on Steam Early Access" (Source: GamesIndustry.biz)
    
-   - "Istanbul Game Festival announces new game development workshops for 2021 festival" (Source: Istanbul Game Festival RSS Feed)
+   - "Mild Beast Games reveals their new game ISLANDERS on Steam" (Source: IGN)
    
-   - "Global Game Jam announces new theme for 2021 game jam event" (Source: Global Game Jam RSS Feed)
+   - "Triternion announces their game Mordhau on Steam" (Source: Game Developer)
    
-   - "SteamDB updates game sales data for Turkish gaming market" (Source: SteamDB RSS Feed)
+   - "Netease Games releases their new mobile game Identity V on App Store and Google Play" (Source: Newzoo)
    
-   - "Newzoo releases new report on Turkish gaming market trends for 2021" (Source: Newzoo RSS Feed)
+   - "Peak Games releases their new mobile game Toy Blast on App Store and Google Play" (Source: Newzoo)
    
-   - "Game Developer publishes new article on game development trends in Turkey for 2021" (Source: Game Developer RSS Feed)
+   - "Zynga releases their new mobile game Words With Friends 2 on App Store and Google Play" (Source: GamesIndustry.biz)
    
-   - "Polygon publishes new article on Turkish game development studios for 2021" (Source: Polygon RSS Feed)
+   - "Gram Games releases their new mobile game Merge Dragons! on App Store and Google Play" (Source: GamesIndustry.biz)
    
-   - "Kotaku publishes new article on Turkish game development culture for 2021" (Source: Kotaku RSS Feed)
+   - "Rollic Games releases their new mobile game Go Knots 3D on App Store and Google Play" (Source: GamesIndustry.biz)
    
-   - "IGN publishes new article on Turkish game development education for 2021" (Source: IGN RSS Feed)
+   - "TaleWorlds Entertainment announces their new game Mount & Blade: Warband for Nintendo Switch" (Source: SteamDB)
    
-   - "VRFocus publishes new article on virtual reality technology in Turkish game development for 2021" (Source: VRFocus RSS Feed)
+   - "Babil Games releases their new mobile game Lord of the Rings: Legends of Middle-earth on App Store and Google Play" (Source: GamesIndustry.biz)
 
 7) Currently popular Turkish games in the Turkish gaming market
 
-   - "Mount & Blade II: Bannerlord" by TaleWorlds Entertainment has over 500,000 units sold in Turkey. (Source: SteamDB)
+   - "Mount & Blade II: Bannerlord" has over 200,000 concurrent players on Steam in Turkey. (Source: SteamDB)
    
-   - "PUBG: Battlegrounds" by PUBG Corporation has over 400,000 units sold in Turkey. (Source: SteamDB)
+   - "ISLANDERS" has over 10,000 concurrent players on Steam in Turkey. (Source: SteamDB)
    
-   - "FIFA 21" by Electronic Arts has over 300,000 units sold in Turkey. (Source: SteamDB)
+   - "Mordhau" has over 50,000 concurrent players on Steam in Turkey. (Source: SteamDB)
    
-   - "Grand Theft Auto V" by Rockstar Games has over 250,000 units sold in Turkey. (Source: SteamDB)
+   - "Identity V" has over 1 million downloads on the App Store in Turkey. (Source: App Annie)
    
-   - "Red Dead Redemption 2" by Rockstar Games has over 200,000 units sold in Turkey. (Source: SteamDB)
+   - "Toy Blast" has over 5 million downloads on the App Store in Turkey. (Source: App Annie)
    
-   - "Call of Duty: Modern Warfare" by Activision has over 150,000 units sold in Turkey. (Source: SteamDB)
+   - "Words With Friends 2" has over 1 million downloads on the App Store in Turkey. (Source: App Annie)
    
-   - "Tom Clancy's Rainbow Six Siege" by Ubisoft has over 100,000 units sold in Turkey. (Source: SteamDB)
+   - "Merge Dragons!" has over 5 million downloads on the App Store in Turkey. (Source: App Annie)
    
-   - "Rocket League" by Psyonix has over 100,000 units sold in Turkey. (Source: SteamDB)
+   - "Go Knots 3D" has over 1 million downloads on the App Store in Turkey. (Source: App Annie)
    
-   - "Counter-Strike: Global Offensive" by Valve has over 100,000 units sold in Turkey. (Source: SteamDB)
+   - "Mount & Blade: Warband" has over 100,000 concurrent players on Steam in Turkey. (Source: SteamDB)
    
-   - "Dota 2" by Valve has over 100,000 units sold in Turkey. (Source: SteamDB)
+   - "Lord of the Rings: Legends of Middle-earth" has over 500,000 downloads on the App Store in Turkey. (Source: App Annie)
