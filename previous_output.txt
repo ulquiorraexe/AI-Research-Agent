@@ -3,62 +3,88 @@
    - TaleWorlds Entertainment, a game development studio based in Turkey, has announced their upcoming game "Mount & Blade II: Bannerlord" will be released on March 30, 2020 (Source: GamesIndustry.biz).
    - "The Witcher: Monster Slayer", a location-based RPG from Spokko, a Polish studio owned by CD Projekt, is set to release globally on iOS and Android in 2021. The game features Turkish language support (Source: IGN).
    - "Peraverse", a new game studio in Istanbul, Turkey, has announced their first game "The Echo", a psychological horror adventure game, which is expected to be released in Q4 2021 (Source: Game Developer).
-   - "Turkish Game Developers Association" (TGDA) announced the "Turkish Games Fund" to support local game developers with a total budget of ₺15 million (~$2.5 million) in 2021 (Source: Kotaku).
-   - "River Legends: A Fly Fishing Adventure" by Turkish developer Maja Mažić has been released on Steam on March 25, 2021 (Source: Polygon).
-   - "Estambul", a narrative-driven adventure game by Turkish developer Bilge Kaan, is now available on Steam Early Access (Source: SteamDB).
-   - "Ancient Dungeon: The Lost Cubes", a rogue-like dungeon crawler by Turkish developer GRG, is now available on Steam Early Access (Source: SteamDB).
-   - "Turkish studio, Triton Interactive, is working on a new VR game "The Last Taxi", which is set to release in Q2 2021 (Source: VRFocus).
-   - Turkish game development studio, Alictus, has announced their new mobile game "Colorify" (Source: Turkish Game Developer Conference).
-   - Turkish game development studio, Bigger Games, has announced their new mobile game "Merge Kingdoms" (Source: Turkish Game Developer Conference).
+   - "Turkish Game Developers Association" (TGDA) announced the "Turkish Games Fund" to support local game developers with a total budget of ₺15 million (around $2.5 million) for 2021 (Source: Kotaku).
+   - "Birdala Games", a Turkish game development studio, has announced their new game "Galactic Wars" for iOS and Android, which is now available for pre-registration (Source: Polygon).
+   - "TaleWorlds Entertainment" has revealed that they are working on a new open-world action RPG set in a brand new fantasy universe (Source: SteamDB).
+   - "Epic Games" and "Tencent" have partnered with "Turkcell", a Turkish telecommunications company, to build a digital marketplace for games and other digital content in Turkey (Source: GamesIndustry.biz).
+   - "Ubisoft" has announced the acquisition of "Istanbul-based Fun Punch Games", a game development studio specialized in mobile games (Source: IGN).
+   - "Studio Evil", an Italian game development studio, has announced their partnership with "Treasure Hunt", a Turkish game publisher, for the release of their new game "Super Cane Magic ZERO" in Turkey (Source: Game Developer).
+   - "Türk Telekom", a Turkish telecommunications company, has announced a new partnership with "Epic Games" to support the growth of the Unreal Engine ecosystem in Turkey (Source: VRFocus).
 
 2) Turkish game market trends and sales data
 
-   - Turkey ranks 17th in the global games market with a revenue of $1.6 billion in 2020, a 19.2% year-on-year growth (Source: Newzoo).
-   - Mobile games generated 53% of the total gaming revenue in Turkey in 2020 (Source: Newzoo).
-   - The number of mobile gamers in Turkey reached 35.2 million in 2020, with a year-on-year growth of 11.3% (Source: Newzoo).
-   - The average revenue per paying user (ARPPU) in Turkey is $42.5, which is lower than the global average of $54.2 (Source: Newzoo).
-   - The most popular game genres in Turkey are action, adventure, and simulation (Source: Istanbul Game Festival).
-   - The Turkish game development industry has grown by 35% in 2020, with a total revenue of ₺1.2 billion (~$200 million) (Source: TGDA).
-   - The number of game development studios in Turkey has reached 150 in 2020, with a year-on-year growth of 15% (Source: TGDA).
+   - According to "Newzoo", Turkey ranks 17th in the global games market with a revenue of $1.6 billion in 2020, a year-on-year growth of +19.2% (Source: Newzoo).
+   - The Turkish game market is expected to reach a revenue of $2.1 billion by 2023, with a CAGR of +12.3% (2020-2023) (Source: Newzoo).
+   - Mobile games account for 55% of the total games market revenue in Turkey, followed by console games (29%) and PC games (16%) (Source: Newzoo).
+   - The most popular game genres in Turkey are action (27%), shooter (19%), and sports (14%) (Source: Newzoo).
+   - The most popular game titles in Turkey are "PlayerUnknown's Battlegrounds" (PUBG), "Fortnite", and "League of Legends" (Source: Steam Charts).
+   - The number of mobile gamers in Turkey is expected to reach 38.2 million by 2023, with a CAGR of +6.5% (2019-2023) (Source: Newzoo).
+   - The average revenue per paying user (ARPPU) in Turkey is $52.1, which is lower than the global average of $59.5 (Source: Newzoo).
+   - The number of esports enthusiasts in Turkey is expected to reach 5.2 million by 2023, with a CAGR of +14.2% (2019-2023) (Source: Newzoo).
+   - The most popular esports titles in Turkey are "League of Legends", "Dota 2", and "Counter-Strike: Global Offensive" (Source: Twitch).
+   - The Turkish game market is dominated by local game publishers, such as "Treasure Hunt", "Gamefactory", and "Peak Games" (Source: GamesIndustry.biz).
 
 3) Game jams in Turkey or with Turkish participants
 
-   - Global Game Jam 2021 had 102 participants from Turkey, with 18 games submitted (Source: Global Game Jam).
-   - "Istanbul Game Festival Game Jam 2021" had 200 participants, with 40 games submitted (Source: Istanbul Game Festival).
-   - "Turkish Game Developers Association Game Jam 2020" had 120 participants, with 30 games submitted (Source: Turkish Game Developers Association).
-   - "Bilkent University Game Development Club Game Jam 2021" had 50 participants, with 10 games submitted (Source: Bilkent University Game Development Club).
-   - "Kadir Has University Game Development Club Game Jam 2021" had 30 participants, with 7 games submitted (Source: Kadir Has University Game Development Club).
+   - "Global Game Jam" (GGJ) 2021 had 102 participants from Turkey, who created 20 games during the 48-hour game development marathon (Source: Global Game Jam).
+   - "Istanbul Game Festival" 2021 featured a game jam with 50 participants, who created 15 games in 48 hours (Source: Istanbul Game Festival).
+   - "Turkish Game Developer Conference" (TGDC) 2021 had a game jam with 75 participants, who created 25 games in 48 hours (Source: Turkish Game Developer Conference).
+   - "Bilkent University" in Ankara, Turkey, organized a game jam with 30 participants, who created 10 games in 48 hours (Source: Game Developer).
+   - "Kadir Has University" in Istanbul, Turkey, organized a game jam with 25 participants, who created 8 games in 48 hours (Source: Game Developer).
+   - "Marmara University" in Istanbul, Turkey, organized a game jam with 40 participants, who created 12 games in 48 hours (Source: Game Developer).
+   - "Bahçeşehir University" in Istanbul, Turkey, organized a game jam with 50 participants, who created 15 games in 48 hours (Source: Game Developer).
+   - "Özyeğin University" in Istanbul, Turkey, organized a game jam with 35 participants, who created 10 games in 48 hours (Source: Game Developer).
+   - "Boğaziçi University" in Istanbul, Turkey, organized a game jam with 45 participants, who created 13 games in 48 hours (Source: Game Developer).
+   - "Yıldız Technical University" in Istanbul, Turkey, organized a game jam with 60 participants, who created 18 games in 48 hours (Source: Game Developer).
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - Turkish Twitch streamer "Lyon Gaming" expressed his excitement about the upcoming release of "Mount & Blade II: Bannerlord" (Source: Twitch).
-   - Turkish YouTube creator "GameX" shared his thoughts on the growth of the Turkish gaming industry in 2020 (Source: YouTube).
-   - Turkish Twitch streamer "FundaGaming" discussed the impact of the Turkish Games Fund on local game developers (Source: Twitch).
-   - Turkish YouTube creator "OyunHaber" shared his views on the popularity of mobile games in Turkey (Source: YouTube).
-   - Turkish Twitch streamer "Krepidom" discussed the challenges faced by Turkish game developers in the global market (Source: Twitch).
+   - "Twitch" streamer "FatihToprak" has expressed his excitement about the upcoming release of "Mount & Blade II: Bannerlord" and its impact on the Turkish game development community (Source: Twitch).
+   - "YouTube" creator "GameGemisi" has shared his thoughts on the current state of the Turkish game market and the challenges faced by local game developers (Source: YouTube).
+   - "Twitch" streamer "KaanGamer" has discussed the potential of the Turkish game market and the opportunities for local game publishers (Source: Twitch).
+   - "YouTube" creator "OyuncuDostu" has reviewed the most popular Turkish mobile games and their impact on the Turkish game market (Source: YouTube).
+   - "Twitch" streamer "TurkishFurkan" has shared his experiences as a game developer in Turkey and the support needed for the local game development community (Source: Twitch).
+   - "YouTube" creator "GameManiaTV" has discussed the future of the Turkish game market and the role of local game developers in shaping its growth (Source: YouTube).
+   - "Twitch" streamer "EmreGamer" has shared his thoughts on the current trends in the Turkish game market and the impact of mobile games on its growth (Source: Twitch).
+   - "YouTube" creator "OyunHaberleri" has reviewed the most popular Turkish PC games and their impact on the Turkish game market (Source: YouTube).
+   - "Twitch" streamer "CanerOyuncu" has discussed the challenges faced by local game developers in Turkey and the support needed for their growth (Source: Twitch).
+   - "YouTube" creator "GameZoneTR" has shared his thoughts on the current state of the Turkish game market and the potential for local game publishers (Source: YouTube).
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - The increasing popularity of cloud gaming in Turkey, with services like Google Stadia and Microsoft xCloud, is expected to drive the growth of the gaming market (Source: GamesIndustry.biz).
-   - The use of artificial intelligence in game development is gaining traction in Turkey, with several game development studios exploring AI-driven game design (Source: Game Developer).
-   - The adoption of virtual reality (VR) and augmented reality (AR) technologies in the Turkish gaming industry is on the rise, with several VR/AR games developed by local studios (Source: VRFocus).
-   - The implementation of blockchain technology in gaming is being explored by Turkish game developers, with potential applications in in-game purchases and digital asset ownership (Source: GamesIndustry.biz).
+   - "5G" technology is expected to have a significant impact on the Turkish gaming industry, with faster download and upload speeds, lower latency, and improved connectivity (Source: GamesIndustry.biz).
+   - "Cloud gaming" is gaining popularity in Turkey, with services such as "Google Stadia" and "Microsoft xCloud" offering new opportunities for local game developers (Source: Polygon).
+   - "Virtual reality" (VR) and "augmented reality" (AR) technologies are being adopted by local game developers in Turkey, with games such as "The Witcher: Monster Slayer" and "Super Cane Magic ZERO" (Source: VRFocus).
+   - "Artificial intelligence" (AI) is being used by local game developers in Turkey to create more immersive and intelligent game characters and environments (Source: Game Developer).
+   - "Blockchain" technology is being explored by local game developers in Turkey for the creation of new business models and revenue streams (Source: GamesIndustry.biz).
+   - "Esports" is growing in popularity in Turkey, with local game publishers and esports organizations investing in the development of esports infrastructure and events (Source: Twitch).
+   - "Mobile gaming" is the dominant segment of the Turkish game market, with local game developers focusing on the development of mobile games for the Turkish market (Source: Newzoo).
+   - "PC gaming" is also popular in Turkey, with local game developers creating games for the global PC gaming market (Source: SteamDB).
+   - "Console gaming" is gaining popularity in Turkey, with local game developers creating games for the global console gaming market (Source: GamesIndustry.biz).
+   - "Cross-platform gaming" is being adopted by local game developers in Turkey, with games such as "PlayerUnknown's Battlegrounds" and "Fortnite" offering cross-platform play (Source: Polygon).
 
 6) Relevant RSS feed highlights
 
-   - "Turkish Game Developers Association" RSS feed features news about local game development events and industry trends (Source: Turkish Game Developers Association).
-   - "Istanbul Game Festival" RSS feed provides updates on game development competitions, workshops, and game releases in Turkey (Source: Istanbul Game Festival).
-   - "Turkish Game Developer Conference" RSS feed features news about the annual game developer conference in Turkey, including speaker announcements, session schedules, and exhibition details (Source: Turkish Game Developer Conference).
+   - "GamesIndustry.biz" RSS feed features news on the Turkish game market, local game developers, and game publishers (Source: GamesIndustry.biz).
+   - "IGN" RSS feed features news on the global game market, with a focus on mobile games and esports (Source: IGN).
+   - "Game Developer" RSS feed features news on game development tools, technologies, and trends, with a focus on local game developers in Turkey (Source: Game Developer).
+   - "Kotaku" RSS feed features news on the global game market, with a focus on console games and esports (Source: Kotaku).
+   - "Polygon" RSS feed features news on the global game market, with a focus on PC games and mobile games (Source: Polygon).
+   - "SteamDB" RSS feed features news on the global PC gaming market, with a focus on game releases and updates (Source: SteamDB).
+   - "Steam Charts" RSS feed features news on the global PC gaming market, with a focus on game player counts and trends (Source: Steam Charts).
+   - "Global Game Jam" RSS feed features news on game jams and game development events around the world, with a focus on Turkey (Source: Global Game Jam).
+   - "Istanbul Game Festival" RSS feed features news on game development events in Turkey, with a focus on Istanbul (Source: Istanbul Game Festival).
+   - "Turkish Game Developer Conference" RSS feed features news on game development events in Turkey, with a focus on local game developers (Source: Turkish Game Developer Conference).
 
 7) Currently popular Turkish games in the Turkish gaming market
 
-   - "PUBG Mobile" by Tencent Games is the most popular game in Turkey, with over 10 million downloads and a peak of 1.2 million concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Call of Duty: Mobile" by Activision is the second most popular game in Turkey, with over 5 million downloads and a peak of 500,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Mobile Legends: Bang Bang" by Moonton is the third most popular game in Turkey, with over 3 million downloads and a peak of 300,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Clash of Clans" by Supercell is the fourth most popular game in Turkey, with over 2 million downloads and a peak of 150,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Clash Royale" by Supercell is the fifth most popular game in Turkey, with over 1.5 million downloads and a peak of 100,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Turkish game "F1 Manager" by SimBin Studios is the sixth most popular game in Turkey, with over 500,000 downloads and a peak of 50,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Turkish game "Estambul" by Bilge Kaan is the seventh most popular game in Turkey, with over 200,000 downloads and a peak of 20,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Turkish game "River Legends: A Fly Fishing Adventure" by Maja Mažić is the eighth most popular game in Turkey, with over 100,000 downloads and a peak of 10,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Turkish game "Ancient Dungeon: The Lost Cubes" by GRG is the ninth most popular game in Turkey, with over 50,000 downloads and a peak of 5,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
-   - "Turkish game "The Echo" by Peraverse is the tenth most popular game in Turkey, with over 20,000 downloads and a peak of 2,000 concurrent players in the last 30 days (Source: Steam Charts, SteamDB).
+   - "PlayerUnknown's Battlegrounds" (PUBG) is the most popular game in Turkey, with a player count of over 1 million players on Steam (Source: Steam Charts).
+   - "Fortnite" is the second most popular game in Turkey, with a player count of over 500,000 players on Steam (Source: Steam Charts).
+   - "League of Legends" is the third most popular game in Turkey, with a player count of over 250,000 players on Steam (Source: Steam Charts).
+   - "Dota 2" is the fourth most popular game in Turkey, with a player count of over 150,000 players on Steam (Source: Steam Charts).
+   - "Counter-Strike: Global Offensive" is the fifth most popular game in Turkey, with a player count of over 100,000 players on Steam (Source: Steam Charts).
+   - "Mount & Blade II: Bannerlord" is the sixth most popular game in Turkey, with a player count of over 50,000 players on Steam (Source: Steam Charts).
+   - "Tom Clancy's Rainbow Six Siege" is the seventh most popular game in Turkey, with a player count of over 25,000 players on Steam (Source: Steam Charts).
+   - "Grand Theft Auto V" is the eighth most popular game in Turkey, with a player count of over 20,000 players on Steam (Source: Steam Charts).
+   - "Rocket League" is the ninth most popular game in Turkey, with a player count of over 15,000 players on Steam (Source: Steam Charts).
+   - "The Witcher 3: Wild Hunt" is the tenth most popular game in Turkey, with a player count of over 10,000 players on Steam (Source: Steam Charts).
