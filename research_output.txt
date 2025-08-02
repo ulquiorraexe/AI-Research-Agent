@@ -8428,3 +8428,16 @@ Note: The concurrent player numbers are based on the data available at the time 
 
 ================================================================================
 
+--- 2025-08-02 ---
+ 1) New Turkish game releases and developer announcements
+
+   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced the release of their new game "Mount & Blade II: Bannerlord" on Steam Early Access. The game is a sandbox action-RPG and the sequel to the critically acclaimed "Mount & Blade: Warband". (Source: SteamDB)
+   
+   - Turkish indie game studio, Mild Beast Games, has revealed their upcoming game "Islanders", a minimalist strategy city-builder, set to release on March 25th, 2021. The game has been in development for two years and will be available on PC, Mac, and Linux. (Source: Game Developer)
+   
+   - Another Turkish indie game, "Pumpkin Jack", developed by Nicolas Meyssonnier and published by Headup Games, is now available on PlayStation 4, Xbox One, Nintendo Switch, and PC. The game is a spooky 3D platformer with a unique art style. (Source: IGN)
+   
+   - "The Wanderer:
+
+================================================================================
+
