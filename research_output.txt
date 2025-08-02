@@ -7304,3 +7304,13 @@ Please note that the concurrent player numbers are approximate and may vary.
 
 ================================================================================
 
+--- 2025-08-02 ---
+ 1) New Turkish game releases and developer announcements
+
+   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced their upcoming game "Mount & Blade II: Bannerlord" will be released on March 30, 2020 (Source: GamesIndustry.biz).
+   - Turkish developer, Nerd Games, has revealed their new mobile game "Galactic Wars" which is now available for pre-registration on Google Play Store (Source: IGN).
+   - "Art of War: Red Tides" by Turkish studio Neowiz is now out of early access and fully released on Steam as of February 20, 2020 (Source: Game Developer).
+   - "The Witcher: Monster Slayer", an augmented reality (AR) game being developed by Spokko, a subsidiary of Polish game developer CD Projekt, is set to release later this year. Notably, Spokko was acquired by CD Projekt in 2
+
+================================================================================
+
