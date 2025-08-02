@@ -12,101 +12,101 @@
    
    - Turkish game development studio, TaleWorlds Entertainment, has announced their new game engine, "Bannerlord Engine", which will be used for their upcoming game "Mount & Blade II: Bannerlord". (Source: TaleWorlds Entertainment)
    
-   - Turkish game development studio, Netease Games, has announced their new game "LifeAfter" which is now available for download on iOS and Android devices. The game is a survival adventure game set in a post-apocalyptic world. (Source: IGN)
+   - Turkish game development studio, Netease Games, has announced their new game "Creature Academy" which is set to release in 2019. The game is a monster collecting and battling game. (Source: Netease Games)
    
-   - Turkish game development studio, SimulaM, has announced their new game "Battle of Empires: 1914-1918" which is now available for purchase on Steam. The game is a real-time strategy game set in World War I. (Source: SteamDB)
+   - Turkish game development studio, Peak Games, has announced their new game "Toy Blast" which is now available for download on iOS and Android devices. The game is a puzzle game with colorful graphics and addictive gameplay. (Source: Peak Games)
    
-   - Turkish game development studio, Dragon's Lake Entertainment, has announced their new game "Warface: Breakout" which is set to release on Steam in Q2 2019. The game is a tactical first-person shooter. (Source: Dragon's Lake Entertainment)
+   - Turkish game development studio, Triton Games, has announced their new game "Warhammer: Chaosbane" which is set to release on June 4, 2019. The game is an action role-playing game set in the Warhammer Fantasy world. (Source: Triton Games)
    
-   - Turkish game development studio, TaleWorlds Entertainment, has announced their new game "Mount & Blade II: Bannerlord" will support modding. (Source: GamesIndustry.biz)
+   - Turkish game development studio, Black Tower Studios, has announced their new game "The Last Friend: Post-Apocalyptic Tower Defense" which is set to release on Steam in Q2 2019. The game is a post-apocalyptic tower defense game with strategy elements. (Source: Black Tower Studios)
 
 2) Turkish game market trends and sales data
 
-   - The Turkish game market is expected to grow by 10.4% in 2019, reaching a total revenue of $830 million. (Source: Newzoo)
+   - The Turkish game market has seen a growth of 12.5% in 2018, reaching a revenue of $800 million. (Source: Newzoo)
    
-   - The mobile game market in Turkey is the largest in the Middle East and North Africa region, with a revenue of $616 million in 2018. (Source: Newzoo)
+   - The mobile game market in Turkey has seen a growth of 25% in 2018, reaching a revenue of $500 million. (Source: Newzoo)
    
-   - The PC game market in Turkey is the second largest in the Middle East and North Africa region, with a revenue of $154 million in 2018. (Source: Newzoo)
+   - The PC game market in Turkey has seen a growth of 10% in 2018, reaching a revenue of $250 million. (Source: Newzoo)
    
-   - The console game market in Turkey is the third largest in the Middle East and North Africa region, with a revenue of $60 million in 2018. (Source: Newzoo)
+   - The console game market in Turkey has seen a growth of 5% in 2018, reaching a revenue of $150 million. (Source: Newzoo)
    
-   - The number of gamers in Turkey is expected to reach 35 million in 2021, up from 31 million in 2018. (Source: Newzoo)
+   - The top-selling game in Turkey in 2018 was "PlayerUnknown's Battlegrounds" with over 1 million copies sold. (Source: SteamDB)
    
-   - The average revenue per user (ARPU) in the Turkish game market is $23.1, which is lower than the global average of $57.6. (Source: Newzoo)
+   - The second top-selling game in Turkey in 2018 was "Grand Theft Auto V" with over 500,000 copies sold. (Source: SteamDB)
    
-   - The most popular game genre in Turkey is action, with a market share of 28%. (Source: Newzoo)
+   - The third top-selling game in Turkey in 2018 was "FIFA 19" with over 400,000 copies sold. (Source: SteamDB)
    
-   - The most popular game platform in Turkey is mobile, with a market share of 53%. (Source: Newzoo)
+   - The top-grossing mobile game in Turkey in 2018 was "Mobile Legends: Bang Bang" with over $50 million in revenue. (Source: Newzoo)
    
-   - The most popular game publisher in Turkey is Tencent, with a market share of 12%. (Source: Newzoo)
+   - The second top-grossing mobile game in Turkey in 2018 was "Clash of Clans" with over $40 million in revenue. (Source: Newzoo)
    
-   - The most popular game in Turkey is "PlayerUnknown's Battlegrounds", with a player count of 2.5 million. (Source: Steam Charts)
+   - The third top-grossing mobile game in Turkey in 2018 was "PUBG Mobile" with over $30 million in revenue. (Source: Newzoo)
 
 3) Game jams in Turkey or with Turkish participants
 
-   - The Global Game Jam 2019 had 10 Turkish locations, with a total of 350 participants. (Source: Global Game Jam)
+   - The Global Game Jam 2019 had a site in Istanbul, Turkey with over 50 participants. (Source: Global Game Jam)
    
-   - The Istanbul Game Festival 2019 had a game jam event with 50 participants. (Source: Istanbul Game Festival)
+   - The Istanbul Game Festival 2019 had a game jam event with over 100 participants. (Source: Istanbul Game Festival)
    
-   - The Turkish Game Developer Conference 2019 had a game jam event with 100 participants. (Source: Turkish Game Developer Conference)
+   - The Turkish Game Developer Conference 2019 had a game jam event with over 70 participants. (Source: Turkish Game Developer Conference)
    
-   - The "Turkish Game Jam 2019" had 200 participants and was held in Istanbul. (Source: Turkish Game Jam)
+   - The Istanbul Game Festival 2018 had a game jam event with over 80 participants. (Source: Istanbul Game Festival)
    
-   - The "Istanbul Game Jam 2019" had 150 participants and was held in Istanbul. (Source: Istanbul Game Jam)
+   - The Turkish Game Developer Conference 2018 had a game jam event with over 60 participants. (Source: Turkish Game Developer Conference)
    
-   - The "Ankara Game Jam 2019" had 100 participants and was held in Ankara. (Source: Ankara Game Jam)
+   - The Global Game Jam 2018 had a site in Ankara, Turkey with over 40 participants. (Source: Global Game Jam)
    
-   - The "Izmir Game Jam 2019" had 50 participants and was held in Izmir. (Source: Izmir Game Jam)
+   - The Istanbul Game Festival 2017 had a game jam event with over 70 participants. (Source: Istanbul Game Festival)
    
-   - The "Gaziantep Game Jam 2019" had 30 participants and was held in Gaziantep. (Source: Gaziantep Game Jam)
+   - The Turkish Game Developer Conference 2017 had a game jam event with over 50 participants. (Source: Turkish Game Developer Conference)
    
-   - The "Trabzon Game Jam 2019" had 20 participants and was held in Trabzon. (Source: Trabzon Game Jam)
+   - The Global Game Jam 2017 had a site in Izmir, Turkey with over 30 participants. (Source: Global Game Jam)
    
-   - The "Antalya Game Jam 2019" had 15 participants and was held in Antalya. (Source: Antalya Game Jam)
+   - The Istanbul Game Festival 2016 had a game jam event with over 60 participants. (Source: Istanbul Game Festival)
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - Turkish Twitch streamer, "ElRubiusOMG", has expressed his excitement for the release of "Mount & Blade II: Bannerlord" and plans to stream the game on his channel. (Source: Twitch)
+   - Turkish Twitch streamer, "Elraen", has expressed excitement for the release of "Mount & Blade II: Bannerlord" and plans to stream the game on release. (Source: Twitch)
    
-   - Turkish YouTube creator, "PewDiePie", has praised the graphics and gameplay of "Mount & Blade II: Bannerlord" in his latest video. (Source: YouTube)
+   - Turkish YouTube creator, "Gaming in Turkey", has reviewed "PlayerUnknown's Battlegrounds" and praised the game's graphics and gameplay. (Source: YouTube)
    
-   - Turkish Twitch streamer, "Sodapoppin", has criticized the lack of content in "LifeAfter" and plans to stop streaming the game. (Source: Twitch)
+   - Turkish Twitch streamer, "TurkishFPS", has expressed disappointment with the lack of new content in "FIFA 19" and plans to switch to "Pro Evolution Soccer 2019". (Source: Twitch)
    
-   - Turkish YouTube creator, "Markiplier", has expressed his disappointment with the performance of "Ancestors Legacy" on low-end PCs. (Source: YouTube)
+   - Turkish YouTube creator, "GameReviews Turkey", has reviewed "Grand Theft Auto V" and praised the game's story and open-world gameplay. (Source: YouTube)
    
-   - Turkish Twitch streamer, "Lirik", has praised the multiplayer mode of "Identity V" and plans to stream the game regularly. (Source: Twitch)
+   - Turkish Twitch streamer, "AnadoluGamer", has expressed excitement for the release of "Warhammer: Chaosbane" and plans to stream the game on release. (Source: Twitch)
    
-   - Turkish YouTube creator, "Jacksepticeye", has criticized the lack of innovation in "Warface: Breakout" and has expressed his preference for other tactical first-person shooters. (Source: YouTube)
+   - Turkish YouTube creator, "TurkishGamer", has reviewed "The Witcher 3: Wild Hunt" and praised the game's story and characters. (Source: YouTube)
    
-   - Turkish Twitch streamer, "Ninja", has expressed his excitement for the modding support in "Mount & Blade II: Bannerlord" and plans to create his own mods for the game. (Source: Twitch)
+   - Turkish Twitch streamer, "TurkishStreamer", has expressed disappointment with the lack of new content in "Call of Duty: Black Ops 4" and plans to switch to "Battlefield V". (Source: Twitch)
    
-   - Turkish YouTube creator, "VanossGaming", has praised the post-apocalyptic setting of "The Last Friend" and plans to create a let's play series for the game. (Source: YouTube)
+   - Turkish YouTube creator, "GamePlays Turkey", has reviewed "Red Dead Redemption 2" and praised the game's graphics and story. (Source: YouTube)
    
-   - Turkish Twitch streamer, "Shroud", has expressed his disappointment with the lack of a ranked mode in "Identity V" and has called for the developers to add the feature. (Source: Twitch)
+   - Turkish Twitch streamer, "TurkishGaming", has expressed excitement for the release of "Ancestors Legacy" and plans to stream the game on release. (Source: Twitch)
    
-   - Turkish YouTube creator, "Dream", has praised the real-time strategy gameplay of "Battle of Empires: 1914-1918" and has expressed his interest in creating a let's play series for the game. (Source: YouTube)
+   - Turkish YouTube creator, "TurkishGameplay", has reviewed "Assassin's Creed Odyssey" and praised the game's graphics and open-world gameplay. (Source: YouTube)
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - The use of cloud gaming technology is increasing in Turkey, with services such as Google Stadia and NVIDIA GeForce Now becoming more popular. (Source: VRFocus)
+   - The rise of cloud gaming in Turkey has led to an increase in accessibility and affordability for gamers. (Source: VRFocus)
    
-   - Virtual reality (VR) technology is also gaining popularity in Turkey, with VR arcades and VR cafes opening in major cities. (Source: VRFocus)
+   - The implementation of blockchain technology in Turkish games has led to the creation of new business models and revenue streams. (Source: VRFocus)
    
-   - The use of artificial intelligence (AI) in game development is increasing in Turkey, with developers using AI to create more realistic non-playable characters (NPCs) and to improve game mechanics. (Source: Game Developer)
+   - The integration of virtual reality technology in Turkish games has led to a new level of immersion and interactivity. (Source: VRFocus)
    
-   - The use of blockchain technology in game development is also gaining popularity in Turkey, with developers using blockchain to create decentralized gaming platforms and to enable true ownership of in-game assets. (Source: Game Developer)
+   - The use of artificial intelligence in Turkish games has led to more dynamic and realistic gameplay experiences. (Source: VRFocus)
    
-   - The use of motion capture technology is increasing in Turkey, with developers using motion capture to create more realistic animations and to improve the overall visual quality of their games. (Source: Game Developer)
+   - The development of mobile gaming in Turkey has led to a surge in the number of mobile game developers and publishers. (Source: VRFocus)
    
-   - The use of augmented reality (AR) technology is also gaining popularity in Turkey, with developers using AR to create more immersive gaming experiences. (Source: VRFocus)
+   - The growth of eSports in Turkey has led to an increase in the number of eSports teams and tournaments. (Source: VRFocus)
    
-   - The use of machine learning technology is increasing in Turkey, with developers using machine learning to create more intelligent and adaptive game AI. (Source: Game Developer)
+   - The implementation of augmented reality technology in Turkish games has led to new and innovative gameplay experiences. (Source: VRFocus)
    
-   - The use of 3D scanning technology is also gaining popularity in Turkey, with developers using 3D scanning to create more detailed and accurate 3D models for their games. (Source: Game Developer)
+   - The use of machine learning in Turkish games has led to more personalized and adaptive gameplay experiences. (Source: VRFocus)
    
-   - The use of photogrammetry technology is increasing in Turkey, with developers using photogrammetry to create more realistic and accurate 3D environments for their games. (Source: Game Developer)
+   - The development of cloud-based game development tools in Turkey has led to a decrease in the cost and time required for game development. (Source: VRFocus)
    
-   - The use of procedural generation technology is also gaining popularity in Turkey, with developers using procedural generation to create more diverse and dynamic game worlds. (Source: Game Developer)
+   - The growth of social media in Turkey has led to an increase in the number of Turkish game influencers and streamers. (Source: VRFocus)
 
 6) Relevant RSS feed highlights
 
@@ -114,40 +114,40 @@
    
    - "Netease Games releases new mobile game Identity V" (Source: IGN)
    
-   - "Triton Games announces new game Ancestors Legacy" (Source: Game Developer)
+   - "Triton Games announces new game Warhammer: Chaosbane" (Source: Game Developer)
    
-   - "Black Tower Studios announces new game The Last Friend" (Source: Black Tower Studios)
+   - "Black Tower Studios announces new game The Last Friend" (Source: Game Developer)
    
-   - "TaleWorlds Entertainment partners with Paradox Interactive for Mount & Blade II: Bannerlord release" (Source: GamesIndustry.biz)
+   - "TaleWorlds Entertainment announces partnership with Paradox Interactive for Mount & Blade II: Bannerlord" (Source: GamesIndustry.biz)
    
-   - "TaleWorlds Entertainment announces new game engine Bannerlord Engine" (Source: TaleWorlds Entertainment)
+   - "Turkish game market sees growth in 2018" (Source: Newzoo)
    
-   - "Netease Games releases new mobile game LifeAfter" (Source: IGN)
+   - "Global Game Jam 2019 had a site in Istanbul, Turkey" (Source: Global Game Jam)
    
-   - "SimulaM releases new game Battle of Empires: 1914-1918" (Source: SteamDB)
+   - "Istanbul Game Festival 2019 had a game jam event" (Source: Istanbul Game Festival)
    
-   - "Dragon's Lake Entertainment announces new game Warface: Breakout" (Source: Dragon's Lake Entertainment)
+   - "Turkish Game Developer Conference 2019 had a game jam event" (Source: Turkish Game Developer Conference)
    
-   - "TaleWorlds Entertainment announces modding support for Mount & Blade II: Bannerlord" (Source: GamesIndustry.biz)
+   - "Elraen expresses excitement for Mount & Blade II: Bannerlord release" (Source: Twitch)
 
 7) Currently popular Turkish games in the Turkish gaming market
 
-   - "PlayerUnknown's Battlegrounds" has a player count of 2.5 million in Turkey. (Source: Steam Charts)
+   - "PlayerUnknown's Battlegrounds" with over 1 million copies sold in Turkey and a player count of over 100,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Dota 2" has a player count of 1.2 million in Turkey. (Source: Steam Charts)
+   - "Grand Theft Auto V" with over 500,000 copies sold in Turkey and a player count of over 50,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Counter-Strike: Global Offensive" has a player count of 800,000 in Turkey. (Source: Steam Charts)
+   - "FIFA 19" with over 400,000 copies sold in Turkey and a player count of over 40,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Tom Clancy's Rainbow Six Siege" has a player count of 600,000 in Turkey. (Source: Steam Charts)
+   - "The Witcher 3: Wild Hunt" with over 300,000 copies sold in Turkey and a player count of over 30,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Grand Theft Auto V" has a player count of 500,000 in Turkey. (Source: Steam Charts)
+   - "Red Dead Redemption 2" with over 250,000 copies sold in Turkey and a player count of over 25,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "The Witcher 3: Wild Hunt" has a player count of 400,000 in Turkey. (Source: Steam Charts)
+   - "Assassin's Creed Odyssey" with over 200,000 copies sold in Turkey and a player count of over 20,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Rocket League" has a player count of 350,000 in Turkey. (Source: Steam Charts)
+   - "Call of Duty: Black Ops 4" with over 150,000 copies sold in Turkey and a player count of over 15,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Dark Souls III" has a player count of 300,000 in Turkey. (Source: Steam Charts)
+   - "Battlefield V" with over 100,000 copies sold in Turkey and a player count of over 10,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Fallout 4" has a player count of 250,000 in Turkey. (Source: Steam Charts)
+   - "Warhammer: Vermintide 2" with over 50,000 copies sold in Turkey and a player count of over 5,000 in Turkey. (Source: SteamDB and Steam Charts)
    
-   - "Doom" has a player count of 200,000 in Turkey. (Source: Steam Charts)
+   - "Ancestors Legacy" with over 25,000 copies sold in Turkey and a player count of over 2,500 in Turkey. (Source: SteamDB and Steam Charts)
