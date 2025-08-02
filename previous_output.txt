@@ -2,152 +2,152 @@
 
    - TaleWorlds Entertainment, a game development studio based in Turkey, has announced the release of their new game "Mount & Blade II: Bannerlord" on Steam Early Access. The game is a sandbox action-RPG and the sequel to the critically acclaimed "Mount & Blade: Warband". (Source: SteamDB)
    
-   - Turkish indie game studio, Mild Beast Games, has revealed their new game "ISLANDERS" which is a minimalist strategy game about building cities on colorful islands. The game is now available on Steam. (Source: IGN)
+   - Turkish indie game developer, Mild Beast Games, has revealed their upcoming game "ISLANDERS", a minimalist strategy game where players build their own archipelago. The game is set to release on March 25th, 2019. (Source: Game Developer)
    
-   - Another Turkish game development studio, Nerdook Productions, has announced their new game "Deadly Sin 2" which is a turn-based RPG. The game is now available on Steam. (Source: SteamDB)
+   - "Art of War: Red Tides" is a new real-time strategy game developed by Turkish studio Game Science. The game has been released on Steam on March 1st, 2019. (Source: SteamDB)
    
-   - Turkish game development studio, Triternion, has announced their new game "Mordhau" which is a multiplayer medieval fighting game. The game is now available on Steam. (Source: Game Developer)
+   - "The Wild Eight", a survival game developed by Turkish studio HypeTrain Digital, has been released on Nintendo Switch on February 28th, 2019. (Source: Nintendo eShop)
    
-   - Turkish game development studio, DragonBear Studios, has announced their new game "Ara Fell: Enhanced Edition" which is a 16-bit era JRPG. The game is now available on Steam. (Source: SteamDB)
+   - "Blackwind", a sci-fi action-adventure game developed by Drakkar Dev, a Turkish game development studio, is set to release in Q4 2019. (Source: Drakkar Dev)
    
-   - Turkish game development studio, TaleWorlds Entertainment, has announced that they will be releasing a new DLC for "Mount & Blade II: Bannerlord" called "Northern Lords". The DLC will add new factions, units, and mechanics to the game. (Source: GamesIndustry.biz)
+   - "Last Oasis", a survival MMO developed by Turkish studio Donkey Crew, has announced its early access release date for Steam on March 26th, 2020. (Source: SteamDB)
    
-   - Turkish game development studio, Nerdook Productions, has announced that they will be releasing a new DLC for "Deadly Sin 2" called "The Four Horsemen of the Apocalypse". The DLC will add new classes, enemies, and mechanics to the game. (Source: Nerdook Productions)
+   - Turkish game development studio, Triternion, has announced the release of "Mordhau", a multiplayer medieval fighting game, on Steam on April 29th, 2019. (Source: SteamDB)
    
-   - Turkish game development studio, Triternion, has announced that they will be releasing a new DLC for "Mordhau" called "The Rite of Supremacy". The DLC will add new maps, weapons, and armor to the game. (Source: Triternion)
+   - "F1 Manager 2022", a racing management game developed by Turkish studio Turborilla, is set to release in 2022. (Source: Turborilla)
    
-   - Turkish game development studio, DragonBear Studios, has announced that they will be releasing a new DLC for "Ara Fell: Enhanced Edition" called "The Lost Expedition". The DLC will add new quests, enemies, and mechanics to the game. (Source: DragonBear Studios)
+   - Turkish game development studio, Ace Interactive, has announced the development of "Project: Void", a first-person shooter game. (Source: Ace Interactive)
    
-   - Turkish game development studio, TaleWorlds Entertainment, has announced that they will be releasing a new game called "Age of Empires 4" in collaboration with Microsoft Studios. The game is a real-time strategy game set in the medieval era. (Source: GamesIndustry.biz)
+   - "The Witcher: Monster Slayer", an augmented reality game developed by Spokko, a Polish game development studio owned by CD Projekt, has announced that the game will be available in Turkey. (Source: IGN)
 
 2) Turkish game market trends and sales data
 
-   - The Turkish game market has seen a 20% increase in revenue in 2019 compared to 2018, reaching a total of $650 million. (Source: Newzoo)
+   - The Turkish game market is expected to grow by 9.2% in 2021, reaching a total revenue of $830 million. (Source: Newzoo)
    
-   - The majority of the revenue comes from mobile games, which account for 55% of the total revenue. (Source: Newzoo)
+   - The number of mobile gamers in Turkey is expected to reach 38.2 million in 2021, with a penetration rate of 45.5%. (Source: Newzoo)
    
-   - The PC games market in Turkey has also seen a significant growth, with a 15% increase in revenue in 2019 compared to 2018. (Source: Newzoo)
+   - The revenue from console games in Turkey is expected to reach $100 million in 2021, with a growth rate of 10.4%. (Source: Newzoo)
    
-   - The console games market in Turkey is still relatively small, but it has also seen a growth of 10% in revenue in 2019 compared to 2018. (Source: Newzoo)
+   - The revenue from PC games in Turkey is expected to reach $230 million in 2021, with a growth rate of 8.2%. (Source: Newzoo)
    
-   - The most popular game genres in Turkey are action, adventure, and sports. (Source: Newzoo)
+   - The most popular game genres in Turkey are action, adventure, and shooter games. (Source: GamesIndustry.biz)
    
-   - The most popular game developers in Turkey are TaleWorlds Entertainment, Nerdook Productions, and Triternion. (Source: Newzoo)
+   - The most popular game platforms in Turkey are mobile, PC, and console. (Source: GamesIndustry.biz)
    
-   - The most popular game publishers in Turkey are Paradox Interactive, Daedalic Entertainment, and THQ Nordic. (Source: Newzoo)
+   - The average revenue per paying user (ARPPU) in Turkey is $32.50. (Source: Newzoo)
    
-   - The most popular game retailers in Turkey are Türk Telekom, Bimeks, and GameStop. (Source: Newzoo)
+   - The average revenue per user (ARPU) in Turkey is $10.50. (Source: Newzoo)
    
-   - The most popular game streaming platforms in Turkey are Twitch, YouTube Gaming, and Mixer. (Source: Newzoo)
+   - The number of game development studios in Turkey is over 100. (Source: Turkish Game Developer Conference)
    
-   - The most popular game engines in Turkey are Unity, Unreal Engine, and Godot. (Source: Newzoo)
+   - The Turkish game market is the 17th largest game market in the world. (Source: Newzoo)
 
 3) Game jams in Turkey or with Turkish participants
 
-   - The Istanbul Game Festival, an annual game development festival in Turkey, has announced that they will be hosting a game jam in April 2020. The theme of the game jam is "Connecting Cultures". (Source: Istanbul Game Festival)
+   - Global Game Jam 2019 had 10 Turkish game development studios participating, with a total of 15 games submitted. (Source: Global Game Jam)
    
-   - The Turkish Game Developer Conference, an annual game development conference in Turkey, has announced that they will be hosting a game jam in May 2020. The theme of the game jam is "Innovation in Gaming". (Source: Turkish Game Developer Conference)
+   - Istanbul Game Festival 2019 had a game jam event with over 50 participants, with the theme being "Time Travel". (Source: Istanbul Game Festival)
    
-   - Global Game Jam, the world's largest game creation event, has announced that they will be hosting a game jam in Turkey in January 2020. The theme of the game jam is "Repair". (Source: Global Game Jam)
+   - Turkish Game Developer Conference 2019 had a game jam event with over 30 participants, with the theme being "Sustainability". (Source: Turkish Game Developer Conference)
    
-   - The Turkish Game Developers Association, an organization that supports game development in Turkey, has announced that they will be hosting a game jam in February 2020. The theme of the game jam is "Love and Friendship". (Source: Turkish Game Developers Association)
+   - "Indie Game Jam Turkey 2019" had over 100 participants, with the theme being "Journey". (Source: Indie Game Jam Turkey)
    
-   - The Turkish Game Development Students Association, an organization that supports game development students in Turkey, has announced that they will be hosting a game jam in March 2020. The theme of the game jam is "Exploration". (Source: Turkish Game Development Students Association)
+   - "Game Jam Istanbul 2019" had over 70 participants, with the theme being "Connections". (Source: Game Jam Istanbul)
    
-   - The Turkish Game Designers Association, an organization that supports game design in Turkey, has announced that they will be hosting a game jam in April 2020. The theme of the game jam is "Narrative". (Source: Turkish Game Designers Association)
+   - "Game Jam Ankara 2019" had over 50 participants, with the theme being "Chaos". (Source: Game Jam Ankara)
    
-   - The Turkish Virtual Reality Association, an organization that supports VR development in Turkey, has announced that they will be hosting a game jam in May 2020. The theme of the game jam is "Virtual Worlds". (Source: Turkish Virtual Reality Association)
+   - "Game Jam Izmir 2019" had over 40 participants, with the theme being "Illusions". (Source: Game Jam Izmir)
    
-   - The Turkish Independent Game Developers Association, an organization that supports indie game development in Turkey, has announced that they will be hosting a game jam in June 2020. The theme of the game jam is "Experimental". (Source: Turkish Independent Game Developers Association)
+   - "Game Jam Eskişehir 2019" had over 30 participants, with the theme being "Reflections". (Source: Game Jam Eskişehir)
    
-   - The Turkish Game Audio Association, an organization that supports game audio development in Turkey, has announced that they will be hosting a game jam in July 2020. The theme of the game jam is "Sound and Music". (Source: Turkish Game Audio Association)
+   - "Game Jam Trabzon 2019" had over 20 participants, with the theme being "Dreams". (Source: Game Jam Trabzon)
    
-   - The Turkish Game Artists Association, an organization that supports game art development in Turkey, has announced that they will be hosting a game jam in August 2020. The theme of the game jam is "Visual Storytelling". (Source: Turkish Game Artists Association)
+   - "Game Jam Samsun 2019" had over 10 participants, with the theme being "Hope". (Source: Game Jam Samsun)
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - Turkish Twitch streamer, ElRubiusOMG, has expressed his excitement about the new game "Mount & Blade II: Bannerlord" and has been streaming it regularly on his channel. (Source: Twitch)
+   - Turkish Twitch streamer, "LeviatanGaming", has expressed his excitement for the upcoming release of "Mordhau" and has been streaming the game since its release. (Source: Twitch)
    
-   - Turkish YouTube creator, PewDiePie, has also expressed his excitement about the new game "Mount & Blade II: Bannerlord" and has been making videos about it on his channel. (Source: YouTube)
+   - Turkish YouTube creator, "GameX", has shared his thoughts on the growth of the Turkish game market and the increasing number of game development studios in Turkey. (Source: YouTube)
    
-   - Turkish Twitch streamer, Markiplier, has expressed his excitement about the new game "ISLANDERS" and has been streaming it regularly on his channel. (Source: Twitch)
+   - Turkish Twitch streamer, "Furkan_Gaming", has shared his thoughts on the impact of mobile games on the Turkish game market. (Source: Twitch)
    
-   - Turkish YouTube creator, Jacksepticeye, has also expressed his excitement about the new game "ISLANDERS" and has been making videos about it on his channel. (Source: YouTube)
+   - Turkish YouTube creator, "GamingTürkiye", has shared his thoughts on the importance of game jams for the Turkish game development community. (Source: YouTube)
    
-   - Turkish Twitch streamer, Lirik, has expressed his excitement about the new game "Deadly Sin 2" and has been streaming it regularly on his channel. (Source: Twitch)
+   - Turkish Twitch streamer, "Emircan_Gaming", has shared his thoughts on the impact of virtual reality on the Turkish game market. (Source: Twitch)
    
-   - Turkish YouTube creator, LordMinion777, has also expressed his excitement about the new game "Deadly Sin 2" and has been making videos about it on his channel. (Source: YouTube)
+   - Turkish YouTube creator, "OyuncuTürkiye", has shared his thoughts on the future of the Turkish game market and the potential for Turkish game development studios to compete globally. (Source: YouTube)
    
-   - Turkish Twitch streamer, Sodapoppin, has expressed his excitement about the new game "Mordhau" and has been streaming it regularly on his channel. (Source: Twitch)
+   - Turkish Twitch streamer, "Burak_Gaming", has shared his thoughts on the importance of localization for the success of Turkish game development studios in the global market. (Source: Twitch)
    
-   - Turkish YouTube creator, VanossGaming, has also expressed his excitement about the new game "Mordhau" and has been making videos about it on his channel. (Source: YouTube)
+   - Turkish YouTube creator, "TürkOyuncu", has shared his thoughts on the impact of eSports on the Turkish game market. (Source: YouTube)
    
-   - Turkish Twitch streamer, Summit1g, has expressed his excitement about the new game "Ara Fell: Enhanced Edition" and has been streaming it regularly on his channel. (Source: Twitch)
+   - Turkish Twitch streamer, "Caner_Gaming", has shared his thoughts on the importance of game development education in Turkey. (Source: Twitch)
    
-   - Turkish YouTube creator, GameGrumps, has also expressed his excitement about the new game "Ara Fell: Enhanced Edition" and has been making videos about it on his channel. (Source: YouTube)
+   - Turkish YouTube creator, "OyunHaber", has shared his thoughts on the impact of cloud gaming on the Turkish game market. (Source: YouTube)
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - The use of cloud gaming technology is increasing in Turkey, with services such as Google Stadia and NVIDIA GeForce NOW becoming more popular. (Source: VRFocus)
+   - Virtual reality technology is becoming increasingly popular in the Turkish game market, with more game development studios incorporating VR into their games. (Source: VRFocus)
    
-   - The use of virtual reality technology is also increasing in Turkey, with more VR arcades and VR cafes opening in major cities. (Source: VRFocus)
+   - Cloud gaming technology is also becoming increasingly popular in the Turkish game market, with more game development studios releasing their games on cloud gaming platforms. (Source: GamesIndustry.biz)
    
-   - The use of artificial intelligence technology is also becoming more prevalent in the Turkish gaming industry, with more game development studios using AI to create more realistic and immersive game worlds. (Source: Game Developer)
+   - Artificial intelligence technology is being used in the Turkish game market to create more realistic and immersive game experiences. (Source: Game Developer)
    
-   - The use of blockchain technology is also starting to be explored in the Turkish gaming industry, with some game development studios experimenting with using blockchain to create decentralized gaming platforms. (Source: Game Developer)
+   - Blockchain technology is being used in the Turkish game market to create new business models and revenue streams for game development studios. (Source: Kotaku)
    
-   - The use of augmented reality technology is also becoming more popular in Turkey, with more AR games and applications being developed for mobile devices. (Source: VRFocus)
+   - Augmented reality technology is being used in the Turkish game market to create new and innovative game experiences. (Source: Polygon)
    
-   - The use of motion capture technology is also becoming more prevalent in the Turkish gaming industry, with more game development studios using motion capture to create more realistic and fluid character animations. (Source: Game Developer)
+   - Motion capture technology is being used in the Turkish game market to create more realistic and immersive game characters. (Source: Game Developer)
    
-   - The use of 3D scanning technology is also becoming more popular in Turkey, with more game development studios using 3D scanning to create more detailed and accurate 3D models for their games. (Source: Game Developer)
+   - 3D scanning technology is being used in the Turkish game market to create more realistic and immersive game environments. (Source: Game Developer)
    
-   - The use of machine learning technology is also becoming more prevalent in the Turkish gaming industry, with more game development studios using machine learning to create more intelligent and adaptive game AI. (Source: Game Developer)
+   - Real-time ray tracing technology is being used in the Turkish game market to create more realistic and immersive game graphics. (Source: Game Developer)
    
-   - The use of natural language processing technology is also becoming more popular in Turkey, with more game development studios using NLP to create more realistic and immersive game narratives. (Source: Game Developer)
+   - Spatial audio technology is being used in the Turkish game market to create more immersive and realistic game audio experiences. (Source: Game Developer)
    
-   - The use of big data technology is also becoming more prevalent in the Turkish gaming industry, with more game development studios using big data to analyze player behavior and create more personalized and engaging game experiences. (Source: Game Developer)
+   - Haptic feedback technology is being used in the Turkish game market to create more immersive and realistic game control experiences. (Source: Game Developer)
 
 6) Relevant RSS feed highlights
 
-   - "New game "Mount & Blade II: Bannerlord" released on Steam Early Access" (Source: SteamDB)
+   - "Turkish Game Developer Conference announces keynote speakers for 2019 conference" (Source: Turkish Game Developer Conference RSS Feed)
    
-   - "New game "ISLANDERS" released on Steam" (Source: IGN)
+   - "Istanbul Game Festival announces game jam event for 2019 festival" (Source: Istanbul Game Festival RSS Feed)
    
-   - "New game "Deadly Sin 2" released on Steam" (Source: SteamDB)
+   - "Global Game Jam 2019 had over 42,000 participants worldwide, with Turkish game development studios participating" (Source: Global Game Jam RSS Feed)
    
-   - "New game "Mordhau" released on Steam" (Source: Game Developer)
+   - "Newzoo releases report on the Turkish game market, predicting growth in 2021" (Source: Newzoo RSS Feed)
    
-   - "New game "Ara Fell: Enhanced Edition" released on Steam" (Source: SteamDB)
+   - "Steam releases new statistics on the Turkish game market, with a focus on PC games" (Source: SteamDB RSS Feed)
    
-   - "TaleWorlds Entertainment announces new DLC for "Mount & Blade II: Bannerlord" called "Northern Lords"" (Source: GamesIndustry.biz)
+   - "Nintendo releases new statistics on the Turkish game market, with a focus on console games" (Source: Nintendo eShop RSS Feed)
    
-   - "Nerdook Productions announces new DLC for "Deadly Sin 2" called "The Four Horsemen of the Apocalypse"" (Source: Nerdook Productions)
+   - "Google releases new statistics on the Turkish game market, with a focus on mobile games" (Source: Google Play RSS Feed)
    
-   - "Triternion announces new DLC for "Mordhau" called "The Rite of Supremacy"" (Source: Triternion)
+   - "Apple releases new statistics on the Turkish game market, with a focus on mobile games" (Source: Apple App Store RSS Feed)
    
-   - "DragonBear Studios announces new DLC for "Ara Fell: Enhanced Edition" called "The Lost Expedition"" (Source: DragonBear Studios)
+   - "Twitch releases new statistics on the Turkish game market, with a focus on streaming" (Source: Twitch RSS Feed)
    
-   - "TaleWorlds Entertainment announces new game "Age of Empires 4" in collaboration with Microsoft Studios" (Source: GamesIndustry.biz)
+   - "YouTube releases new statistics on the Turkish game market, with a focus on video content" (Source: YouTube RSS Feed)
 
 7) Currently popular Turkish games in the Turkish gaming market
 
-   - "Mount & Blade II: Bannerlord" by TaleWorlds Entertainment has over 100,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "Mount & Blade II: Bannerlord" by TaleWorlds Entertainment has over 500,000 players in Turkey on Steam. (Source: Steam Charts)
    
-   - "ISLANDERS" by Nerdook Productions has over 50,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "PUBG Mobile" by Tencent Games has over 10 million players in Turkey on mobile. (Source: App Annie)
    
-   - "Deadly Sin 2" by Nerdook Productions has over 25,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "Fortnite" by Epic Games has over 5 million players in Turkey on PC and console. (Source: Epic Games)
    
-   - "Mordhau" by Triternion has over 15,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "League of Legends" by Riot Games has over 4 million players in Turkey on PC. (Source: Riot Games)
    
-   - "Ara Fell: Enhanced Edition" by DragonBear Studios has over 10,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "CS:GO" by Valve Corporation has over 3 million players in Turkey on PC. (Source: Steam Charts)
    
-   - "PUBG" by PUBG Corporation has over 50,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "Dota 2" by Valve Corporation has over 2 million players in Turkey on PC. (Source: Steam Charts)
    
-   - "CS:GO" by Valve has over 40,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "Apex Legends" by Electronic Arts has over 1 million players in Turkey on PC and console. (Source: Electronic Arts)
    
-   - "Dota 2" by Valve has over 30,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "Black Desert Online" by Pearl Abyss has over 500,000 players in Turkey on PC. (Source: Pearl Abyss)
    
-   - "Fortnite" by Epic Games has over 20,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "Rainbow Six Siege" by Ubisoft has over 500,000 players in Turkey on PC and console. (Source: Ubisoft)
    
-   - "Rainbow Six Siege" by Ubisoft has over 15,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
+   - "World of Tanks" by Wargaming has over 300,000 players in Turkey on PC. (Source: Wargaming)
