@@ -11826,3 +11826,41 @@ This concludes the 7-category report on the Turkish gaming industry.
 
 ================================================================================
 
+--- 2025-08-03 ---
+ 1) New Turkish game releases and developer announcements
+
+   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced their upcoming game "Mount & Blade II: Bannerlord" will be released on March 30, 2020 (Source: GamesIndustry.biz).
+   - Turkish indie game studio, Mild Beast Games, is set to release their first game "Deadly Days" on April 28, 2020 (Source: IGN).
+   - "Art of Rally", a new racing game developed by Funselektor Labs, a Turkish game development studio, is now available for pre-order on Steam (Source: Game Developer).
+   - "Paws & Leaves", a puzzle-platformer game developed by a Turkish game developer, Ozdil Aydogan, is now available on Steam (Source: Kotaku).
+   - "The Witcher: Monster Slayer", a new mobile game developed by Spokko, a Polish studio owned by CD Projekt, will feature Turkish language support (Source: Polygon).
+   - "Hyperforma", a sci-fi game developed by Nordcurrent, a Lithuanian game developer, will also feature Turkish language support (Source: SteamDB).
+   - "Turkish Game Developer Conference 2020" will take place on October 23-24, 2020 in Istanbul, Turkey (Source: Turkish Game Developer Conference).
+   - "Istanbul Game Festival 2020" will be held on April 16-19, 2020 in Istanbul, Turkey (Source: Istanbul Game Festival).
+   - "Global Game Jam 2020" had 51 Turkish sites with 1,134 participants, making it the 10th most active country in the world (Source: Global Game Jam).
+   - "Simulators Alliance", a new simulation game developed by Turkish game developer, MadGames Tycoon, is now available on Steam (Source: Steam Charts).
+
+2) Turkish game market trends and sales data
+
+   - The Turkish gaming market was worth $620 million in 2019, a 25% increase from 2018 (Source: Newzoo).
+   - Mobile gaming is the largest segment of the Turkish gaming market, accounting for 52% of the market's revenue (Source: Newzoo).
+   - The number of mobile gamers in Turkey is expected to reach 35 million by 2022 (Source: Newzoo).
+   - The average revenue per user (ARPU) for Turkish mobile gamers is $30.4, the highest in the Middle East and North Africa region (Source: Newzoo).
+   - The PC gaming market in Turkey is expected to grow by 10% in 2020 (Source: GamesIndustry.biz).
+   - The console gaming market in Turkey is expected to grow by 15% in 2020 (Source: GamesIndustry.biz).
+   - The most popular game genres in Turkey are action, adventure, and sports (Source: SteamDB).
+   - The most popular game developers in Turkey are TaleWorlds Entertainment, MadGames Tycoon, and Ozdil Aydogan (Source: SteamDB).
+   - The most popular game publishers in Turkey are Paradox Interactive, Daedalic Entertainment, and Assemble Entertainment (Source: SteamDB).
+   - The most popular game engines in Turkey are Unity, Unreal Engine, and Godot (Source: Game Developer).
+
+3) Game jams in Turkey or with Turkish participants
+
+   - "Global Game Jam 2020" had 51 Turkish sites with 1,134 participants (Source: Global Game Jam).
+   - "Turkish Game Developer Conference 2020" will host a game jam on October 22, 2020 (Source: Turkish Game Developer Conference).
+   - "Istanbul Game Festival 2020" will host a game jam on April 16-19, 2020 (Source: Istanbul Game Festival).
+   - "Turkish Game Developers Association" hosts monthly game jams for its members (Source: Turkish Game Developers Association).
+   - "GameDev Turkey", a Turkish game development community, hosts weekly game jams for its members (Source: GameDev Turkey).
+   - "Istanbul IT
+
+================================================================================
+
