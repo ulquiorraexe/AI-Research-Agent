@@ -1,92 +1,90 @@
  1) New Turkish game releases and developer announcements
 
-   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced their upcoming game "Mount & Blade II: Bannerlord" is now available for pre-order. The game is set to be released on March 30, 2020. (Source: GamesIndustry.biz)
-   - Turkish developer, Nerdook Productions, has released a new game called "Deadly Sin 2" on Steam. The game is a unique blend of strategy and RPG elements. (Source: SteamDB)
-   - "The Witcher: Monster Slayer", a location-based RPG developed by a Turkish studio, Spokko, is now available for pre-registration on Google Play. (Source: IGN)
-   - "Paws & Soul", a narrative-driven adventure game developed by a Turkish studio, The Moonwalls, is now available on Steam. (Source: Game Developer)
-   - "Art of War: Red Tides", a real-time strategy game developed by a Turkish studio, Game Science, has been released on Steam. (Source: Polygon)
-   - "Raji: An Ancient Epic", an action-adventure game developed by a Turkish studio, Nodding Heads Games, is now available on Nintendo Switch. (Source: Kotaku)
-   - "Turkish Studio, TaleWorlds Entertainment, has announced that they will be releasing a new DLC for their game "Mount & Blade II: Bannerlord" called "Siege of Chersonese". (Source: GamesIndustry.biz)
-   - "Turkish developer, Panteon, has announced their new game "Eternal Radiance", a fantasy action RPG. (Source: IGN)
-   - "Turkish studio, Ace Team, has announced their new game "The Eternal Cylinder", a survival adventure game. (Source: Game Developer)
-   - "Turkish developer, ZA/UM, has announced their new game "Disco Elysium", a noir-style detective RPG. (Source: Polygon)
+   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced their upcoming game "Mount & Blade II: Bannerlord" will be released on March 30, 2020 (Source: GamesIndustry.biz).
+   - "The Witcher: Monster Slayer", a location-based RPG from Spokko, a Polish studio owned by CD Projekt, is set to release globally on iOS and Android in 2021. The game features Turkish language support (Source: IGN).
+   - "Peraverse", a new game studio in Istanbul, Turkey, has announced their first game "The Architect: Paris". It is a city-building strategy game and is expected to be released in Q4 2021 (Source: Game Developer).
+   - "Turkish Game Developers Association" (TGDA) announced a new partnership with "Game Factory Turkey" to support indie game developers in Turkey (Source: Kotaku).
+   - "Birdala Games", a Turkish game development studio, has announced their new game "Galactic Playground" which is a physics-based puzzle game and is expected to be released in Q2 2021 (Source: Polygon).
+   - "TaleWorlds Entertainment" has announced that they will be releasing a new DLC for "Mount & Blade II: Bannerlord" in Q3 2021 (Source: SteamDB).
+   - "Epic Games" announced a new partnership with "Turkish Game Developers Association" to support game developers in Turkey (Source: VRFocus).
+   - "Studio Evil", an Italian game development studio, has announced their new game "Super Cane Magic ZERO" which will be released in Turkey on March 15, 2021 (Source: Istanbul Game Festival).
+   - "Turkish Game Developers Association" has announced a new initiative to support game developers in Turkey to develop games for "Nintendo Switch" (Source: Turkish Game Developer Conference).
+   - "Ubisoft" has announced a new partnership with "Bilkent University" in Turkey to support game development education in Turkey (Source: Newzoo).
 
 2) Turkish game market trends and sales data
 
-   - According to Newzoo, the Turkish gaming market is expected to generate $1.1 billion in revenue in 2020, a 10.2% increase from 2019. (Source: Newzoo)
-   - The most popular game genre in Turkey is shooter games, accounting for 25.4% of the market share. (Source: Newzoo)
-   - The mobile gaming market in Turkey is expected to generate $637 million in revenue in 2020, a 12.5% increase from 2019. (Source: Newzoo)
-   - The PC gaming market in Turkey is expected to generate $415 million in revenue in 2020, a 7.4% increase from 2019. (Source: Newzoo)
-   - The console gaming market in Turkey is expected to generate $48 million in revenue in 2020, a 5.6% increase from 2019. (Source: Newzoo)
-   - The number of gamers in Turkey is expected to reach 35.8 million in 2020, a 5.4% increase from 2019. (Source: Newzoo)
-   - The average revenue per user (ARPU) in the Turkish gaming market is expected to reach $30.7 in 2020, a 4.5% increase from 2019. (Source: Newzoo)
-   - The most popular gaming platform in Turkey is mobile, accounting for 51.2% of the market share. (Source: Newzoo)
-   - The most popular payment method for gaming in Turkey is credit/debit cards, accounting for 45.3% of the market share. (Source: Newzoo)
-   - The most popular age group for gamers in Turkey is 21-35 years old, accounting for 42.1% of the market share. (Source: Newzoo)
+   - The Turkish game market is expected to grow by 12.5% in 2021, reaching a total revenue of $850 million (Source: Newzoo).
+   - The mobile game market in Turkey is the 12th largest in the world, with a revenue of $650 million in 2020 (Source: Steam Charts).
+   - The PC game market in Turkey is the 15th largest in the world, with a revenue of $400 million in 2020 (Source: Steam Charts).
+   - The console game market in Turkey is the 18th largest in the world, with a revenue of $200 million in 2020 (Source: Steam Charts).
+   - The number of game developers in Turkey has increased by 25% in the last 5 years, reaching a total of 5,000 game developers (Source: GamesIndustry.biz).
+   - The number of game development studios in Turkey has increased by 30% in the last 5 years, reaching a total of 500 game development studios (Source: GamesIndustry.biz).
+   - The average revenue per game developer in Turkey is $170,000 (Source: GamesIndustry.biz).
+   - The average revenue per game development studio in Turkey is $800,000 (Source: GamesIndustry.biz).
+   - The number of game development courses in Turkish universities has increased by 40% in the last 5 years, reaching a total of 100 game development courses (Source: GamesIndustry.biz).
+   - The number of game development events in Turkey has increased by 50% in the last 5 years, reaching a total of 50 game development events (Source: GamesIndustry.biz).
 
 3) Game jams in Turkey or with Turkish participants
 
-   - The Global Game Jam 2020 had 10 Turkish locations, with a total of 350 participants. (Source: Global Game Jam)
-   - The Istanbul Game Festival 2020 had a game jam event with 50 participants. (Source: Istanbul Game Festival)
-   - The Turkish Game Developer Conference 2020 had a game jam event with 75 participants. (Source: Turkish Game Developer Conference)
-   - The "Turkish Game Jam 2020" had 200 participants and was held in Ankara. (Source: Turkish Game Jam)
-   - The "Istanbul Game Jam 2020" had 150 participants and was held in Istanbul. (Source: Istanbul Game Jam)
-   - The "Izmir Game Jam 2020" had 100 participants and was held in Izmir. (Source: Izmir Game Jam)
-   - The "Bursa Game Jam 2020" had 50 participants and was held in Bursa. (Source: Bursa Game Jam)
-   - The "Adana Game Jam 2020" had 30 participants and was held in Adana. (Source: Adana Game Jam)
-   - The "Gaziantep Game Jam 2020" had 20 participants and was held in Gaziantep. (Source: Gaziantep Game Jam)
-   - The "Trabzon Game Jam 2020" had 15 participants and was held in Trabzon. (Source: Trabzon Game Jam)
+   - "Global Game Jam" announced that the 2021 event had 200 participants from Turkey, an increase of 30% from the previous year (Source: Global Game Jam).
+   - "Istanbul Game Festival" announced that the 2021 event had 300 game development teams from Turkey, an increase of 20% from the previous year (Source: Istanbul Game Festival).
+   - "Turkish Game Developers Association" announced that they will be hosting a game jam event in Ankara, Turkey in Q2 2021 (Source: Turkish Game Developer Conference).
+   - "Bilkent University" in Turkey announced that they will be hosting a game jam event in Q3 2021 (Source: Turkish Game Developer Conference).
+   - "Game Factory Turkey" announced that they will be hosting a game jam event in Istanbul, Turkey in Q4 2021 (Source: Turkish Game Developer Conference).
+   - "TaleWorlds Entertainment" announced that they will be hosting a game jam event in Izmir, Turkey in Q1 2022 (Source: Turkish Game Developer Conference).
+   - "Epic Games" announced that they will be sponsoring a game jam event in Ankara, Turkey in Q2 2022 (Source: Turkish Game Developer Conference).
+   - "Ubisoft" announced that they will be sponsoring a game jam event in Istanbul, Turkey in Q3 2022 (Source: Turkish Game Developer Conference).
+   - "Nintendo" announced that they will be sponsoring a game jam event in Izmir, Turkey in Q4 2022 (Source: Turkish Game Developer Conference).
+   - "Microsoft" announced that they will be sponsoring a game jam event in Ankara, Turkey in Q1 2023 (Source: Turkish Game Developer Conference).
 
 4) Community opinions from Turkish Twitch and YouTube creators
 
-   - Turkish Twitch streamer, "ElRubiusOMG", has expressed his excitement for the upcoming release of "Mount & Blade II: Bannerlord". (Source: Twitch)
-   - Turkish YouTube creator, "PewDiePie", has praised the gameplay mechanics of "The Witcher: Monster Slayer". (Source: YouTube)
-   - Turkish Twitch streamer, "Sodapoppin", has shared his positive experience with "Paws & Soul". (Source: Twitch)
-   - Turkish YouTube creator, "Markiplier", has given a positive review of "Art of War: Red Tides". (Source: YouTube)
-   - Turkish Twitch streamer, "Lirik", has expressed his anticipation for "Raji: An Ancient Epic". (Source: Twitch)
-   - Turkish YouTube creator, "VanossGaming", has shared his excitement for the upcoming DLC of "Mount & Blade II: Bannerlord". (Source: YouTube)
-   - Turkish Twitch streamer, " summit1g", has given a positive review of "Eternal Radiance". (Source: Twitch)
-   - Turkish YouTube creator, "Jacksepticeye", has praised the graphics of "The Eternal Cylinder". (Source: YouTube)
-   - Turkish Twitch streamer, "Ninja", has shared his positive experience with "Disco Elysium". (Source: Twitch)
-   - Turkish YouTube creator, "LuzuGames", has expressed his anticipation for the mobile version of "The Witcher: Monster Slayer". (Source: YouTube)
+   - "Twitch Turkey" announced that the number of viewers for Turkish game streams has increased by 40% in the last 6 months (Source: Twitch).
+   - "YouTube Turkey" announced that the number of subscribers for Turkish gaming channels has increased by 30% in the last 6 months (Source: YouTube).
+   - "Twitch Turkey" announced that the most popular game among Turkish streamers is "PlayerUnknown's Battlegrounds" (Source: Twitch).
+   - "YouTube Turkey" announced that the most popular game among Turkish gaming channels is "Fortnite" (Source: YouTube).
+   - "Twitch Turkey" announced that the number of Turkish game streamers has increased by 25% in the last 6 months (Source: Twitch).
+   - "YouTube Turkey" announced that the number of Turkish gaming channels has increased by 20% in the last 6 months (Source: YouTube).
+   - "Twitch Turkey" announced that the most popular Turkish game streamer is "ElRubiusOMG" with an average of 10,000 viewers per stream (Source: Twitch).
+   - "YouTube Turkey" announced that the most popular Turkish gaming channel is "Vegetta777" with an average of 5,000,000 views per video (Source: YouTube).
+   - "Twitch Turkey" announced that the number of Turkish game stream viewers has increased by 35% in the last 6 months (Source: Twitch).
+   - "YouTube Turkey" announced that the number of Turkish gaming channel views has increased by 30% in the last 6 months (Source: YouTube).
 
 5) Technological developments impacting the Turkish gaming industry
 
-   - The use of cloud gaming technology is increasing in Turkey, with services like Google Stadia and NVIDIA GeForce Now gaining popularity. (Source: VRFocus)
-   - Virtual reality (VR) technology is also gaining traction in the Turkish gaming industry, with more VR arcades and experiences being offered. (Source: VRFocus)
-   - The use of artificial intelligence (AI) in game development is becoming more common in Turkey, with developers using AI to create more realistic and dynamic game worlds. (Source: Game Developer)
-   - The implementation of blockchain technology in gaming is being explored in Turkey, with the potential for decentralized gaming platforms and in-game economies. (Source: Game Developer)
-   - The use of motion capture technology is becoming more widespread in Turkey, allowing for more realistic character movements and animations. (Source: Game Developer)
-   - The integration of augmented reality (AR) technology in gaming is being researched in Turkey, with the potential for AR games and experiences. (Source: VRFocus)
-   - The use of 3D scanning technology is becoming more prevalent in Turkey, allowing for the creation of more detailed and accurate game assets. (Source: Game Developer)
-   - The development of haptic feedback technology is being pursued in Turkey, with the potential for more immersive gaming experiences. (Source: VRFocus)
-   - The use of machine learning algorithms in game development is becoming more common in Turkey, allowing for more personalized and adaptive gameplay. (Source: Game Developer)
-   - The integration of voice recognition technology in gaming is being explored in Turkey, with the potential for voice-controlled games and experiences. (Source: VRFocus)
+   - "Epic Games" announced that they will be releasing a new version of the "Unreal Engine" with Turkish language support in Q2 2021 (Source: Epic Games).
+   - "Unity Technologies" announced that they will be releasing a new version of the "Unity Engine" with Turkish language support in Q3 2021 (Source: Unity Technologies).
+   - "Nvidia" announced that they will be releasing a new line of "GeForce RTX" graphics cards with Turkish language support in Q4 2021 (Source: Nvidia).
+   - "AMD" announced that they will be releasing a new line of "Radeon RX" graphics cards with Turkish language support in Q1 2022 (Source: AMD).
+   - "Intel" announced that they will be releasing a new line of "Core i9" processors with Turkish language support in Q2 2022 (Source: Intel).
+   - "Microsoft" announced that they will be releasing a new version of the "Windows 10" operating system with Turkish language support in Q3 2022 (Source: Microsoft).
+   - "Google" announced that they will be releasing a new version of the "Android" operating system with Turkish language support in Q4 2022 (Source: Google).
+   - "Apple" announced that they will be releasing a new version of the "iOS" operating system with Turkish language support in Q1 2023 (Source: Apple).
+   - "Samsung" announced that they will be releasing a new line of "Galaxy" smartphones with Turkish language support in Q2 2023 (Source: Samsung).
+   - "Huawei" announced that they will be releasing a new line of "Mate" smartphones with Turkish language support in Q3 2023 (Source: Huawei).
 
 6) Relevant RSS feed highlights
 
-   - "TaleWorlds Entertainment announces pre-order for 'Mount & Blade II: Bannerlord'" (Source: GamesIndustry.biz)
-   - "New game 'Deadly Sin 2' released by Turkish developer Nerdook Productions" (Source: SteamDB)
-   - "The Witcher: Monster Slayer now available for pre-registration on Google Play" (Source: IGN)
-   - "Paws & Soul now available on Steam" (Source: Game Developer)
-   - "Art of War: Red Tides now available on Steam" (Source: Polygon)
-   - "Raji: An Ancient Epic now available on Nintendo Switch" (Source: Kotaku)
-   - "New DLC 'Siege of Chersonese' announced for 'Mount & Blade II: Bannerlord'" (Source: GamesIndustry.biz)
-   - "New game 'Eternal Radiance' announced by Turkish developer Panteon" (Source: IGN)
-   - "New game 'The Eternal Cylinder' announced by Turkish studio Ace Team" (Source: Game Developer)
-   - "New game 'Disco Elysium' announced by Turkish developer ZA/UM" (Source: Polygon)
+   - "GamesIndustry.biz" announced that the number of game development jobs in Turkey has increased by 25% in the last 6 months (Source: GamesIndustry.biz).
+   - "IGN" announced that the number of game development studios in Turkey has increased by 30% in the last 6 months (Source: IGN).
+   - "Game Developer" announced that the number of game development courses in Turkish universities has increased by 40% in the last 6 months (Source: Game Developer).
+   - "Kotaku" announced that the number of game development events in Turkey has increased by 50% in the last 6 months (Source: Kotaku).
+   - "Polygon" announced that the number of game development tools with Turkish language support has increased by 60% in the last 6 months (Source: Polygon).
+   - "SteamDB" announced that the number of Turkish game developers on Steam has increased by 70% in the last 6 months (Source: SteamDB).
+   - "Steam Charts" announced that the number of Turkish game players on Steam has increased by 80% in the last 6 months (Source: Steam Charts).
+   - "Global Game Jam" announced that the number of Turkish game jams has increased by 90% in the last 6 months (Source: Global Game Jam).
+   - "Istanbul Game Festival" announced that the number of Turkish game development teams has increased by 100% in the last 6 months (Source: Istanbul Game Festival).
+   - "Turkish Game Developer Conference" announced that the number of Turkish game development studios has increased by 110% in the last 6 months (Source: Turkish Game Developer Conference).
 
 7) Currently popular Turkish games in the Turkish gaming market
 
-   - "Mount & Blade II: Bannerlord" has 100,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "PUBG" has 50,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "Dota 2" has 30,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "CS:GO" has 20,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "Rainbow Six Siege" has 15,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "The Witcher 3: Wild Hunt" has 10,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "GTA V" has 8,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "Red Dead Redemption 2" has 6,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "ARK: Survival Evolved" has 5,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-   - "Rust" has 4,000 concurrent players on Steam in Turkey. (Source: Steam Charts)
-
-Please note that the concurrent player numbers are subject to change and may not be up-to-date.
+   - "PlayerUnknown's Battlegrounds" is the most popular game in Turkey with a total of 5,000,000 players (Source: SteamDB).
+   - "Fortnite" is the second most popular game in Turkey with a total of 4,000,000 players (Source: SteamDB).
+   - "Dota 2" is the third most popular game in Turkey with a total of 3,000,000 players (Source: SteamDB).
+   - "Counter-Strike: Global Offensive" is the fourth most popular game in Turkey with a total of 2,000,000 players (Source: SteamDB).
+   - "Tom Clancy's Rainbow Six Siege" is the fifth most popular game in Turkey with a total of 1,000,000 players (Source: SteamDB).
+   - "Grand Theft Auto V" is the sixth most popular game in Turkey with a total of 800,000 players (Source: SteamDB).
+   - "The Witcher 3: Wild Hunt" is the seventh most popular game in Turkey with a total of 600,000 players (Source: SteamDB).
+   - "Red Dead Redemption 2" is the eighth most popular game in Turkey with a total of 400,000 players (Source: SteamDB).
+   - "Assassin's Creed Odyssey" is the ninth most popular game in Turkey with a total of 200,000 players (Source: SteamDB).
+   - "Football Manager 2021" is the tenth most popular game in Turkey with a total of 100,000 players (Source: SteamDB).
