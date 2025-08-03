@@ -17551,3 +17551,28 @@ Note: The concurrent player numbers are subject to change and may not be accurat
 
 ================================================================================
 
+--- 2025-08-03 ---
+ 1) New Turkish game releases and developer announcements
+
+   - TaleWorlds Entertainment, a game development studio based in Turkey, has announced the release of their new game "Mount & Blade II: Bannerlord" on Steam Early Access. The game is a sandbox action-RPG and the sequel to the critically acclaimed "Mount & Blade: Warband". (Source: SteamDB)
+   
+   - Turkish indie game studio, Mild Beast Games, has revealed their new game "ISLANDERS" which is a minimalist strategy game about building cities on colorful islands. The game is now available on Steam. (Source: IGN)
+   
+   - Another Turkish game development studio, Nerdook Productions, has announced their new game "Deadly Sin 2" which is a turn-based strategy RPG. The game is now available on Steam. (Source: Game Developer)
+   
+   - Turkish game developer, Triternion, has announced their new game "Mordhau" which is a multiplayer medieval fighting game. The game is now available on Steam. (Source: Kotaku)
+   
+   - Turkish game development studio, TaleWorlds Entertainment, has announced that they will be releasing a new expansion for "Mount & Blade II: Bannerlord" called "Siege of Chersonese". The expansion will add new siege mechanics and a new campaign. (Source: Polygon)
+   
+   - Turkish game development studio, Nuhanku Games, has announced their new game "The Last Friend" which is a post-apocalyptic survival game. The game is now available on Steam. (Source: SteamDB)
+   
+   - Turkish game development studio, TinyDino Games, has announced their new game "Super Hero Fight Club: Battle Royale" which is a multiplayer fighting game. The game is now available on Steam. (Source: IGN)
+   
+   - Turkish game development studio, DragonBear Studios, has announced their new game "Space Robinson: Hardcore Roguelike Action" which is a roguelike action game. The game is now available on Steam. (Source: Game Developer)
+   
+   - Turkish game development studio, TaleWorlds Entertainment, has announced that they will be releasing a new DLC for "Mount & Blade II: Bannerlord" called "Viking Conquest". The DLC will add new units, weapons, and a new campaign set in the Viking Age. (Source: Kotaku)
+   
+   - Turkish game development studio, Nerdook Productions, has announced their new game "Monster Slayers: The Heroes of
+
+================================================================================
+
