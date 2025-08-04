@@ -128,7 +128,6 @@ def main():
             else:
                 print("İlk çalıştırmada mesaj gönderilemedi.")
             return
-
         # Her zaman mesaj gönder ama fark var mı logla
         if has_new_data(raw_output, previous_raw):
             print("Yeni veri bulundu, gönderiliyor...")
@@ -145,8 +144,12 @@ def main():
             print("Mesaj gönderildi ve dosyalar güncellendi.")
         else:
             print("Mesaj gönderilemedi.")
-
-    if __name__ == "__main__":
-    main()
     except Exception as e:
         print("Genel hata:", e)
+        
+if __name__ == "__main__":
+    main()
+
+
+
+
