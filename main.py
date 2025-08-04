@@ -33,15 +33,15 @@ Instructions for all sections:
 
 - Include **at least 10 unique and detailed items** (e.g., news, events, statistics).
 - Every item **must include a source** in this format: `(Source: Name or URL)`.
-- Use the sources listed below as a reference and prioritize them.
-- If needed, you may also include general publicly available data that you believe is reliable.
+- Use only the sources listed below. Do **not hallucinate**.
 - Do **not** add any explanations, analysis, or personal commentary — only the structured report.
 - Use **today’s date** for all findings.
 - If any section has no updates, write: “There is no new update in this category today.”
 - In section 7, include download count **within Turkey** where available.
 - Do not repeat the same item across multiple sections.
+- Do not stop generation until all 7 sections are completed.
 
-You may use content **only** from the following sources:
+Sources you may use:
 
 - GamesIndustry.biz  
 - IGN  
@@ -57,9 +57,6 @@ You may use content **only** from the following sources:
 - YouTube (Turkish gaming creators)  
 - Newzoo  
 - VRFocus  
-
-Your response must include **all 7 sections in full**, clearly numbered and titled as above.
-Return the report only — no introduction, no closing note.
 """
 
 query = """
@@ -77,7 +74,7 @@ Each section must begin with its number and title exactly as listed, followed by
 If there is no new information in a section, simply say: 'There is no new update in this category today.'
 
 After completing the full 7-category report, respond with everything in one single output. 
-Do not stop midway. Ensure all categories are included before you finish.
+**Do not stop midway. Do not omit any section.**
 """
 
 llm = ChatOpenAI(
@@ -94,23 +91,32 @@ def main():
             SystemMessage(content=system_prompt),
             HumanMessage(content=query)
         ]
-        response = llm.invoke(messages)
-        raw_output = response.content.strip()
 
-        if not raw_output:
-            print("Boş çıktı alındı. İşlem yapılmıyor.")
-            return
-
-        # 7 başlık içerip içermediğini kontrol et
+        raw_output = ""
         expected_sections = ["1)", "2)", "3)", "4)", "5)", "6)", "7)"]
-        if not all(section in raw_output for section in expected_sections):
-            print("Beklenen 7 başlık bulunamadı. Ham çıktı aşağıda:")
+
+        for attempt in range(3):
+            print(f"Deneme {attempt + 1}...")
+            response = llm.invoke(messages)
+            raw_output = response.content.strip()
+
+            if not raw_output:
+                print("Boş çıktı alındı.")
+                continue
+
+            if all(section in raw_output for section in expected_sections):
+                print("Tüm başlıklar bulundu.")
+                break
+            else:
+                print("Eksik başlık var, tekrar deneniyor...")
+
+        else:
+            print("3 denemeden sonra başlıklar tamamlanamadı. Ham çıktı:")
             print(raw_output)
             return
 
         previous_raw = load_previous_text()
 
-        # İlk çalıştırma
         if not previous_raw.strip():
             if "There is no new update" in raw_output:
                 send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
@@ -122,7 +128,6 @@ def main():
             save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
             return
 
-        # Önceki ile fark var mı?
         if has_new_data(raw_output, previous_raw):
             success = prepare_and_send_message(
                 new_output=raw_output,
