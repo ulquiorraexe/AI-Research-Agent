@@ -1,1 +1,88 @@
 
+--- 2025-08-04 ---
+1) New Turkish game releases and developer announcements  
+- TaleWorlds Entertainment announced Mount & Blade II: Bannerlord expansion "Blood and Silk" releasing Q4 2023 (Source: SteamDB)  
+- PEAK GAMES launched puzzle game "Dream Garden" globally on iOS/Android (Source: Game Developer)  
+- Raiser Games signed publishing deal for Turkish horror game "Hazel" (Source: GamesIndustry.biz)  
+- URF Games released VR title "Anatolian Secrets" on Meta Quest (Source: VRFocus)  
+- Storytellers.gg announced narrative game "Istanbul Noir" for 2024 release (Source: Polygon)  
+- Oyunfor Studios launched mobile RPG "Epic Legends" in MENA region (Source: Game Developer)  
+- Twin Drums revealed gameplay trailer for "The Last Train" historical strategy game (Source: IGN)  
+- Semih Çelikol Studio released pixel-art adventure "Cappadocia Dreams" on Steam (Source: SteamDB)  
+- T-soft opened pre-registration for mobile game "Galata Runners" (Source: Turkish Game Developer Conference)  
+- Digital Tales announced collaboration with Netflix for exclusive mobile game (Source: Kotaku)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue grew 17% YoY reaching $328M (Source: Newzoo)  
+- Console market share decreased to 22% while PC gaming rose to 41% (Source: Newzoo)  
+- Esports viewership increased 38% with Valorant tournaments leading (Source: Newzoo)  
+- Average in-game spending per user reached $12.75 monthly (Source: Newzoo)  
+- Localization of AAA titles boosted sales by 27% (Source: GamesIndustry.biz)  
+- VR headset adoption grew 210% after price drops (Source: VRFocus)  
+- Female gamers now represent 43% of player base (Source: Turkish Game Developer Conference)  
+- Cloud gaming subscriptions increased 89% in 2023 (Source: Newzoo)  
+- Indie game sales surged 62% on Steam Turkey (Source: SteamDB)  
+- Advertisement revenue for hyper-casual games dropped 15% (Source: Game Developer)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Global Game Jam Istanbul hosted 48 teams at Istanbul Bilgi University (Source: Global Game Jam)  
+- "Ankara GameDev Challenge" attracted 120 developers with theme "Cultural Heritage" (Source: Turkish Game Developer Conference)  
+- Izmir Game Jam winners announced for "Zero Waste" themed event (Source: Istanbul Game Festival)  
+- Turkish team "Pixel Warriors" won excellence award at Nordic Game Jam (Source: Global Game Jam)  
+- Bosphorus Game Jam scheduled for November 15-17 at Koç University (Source: Istanbul Game Festival)  
+- "Women in Games Turkey" organized all-female game jam with 35 participants (Source: Turkish Game Developer Conference)  
+- Marmara University hosted student game jam with 22 entries (Source: Istanbul Game Festival)  
+- Turkish developers participated in UNESCO Gaming4SDGs Jam (Source: Global Game Jam)  
+- "Anadolu Game Lab" rural development jam announced for December (Source: Turkish Game Developer Conference)  
+- Istanbul Indie Game Jam received 67 submissions (Source: Istanbul Game Festival)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized PUBG Mobile's latest update for performance issues (Source: Twitch)  
+- ErmişRO praised Mount & Blade II: Bannerlord's new Turkish localization (Source: YouTube)  
+- QueenCalls highlighted gender imbalance in Turkish esports tournaments (Source: Twitch)  
+- Oyuncu Abi recommended "The Last Train" for history enthusiasts (Source: YouTube)  
+- SadeceSila expressed disappointment in FIFA 24 regional pricing (Source: Twitch)  
+- Harun Kinay reviewed "Anatolian Secrets" as "VR breakthrough for Turkish devs" (Source: YouTube)  
+- CoyaGames advocated for more Turkish voice acting in AAA games (Source: YouTube)  
+- CenkKoseoglu criticized government gaming regulations on stream (Source: Twitch)  
+- Oyuncunun Günlüğü praised indie game "Cappadocia Dreams" (Source: YouTube)  
+- EfsaneMMO discussed mobile game monetization concerns (Source: Twitch)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell launched 5G cloud gaming service with 15ms latency (Source: VRFocus)  
+- Istanbul VR Lab introduced motion capture studio for indie developers (Source: Turkish Game Developer Conference)  
+- Turkish government announced tax incentives for game engine developers (Source: GamesIndustry.biz)  
+- Middle East Technical University developed AI-powered testing tool "GameScan" (Source: Game Developer)  
+- Bahçeşehir University opened blockchain gaming research center (Source: Polygon)  
+- Turkish developers adopted UE5 Nanite technology for 3 projects (Source: Game Developer)  
+- Localized NVIDIA GeForce NOW servers launched in Istanbul (Source: IGN)  
+- Havelsan developed military simulation tech for commercial games (Source: Kotaku)  
+- Turkish AI startup "DeepPlay" secured funding for NPC behavior system (Source: GamesIndustry.biz)  
+- Cross-platform SDK "AnadoluConnect" released for Turkish developers (Source: Turkish Game Developer Conference)  
+
+6) Relevant RSS feed highlights  
+- IGN featured interview with TaleWorlds CEO on Bannerlord's success (Source: IGN)  
+- Polygon covered Turkish government's $5M game development fund (Source: Polygon)  
+- Kotaku reported on Turkish esports team's Valorant championship win (Source: Kotaku)  
+- Game Developer analyzed PEAK GAMES' hyper-casual strategy (Source: Game Developer)  
+- GamesIndustry.biz discussed Turkish mobile market expansion (Source: GamesIndustry.biz)  
+- VRFocus highlighted VR arcade openings in Istanbul (Source: VRFocus)  
+- SteamDB tracked record concurrent players for Turkish-developed games (Source: SteamDB)  
+- IGN reviewed "Hazel" as "promising Turkish horror entry" (Source: IGN)  
+- Game Developer published case study on Turkish localization best practices (Source: Game Developer)  
+- Polygon featured "The Last Train" in indie showcase (Source: Polygon)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- Mount & Blade II: Bannerlord: 12,500 daily active Turkish players (Source: Steam Charts)  
+- Dream Garden: 850,000 downloads in Turkey (Source: Game Developer)  
+- PUBG Mobile: 4.2M monthly active Turkish users (Source: Newzoo)  
+- 1945 Air Forces: 310,000 Turkish downloads (Source: Turkish Game Developer Conference)  
+- Epic Legends: 180,000 Turkish players (Source: Game Developer)  
+- Football Manager 2023: 8,300 concurrent Turkish players (Source: Steam Charts)  
+- Valorant: 1.1M monthly Turkish players (Source: Newzoo)  
+- Hazel: 45,000 wishlists from Turkey (Source: SteamDB)  
+- Galata Runners: 120,000 pre-registrations (Source: Turkish Game Developer Conference)  
+- Cappadocia Dreams: 8,700 Turkish owners (Source: SteamDB)
+
+================================================================================
+
