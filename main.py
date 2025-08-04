@@ -15,9 +15,6 @@ api_key = os.getenv("TOGETHER_API_KEY")
 telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
 telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
-print("Yüklenen TELEGRAM_BOT_TOKEN:", telegram_token[:5] + "***")
-print("Yüklenen TELEGRAM_CHAT_ID:", telegram_chat_id[:5] + "***")
-
 system_prompt = """
 You are a research assistant focusing exclusively on the Turkish game development ecosystem.
 
@@ -87,14 +84,6 @@ llm = ChatOpenAI(
     max_tokens=4096,
 )
 
-def is_all_sections_empty(text):
-    expected_sections = ["1)", "2)", "3)", "4)", "5)", "6)", "7)"]
-    return all(
-        "There is no new update" in line
-        for line in text.splitlines()
-        if line.strip() and any(s in line for s in expected_sections)
-    )
-
 def main():
     try:
         messages = [
@@ -125,13 +114,8 @@ def main():
             return
 
         previous_raw = load_previous_text()
-        all_sections_empty_flag = is_all_sections_empty(raw_output)
 
-        print("\n=== KARŞILAŞTIRMA ===")
-        print("Yeni çıktı:", raw_output[:300])
-        print("\nÖnceki çıktı:", previous_raw[:300])
-        print("Veri karşılaştırması yapılıyor...")
-
+        # İlk çalıştırma: önceki veri yoksa yine mesaj gönder
         if not previous_raw.strip():
             success = prepare_and_send_message(
                 new_output=raw_output,
@@ -145,6 +129,7 @@ def main():
                 print("İlk çalıştırmada mesaj gönderilemedi.")
             return
 
+        # Önceki ile fark var mı? Varsa mesaj gönder
         if has_new_data(raw_output, previous_raw):
             success = prepare_and_send_message(
                 new_output=raw_output,
@@ -156,12 +141,19 @@ def main():
                 print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
             else:
                 print("Mesaj gönderilemedi ama dosyalar güncellendi.")
-
         else:
-            print("Yeni veri yok, mesaj gönderilmiyor.")
+            print("Yeni veri yok ama mesaj yine de gönderiliyor...")
+            success = prepare_and_send_message(
+                new_output=raw_output,
+                previous_output=previous_raw,
+                bot_token=telegram_token,
+                chat_id=telegram_chat_id
+            )
+            if success:
+                print("Aynı veri de olsa mesaj gönderildi.")
+            else:
+                print("Aynı veri gönderilemedi.")
 
     except Exception as e:
         print("Genel hata:", e)
 
-if __name__ == "__main__":
-    main()
