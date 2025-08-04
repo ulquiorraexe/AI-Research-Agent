@@ -1,11 +1,7 @@
 from dotenv import load_dotenv
 import os
 from langchain_openai import ChatOpenAI
-from langchain_core.messages import (
-    SystemMessage,
-    HumanMessage,
-)
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.messages import SystemMessage, HumanMessage
 from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, ValidationError
 from utils import (
@@ -16,7 +12,6 @@ from utils import (
     send_to_telegram
 )
 
-# .env dosyasını yükle
 load_dotenv()
 
 api_key = os.getenv("TOGETHER_API_KEY")
@@ -32,7 +27,6 @@ class ResearchResponse(BaseModel):
     rss_feeds: str
     popular_games: str 
 
-# Prompt metni
 system_prompt = """
 You are a research assistant focusing exclusively on the Turkish game development ecosystem.
 
@@ -108,13 +102,10 @@ parser = PydanticOutputParser(pydantic_object=ResearchResponse)
 
 def main():
     try:
-        # Mesaj dizisi: önce system sonra human
         messages = [
             SystemMessage(content=system_prompt),
             HumanMessage(content=query)
         ]
-
-        # LLM çağrısı
         response = llm(messages)
         raw_output = response.content
 
@@ -122,7 +113,6 @@ def main():
             print("Boş çıktı alındı. İşlem yapılmıyor.")
             return
 
-        # Pydantic ile parse etmeye çalış
         try:
             parsed = parser.parse(raw_output)
         except ValidationError as ve:
@@ -132,13 +122,11 @@ def main():
 
         previous_raw = load_previous_text()
         if not previous_raw.strip():
-            # İlk çalıştırma: tam çıktı gönder
             send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
             save_current_text(raw_output, "previous_output.txt")
             save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
             print("İlk çalıştırma: tam çıktı gönderildi ve dosyalar kaydedildi.")
         elif has_new_data(raw_output, previous_raw):
-            # Yeni içerik varsa telegrama gönder ve dosyaları güncelle
             success = prepare_and_send_message(
                 new_output=raw_output,
                 previous_output=previous_raw,
@@ -154,7 +142,6 @@ def main():
 
     except Exception as e:
         print("Genel hata:", e)
-
 
 if __name__ == "__main__":
     main()
