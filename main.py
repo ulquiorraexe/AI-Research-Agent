@@ -106,7 +106,7 @@ def main():
             SystemMessage(content=system_prompt),
             HumanMessage(content=query)
         ]
-        response = llm(messages)
+        response = llm.invoke(messages)
         raw_output = response.content
 
         if not raw_output.strip():
