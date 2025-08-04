@@ -33,7 +33,8 @@ Instructions for all sections:
 
 - Include **at least 10 unique and detailed items** (e.g., news, events, statistics).
 - Every item **must include a source** in this format: `(Source: Name or URL)`.
-- Use **only the sources listed below**. Do **not hallucinate or guess** any information.
+- Use the sources listed below as a reference and prioritize them.
+- If needed, you may also include general publicly available data that you believe is reliable.
 - Do **not** add any explanations, analysis, or personal commentary — only the structured report.
 - Use **today’s date** for all findings.
 - If any section has no updates, write: “There is no new update in this category today.”
