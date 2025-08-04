@@ -133,29 +133,30 @@ def main():
         print("Veri karşılaştırması yapılıyor...")
 
         if not previous_raw.strip():
-            if all_sections_empty_flag:
-                print("İlk çalıştırma: Rapor boş, mesaj gönderilmiyor.")
+            success = prepare_and_send_message(
+                new_output=raw_output,
+                previous_output="",
+                bot_token=telegram_token,
+                chat_id=telegram_chat_id
+            )
+            if success:
+                print("İlk çalıştırma: Tam rapor gönderildi.")
             else:
-                success = prepare_and_send_message(
-                    new_output=raw_output,
-                    previous_output="",
-                    bot_token=telegram_token,
-                    chat_id=telegram_chat_id
-                )
-                print("İlk çalıştırma: Tam rapor gönderildi." if success else "İlk çalıştırmada mesaj gönderilemedi.")
+                print("İlk çalıştırmada mesaj gönderilemedi.")
             return
 
         if has_new_data(raw_output, previous_raw):
-            if all_sections_empty_flag:
-                print("Yeni çıktı boş ve fark var ama gönderilmeyecek.")
+            success = prepare_and_send_message(
+                new_output=raw_output,
+                previous_output=previous_raw,
+                bot_token=telegram_token,
+                chat_id=telegram_chat_id
+            )
+            if success:
+                print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
             else:
-                success = prepare_and_send_message(
-                    new_output=raw_output,
-                    previous_output=previous_raw,
-                    bot_token=telegram_token,
-                    chat_id=telegram_chat_id
-                )
-                print("Yeni veri bulundu ve mesaj gönderildi." if success else "Yeni veri bulundu ama mesaj gönderilemedi.")
+                print("Mesaj gönderilemedi ama dosyalar güncellendi.")
+
         else:
             print("Yeni veri yok, mesaj gönderilmiyor.")
 
