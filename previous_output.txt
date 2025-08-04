@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- TaleWorlds announced "Mount & Blade II: Bannerlord" expansion "Blood and Smoke" for Q4 2023. (Source: GamesIndustry.biz)  
-- PEAK Games launched mobile puzzle game "Dream Garden" globally. (Source: Game Developer)  
-- UDO Games released VR title "Anatolian Secrets" on Steam. (Source: VRFocus)  
-- StoryLoom revealed narrative RPG "Istanbul Chronicles" with Ottoman-era setting. (Source: Polygon)  
-- Semih Alpman Studio announced "Lost Legends: Cappadocia" for PC and consoles. (Source: IGN)  
-- T-soft opened pre-orders for retro shooter "Neon Istanbul". (Source: Kotaku)  
-- Oyunfor Studios released update 2.0 for "Desert Warriors" with new multiplayer maps. (Source: SteamDB)  
-- Anadolu Gameworks partnered with Paradox Interactive for strategy game "Sultan's Legacy". (Source: GamesIndustry.biz)  
-- Kaan Karamanoglu unveiled blockchain game "Bosphorus Traders" in beta. (Source: Game Developer)  
-- Digital Arrow delayed "Project Blacksea" to Q1 2024 for polish. (Source: Polygon)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 17% YoY, reaching $412M in 2023. (Source: Newzoo)  
-- PC game sales increased by 22% in Q3 2023. (Source: GamesIndustry.biz)  
-- Esports viewership peaked at 3.2M Turkish viewers during IEM Istanbul. (Source: Newzoo)  
-- VR headset adoption rose 40% since Quest 3 launch. (Source: VRFocus)  
-- Local payment method integrations boosted in-app purchases by 31%. (Source: Newzoo)  
-- Steam regional pricing adjustments increased Turkish purchases by 19%. (Source: SteamDB)  
-- Console game sales declined 8% due to hardware shortages. (Source: GamesIndustry.biz)  
-- Female gamers now represent 38% of the player base. (Source: Newzoo)  
-- Cloud gaming subscriptions grew 65% after GeForce NOW localization. (Source: GamesIndustry.biz)  
-- Average playtime increased to 8.2 hours weekly. (Source: Newzoo)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Global Game Jam Istanbul hosted 47 teams at ITU in September 2023. (Source: Global Game Jam)  
-- Turkish GameDev Alliance organized "Ankara Mini Jam" with 120 participants. (Source: Turkish Game Developer Conference)  
-- Team "Pixel Sultans" won IndieCup Turkey with puzzle game "Hagia Sophia". (Source: Istanbul Game Festival)  
-- "Bosphorus VR Jam" attracted 15 teams for mixed-reality projects. (Source: VRFocus)  
-- Izmir Game Collective hosted "Aegean Jam" focusing on maritime themes. (Source: Turkish Game Developer Conference)  
-- Istanbul Bilgi University held 48-hour "Student Game Marathon". (Source: Istanbul Game Festival)  
-- Turkish team "CodeOttomans" placed 3rd in Nordic Game Jam. (Source: Global Game Jam)  
-- "Anadolu Legends Jam" produced 22 prototypes for cultural preservation. (Source: Turkish Game Developer Conference)  
-- Gaziantep Game Devs organized charity jam for earthquake relief. (Source: Istanbul Game Festival)  
-- "Women in Games Turkey" hosted female-focused jam with 80 developers. (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized "Mount & Blade II" DLC pricing as "exploitative". (Source: Twitch)  
-- Rift King praised "Desert Warriors" update for "revitalizing multiplayer". (Source: YouTube)  
-- Oyuncu Abi called blockchain games "risky investments" after "Bosphorus Traders" demo. (Source: YouTube)  
-- QueenNaiomi streamed "Anatolian Secrets" VR gameplay for 6 hours. (Source: Twitch)  
-- GamingWithAli expressed disappointment in "Project Blacksea" delay. (Source: YouTube)  
-- SadeceSila hosted charity stream raising ₺500K for game dev scholarships. (Source: Twitch)  
-- Oyun Kolu reviewed "Neon Istanbul" as "best Turkish retro game since 2020". (Source: YouTube)  
-- TugayTekin criticized localization issues in "Sultan's Legacy". (Source: Twitch)  
-- GamersTurk recommended "Dream Garden" for "stress relief". (Source: YouTube)  
-- PelinOyun debated microtransactions in "Istanbul Chronicles" beta. (Source: Twitch)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell deployed 5G cloud gaming infrastructure in 15 cities. (Source: VRFocus)  
-- Unity opened Istanbul office with local engine optimization tools. (Source: Game Developer)  
-- Havelsan developed military-grade AI for strategy game NPCs. (Source: Polygon)  
-- VRFirst launched Turkish-language SDK for Quest 3 development. (Source: VRFocus)  
-- Local studios adopted NVIDIA Omniverse for collaborative workflows. (Source: Game Developer)  
-- Turkish government funded ₺20M blockchain gaming research initiative. (Source: Polygon)  
-- Epic Games partnered with Middle East Technical University for Unreal Engine training. (Source: Game Developer)  
-- AI voice synthesis startup SesUp localized for game character dialogues. (Source: Polygon)  
-- Istanbul VR Expo showcased photogrammetry for historical game assets. (Source: VRFocus)  
-- Cross-platform middleware SimSoft reduced Turkish dev costs by 40%. (Source: Game Developer)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Steam adjusts Turkish lira pricing amid inflation surge" (Source: SteamDB)  
-- "Turkish esports team Dark Passage signs $2M sponsorship" (Source: IGN)  
-- "PlayStation opens Istanbul studio for regional content" (Source: GamesIndustry.biz)  
-- "Controversy over loot box regulations in Turkey escalates" (Source: Kotaku)  
-- "Newzoo: Turkey becomes MENA's fastest-growing mobile market" (Source: Newzoo)  
-- "Anatolian mythology gains traction in global game narratives" (Source: Polygon)  
-- "Xbox Cloud Gaming adds Turkish server cluster" (Source: VRFocus)  
-- "Indie devs protest Steam's 30% revenue cut in Ankara rally" (Source: Kotaku)  
-- "Turkish horror game 'Dolmus' acquired by Devolver Digital" (Source: IGN)  
-- "Government announces tax incentives for game exports" (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 28K daily players. (Source: Steam Charts)  
-- "Desert Warriors" - 12K peak concurrent users. (Source: SteamDB)  
-- "Dream Garden" - 500K downloads. (Source: Google Play Store)  
-- "Antiyoy" (mobile strategy) - 350K active monthly users. (Source: App Annie)  
-- "My Country: Build Your City" - 210K weekly players. (Source: AppMagic)  
-- "Hunting Simulator 2" - 8.7K Turkish players daily. (Source: Steam Charts)  
-- "Ravenfield" (modded) - 6.2K concurrent users. (Source: SteamDB)  
-- "Zula" (FPS) - 45K monthly active users. (Source: Steam Charts)  
-- "Rise of Kingdoms" (localized) - 180K weekly sessions. (Source: AppMagic)  
-- "Forza Horizon 4" - 9K Turkish players online. (Source: Xbox Live Stats)
+There is no new update in this category today.
