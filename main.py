@@ -131,10 +131,16 @@ def main():
             if all_sections_empty:
                 print("İlk çalıştırma: Rapor boş, mesaj gönderilmiyor.")
             else:
-                send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
-                print("İlk çalıştırma: Tam rapor gönderildi.")
-            save_current_text(raw_output, "previous_output.txt")
-            save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
+                success = prepare_and_send_message(
+                    new_output=raw_output,
+                    previous_output="",
+                    bot_token=telegram_token,
+                    chat_id=telegram_chat_id
+                )
+                if success:
+                    print("İlk çalıştırma: Tam rapor gönderildi.")
+                else:
+                    print("İlk çalıştırmada mesaj gönderilemedi.")
             return
 
         # Önceki ile fark var mı?
@@ -152,8 +158,6 @@ def main():
                     print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
                 else:
                     print("Mesaj gönderilemedi ama dosyalar güncellendi.")
-            save_current_text(raw_output, "previous_output.txt")
-            save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
         else:
             print("Yeni veri yok, hiçbir mesaj gönderilmedi.")
 
