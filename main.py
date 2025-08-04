@@ -129,31 +129,22 @@ def main():
                 print("İlk çalıştırmada mesaj gönderilemedi.")
             return
 
-        # Önceki ile fark var mı? Varsa mesaj gönder
+        # Her zaman mesaj gönder ama fark var mı logla
         if has_new_data(raw_output, previous_raw):
-            success = prepare_and_send_message(
-                new_output=raw_output,
-                previous_output=previous_raw,
-                bot_token=telegram_token,
-                chat_id=telegram_chat_id
-            )
-            if success:
-                print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
-            else:
-                print("Mesaj gönderilemedi ama dosyalar güncellendi.")
+            print("Yeni veri bulundu, gönderiliyor...")
         else:
             print("Yeni veri yok ama mesaj yine de gönderiliyor...")
-            success = prepare_and_send_message(
-                new_output=raw_output,
-                previous_output=previous_raw,
-                bot_token=telegram_token,
-                chat_id=telegram_chat_id
-            )
-            if success:
-                print("Aynı veri de olsa mesaj gönderildi.")
-            else:
-                print("Aynı veri gönderilemedi.")
+
+        success = prepare_and_send_message(
+            new_output=raw_output,
+            previous_output=previous_raw,
+            bot_token=telegram_token,
+            chat_id=telegram_chat_id
+        )
+        if success:
+            print("Mesaj gönderildi ve dosyalar güncellendi.")
+        else:
+            print("Mesaj gönderilemedi.")
 
     except Exception as e:
         print("Genel hata:", e)
-
