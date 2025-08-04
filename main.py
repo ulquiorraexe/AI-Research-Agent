@@ -7,7 +7,6 @@ from utils import (
     save_current_text,
     has_new_data,
     prepare_and_send_message,
-    send_to_telegram
 )
 
 load_dotenv()
@@ -16,8 +15,8 @@ api_key = os.getenv("TOGETHER_API_KEY")
 telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
 telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
-print("Yüklenen TELEGRAM_BOT_TOKEN:", telegram_token)
-print("Yüklenen TELEGRAM_CHAT_ID:", telegram_chat_id)
+print("Yüklenen TELEGRAM_BOT_TOKEN:", telegram_token[:5] + "***")
+print("Yüklenen TELEGRAM_CHAT_ID:", telegram_chat_id[:5] + "***")
 
 system_prompt = """
 You are a research assistant focusing exclusively on the Turkish game development ecosystem.
@@ -88,6 +87,14 @@ llm = ChatOpenAI(
     max_tokens=4096,
 )
 
+def is_all_sections_empty(text):
+    expected_sections = ["1)", "2)", "3)", "4)", "5)", "6)", "7)"]
+    return all(
+        "There is no new update" in line
+        for line in text.splitlines()
+        if line.strip() and any(s in line for s in expected_sections)
+    )
+
 def main():
     try:
         messages = [
@@ -118,42 +125,37 @@ def main():
             return
 
         previous_raw = load_previous_text()
+        all_sections_empty_flag = is_all_sections_empty(raw_output)
 
         print("\n=== KARŞILAŞTIRMA ===")
-        print("Yeni çıktı:", raw_output[:500])
-        print("Önceki çıktı:", previous_raw[:500])
+        print("Yeni çıktı:", raw_output[:300])
+        print("\nÖnceki çıktı:", previous_raw[:300])
+        print("Veri karşılaştırması yapılıyor...")
 
-        # İlk çalıştırma
         if not previous_raw.strip():
-            print("İlk çalıştırma algılandı.")
-            success = prepare_and_send_message(
-                new_output=raw_output,
-                previous_output="",
-                bot_token=telegram_token,
-                chat_id=telegram_chat_id
-            )
-            if success:
-                print("İlk çalıştırma: Tam rapor gönderildi.")
+            if all_sections_empty_flag:
+                print("İlk çalıştırma: Rapor boş, mesaj gönderilmiyor.")
             else:
-                print("İlk çalıştırmada mesaj gönderilemedi.")
+                success = prepare_and_send_message(
+                    new_output=raw_output,
+                    previous_output="",
+                    bot_token=telegram_token,
+                    chat_id=telegram_chat_id
+                )
+                print("İlk çalıştırma: Tam rapor gönderildi." if success else "İlk çalıştırmada mesaj gönderilemedi.")
             return
 
-        # Yeni veri kontrolü
-        print("Veri karşılaştırması yapılıyor...")
-        changed = has_new_data(raw_output, previous_raw)
-        print("has_new_data sonucu:", changed)
-
-        if changed:
-            success = prepare_and_send_message(
-                new_output=raw_output,
-                previous_output=previous_raw,
-                bot_token=telegram_token,
-                chat_id=telegram_chat_id
-            )
-            if success:
-                print("Yeni veri bulundu ve mesaj gönderildi.")
+        if has_new_data(raw_output, previous_raw):
+            if all_sections_empty_flag:
+                print("Yeni çıktı boş ve fark var ama gönderilmeyecek.")
             else:
-                print("Yeni veri bulundu ama mesaj gönderilemedi.")
+                success = prepare_and_send_message(
+                    new_output=raw_output,
+                    previous_output=previous_raw,
+                    bot_token=telegram_token,
+                    chat_id=telegram_chat_id
+                )
+                print("Yeni veri bulundu ve mesaj gönderildi." if success else "Yeni veri bulundu ama mesaj gönderilemedi.")
         else:
             print("Yeni veri yok, mesaj gönderilmiyor.")
 
