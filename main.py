@@ -2,8 +2,6 @@ from dotenv import load_dotenv
 import os
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage
-from langchain_core.output_parsers import PydanticOutputParser
-from pydantic import BaseModel, ValidationError
 from utils import (
     load_previous_text,
     save_current_text,
@@ -17,15 +15,6 @@ load_dotenv()
 api_key = os.getenv("TOGETHER_API_KEY")
 telegram_token = os.getenv("TELEGRAM_BOT_TOKEN")
 telegram_chat_id = os.getenv("TELEGRAM_CHAT_ID")
-
-class ResearchResponse(BaseModel):
-    new_releases: str
-    market_trends: str
-    game_jams: str
-    community_opinions: str
-    tech_developments: str
-    rss_feeds: str
-    popular_games: str 
 
 system_prompt = """
 You are a research assistant focusing exclusively on the Turkish game development ecosystem.
@@ -98,8 +87,6 @@ llm = ChatOpenAI(
     max_tokens=4096,
 )
 
-parser = PydanticOutputParser(pydantic_object=ResearchResponse)
-
 def main():
     try:
         messages = [
@@ -113,11 +100,13 @@ def main():
             print("Boş çıktı alındı. İşlem yapılmıyor.")
             return
 
-        try:
-            parsed = parser.parse(raw_output)
-        except ValidationError as ve:
-            print("Parsing sırasında hata oluştu:", ve)
-            print("Ham çıktı:", raw_output)
+        # 7 başlık içerip içermediğini kontrol et
+        expected_sections = [
+            "1)", "2)", "3)", "4)", "5)", "6)", "7)"
+        ]
+        if not all(section in raw_output for section in expected_sections):
+            print("Beklenen 7 başlık bulunamadı. Ham çıktı aşağıda:")
+            print(raw_output)
             return
 
         previous_raw = load_previous_text()
