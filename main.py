@@ -109,7 +109,6 @@ def main():
                 break
             else:
                 print("Eksik başlık var, tekrar deneniyor...")
-
         else:
             print("3 denemeden sonra başlıklar tamamlanamadı. Ham çıktı:")
             print(raw_output)
@@ -117,10 +116,20 @@ def main():
 
         previous_raw = load_previous_text()
 
+        # Bütün satırlar "There is no new update" içeriyor mu?
+        def is_all_sections_empty(text):
+            return all(
+                "There is no new update" in line
+                for line in text.splitlines()
+                if line.strip() and any(s in line for s in expected_sections)
+            )
+
+        all_sections_empty = is_all_sections_empty(raw_output)
+
+        # İlk çalıştırma
         if not previous_raw.strip():
-            if "There is no new update" in raw_output:
-                send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
-                print("İlk çalıştırma: Güncelleme yok mesajı gönderildi.")
+            if all_sections_empty:
+                print("İlk çalıştırma: Rapor boş, mesaj gönderilmiyor.")
             else:
                 send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
                 print("İlk çalıştırma: Tam rapor gönderildi.")
@@ -128,25 +137,26 @@ def main():
             save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
             return
 
+        # Önceki ile fark var mı?
         if has_new_data(raw_output, previous_raw):
-            success = prepare_and_send_message(
-                new_output=raw_output,
-                previous_output=previous_raw,
-                bot_token=telegram_token,
-                chat_id=telegram_chat_id
-            )
-            if success:
-                print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
+            if all_sections_empty:
+                print("Yeni çıktı boş, mesaj gönderilmiyor.")
             else:
-                print("Mesaj gönderilemedi ama dosyalar güncellendi.")
+                success = prepare_and_send_message(
+                    new_output=raw_output,
+                    previous_output=previous_raw,
+                    bot_token=telegram_token,
+                    chat_id=telegram_chat_id
+                )
+                if success:
+                    print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
+                else:
+                    print("Mesaj gönderilemedi ama dosyalar güncellendi.")
             save_current_text(raw_output, "previous_output.txt")
             save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
         else:
-            send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
-            print("Yeni gelişme yok mesajı gönderildi.")
+            print("Yeni veri yok, hiçbir mesaj gönderilmedi.")
 
     except Exception as e:
         print("Genel hata:", e)
 
-if __name__ == "__main__":
-    main()
