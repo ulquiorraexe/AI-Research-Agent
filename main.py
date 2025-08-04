@@ -33,10 +33,10 @@ class ResearchResponse(BaseModel):
 
 llm = ChatOpenAI(
     openai_api_key=api_key,
-    openai_api_base="https://api.together.xyz/v1",
-    model="mistralai/Mixtral-8x7B-Instruct-v0.1",
+    openai_api_base="https://openrouter.ai/api/v1",
+    model="deepseek/deepseek-r1-0528:free",
     temperature=0.0,
-    max_completion_tokens=4096
+    max_tokens=4096,
 )
 parser = PydanticOutputParser(pydantic_object=ResearchResponse)
 
@@ -44,10 +44,10 @@ prompt = ChatPromptTemplate.from_messages(
     [
         (
             "system", """
-            You are a research assistant focusing on the Turkish game development ecosystem.
+            You are a research assistant focusing exclusively on the Turkish game development ecosystem.
 
-            Your task is to generate a detailed, structured report in 7 numbered sections:
-
+            Your task is to generate a detailed and structured report in exactly 7 numbered sections:
+            
             1) New Turkish game releases and developer announcements  
             2) Turkish game market trends and sales data  
             3) Game jams in Turkey or with Turkish participants  
@@ -55,20 +55,20 @@ prompt = ChatPromptTemplate.from_messages(
             5) Technological developments impacting the Turkish gaming industry  
             6) Relevant RSS feed highlights  
             7) Currently popular Turkish games in the Turkish gaming market
-
-            For each section:
-
-            - Include **at least 10 detailed items** (news, events, stats, etc.).
-            - After each item, include the **source** in the format: `(Source: Name or URL)`.
-            - Write clearly, without unnecessary repetition or generic phrases.
-            - Do **not** include extra explanation, just the report.
-            - Do **not** break the numbered structure.
-            - Perform research relevant to the **Turkish** gaming industry as of **today's date**.
-            - Only use the sources I've provided — do not rely on external data or tools.
-            - In section 7 (popular games), include download or player count statistics for each game **specifically within Turkey**, where possible.
-
-            Only use these sources for your answers:
-
+            
+            Instructions for all sections:
+            
+            - Include **at least 10 unique and detailed items** (e.g., news, events, statistics).
+            - Every item **must include a source** in this format: `(Source: Name or URL)`.
+            - Use **only the sources listed below**. Do **not hallucinate or guess** any information.
+            - Do **not** add any explanations, analysis, or personal commentary — only the structured report.
+            - Use **today’s date** for all findings.
+            - If any section has no updates, write: “There is no new update in this category today.”
+            - In section 7, include download count **within Turkey** where available.
+            - Do not repeat the same item across multiple sections.
+            
+            You may use content **only** from the following sources:
+            
             - GamesIndustry.biz  
             - IGN  
             - Game Developer  
@@ -83,10 +83,10 @@ prompt = ChatPromptTemplate.from_messages(
             - YouTube (Turkish gaming creators)  
             - Newzoo  
             - VRFocus  
-
-            Return only the structured report in this 7-part format, no other commentary.
-            Ensure the output is complete and do not stop mid-sentence. Finish all 7 sections fully.
-            Avoid any repetition or duplicate content across the seven sections. Each item must be unique and not repeated in any other section. 
+            
+            Your response must include **all 7 sections in full**, clearly numbered and titled as above.
+            Return the report only — no introduction, no closing note.
+ 
             """,
         ),
         ("placeholder", "{chat_history}"),
