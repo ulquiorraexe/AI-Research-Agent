@@ -94,45 +94,50 @@ def main():
             HumanMessage(content=query)
         ]
         response = llm.invoke(messages)
-        raw_output = response.content
+        raw_output = response.content.strip()
 
-        if not raw_output.strip():
+        if not raw_output:
             print("Boş çıktı alındı. İşlem yapılmıyor.")
             return
 
         # 7 başlık içerip içermediğini kontrol et
-        expected_sections = [
-            "1)", "2)", "3)", "4)", "5)", "6)", "7)"
-        ]
+        expected_sections = ["1)", "2)", "3)", "4)", "5)", "6)", "7)"]
         if not all(section in raw_output for section in expected_sections):
             print("Beklenen 7 başlık bulunamadı. Ham çıktı aşağıda:")
             print(raw_output)
             return
 
         previous_raw = load_previous_text()
+
+        # İlk çalıştırma
         if not previous_raw.strip():
             if "There is no new update" in raw_output:
                 send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
                 print("İlk çalıştırma: Güncelleme yok mesajı gönderildi.")
             else:
                 send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
-                print("İlk çalıştırma: tam çıktı gönderildi.")
-        
+                print("İlk çalıştırma: Tam rapor gönderildi.")
             save_current_text(raw_output, "previous_output.txt")
             save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
-                elif has_new_data(raw_output, previous_raw):
-                    success = prepare_and_send_message(
-                        new_output=raw_output,
-                        previous_output=previous_raw,
-                        bot_token=telegram_token,
-                        chat_id=telegram_chat_id
+            return
+
+        # Önceki ile fark var mı?
+        if has_new_data(raw_output, previous_raw):
+            success = prepare_and_send_message(
+                new_output=raw_output,
+                previous_output=previous_raw,
+                bot_token=telegram_token,
+                chat_id=telegram_chat_id
             )
             if success:
                 print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
             else:
-                print("Mesaj gönderiminde hata oluştu ama dosyalar güncellendi.")
+                print("Mesaj gönderilemedi ama dosyalar güncellendi.")
+            save_current_text(raw_output, "previous_output.txt")
+            save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
         else:
             send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
+            print("Yeni gelişme yok mesajı gönderildi.")
 
     except Exception as e:
         print("Genel hata:", e)
