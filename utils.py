@@ -25,19 +25,17 @@ def save_current_text(text, filepath="previous_output.txt"):
         f.write(text)
 
 def has_new_data(new_text: str, old_text: str) -> bool:
-    def is_empty_report(text: str) -> bool:
-        return all(
-            "There is no new update" in line
-            for line in text.splitlines()
-            if line.strip() and re.match(r"^\d\)", line)
-        )
+    new_cats = split_into_categories(new_text)
+    old_cats = split_into_categories(old_text)
 
-    if is_empty_report(new_text) and is_empty_report(old_text):
-        return False  # ikisi de boşsa yeni veri yok
+    compared = compare_categories(new_cats, old_cats)
 
-    new_clean = " ".join(new_text.split())
-    old_clean = " ".join(old_text.split())
-    return new_clean != old_clean
+    # Eğer tüm kategoriler "Bugün bu kategoride yeni bir gelişme yok." diyorsa, yeni veri yoktur
+    return not all(
+        ("Bugün bu kategoride yeni bir gelişme yok." in cat)
+        for cat in compared
+    )
+
 
 def escape_html(text: str) -> str:
     return (
