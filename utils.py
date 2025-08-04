@@ -24,17 +24,21 @@ def save_current_text(text, filepath="previous_output.txt"):
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(text)
 
-def has_new_data(new_text: str, old_text: str) -> bool:
-    new_cats = split_into_categories(new_text)
-    old_cats = split_into_categories(old_text)
+def has_new_data(new_output: str, previous_output: str) -> bool:
+    """Gerçekten anlamlı bir fark var mı kontrol eder."""
+    # Normalize etmek için boşlukları, tarihleri sadeleştir
+    def normalize(text: str) -> str:
+        return '\n'.join([line.strip() for line in text.strip().splitlines() if line.strip()])
 
-    compared = compare_categories(new_cats, old_cats)
+    norm_new = normalize(new_output)
+    norm_prev = normalize(previous_output)
 
-    # Eğer tüm kategoriler "Bugün bu kategoride yeni bir gelişme yok." diyorsa, yeni veri yoktur
-    return not all(
-        ("Bugün bu kategoride yeni bir gelişme yok." in cat)
-        for cat in compared
-    )
+    if norm_new == norm_prev:
+        return False
+
+    # Fark varsa % oranına göre karşılaştır
+    ratio = difflib.SequenceMatcher(None, norm_new, norm_prev).ratio()
+    return ratio < 0.995  # %99.5'ten düşükse anlamlı fark varsay
 
 
 def escape_html(text: str) -> str:
