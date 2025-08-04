@@ -111,16 +111,21 @@ def main():
 
         previous_raw = load_previous_text()
         if not previous_raw.strip():
-            send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
+            if "There is no new update" in raw_output:
+                send_to_telegram("Bugün yeni bir gelişme yok.", bot_token=telegram_token, chat_id=telegram_chat_id)
+                print("İlk çalıştırma: Güncelleme yok mesajı gönderildi.")
+            else:
+                send_to_telegram(raw_output, bot_token=telegram_token, chat_id=telegram_chat_id)
+                print("İlk çalıştırma: tam çıktı gönderildi.")
+        
             save_current_text(raw_output, "previous_output.txt")
             save_current_text(raw_output + "\n\n---\n\n", "research_output.txt")
-            print("İlk çalıştırma: tam çıktı gönderildi ve dosyalar kaydedildi.")
-        elif has_new_data(raw_output, previous_raw):
-            success = prepare_and_send_message(
-                new_output=raw_output,
-                previous_output=previous_raw,
-                bot_token=telegram_token,
-                chat_id=telegram_chat_id
+                elif has_new_data(raw_output, previous_raw):
+                    success = prepare_and_send_message(
+                        new_output=raw_output,
+                        previous_output=previous_raw,
+                        bot_token=telegram_token,
+                        chat_id=telegram_chat_id
             )
             if success:
                 print("Mesaj başarıyla gönderildi ve dosyalar güncellendi.")
