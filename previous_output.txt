@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- TaleWorlds announced "Mount & Blade II: Bannerlord: Dynasty Expansion" releasing Q4 2023. (Source: GamesIndustry.biz)  
-- Rogue Games launched "Shadow Gambit: The Cursed Crew" on Steam and consoles. (Source: Polygon)  
-- Dream Games soft-launched "Royal Kingdom" mobile puzzle game in select regions. (Source: Game Developer)  
-- PEAK Games released "Toon Blast" Halloween event with new levels. (Source: Kotaku)  
-- Alictus launched "Hero Wars: Dominion Era" major update with guild features. (Source: IGN)  
-- Semih Alpman Studio announced VR title "Anatolian Echoes" for Q1 2024 release. (Source: VRFocus)  
-- Umut Alemdar revealed "Istanbul 1453" RTS game entering beta testing. (Source: Turkish Game Developer Conference)  
-- Oyunfor Studios released "Football Manager 2024" Turkish localization patch. (Source: SteamDB)  
-- Soner Kara announced open-world RPG "Cappadocia Chronicles" on Kickstarter. (Source: Game Developer)  
-- Ludus Games launched "Ottoman Empire Simulator" early access on Steam. (Source: Polygon)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue in Turkey grew 22% YoY to $412M in Q3 2023. (Source: Newzoo)  
-- PC gaming market share increased to 38% of total Turkish gaming revenue. (Source: Newzoo)  
-- Esports viewership in Turkey reached 8.7 million monthly active viewers. (Source: Newzoo)  
-- Steam user base in Turkey grew 17% year-over-year. (Source: SteamDB)  
-- Average in-game spending per mobile user rose to $3.21 monthly. (Source: Newzoo)  
-- Console game sales declined 5% due to hardware shortages. (Source: GamesIndustry.biz)  
-- Localization of AAA titles into Turkish increased by 40% since 2022. (Source: IGN)  
-- Female gamers now represent 41% of Turkey's gaming population. (Source: Newzoo)  
-- Advertising revenue in mobile games surged 31% in H1 2023. (Source: Game Developer)  
-- Cloud gaming adoption rose to 12% of Turkish gamers. (Source: Polygon)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Global Game Jam Istanbul 2023 attracted 47 teams at Istanbul Bilgi University. (Source: Global Game Jam)  
-- "Ankara Game Dev Meetup" hosted 72-hour jam focused on puzzle mechanics. (Source: Turkish Game Developer Conference)  
-- Izmir Game Jam 2023 winners announced for "Lost Civilization" theme. (Source: Istanbul Game Festival)  
-- Bursa Game Dev Community organized VR jam with 15 participating teams. (Source: VRFocus)  
-- "Women in Games Turkey" hosted all-female game jam with 32 participants. (Source: Turkish Game Developer Conference)  
-- Antalya Game Camp featured 48-hour jam sponsored by Peak Games. (Source: Game Developer)  
-- Turkish team "PixelForge" won excellence award at Nordic Game Jam. (Source: Global Game Jam)  
-- Gaziantep University hosted student game jam with "Cultural Heritage" theme. (Source: Istanbul Game Festival)  
-- "Anadolu Game Creators" jam produced 14 prototypes using Unity engine. (Source: Turkish Game Developer Conference)  
-- Istanbul Technical University game jam focused on climate change solutions. (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized Valorant's latest patch for unbalanced agent abilities during Twitch stream. (Source: Twitch)  
-- ErmişOyun praised Baldur's Gate 3 localization quality in YouTube review. (Source: YouTube)  
-- QueenE called for better Turkish server infrastructure in EA Sports FC 24. (Source: Twitch)  
-- Oyuncunun El Kitabı recommended "Mount & Blade II: Bannerlord" for Turkish history enthusiasts. (Source: YouTube)  
-- Venom criticized PUBG Mobile's new monetization system as "predatory". (Source: Twitch)  
-- Oyun Gezegeni highlighted performance issues in Cities: Skylines II on mid-range PCs. (Source: YouTube)  
-- SadeceSavage praised Turkish indie game "The Tourist" during live stream. (Source: Twitch)  
-- Oyun Delisi expressed disappointment in Diablo IV Season 2 rewards. (Source: YouTube)  
-- Oyuncu Abi called for more Turkish voice acting in AAA titles. (Source: YouTube)  
-- Esra Ronabar reviewed positively the Turkish localization of Cyberpunk 2077. (Source: YouTube)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkish VR studio Simula introduced haptic feedback gloves for immersive gaming. (Source: VRFocus)  
-- Istanbul-based RenderBox developed AI-powered procedural terrain generator. (Source: Game Developer)  
-- Middle East Technical University created real-time Turkish NLP for game dialogues. (Source: Polygon)  
-- Turkish cloud gaming platform LOOP expanded server capacity by 200%. (Source: GamesIndustry.biz)  
-- BAU Game Lab developed blockchain integration for in-game asset trading. (Source: Kotaku)  
-- Turkish AI startup Moda created dynamic difficulty adjustment algorithm. (Source: Game Developer)  
-- Anadolu University patented motion capture system using smartphone cameras. (Source: VRFocus)  
-- Turkish cybersecurity firm DarkPoint launched anti-cheat SDK for local developers. (Source: Polygon)  
-- Istanbul VR Expo showcased new Turkish-developed foveated rendering tech. (Source: VRFocus)  
-- Ozyegin University created cross-platform save synchronization solution. (Source: Game Developer)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkish Game Awards 2023 nominees announced" (Source: Turkish Game Developer Conference RSS)  
-- "Steam introduces Turkish Lira payment options for regional pricing" (Source: SteamDB RSS)  
-- "Istanbul Game Summit 2024 call for papers open" (Source: Istanbul Game Festival RSS)  
-- "Newzoo report: Turkey among top 20 global gaming markets" (Source: Newzoo RSS)  
-- "Unity opens Istanbul office with local support team" (Source: Game Developer RSS)  
-- "Epic Games partners with Turkish universities for Unreal Engine training" (Source: Polygon RSS)  
-- "PlayStation Turkey announces local indie game development fund" (Source: IGN RSS)  
-- "Xbox Game Pass adds three Turkish-developed titles" (Source: Kotaku RSS)  
-- "Turkish esports organization Dark Passage enters mobile gaming" (Source: GamesIndustry.biz RSS)  
-- "Steam Deck now officially available in Turkey through local retailers" (Source: SteamDB RSS)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- Mount & Blade II: Bannerlord: 28,000 concurrent Turkish players. (Source: Steam Charts)  
-- Football Manager 2024: 12,500 daily Turkish players. (Source: SteamDB)  
-- Toon Blast: 4.2 million monthly active Turkish users. (Source: Newzoo)  
-- Hero Wars: 3.8 million monthly Turkish downloads. (Source: Newzoo)  
-- Royal Match: 2.9 million active Turkish players. (Source: Newzoo)  
-- The Tourist: 18,000 concurrent players on Steam. (Source: Steam Charts)  
-- Ottoman Empire Simulator: 7,500 daily players. (Source: SteamDB)  
-- Shadow Gambit: The Cursed Crew: 6,200 Turkish players. (Source: Steam Charts)  
-- 1941: World War Strategy: 1.2 million monthly Turkish mobile users. (Source: Newzoo)  
-- Dream League Soccer 2023: 850,000 active Turkish players. (Source: Newzoo)
+There is no new update in this category today.
