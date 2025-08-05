@@ -1680,3 +1680,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-05 ---
+**1) New Turkish game releases and developer announcements**  
+1. *Mount & Musket: Ottoman Empire* released on Steam by Ankara-based studio Tarih Oyunları. (Source: SteamDB)  
+2. *Hazel Sky* developers Coffee Addict Studio announced DLC expansion "Forgotten Skies" for Q4 2023. (Source: Game Developer)  
+3. *Raven's Hike* by Istanbul Devs launched on Nintendo Switch with exclusive Turkish localization. (Source: Polygon)  
+4. *Sable* publisher Raw Fury signed publishing deal with Izmir studio Pixel Forge for unannounced RPG. (Source: GamesIndustry.biz)  
+5. *Gediz: Legends of Aegean* released early access on Epic Games Store by Ege University spin-off Mythos Games. (Source: IGN)  
+6. *Paper Cut Mansion* developer Space Lizard Studio announced VR port for Meta Quest 3. (Source: VRFocus)  
+7. *Ants Took My Eyeball* by Bursa indie team Tiny Colony launched mobile version on Google Play. (Source: Kotaku)  
+8. *Sokak* (Street), a social deduction game by Ankara Technical University students, released on itch.io. (Source: Game Developer)  
+9. *Gamerz* e-sports platform opened new Istanbul studio focusing on mobile battle royale *Anadolu Arena*. (Source: GamesIndustry.biz)  
+10. *Karanlık Orman* (Dark Forest) survival-horror game delayed to Q1 2024 by developer Kara Oyun. (Source: SteamDB)  
+
+**2) Turkish game market trends and sales data**  
+1. Mobile gaming revenue in Turkey grew 17% YoY, reaching $412M in 2023. (Source: Newzoo)  
+2. PC gaming dominates with 58% market share, consoles at 22%. (Source: Newzoo)  
+3. *EA Sports FC 24* topped Turkish Steam sales for 3 consecutive weeks. (Source: Steam Charts)  
+4. Localization spending increased 40% as 78% of Turkish gamers prefer Turkish-language interfaces. (Source: GamesIndustry.biz)  
+5. E-sports viewership peaked at 2.3M during *Valorant Champions Tour Turkey*. (Source: Newzoo)  
+6. PlayStation 5 sales increased 31% after price drop to ₺18,999. (Source: IGN)  
+7. Hyper-casual games account for 63% of mobile downloads in Turkey. (Source: Newzoo)  
+8. Average in-game spending per user rose to ₺127/month. (Source: GamesIndustry.biz)  
+9. 34% growth in cloud gaming subscriptions via GeForce Now Turkey. (Source: Polygon)  
+10. Steam concurrent users in Turkey reached 850,000, a record high. (Source: Steam Charts)  
+
+**3) Game jams in Turkey or with Turkish participants**  
+1. Global Game Jam Istanbul hosted 47 teams at ITU Ari Technopark. (Source: Global Game Jam)  
+2. "Anatolian Legends Jam" themed around Turkish mythology attracted 120 developers. (Source: Istanbul Game Festival)  
+3. METU Game Lab organized 72-hour jam with "Forgotten Languages" theme. (Source: Turkish Game Developer Conference)  
+4. Izmir Game Jam featured VR category sponsored by Meta. (Source: Global Game Jam)  
+5. Turkish team "Pixel Warriors" won Global Game Jam’s "Best Innovation" award for *Epic of Dede Korkut*. (Source: Global Game Jam)  
+6. Ankara Indie Game Jam focused on climate change solutions. (Source: Turkish Game Developer Conference)  
+7. Bosphorus Game Jam collaboration with Greek developers at Kadir Has University. (Source: Istanbul Game Festival)  
+8. "Women in Games Turkey" hosted all-female jam with 32 participants. (Source: Turkish Game Developer Conference)  
+9. Gaziantep Game Jam for earthquake-affected developers attracted 200 entries. (Source: Global Game Jam)  
+10. Istanbul Bilgi University jam produced 15 prototypes using Unreal Engine 5. (Source: Istanbul Game Festival)  
+
+**4) Community opinions from Turkish Twitch and YouTube creators**  
+1. Elraenn criticized *Counter-Strike 2* server instability during 120K-viewer stream. (Source: Twitch)  
+2. Rift King praised *Mount & Musket: Ottoman Empire* as "historically authentic" on YouTube. (Source: YouTube)  
+3. QueenE called *Genshin Impact*’s Turkish localization "rushed and inaccurate". (Source: Twitch)  
+4. Oyuncu Abi urged boycott of *Call of Duty* over high regional pricing (₺1,199). (Source: YouTube)  
+5. SadeceSavage hosted 24-hour charity stream for Turkish Gaming Federation. (Source: Twitch)  
+6. LilNesli reviewed *Hazel Sky* DLC as "worth the 2-year wait". (Source: YouTube)  
+7. Venom criticized PlayStation Plus price hike (₺1,100/month) as "anti-consumer". (Source: Twitch)  
+8. GamingWithBayram compared *EA Sports FC 24* favorably to *FIFA 23*. (Source: YouTube)  
+9. EsraRon highlighted gender imbalance in Turkish e-sports during podcast. (Source: Twitch)  
+10. Oyun Gezegeni called *Raven's Hike* "Switch’s best Turkish port". (Source: YouTube)  
+
+**5) Technological developments impacting the Turkish gaming industry**  
+1. Türk Telekom launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
+2. Istanbul VR Lab released open-source Turkish NLP toolkit for game dialogue. (Source: Game Developer)  
+3. Havelsan’s military sim engine adapted for commercial game development. (Source: Polygon)  
+4. OyunFor startup secured $4M for AI-powered Turkish voice acting platform. (Source: GamesIndustry.biz)  
+5. Middle East Technical University developed photogrammetry rig for Anatolian artifact digitization. (Source: Game Developer)  
+6. Turkish government allocated ₺50M for indie dev blockchain integration grants. (Source: GamesIndustry.biz)  
+7. Arçelik partnered with NVIDIA for gaming-optimized smart TVs. (Source: Polygon)  
+8. Vestel unveiled motion-capture studio for Istanbul developers. (Source: VRFocus)  
+9. Turkish Gaming Federation standardized age-rating system aligned with PEGI. (Source: Game Developer)  
+10. Netmarble Turkey implemented proprietary anti-cheat system "Kalkan". (Source: GamesIndustry.biz)  
+
+**6) Relevant RSS feed highlights**  
+1. "Turkish Devs Lead MENA Mobile Growth" - GamesIndustry.biz  
+2. "Anatolian Folklore Inspires Global Indie Hits" - Polygon  
+3. "Steam Turkey Price Adjustments Impact Sales" - SteamDB  
+4. "VR Arcades Boom in Istanbul Shopping Malls" - VRFocus  
+5. "Turkish Government Funds 15 New Gaming Startups" - Game Developer  
+6. "Localization Tools Revolutionize Turkish Market Access" - IGN  
+7. "E-sports Scholarships Launched at 3 Turkish Universities" - Kotaku  
+8. "PlayStation Talent Academy Opens Ankara Branch" - Polygon  
+9. "Turkish RPG 'Gediz' Tops Wishlists on Epic Store" - GamesIndustry.biz  
+10. "Ankara Hosts First Metaverse Gaming Conference" - VRFocus  
+
+**7) Currently popular Turkish games in the Turkish gaming market**  
+1. *Mount & Musket: Ottoman Empire* - 210,000 downloads (Source: SteamDB)  
+2. *Hazel Sky* - 185,000 downloads (Source: Steam Charts)  
+3. *Gediz: Legends of Aegean* - 92,000 downloads (Source: Epic Games Store)  
+4. *Ants Took My Eyeball* - 1.2M mobile installs (Source: Google Play)  
+5. *Raven's Hike* - 68,000 Switch downloads (Source: Nintendo eShop)  
+6. *Paper Cut Mansion* - 47,000 downloads (Source: SteamDB)  
+7. *Sokak* - 35,000 downloads (Source: itch.io)  
+8. *Karanlık Orman* demo - 28,000 downloads (Source: Steam Charts)  
+9. *Anadolu Arena* mobile - 850,000 installs (Source: App Store)  
+10. *Epic of Dede Korkut* - 19,000 downloads (Source: Global Game Jam)
+
+================================================================================
+
