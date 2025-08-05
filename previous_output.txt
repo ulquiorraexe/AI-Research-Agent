@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- TaleWorlds announced "Mount & Blade II: Bannerlord" expansion "Blood and Smoke" releasing Q4 2023 (Source: SteamDB)  
-- PEAK GAMES launched mobile puzzle game "Dream Garden" globally (Source: GamesIndustry.biz)  
-- StoryTale Studios released narrative adventure "Echoes of the Bosphorus" on Steam (Source: Polygon)  
-- Oyunfor Studio announced open-world RPG "Anatolian Legends" for 2024 (Source: IGN)  
-- Semih Alkan revealed VR title "Cappadocia Skies" for Meta Quest (Source: VRFocus)  
-- Digital Tales released strategy game "Ottoman Empire: Legacy" on mobile platforms (Source: Game Developer)  
-- T-soft unveiled multiplayer shooter "Istanbul Siege" beta access (Source: Kotaku)  
-- Ludus Games launched educational title "Math Adventures with Nasreddin" (Source: SteamDB)  
-- Krea Games announced partnership with Paradox Interactive for "Mediterranean Trade Routes" (Source: GamesIndustry.biz)  
-- Hypernova Games released roguelike "Dungeons of Ankara" on Steam Early Access (Source: Polygon)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 17% YoY reaching $412M in 2023 (Source: Newzoo)  
-- PC gaming market share increased to 38% of total gaming revenue (Source: Newzoo)  
-- Esports viewership surged 45% with Valorant tournaments leading (Source: Newzoo)  
-- Average spending per mobile gamer reached $26.80 annually (Source: Newzoo)  
-- Steam user base grew 22% with 5.3 million active Turkish accounts (Source: SteamDB)  
-- Console game sales declined 8% due to hardware shortages (Source: GamesIndustry.biz)  
-- Localization of international games into Turkish increased 300% since 2021 (Source: Game Developer)  
-- Female gaming audience expanded to 43% of total players (Source: Newzoo)  
-- In-app purchase revenue rose 31% in strategy mobile games (Source: Newzoo)  
-- Cloud gaming adoption reached 12% of internet users (Source: Newzoo)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Global Game Jam Istanbul hosted 48 teams at Istanbul Technical University (Source: Global Game Jam)  
-- Ankara Game Lab organized "Ankara Indie Jam" with 32 participating studios (Source: Turkish Game Developer Conference)  
-- "Bosphorus VR Jam" attracted 17 teams developing AR/VR prototypes (Source: VRFocus)  
-- Izmir Game Collective hosted "Aegean Game Jam" focusing on maritime themes (Source: Istanbul Game Festival)  
-- Turkish team "PixelForge" won excellence award at Nordic Game Jam (Source: Global Game Jam)  
-- "Anadolu Game Challenge" featured 55 student teams from eastern Turkey (Source: Turkish Game Developer Conference)  
-- Istanbul University hosted "Historical Game Jam" with Ottoman Empire theme (Source: Istanbul Game Festival)  
-- "Turkish Indie Dev Challenge" offered mentorship to 20 finalist teams (Source: Turkish Game Developer Conference)  
-- Marmara University organized "Student Game Marathon" with 300 participants (Source: Istanbul Game Festival)  
-- Team "AnkaraBytes" secured third place in Global Game Jam's mobile category (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized matchmaking issues in Valorant Turkish servers (Source: Twitch/Elraenn)  
-- RiftCaller praised "Mount & Blade II: Bannerlord" Turkish localization (Source: YouTube/RiftCaller)  
-- QueenEvee expressed disappointment in PUBG Mobile's regional pricing (Source: Twitch/QueenEvee)  
-- OyuncuAbi recommended "Echoes of the Bosphorus" for story-driven gamers (Source: YouTube/OyuncuAbi)  
-- SadeceSavage highlighted input lag problems in FIFA 23 Turkish servers (Source: Twitch/SadeceSavage)  
-- OyunHaber analyzed growth opportunities for Turkish indie developers (Source: YouTube/OyunHaber)  
-- LilithArkan criticized lack of Turkish support in Starfield (Source: Twitch/LilithArkan)  
-- OyunKolu compared Turkish and European esports infrastructure (Source: YouTube/OyunKolu)  
-- OyuncuKizi discussed toxicity in League of Legends Turkish queues (Source: Twitch/OyuncuKizi)  
-- GameOver reviewed hardware requirements for "Istanbul Siege" beta (Source: YouTube/GameOver)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell deployed 5G cloud gaming infrastructure in major cities (Source: VRFocus)  
-- Unity Technologies opened Istanbul office with local support team (Source: Game Developer)  
-- Vestel launched "Venüs" gaming monitors with 240Hz refresh rate (Source: Polygon)  
-- Turkish government funded 15 VR/AR development labs nationwide (Source: VRFocus)  
-- Havelsan developed military simulation tech adapted for commercial games (Source: Game Developer)  
-- Epic Games partnered with Turkish universities for Unreal Engine training (Source: Game Developer)  
-- Local ISP TurkNet introduced gaming-optimized fiber packages (Source: Polygon)  
-- AI startup Vispera developed texture generation tools for indie studios (Source: Kotaku)  
-- Nvidia partnered with Aselsan for localized DLSS implementation (Source: IGN)  
-- Blockchain platform BtcTurk launched NFT marketplace for game assets (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- IGN featured interview with TaleWorlds CEO Armagan Yavuz (Source: IGN)  
-- Polygon covered Turkish government's $20M game development fund (Source: Polygon)  
-- Kotaku reported on localization errors in Turkish game ports (Source: Kotaku)  
-- Game Developer analyzed Istanbul's growing indie developer hub (Source: Game Developer)  
-- GamesIndustry.biz discussed Turkish mobile gaming expansion in MENA (Source: GamesIndustry.biz)  
-- VRFocus highlighted VR arcade openings in Ankara and Izmir (Source: VRFocus)  
-- IGN reviewed "Dungeons of Ankara" Early Access version (Source: IGN)  
-- Polygon featured Turkish cultural representation in "Echoes of the Bosphorus" (Source: Polygon)  
-- Game Developer published case study on Peak Games' monetization strategy (Source: Game Developer)  
-- Kotaku covered controversy over loot box regulations in Turkey (Source: Kotaku)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 28,500 concurrent Turkish players (Source: Steam Charts)  
-- "Dream Garden" - 1.2M downloads in Turkey (Source: Google Play Store)  
-- "Rise of Kingdoms" (localized by Zynga Turkey) - 850,000 monthly active users (Source: Sensor Tower)  
-- "Echoes of the Bosphorus" - 15,300 owners in Turkey (Source: SteamDB)  
-- "PUBG Mobile" - 4.8M monthly Turkish players (Source: Newzoo)  
-- "League of Legends" - 310,000 peak concurrent Turkish players (Source: Riot Games API)  
-- "FIFA 23" - 42,000 Turkish players weekly (Source: EA Sports data)  
-- "Valorant" - 185,000 peak concurrent Turkish players (Source: Riot Games API)  
-- "Genshin Impact" - 620,000 monthly Turkish players (Source: Newzoo)  
-- "Call of Duty: Mobile" - 3.1M downloads in Turkey (Source: Google Play Store)
+There is no new update in this category today.
