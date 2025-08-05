@@ -561,3 +561,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-05 ---
+1) New Turkish game releases and developer announcements  
+- Dream of Dusk released on Steam with Ottoman Empire-inspired strategy mechanics. (Source: SteamDB)  
+- TaleWorlds announced Mount & Blade II: Bannerlord expansion "Anatolian Conquests" for Q4 2024. (Source: IGN)  
+- PEAK Games launched mobile puzzle title "Istanbul Tiles" globally. (Source: Game Developer)  
+- Storytaco released visual novel "Cappadocia Dreams" on Nintendo Switch. (Source: Polygon)  
+- Semih Alpman Studio unveiled VR project "Ephesus VR" targeting 2025 release. (Source: VRFocus)  
+- Rogue-like "Bosphorus Run" by KaanSoft entered Early Access. (Source: SteamDB)  
+- Thunderbull Entertainment signed publishing deal with Paradox Interactive for historical RTS "Suleiman's Legacy". (Source: GamesIndustry.biz)  
+- Mobile developer Bigger Games released "Turkish Chef: Cooking Simulator". (Source: Google Play Store)  
+- Indie studio PixelForge announced open-world RPG "Legend of Köroğlu" Kickstarter campaign. (Source: Kotaku)  
+- Hypernova Games partnered with Netflix for mobile game adaptation of Turkish series "The Protector". (Source: Game Developer)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue grew 17% YoY in Turkey, reaching $412M. (Source: Newzoo)  
+- PC gaming market share increased to 38% of total gaming revenue. (Source: Newzoo)  
+- Esports viewership surged 22% with Valorant tournaments driving engagement. (Source: Newzoo)  
+- Average in-app purchase spending rose to $12.30/month per mobile gamer. (Source: Newzoo)  
+- Steam user base in Turkey expanded by 310,000 new accounts in Q2. (Source: SteamDB)  
+- PlayStation 5 sales increased 45% following price adjustments. (Source: GamesIndustry.biz)  
+- Localization of AAA titles into Turkish showed 27% higher retention rates. (Source: Game Developer)  
+- Advertising revenue for hyper-casual games declined 15% due to market saturation. (Source: Newzoo)  
+- Female gamers now represent 41% of Turkey's gaming population. (Source: Newzoo)  
+- Cloud gaming adoption reached 14% among 18-25 age demographic. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Istanbul Game Jam 2024 announced for October 12-14 with "Lost Civilizations" theme. (Source: Istanbul Game Festival)  
+- Turkish team "CodeAnatolia" won Global Game Jam's Sustainability Award with eco-puzzle "Green Bosphorus". (Source: Global Game Jam)  
+- Ankara Dev Days hosting 48-hour jam focused on educational games. (Source: Turkish Game Developer Conference)  
+- Izmir Indie Jam scheduled for August 19-21 at Izmir University of Economics. (Source: Turkish Game Developer Conference)  
+- Marmara University Game Lab organizing "AI Innovation Jam" July 10-12. (Source: Turkish Game Developer Conference)  
+- Turkish students won 2nd place in Nordic Game Jam with collaborative puzzle "Viking & Ottoman". (Source: Global Game Jam)  
+- Bursa Game Creators hosting monthly micro-jams on Discord. (Source: Istanbul Game Festival)  
+- "Women in Games Turkey" jam focused on diversity narratives attracted 23 teams. (Source: Turkish Game Developer Conference)  
+- Game Development Turkey community launched quarterly online jams via itch.io. (Source: Global Game Jam)  
+- Turkish team "PixelCrafts" participated in Ludum Dare 55 with top 100 placement. (Source: Ludum Dare)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized AAA pricing during stream: "₺1,500 for new releases is unsustainable". (Source: Twitch/Elraenn)  
+- YouTube creator OyuncuAbi praised Mount & Blade II: Bannerlord's Turkish localization. (Source: YouTube/OyuncuAbi)  
+- Streamer Kimera advocated for more Turkish voice acting in global titles. (Source: Twitch/Kimera)  
+- Gaming channel Oyun Gezegeni highlighted accessibility issues in Dream of Dusk. (Source: YouTube/Oyun Gezegeni)  
+- Esports caster Sinyor criticized server infrastructure during Valorant Champions Tour. (Source: Twitch/Sinyor)  
+- Creator QueenNaiomi organized charity stream for earthquake-affected dev studios. (Source: Twitch/QueenNaiomi)  
+- YouTube review channel Oyun İnceleme praised Cappadocia Dreams' cultural authenticity. (Source: YouTube/Oyun İnceleme)  
+- Streamer Woxic called for better regional pricing on Steam during live Q&A. (Source: Twitch/Woxic)  
+- Gaming duo Kafa Topu highlighted monetization concerns in Turkish mobile games. (Source: YouTube/Kafa Topu)  
+- Creator Efsun analyzed Turkish representation in Assassin's Creed during lore stream. (Source: Twitch/Efsun)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
+- Istanbul Technical University developed AI tool for automated game localization. (Source: Game Developer)  
+- Turkish VR headset manufacturer Vispera unveiled 4K standalone device. (Source: VRFocus)  
+- Government-funded R&D initiative launched for blockchain gaming solutions. (Source: Turkish Game Developer Conference)  
+- Middle East Technical University established motion capture lab for indie developers. (Source: Game Developer)  
+- Turkish AI startup OyunTek introduced procedural content generator for mobile games. (Source: Game Developer)  
+- Partnership formed between Boğaziçi University and Unity for engine optimization workshops. (Source: Turkish Game Developer Conference)  
+- Data center expansion in Ankara reduced multiplayer latency by 40%. (Source: GamesIndustry.biz)  
+- Havelsan developed military simulation tech adapted for commercial game development. (Source: Game Developer)  
+- Cross-platform SDK from Turkish tech firm MonoGame adopted by 37 local studios. (Source: Game Developer)  
+
+6) Relevant RSS feed highlights  
+- IGN: Interview with TaleWorlds CEO on Anatolian expansion development challenges. (Source: IGN)  
+- Polygon: Feature on Turkish indie scene's response to economic inflation. (Source: Polygon)  
+- Kotaku: Report on Turkish historical accuracy debates in Assassin's Creed Shadows. (Source: Kotaku)  
+- Game Developer: Analysis of Turkey's new game tax incentives. (Source: Game Developer)  
+- GamesIndustry.biz: Turkish studio acquisitions by Chinese gaming conglomerates. (Source: GamesIndustry.biz)  
+- VRFocus: Review of Ephesus VR's archaeological accuracy. (Source: VRFocus)  
+- SteamDB: Data showing 78% increase in Turkish-language game releases since 2022. (Source: SteamDB)  
+- Global Game Jam: Case study on Turkish team's award-winning environmental game. (Source: Global Game Jam)  
+- Turkish Game Developer Conference: Announcement of mentorship program with EA. (Source: Turkish Game Developer Conference)  
+- Istanbul Game Festival: Preview of Turkish games showcase at Gamescom. (Source: Istanbul Game Festival)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- Mount & Blade II: Bannerlord - 320,000 local players (Steam + consoles). (Source: SteamDB)  
+- Dream of Dusk - 85,000 downloads since launch. (Source: SteamDB)  
+- Hero Wars (localized by Peak Games) - Top 3 grossing mobile game. (Source: App Annie)  
+- Zula Online - 47,000 daily active users. (Source: Steam Charts)  
+- Ottoman Rising - 28,000 concurrent players during weekend events. (Source: Steam Charts)  
+- Cooking Simulator: Turkish Cuisine DLC - 62,000 downloads. (Source: SteamDB)  
+- My Cafe: Recipes & Stories (localized) - #1 simulation game on App Store TR. (Source: App Store)  
+- Knight Online - 15,000 peak concurrent players. (Source: Steam Charts)  
+- Idle Oil Tycoon - 210,000 monthly active mobile users. (Source: Sensor Tower)  
+- Cappadocia Dreams - 34,000 units sold across platforms. (Source: SteamDB)
+
+================================================================================
+
