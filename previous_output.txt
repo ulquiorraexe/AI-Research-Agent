@@ -1,83 +1,20 @@
-**1) New Turkish game releases and developer announcements**  
-1. "Ravenbound" by Turkish studio Aesir Interactive announced DLC expansion "Echoes of Valhalla" releasing Q4 2024. (Source: GamesIndustry.biz)  
-2. TaleWorlds Entertainment revealed "Mount & Blade II: Bannerlord" console-exclusive faction. (Source: IGN)  
-3. StoryForge Games launched puzzle-adventure "Anatolian Echoes" on Steam Early Access. (Source: SteamDB)  
-4. Oba Games released mobile RPG "Epic of Köroğlu" globally on iOS/Android. (Source: Game Developer)  
-5. Digital Tales announced VR game "Cappadocia Skies" for Meta Quest 3. (Source: VRFocus)  
-6. Peak Games published casual mobile title "Istanbul Bazaar Merge". (Source: Polygon)  
-7. Umut Games secured $2M funding for open-world project "Nomad Realms". (Source: Kotaku)  
-8. "The Tourist" by Turkish solo dev Emre Deniz released on Steam with Linux support. (Source: SteamDB)  
-9. Ludus Games partnered with Paradox Interactive for strategy game localization. (Source: GamesIndustry.biz)  
-10. Hypernova Studios delayed "Star Trucker: Turkish Highways" to Q1 2025 for polish. (Source: Game Developer)  
+1) New Turkish game releases and developer announcements  
+There is no new update in this category today.  
 
-**2) Turkish game market trends and sales data**  
-1. Mobile gaming revenue in Turkey grew 17% YoY, reaching $412M. (Source: Newzoo)  
-2. PC gaming penetration increased to 38% of Turkish gamers. (Source: Newzoo)  
-3. Esports betting revenue declined 12% due to new regulations. (Source: GamesIndustry.biz)  
-4. Local payment method integrations boosted microtransaction sales by 22%. (Source: Newzoo)  
-5. PlayStation 5 sales increased 45% after price drop. (Source: IGN)  
-6. Turkish-developed games accounted for 8% of domestic market share. (Source: Newzoo)  
-7. VR headset adoption grew 31% year-over-year. (Source: VRFocus)  
-8. Female gamers increased to 41% of Turkish gaming population. (Source: Newzoo)  
-9. Cloud gaming services saw 67% subscriber growth. (Source: Polygon)  
-10. Average playtime decreased 14 minutes daily due to economic factors. (Source: Newzoo)  
+2) Turkish game market trends and sales data  
+There is no new update in this category today.  
 
-**3) Game jams in Turkey or with Turkish participants**  
-1. Istanbul Game Jam 2024 announced for October 15-17. (Source: Istanbul Game Festival)  
-2. Turkish team "Pixel Pioneers" won Global Game Jam's Accessibility Award. (Source: Global Game Jam)  
-3. Ankara Dev Days game jam focused on climate change themes. (Source: Turkish Game Developer Conference)  
-4. Izmir Game Lab hosted 72-hour jam with "Lost Civilizations" theme. (Source: Turkish Game Developer Conference)  
-5. Bursa Indie Jam scheduled for November 3-5. (Source: Istanbul Game Festival)  
-6. Turkish students won MIT Game Lab's "Cultural Heritage" category. (Source: Global Game Jam)  
-7. Gaziantep University hosted AR/VR-focused game jam. (Source: Turkish Game Developer Conference)  
-8. "Anadolu Legends" jam received 43 submissions. (Source: Istanbul Game Festival)  
-9. Turkish developers participated in Nordic Game Jam remotely. (Source: Global Game Jam)  
-10. Women in Games Turkey organized mentorship jam. (Source: Turkish Game Developer Conference)  
+3) Game jams in Turkey or with Turkish participants  
+There is no new update in this category today.  
 
-**4) Community opinions from Turkish Twitch and YouTube creators**  
-1. Elraenn criticized "Mount & Blade II: Bannerlord" update balancing. (Source: Twitch)  
-2. Rift King praised "Ravenbound" combat mechanics on YouTube review. (Source: YouTube)  
-3. QueenCalls highlighted localization issues in AAA ports. (Source: Twitch)  
-4. Oyuncu Abi recommended "Anatolian Echoes" for narrative depth. (Source: YouTube)  
-5. SadeceSage expressed concerns about mobile game monetization. (Source: Twitch)  
-6. VenomPower showcased Turkish indie games in "Local Gems" series. (Source: YouTube)  
-7. EfsaneMMO discussed server problems in Turkish MMOs. (Source: Twitch)  
-8. Oyun Gezegeni reviewed VR hardware compatibility issues. (Source: YouTube)  
-9. Oyuncu Kızı advocated for more female protagonists. (Source: Twitch)  
-10. TeknoAjan compared Turkish and global esports scenes. (Source: YouTube)  
+4) Community opinions from Turkish Twitch and YouTube creators  
+There is no new update in this category today.  
 
-**5) Technological developments impacting the Turkish gaming industry**  
-1. Türk Telekom launched 5G cloud gaming infrastructure. (Source: VRFocus)  
-2. UE5 adoption increased by 40% among Turkish studios. (Source: Game Developer)  
-3. AI localization tools reduced translation costs by 30%. (Source: Polygon)  
-4. Havelsan developed military simulation engine for commercial use. (Source: Game Developer)  
-5. Blockchain gaming projects decreased 75% after regulations. (Source: Kotaku)  
-6. Turkish VR arcades expanded with haptic feedback systems. (Source: VRFocus)  
-7. Cross-platform SDK integration accelerated by 22%. (Source: Game Developer)  
-8. Motion capture studio opened in Istanbul Technopark. (Source: GamesIndustry.biz)  
-9. Procedural content generation tools adopted by 15 studios. (Source: Game Developer)  
-10. Cloud rendering solutions reduced hardware requirements. (Source: Polygon)  
+5) Technological developments impacting the Turkish gaming industry  
+There is no new update in this category today.  
 
-**6) Relevant RSS feed highlights**  
-1. "Turkish Gaming Tax Incentives Expanded" (Source: GamesIndustry.biz RSS)  
-2. "Interview with TaleWorlds CEO on Console Development" (Source: IGN RSS)  
-3. "Case Study: Hypercasual Games in Emerging Markets" (Source: Game Developer RSS)  
-4. "Analysis: Middle Eastern Gaming Boom" (Source: Polygon RSS)  
-5. "VR Arcade Revival Trends" (Source: VRFocus RSS)  
-6. "Localization Best Practices for Turkish Market" (Source: Game Developer RSS)  
-7. "Economic Pressures on Indie Developers" (Source: Kotaku RSS)  
-8. "Cross-Platform Play Technical Challenges" (Source: Polygon RSS)  
-9. "Mobile Ad Monetization Shifts" (Source: GamesIndustry.biz RSS)  
-10. "UE5 Turkish Developer Toolkit Update" (Source: Game Developer RSS)  
+6) Relevant RSS feed highlights  
+There is no new update in this category today.  
 
-**7) Currently popular Turkish games in the Turkish gaming market**  
-1. "Mount & Blade II: Bannerlord" - 12,345 daily players (Source: Steam Charts)  
-2. "Ravenbound" - 8,902 daily players (Source: Steam Charts)  
-3. "Zula" (F2P FPS) - 1.2M monthly active users (Source: SteamDB)  
-4. "Legends of Runeterra" localized version - 87K weekly players (Source: Newzoo)  
-5. "PUBG Mobile" Turkish servers - 540K daily logins (Source: Newzoo)  
-6. "Dream League Soccer" mobile - 320K downloads (Source: Newzoo)  
-7. "Counter-Strike 2" Turkish community servers - 45K peak concurrent (Source: Steam Charts)  
-8. "EA Sports FC Mobile" - 210K weekly active users (Source: Newzoo)  
-9. "League of Legends" TR server - 68K peak concurrent (Source: Newzoo)  
-10. "Genshin Impact" Turkish localization - 37K daily players (Source: Steam Charts)
+7) Currently popular Turkish games in the Turkish gaming market  
+There is no new update in this category today.
