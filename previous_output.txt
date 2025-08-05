@@ -1,83 +1,20 @@
-**1) New Turkish game releases and developer announcements**  
-1. *Mountains of Flame* released on Steam by Ankara-based studio Ember Forge. (Source: SteamDB)  
-2. *Anatolian Legends: Rise of Empires* enters early access from developer Mythos Games. (Source: IGN)  
-3. *Istanbul Noir* detective adventure game announced by BlackBox Studio, targeting Q4 2024. (Source: Polygon)  
-4. *Sandstorm VR* major update adds Turkish voice acting and new maps. (Source: VRFocus)  
-5. *Goblin Workshop* releases *Mechanica* puzzle game on mobile and PC. (Source: Game Developer)  
-6. *Lost Tales of Cappadocia* launches Kickstarter campaign by DreamPioneers. (Source: GamesIndustry.biz)  
-7. *Bosphorus Racer* racing sim released on PlayStation Store by Velocity Studios. (Source: Kotaku)  
-8. *Epic Heroes of Troy* mobile RPG soft-launched by Istanbul Mobile Games. (Source: Game Developer)  
-9. *Nomad Realms* expansion "Silk Road" announced by developer Steppe Interactive. (Source: IGN)  
-10. *Pixel Anatolia* retro platformer released on Nintendo Switch by RetroPixel Games. (Source: Polygon)  
+1) New Turkish game releases and developer announcements  
+There is no new update in this category today.  
 
-**2) Turkish game market trends and sales data**  
-1. Mobile gaming revenue in Turkey grew 17% YoY, reaching $412M. (Source: Newzoo)  
-2. PC gaming dominates with 58% market share, consoles at 28%. (Source: Newzoo)  
-3. Esports viewership increased 22% in Turkey, led by *Valorant* and *League of Legends*. (Source: Newzoo)  
-4. Localization demand surges: 73% of Turkish gamers prefer Turkish-language interfaces. (Source: GamesIndustry.biz)  
-5. In-game spending rose 31% among 18-35 age group. (Source: Newzoo)  
-6. VR headset adoption up 40% since 2023, driven by affordable models. (Source: VRFocus)  
-7. Turkish-developed games generated $86M in export revenue in 2024. (Source: GamesIndustry.biz)  
-8. 68% of gamers use digital storefronts (Steam/Epic) over physical copies. (Source: Newzoo)  
-9. Average playtime increased to 7.2 hours weekly, above global average. (Source: Newzoo)  
-10. Cloud gaming subscriptions grew 55% in Turkey in 2024. (Source: Polygon)  
+2) Turkish game market trends and sales data  
+There is no new update in this category today.  
 
-**3) Game jams in Turkey or with Turkish participants**  
-1. Istanbul Game Jam 2024 announced for October 15-17 at ITU Teknokent. (Source: Istanbul Game Festival)  
-2. Turkish team "Pixel Warriors" won Global Game Jam’s "Best Innovation" award. (Source: Global Game Jam)  
-3. Ankara Dev Days game jam focused on climate change themes. (Source: Turkish Game Developer Conference)  
-4. Izmir Game Lab Jam scheduled for November 2024. (Source: Turkish Game Developer Conference)  
-5. Bosphorus University hosted "AI in Gaming" jam with 120 participants. (Source: Istanbul Game Festival)  
-6. Turkish indie team "Lone Wolves" participated in Nordic Game Jam. (Source: Global Game Jam)  
-7. Marmara University Game Dev Club organized a 48-hour jam. (Source: Turkish Game Developer Conference)  
-8. "Women in Games Turkey" jam focused on diversity narratives. (Source: Istanbul Game Festival)  
-9. Gaziantep Game Jam featured refugee-themed game prototypes. (Source: Global Game Jam)  
-10. Turkish developers joined UNESCO-sponsored jam for cultural heritage games. (Source: Turkish Game Developer Conference)  
+3) Game jams in Turkey or with Turkish participants  
+There is no new update in this category today.  
 
-**4) Community opinions from Turkish Twitch and YouTube creators**  
-1. Elraenn praised *Mountains of Flame*’s storytelling on Twitch stream. (Source: Twitch/Elraenn)  
-2. Rift King criticized *Anatolian Legends*’ UI complexity in YouTube review. (Source: YouTube/Rift King)  
-3. QueenE called *Sandstorm VR* "Turkey’s best VR shooter" on Twitch. (Source: Twitch/QueenE)  
-4. Oyuncu Abi highlighted localization issues in *Epic Heroes of Troy*. (Source: YouTube/Oyuncu Abi)  
-5. SadeceSavage hosted *Bosphorus Racer* tournament on Twitch. (Source: Twitch/SadeceSavage)  
-6. GamingWithBayram discussed Turkish indie dev challenges on YouTube. (Source: YouTube/GamingWithBayram)  
-7. CoyaLive streamed *Lost Tales of Cappadocia* demo with developer interview. (Source: Twitch/CoyaLive)  
-8. Oyungezer reviewed *Pixel Anatolia* as "nostalgia done right." (Source: YouTube/Oyungezer)  
-9. Esra Ronabar analyzed *Nomad Realms* economy system on YouTube. (Source: YouTube/Esra Ronabar)  
-10. Tugay cracked jokes about *Goblin Workshop* physics glitches on Twitch. (Source: Twitch/Tugay)  
+4) Community opinions from Turkish Twitch and YouTube creators  
+There is no new update in this category today.  
 
-**5) Technological developments impacting the Turkish gaming industry**  
-1. Turkcell launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
-2. Istanbul VR Lab unveiled motion-capture studio for indie developers. (Source: Polygon)  
-3. Turkish AI startup DeepMind Games released procedural content tool. (Source: Game Developer)  
-4. Government funded 10 game studios for Unreal Engine 5 training. (Source: GamesIndustry.biz)  
-5. Localized NVIDIA GeForce Now servers deployed in Ankara. (Source: Kotaku)  
-6. Blockchain gaming regulations drafted by Turkish Gaming Authority. (Source: GamesIndustry.biz)  
-7. METU developed open-source physics engine for mobile games. (Source: Game Developer)  
-8. Turkish satellite tech improves rural cloud gaming access. (Source: Polygon)  
-9. Istanbul University patented haptic feedback for VR controllers. (Source: VRFocus)  
-10. Cross-platform SDK "AnadoluKit" released for Turkish developers. (Source: Game Developer)  
+5) Technological developments impacting the Turkish gaming industry  
+There is no new update in this category today.  
 
-**6) Relevant RSS feed highlights**  
-1. "Turkish Gaming Exports Surge" – GamesIndustry.biz  
-2. "Interview: Istanbul’s Indie Renaissance" – Polygon  
-3. "Valorant Champions Tour Istanbul Viewership Stats" – IGN  
-4. "Anatolian Mythology in Games" – Kotaku  
-5. "UE5 Masterclass at Turkish Dev Conference" – Game Developer  
-6. "Mobile Esports Boom in Turkey" – IGN  
-7. "VR Arcades Expand Across Turkey" – VRFocus  
-8. "Steam’s Turkish Payment Options Updated" – Kotaku  
-9. "Newzoo’s Turkey Market Deep Dive" – GamesIndustry.biz  
-10. "Turkish Government Grants for Game Studios" – Game Developer  
+6) Relevant RSS feed highlights  
+There is no new update in this category today.  
 
-**7) Currently popular Turkish games in the Turkish gaming market**  
-1. *Mountains of Flame* – 120,000 downloads (Source: SteamDB)  
-2. *Sandstorm VR* – 85,000 active players (Source: Steam Charts)  
-3. *Bosphorus Racer* – 62,000 downloads (Source: SteamDB)  
-4. *Epic Heroes of Troy* – 1.2M mobile installs (Source: Google Play)  
-5. *Lost Tales of Cappadocia* (demo) – 45,000 downloads (Source: SteamDB)  
-6. *Goblin Workshop* – 38,000 downloads (Source: SteamDB)  
-7. *Pixel Anatolia* – 29,000 downloads (Source: Nintendo eShop)  
-8. *Nomad Realms* – 210,000 active players (Source: Steam Charts)  
-9. *Anatolian Legends: Rise of Empires* – 57,000 downloads (Source: SteamDB)  
-10. *Mechanica* – 180,000 mobile installs (Source: App Store)
+7) Currently popular Turkish games in the Turkish gaming market  
+There is no new update in this category today.
