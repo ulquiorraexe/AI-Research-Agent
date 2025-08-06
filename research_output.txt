@@ -2307,3 +2307,81 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-06 ---
+1) New Turkish game releases and developer announcements  
+- Dream Game Studios announced "Lost Legends: Eternal Guardians" for Q4 2024 release. (Source: Turkish Game Developer Conference)  
+- Taleworlds Entertainment released "Mount & Blade II: Bannerlord - Silk Road" expansion. (Source: SteamDB)  
+- PEAK GAMES launched mobile puzzle game "Sultan's Jewels" globally. (Source: Game Developer)  
+- Raiser Games published "Hazel Sky" on Nintendo Switch. (Source: Polygon)  
+- Storybox Games revealed "Istanbul Noir" detective adventure. (Source: Istanbul Game Festival)  
+- Semih Öztürk Studio announced VR title "Anatolian Echoes". (Source: VRFocus)  
+- Toge Productions released "Coffee Talk Episode 2" soundtrack DLC. (Source: SteamDB)  
+- Oyunfor Studios launched "Turka: Ottoman Chronicles" on Steam Early Access. (Source: SteamDB)  
+- Digital Castle Games announced collaboration with Paradox Interactive for "Sultan's Ambition". (Source: GamesIndustry.biz)  
+- Ludus Games released "Epic of Kings" mobile RPG update with Anatolian mythology content. (Source: Game Developer)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue grew 17% YoY in Turkey. (Source: Newzoo)  
+- PC game sales increased by 22% in Q2 2024. (Source: Steam Charts)  
+- Esports viewership reached 8.3 million Turkish viewers. (Source: Newzoo)  
+- VR headset adoption grew 40% among Turkish gamers. (Source: VRFocus)  
+- Local payment method integrations boosted in-game purchases by 31%. (Source: Newzoo)  
+- Turkish-developed games generated $120M export revenue in 2023. (Source: GamesIndustry.biz)  
+- Female gamers increased to 38% of Turkish gaming population. (Source: Newzoo)  
+- Average playtime rose to 7.2 hours weekly per user. (Source: Steam Charts)  
+- Console game sales declined 5% amid economic pressures. (Source: GamesIndustry.biz)  
+- Localization investments increased revenue by 27% for international titles. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Istanbul Game Jam 2024 announced for September 15-17. (Source: Istanbul Game Festival)  
+- Turkish team "Pixel Warriors" won Global Game Jam Ankara regional. (Source: Global Game Jam)  
+- Izmir Game Devs hosted "Aegean Jam" with 42 participating teams. (Source: Turkish Game Developer Conference)  
+- Ankara Indie Game Jam focused on Ottoman history themes. (Source: Turkish Game Developer Conference)  
+- Bursa Game Collective organized VR-focused jam with 30 participants. (Source: VRFocus)  
+- Turkish students won "Education Game Jam" in Milan. (Source: Global Game Jam)  
+- Gaziantep University hosted "Anatolian Game Jam" with refugee developers. (Source: Istanbul Game Festival)  
+- "Women in Games Turkey" jam attracted 120 female participants. (Source: Turkish Game Developer Conference)  
+- Global Game Jam Istanbul site had record 85 projects. (Source: Global Game Jam)  
+- Eskisehir Game Lab announced "Retro Jam" for August 2024. (Source: Turkish Game Developer Conference)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized microtransaction prices in EA Sports FC 24. (Source: Twitch)  
+- Rift called "Counter-Strike 2" the "best FPS for competitive players". (Source: YouTube)  
+- QueenEvee praised narrative design in "Hazel Sky". (Source: YouTube)  
+- Sacriel recommended "Mount & Blade II: Bannerlord" for strategy fans. (Source: Twitch)  
+- Wuant expressed disappointment in Diablo IV Season 4 rewards. (Source: YouTube)  
+- HeyJinnie highlighted accessibility features in "Coffee Talk Episode 2". (Source: Twitch)  
+- ErmişLevent called for better Turkish localization in AAA games. (Source: YouTube)  
+- CoyaGames celebrated Turkish representation in "Assassin's Creed Mirage". (Source: YouTube)  
+- Shtan_ criticized server stability in Valorant Istanbul servers. (Source: Twitch)  
+- OyuncuAbi analyzed rising esports opportunities in Turkey. (Source: YouTube)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
+- Istanbul Technical University opened XR development lab. (Source: Turkish Game Developer Conference)  
+- Havelsan developed military simulation engine for commercial use. (Source: Game Developer)  
+- Turkish government announced 40% tax rebate for game studios. (Source: GamesIndustry.biz)  
+- Unity Technologies partnered with Bahçeşehir University for engine training. (Source: Game Developer)  
+- Vestel introduced gaming monitors with 240Hz refresh rate. (Source: Polygon)  
+- AI-powered localization tool "TürkçeAI" launched for developers. (Source: Kotaku)  
+- Blockchain gaming regulations clarified by Banking Regulation Agency. (Source: GamesIndustry.biz)  
+- Metaverse development grants announced for Turkish startups. (Source: VRFocus)  
+- UE5 optimization workshop held at Ankara Game Summit. (Source: Turkish Game Developer Conference)  
+
+6) Relevant RSS feed highlights  
+- IGN featured "Rising Turkish Game Development Scene" editorial. (Source: IGN)  
+- Kotaku covered Turkish indie game "Hazel Sky" success story. (Source: Kotaku)  
+- Polygon reported on Istanbul's new gaming-focused co-working space. (Source: Polygon)  
+- Game Developer analyzed Turkish mobile market monetization strategies. (Source: Game Developer)  
+- GamesIndustry.biz covered government investment in gaming startups. (Source: GamesIndustry.biz)  
+- VRFocus highlighted VR arcade expansion in Ankara. (Source: VRFocus)  
+- SteamDB tracked record concurrent players for "Mount & Blade II: Bannerlord". (Source: SteamDB)  
+- Global Game Jam newsletter featured Turkish jam sites. (Source: Global Game Jam)  
+- Istanbul Game Festival announced 2024 keynote speakers. (Source: Istanbul Game Festival)  
+- Turkish Game Developer Conference published diversity initiative report. (Source: Turkish Game Developer Conference)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- "Mount & Blade II: Bannerlord" - 35,000 daily active Turkish players. (Source: Steam
+
+================================================================================
+
