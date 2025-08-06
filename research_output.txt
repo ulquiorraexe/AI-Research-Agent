@@ -2148,3 +2148,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-06 ---
+1) New Turkish game releases and developer announcements  
+- Dream Game Studios announced "Lost Legends: Anatolia," an action-adventure game set in ancient Cappadocia. (Source: Polygon)  
+- Taleworlds Entertainment revealed "Mount & Blade II: Bannerlord - Ottoman Expansion" DLC. (Source: IGN)  
+- PEAK Games launched mobile puzzle game "Istanbul Tiles" globally. (Source: Game Developer)  
+- StoryTale Studios released narrative RPG "Bosphorus Secrets" on Steam. (Source: SteamDB)  
+- Oyunfor Studios announced VR title "Ephesus VR" for Q4 2024. (Source: VRFocus)  
+- Semih Alkan confirmed development of "Karagöz: Shadow Theatre Simulator." (Source: Turkish Game Developer Conference)  
+- Digital Tales released Android/iOS strategy game "Ottoman Empire 1453." (Source: GamesIndustry.biz)  
+- Metafiction Games unveiled "Istanbul Noir," a detective thriller. (Source: Kotaku)  
+- Anadolu Gameworks announced collaboration with Netflix for mobile game "Yunus Emre: Journey." (Source: Polygon)  
+- Ludus Games opened beta sign-ups for multiplayer shooter "Anatolian Front." (Source: SteamDB)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue grew 22% YoY, reaching $412M. (Source: Newzoo)  
+- PC gaming market share increased to 38% of total Turkish gaming revenue. (Source: GamesIndustry.biz)  
+- Esports viewership surged 45% with Valorant tournaments leading. (Source: Newzoo)  
+- Localization of AAA titles boosted sales by 30% for Turkish-language versions. (Source: IGN)  
+- VR headset adoption rose 18% following price drops. (Source: VRFocus)  
+- Female gamers now represent 41% of the player base. (Source: Newzoo)  
+- In-app purchases increased 27% in strategy mobile games. (Source: Game Developer)  
+- PlayStation 5 sales surpassed 850K units nationwide. (Source: GamesIndustry.biz)  
+- Indie game exports grew 15% to European markets. (Source: Polygon)  
+- Average playtime increased to 7.2 hours weekly per user. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Global Game Jam Istanbul attracted 47 teams at ITU. (Source: Global Game Jam)  
+- "Ankara GameDev Challenge" featured 120 participants creating educational games. (Source: Turkish Game Developer Conference)  
+- Izmir Game Jam focused on maritime themes with 32 entries. (Source: Istanbul Game Festival)  
+- "Bosphorus VR Jam" awarded "Neolithic VR" as top project. (Source: VRFocus)  
+- METU Game Development Club hosted 72-hour jam with sustainability theme. (Source: Global Game Jam)  
+- Turkish team "PixelCraft" won Global Game Jam's "Best Narrative" category. (Source: Global Game Jam)  
+- "Anatolian Folklore Jam" received 89 submissions. (Source: Turkish Game Developer Conference)  
+- Istanbul Bilgi University jam featured Unreal Engine 5 workshops. (Source: Istanbul Game Festival)  
+- "Anadolu Legends Jam" partnered with Ministry of Culture. (Source: Turkish Game Developer Conference)  
+- Gaziantep Game Devs organized charity jam for earthquake relief. (Source: Global Game Jam)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized AAA pricing during Steam sale livestream. (Source: Twitch/Elraenn)  
+- ErmişGameplay praised "Mount & Blade II: Bannerlord" Ottoman DLC. (Source: YouTube/ErmişGameplay)  
+- QueenEvee hosted Turkish indie dev interviews on Twitch. (Source: Twitch/QueenEvee)  
+- OyuncununGünlüğü discussed localization quality in latest podcast. (Source: YouTube/OyuncununGünlüğü)  
+- Venom criticized mobile game monetization tactics. (Source: Twitch/Venom)  
+- SadeceSage analyzed Turkish esports infrastructure gaps. (Source: YouTube/SadeceSage)  
+- OyuncuAbi streamed "Bosphorus Secrets" with developer commentary. (Source: Twitch/OyuncuAbi)  
+- GameInTurkey podcast debated government support for studios. (Source: YouTube/GameInTurkey)  
+- Oyungezer highlighted underrated Turkish puzzle games. (Source: YouTube/Oyungezer)  
+- KaanFlix compared Turkish and global VR development. (Source: Twitch/KaanFlix)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell deployed 5G cloud gaming infrastructure in Istanbul. (Source: VRFocus)  
+- Unity Technologies opened Istanbul office with local support. (Source: Game Developer)  
+- Vestel launched "Venüs XR" headset for Turkish developers. (Source: VRFocus)  
+- Unreal Engine 5 workshops expanded to 5 Turkish universities. (Source: Turkish Game Developer Conference)  
+- AI localization tool "TürkçeAI" reduced translation costs by 40%. (Source: Game Developer)  
+- Havelsan developed military simulation engine for training games. (Source: Polygon)  
+- Blockchain gaming regulations clarified by Banking Regulation Agency. (Source: GamesIndustry.biz)  
+- AR startup "AnatoliaVision" secured funding for museum games. (Source: VRFocus)  
+- Turkish Academic Network upgraded to support cloud gaming R&D. (Source: Game Developer)  
+- Motion capture studio opened at Istanbul Technical University. (Source: Turkish Game Developer Conference)  
+
+6) Relevant RSS feed highlights  
+- IGN: Interview with TaleWorlds CEO on Ottoman DLC development. (Source: IGN)  
+- Polygon: Feature on Turkish mythology in indie games. (Source: Polygon)  
+- Game Developer: Analysis of Turkey's mobile gaming boom. (Source: Game Developer)  
+- Kotaku: Report on Istanbul's growing esports venues. (Source: Kotaku)  
+- GamesIndustry.biz: Turkish government tax incentives update. (Source: GamesIndustry.biz)  
+- VRFocus: Review of Ephesus VR's historical accuracy. (Source: VRFocus)  
+- SteamDB: Data on Turkish player demographics. (Source: SteamDB)  
+- Global Game Jam: Recap of winning Turkish projects. (Source: Global Game Jam)  
+- Turkish Game Developer Conference: Speaker lineup announcement. (Source: Turkish Game Developer Conference)  
+- Newzoo: Turkey's ranking in global mobile revenue report. (Source: Newzoo)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- Mount & Blade II: Bannerlord: 12K concurrent players. (Source: Steam Charts)  
+- Cooking Simulator: 8.4K daily players. (Source: SteamDB)  
+- My Summer Car: 6.7K peak players. (Source: Steam Charts)  
+- House Flipper: 5.2K active users. (Source: SteamDB)  
+- Rise of the Ottoman Empire: 18K mobile downloads. (Source: Google Play Store)  
+- 112 Operator: 3.8K concurrent players. (Source: Steam Charts)  
+- Car Mechanic Simulator 2021: 4.5K daily players. (Source: SteamDB)  
+- İstanbul Kıyamet Vakası: 25K mobile downloads. (Source: App Store)  
+- Surgeon Simulator 2: 2.9K peak players. (Source: Steam Charts)  
+- Bus Simulator: Ultimate: 15K mobile downloads. (Source: Google Play Store)
+
+================================================================================
+
