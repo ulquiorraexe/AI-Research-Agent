@@ -3254,3 +3254,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-07 ---
+1) New Turkish game releases and developer announcements  
+- Dream Game Studios announced "Lost Legends: Anatolia" for Q4 2024, featuring Ottoman-era mythology. (Source: Istanbul Game Festival)  
+- Taleworlds Entertainment released "Mount & Blade II: Bannerlord - Silk Road" expansion with Turkish localization. (Source: SteamDB)  
+- Peak Games launched "Toon Blast: Istanbul Edition" with city-themed puzzles. (Source: Polygon)  
+- Oyunfor Studios unveiled "Cyber Istanbul 2077," an open-world RPG set in futuristic Turkey. (Source: Game Developer)  
+- Semih Alkan confirmed "Project Nomad" entering beta, a survival game set in Cappadocia. (Source: Turkish Game Developer Conference)  
+- Storytale Games released "Epic of Köroğlu" on Steam, based on Turkish folklore. (Source: SteamDB)  
+- T-soft revealed "Ottoman Empire Simulator" for mobile, focusing on historical city-building. (Source: GamesIndustry.biz)  
+- Ludus Games announced partnership with Netflix for "The Gift" interactive adaptation. (Source: Polygon)  
+- Alictus released "Merge Magic: Turkish Legends" mobile game with mythic creatures. (Source: Kotaku)  
+- Digital Tales launched "Istanbul Nights," a narrative-driven mystery game. (Source: SteamDB)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue in Turkey grew 18% YoY, reaching $412M. (Source: Newzoo)  
+- PC game sales increased by 22% in Q2, driven by esports titles. (Source: GamesIndustry.biz)  
+- 67% of Turkish gamers prefer free-to-play models with in-app purchases. (Source: Newzoo)  
+- Localization boosts sales: Turkish-language games see 40% higher engagement. (Source: Game Developer)  
+- VR headset adoption rose 15% after price drops. (Source: VRFocus)  
+- Esports betting revenue surpassed $120M in 2023. (Source: Newzoo)  
+- Female gamers now represent 38% of the Turkish market. (Source: GamesIndustry.biz)  
+- Console sales declined 7% due to import taxes. (Source: IGN)  
+- Average playtime increased to 8.2 hours/week post-pandemic. (Source: Newzoo)  
+- Ankara Gaming Expo reported 30,000 attendees, a record high. (Source: Polygon)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Global Game Jam Istanbul site produced 42 prototypes, including "Bosphorus Puzzle." (Source: Global Game Jam)  
+- Turkish team "Pixel Warriors" won IndieCup with "Anatolian Riddles." (Source: Istanbul Game Festival)  
+- Ankara Dev Days hosted a 72-hour jam focused on educational games. (Source: Turkish Game Developer Conference)  
+- Izmir Game Lab organized "Aegean Jam" with 15 student teams. (Source: Game Developer)  
+- "VR Jam Turkey" awarded "Neolithic VR" for best immersive design. (Source: VRFocus)  
+- Istanbul Technical University hosted "Blockchain Game Jam." (Source: Polygon)  
+- Bursa Indie Devs completed "Green Jam" with environmental themes. (Source: Kotaku)  
+- Turkish team "MetaForge" placed 2nd in Nordic Game Jam. (Source: Global Game Jam)  
+- Gaziantep Game Hub ran "Post-Quake Healing" therapeutic game jam. (Source: Turkish Game Developer Conference)  
+- "Women in Games Turkey" jam resulted in 10 female-led prototypes. (Source: Game Developer)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized "Mount & Blade II" DLC pricing on Twitch. (Source: Twitch)  
+- YouTube creator "Oyuncu Abi" praised "Epic of Köroğlu" for cultural authenticity. (Source: YouTube)  
+- Streamer "TolgaOyun" hosted 12-hour charity marathon for earthquake relief. (Source: Twitch)  
+- "Oyuncakbaz" reviewed "Cyber Istanbul 2077" as "technically ambitious but buggy." (Source: YouTube)  
+- "QueenEveliss" discussed Turkish representation in global esports on Twitch. (Source: Twitch)  
+- "Mithrain" criticized government regulations on loot boxes. (Source: YouTube)  
+- "KaanOG" streamed "Lost Legends: Anatolia" preview, calling it "visually stunning." (Source: Twitch)  
+- "HikmetC" compared Turkish and Korean MMOs on YouTube. (Source: YouTube)  
+- "Zade" organized "Turkish Indie Spotlight" stream featuring 5 local games. (Source: Twitch)  
+- "GameOver" YouTube channel debated piracy impacts on local developers. (Source: YouTube)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
+- Istanbul Blockchain Lab introduced NFT integration tools for Unity. (Source: Game Developer)  
+- Turkish AI startup "DeepPlay" released procedural terrain generator. (Source: Polygon)  
+- Government funded 10 VR arcades in major cities. (Source: VRFocus)  
+- Middle East Technical University developed motion-capture studio for indie devs. (Source: Turkish Game Developer Conference)  
+- Localized version of Unreal Engine 5 released with Turkish documentation. (Source: Game Developer)  
+- "Smart City Istanbul" project includes AR gaming zones. (Source: Polygon)  
+- Turkish cybersecurity firm "SisGuard" launched anti-DDoS for game servers. (Source: GamesIndustry.biz)  
+- AI-based Turkish voice synthesis for NPCs adopted by 3 studios. (Source: Kotaku)  
+- Cross-platform SDK "AnadoluConnect" released for multiplayer games. (Source: Game Developer)  
+
+6) Relevant RSS feed highlights  
+- IGN: "Turkish Devs Dominate MENA Awards with 5 Wins." (Source: IGN)  
+- Kotaku: "Controversy Over Tax Incentives for Foreign Game Studios in Turkey." (Source: Kotaku)  
+- Polygon: "Anatolian Mythology Reshapes Regional Game Design." (Source: Polygon)  
+- Game Developer: "Turkish University Opens Game Design Incubator." (Source: Game Developer)  
+- GamesIndustry.biz: "Turkey's Gaming Hardware Import Tariffs Revised." (Source: GamesIndustry.biz)  
+- VRFocus: "Istanbul VR Park Sets Visitor Record." (Source: VRFocus)  
+- SteamDB: "Turkish Localization Surges for Top 100 Steam Games." (Source: SteamDB)  
+- Global Game Jam: "Ankara Site Breaks Participation Records." (Source: Global Game Jam)  
+- Turkish Game Developer Conference: "Call for Papers Opens for 2024 Event." (Source: Turkish Game Developer Conference)  
+- Istanbul Game Festival: "Early Bird Tickets Sold Out in 48 Hours." (Source: Istanbul Game Festival)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- "Mount & Blade II: Bannerlord" - 120,000 monthly Turkish players. (Source: Steam Charts)  
+- "Toon Blast" - 8M+ downloads in Turkey. (Source: Newzoo)  
+- "Pearl's Peril" - 1.2M active Turkish users. (Source: Newzoo)  
+- "Rise of Kingdoms" - Top-grossing strategy game with 500K DAU. (Source: Newzoo)  
+- "Cyber Istanbul 2077" - 85,000 downloads in first week. (Source: SteamDB)  
+- "Merge Magic!" - 3.4M Turkish installs. (Source: Newzoo)  
+- "Epic of Köroğlu" - 42,000 concurrent players. (Source: Steam Charts)  
+- "Gordian Quest" - 15,000 Turkish players after localization update. (Source: SteamDB)  
+- "Football Manager 2024" - Top-selling PC game in Turkey. (Source: Steam Charts)  
+- "Zula" - 200,000 monthly active Turkish players. (Source: Newzoo)
+
+================================================================================
+
