@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- "Project: Nightfall" by Dreamon Studios announced for Q4 2024, featuring Anatolian mythology. (Source: GamesIndustry.biz)  
-- "Istanbul 1453 VR" released on Steam by Ottoman Games, blending history with strategy. (Source: SteamDB)  
-- "Anatolia: The Dark Peak" by Black Flag Games enters early access with Ottoman-era survival mechanics. (Source: IGN)  
-- "Marmara Racing" mobile game launched by PixelForge, featuring Turkish coastal tracks. (Source: Google Play Store)  
-- "Gobeklitepe: Genesis" by AncientPlay Studios reveals collaboration with Turkish Ministry of Culture. (Source: Turkish Game Developer Conference)  
-- "Cappadocia Skies" by Skyward Interactive releases on Nintendo Switch. (Source: Polygon)  
-- "Bosphorus Brawl" fighting game announced by Istanbul Devs, featuring local martial arts. (Source: Kotaku)  
-- "Epic of Köroğlu" RPG by Anatolian Tales secures $2M in seed funding. (Source: Game Developer)  
-- "Lost Treasures of Troy" puzzle-adventure game released on iOS/Android by Aegean Studios. (Source: App Store)  
-- "Ankara Underground" narrative game by Capital Interactive delayed to Q1 2025 for polish. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue in Turkey grew 17% YoY, reaching $380M. (Source: Newzoo)  
-- PC gaming market share increased to 42% among Turkish gamers. (Source: Newzoo)  
-- Esports viewership surged 28% in Turkey, led by VALORANT and League of Legends. (Source: Newzoo)  
-- Local payment method integrations boosted in-game purchases by 23%. (Source: GamesIndustry.biz)  
-- VR headset adoption rose 15% in major cities like Istanbul and Ankara. (Source: VRFocus)  
-- Female gamers now represent 38% of Turkey’s gaming population. (Source: Newzoo)  
-- Cross-platform play increased engagement by 31% for Turkish-developed titles. (Source: Game Developer)  
-- Subscription services (e.g., Xbox Game Pass) grew 40% in user base. (Source: IGN)  
-- Educational games for children saw 25% sales increase. (Source: Polygon)  
-- Localization efforts for global titles drove 19% higher retention. (Source: Kotaku)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Global Game Jam Istanbul 2024 hosted 42 teams at Istanbul Technical University. (Source: Global Game Jam)  
-- "Ankara GameDev Challenge" focused on climate change themes, with 28 entries. (Source: Turkish Game Developer Conference)  
-- Izmir Game Jam featured VR category, won by team "Aegean Innovators". (Source: Istanbul Game Festival)  
-- "Turkish Student Game Jam" at METU attracted 150 participants. (Source: Turkish Game Developer Conference)  
-- "IndieCup Turkey" submission deadline extended to October 30. (Source: Istanbul Game Festival)  
-- "Anadolu Game Jam" in Kayseri highlighted Anatolian folklore. (Source: Global Game Jam)  
-- "Bosphorus Game Hack" partnered with Unity for engine workshops. (Source: Game Developer)  
-- "Women in Games Turkey" jam promoted gender diversity with 20 teams. (Source: Turkish Game Developer Conference)  
-- "Retro Jam Ankara" required 8-bit style games using Turkish melodies. (Source: Istanbul Game Festival)  
-- "GameDevTR Online Jam" had 63 international participants collaborating remotely. (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Streamer "Elraenn" praised "Project: Nightfall" for cultural authenticity. (Source: Twitch)  
-- "Wuant" criticized microtransactions in "Marmara Racing" as "predatory". (Source: YouTube)  
-- "Rift" hosted a 12-hour charity stream for Turkish game dev scholarships. (Source: Twitch)  
-- "Soulmoon" highlighted "Anatolia: The Dark Peak" in "Hidden Gems" series. (Source: YouTube)  
-- "Jahrein" discussed localization issues in global AAA titles for Turkish players. (Source: Twitch)  
-- "ErenK" reviewed "Istanbul 1453 VR" as "visually groundbreaking". (Source: YouTube)  
-- "CeylinH" organized a community tournament for "Bosphorus Brawl". (Source: Twitch)  
-- "Oyuncubaba" criticized server instability in Turkish multiplayer games. (Source: YouTube)  
-- "Esportia" interviewed Dreamon Studios about "Project: Nightfall". (Source: YouTube)  
-- "Kaanbaba" streamed "Lost Treasures of Troy" with archaeology experts. (Source: Twitch)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell’s 5G rollout reduced mobile gaming latency by 60%. (Source: VRFocus)  
-- Partnership between Unity and Istanbul University for AR development labs. (Source: Game Developer)  
-- Havelsan’s military-grade AI adapted for NPC behavior in local games. (Source: Polygon)  
-- Cloud gaming service "TurkCloud Play" launched with 50+ Turkish titles. (Source: IGN)  
-- VR arcades expanded to 15 new locations across Turkey. (Source: VRFocus)  
-- Blockchain integration in "Epic of Köroğlu" for item trading. (Source: Kotaku)  
-- Local studios adopted Unreal Engine 5 for photorealistic environments. (Source: Game Developer)  
-- AI-driven localization tools reduced translation costs by 35%. (Source: GamesIndustry.biz)  
-- Motion-capture studio opened in Ankara for indie developers. (Source: Polygon)  
-- Cross-progression tech enabled via Turkish ID system for game saves. (Source: IGN)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkish Devs Eye Global Market with Mythology-Based Games" (Source: GamesIndustry.biz RSS)  
-- "Interview: How Istanbul’s Indie Scene Thrives Amid Economic Shifts" (Source: Game Developer RSS)  
-- "SteamDB Data Shows 30% Growth in Turkish Game Downloads" (Source: SteamDB RSS)  
-- "Polygon Feature: The Rise of VR Cafés in Turkey" (Source: Polygon RSS)  
-- "Kotaku: Turkish Horror Games Gain International Fanbase" (Source: Kotaku RSS)  
-- "IGN Reviews Top 5 Turkish Indie Games of 2024" (Source: IGN RSS)  
-- "Newzoo Report: Turkey’s Mobile Gaming Boom" (Source: Newzoo RSS)  
-- "Global Game Jam Highlights Turkish Student Innovations" (Source: Global Game Jam RSS)  
-- "VRFocus: Turkey’s Investment in Metaverse Infrastructure" (Source: VRFocus RSS)  
-- "Turkish Game Developer Conference 2024 Schedule Announced" (Source: Turkish Game Developer Conference RSS)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" (TaleWorlds): 120,000 monthly active users in Turkey. (Source: Steam Charts)  
-- "Riding Out 2" (Ufuk Oytun): 85,000 downloads on mobile. (Source: Google Play Store)  
-- "Cooking Simulator" (PlayWay S.A. co-dev): 45,000 peak concurrent players. (Source: SteamDB)  
-- "Sable" (Shedworks, art by Turkish dev): 60,000 Turkish players. (Source: Steam Charts)  
-- "The Tourist" (Mert Düşenkalkar): 30,000 downloads on Steam. (Source: SteamDB)  
-- "Ravenfield" (SteelRaven7): 25,000 active Turkish users. (Source: Steam Charts)  
-- "House Flipper" (Empyrean, co-dev): 40,000 monthly players. (Source: SteamDB)  
-- "My Child Lebensborn" (Sarepta Studio): 50,000 mobile downloads. (Source: App Store)  
-- "Rise of the Ottoman Empire" (Game Sultan): 15,000 active strategy players. (Source: Steam Charts)  
-- "Paper Cut Mansion" (Space Lizard Studio): 10,000 downloads in Turkey. (Source: SteamDB)
+There is no new update in this category today.
