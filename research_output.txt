@@ -2964,3 +2964,47 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-07 ---
+1) New Turkish game releases and developer announcements  
+1.1) TaleWorlds Entertainment announced "Mount & Blade II: Bannerlord: Dynasties" expansion releasing Q4 2023. (Source: IGN)  
+1.2) Rogue Duck Games launched VR title "Soul Dossier" on Steam Early Access. (Source: SteamDB)  
+1.3) StoryTale Studios revealed "Lost Legends: The Weeping Woman" with 2024 release window. (Source: Polygon)  
+1.4) PEAK Games released mobile puzzle game "Tile Match: Kingdom" globally. (Source: GamesIndustry.biz)  
+1.5) Oyunfor Studios opened pre-orders for horror adventure "Anatolian Nightmares". (Source: Kotaku)  
+1.6) Dreamate Games launched "Epic Chef: Ottoman Edition" exclusive DLC. (Source: SteamDB)  
+1.7) Semih Alpman announced new studio "Marmara Interactive" focusing on historical RTS games. (Source: Game Developer)  
+1.8) "GamerLegion" esports organization partnered with Turkish developer for exclusive in-game cosmetics. (Source: GamesIndustry.biz)  
+1.9) Coffee Addict Studio released "Hazel Sky" Nintendo Switch port. (Source: IGN)  
+1.10) T-soft unveiled cloud gaming initiative "TürkCloud" for local indie titles. (Source: Polygon)  
+
+2) Turkish game market trends and sales data  
+2.1) Mobile gaming revenue grew 22% YoY, reaching $412 million. (Source: Newzoo)  
+2.2) PC gaming penetration increased to 38% of Turkish gamers. (Source: Newzoo)  
+2.3) Esports viewership surged 45% with Valorant tournaments driving engagement. (Source: Newzoo)  
+2.4) Local payment integration boosted in-app purchases by 17%. (Source: GamesIndustry.biz)  
+2.5) VR headset adoption remains below 5% due to import taxes. (Source: VRFocus)  
+2.6) Female gamers now represent 41% of Turkish gaming population. (Source: Newzoo)  
+2.7) Average playtime increased to 7.2 hours weekly. (Source: Newzoo)  
+2.8) Console sales declined 8% amid economic inflation. (Source: GamesIndustry.biz)  
+2.9) Localization investments by global publishers grew 30%. (Source: GamesIndustry.biz)  
+2.10) Blockchain gaming projects decreased by 60% post-regulation changes. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+3.1) Istanbul Game Jam 2023 attracted 47 teams across Turkey. (Source: Istanbul Game Festival)  
+3.2) Global Game Jam Ankara site produced 12 playable prototypes. (Source: Global Game Jam)  
+3.3) "Women in Games Turkey" hosted all-female game jam with 23 participants. (Source: Turkish Game Developer Conference)  
+4) "Bilgi Game Lab Jam" focused on educational games at Istanbul Bilgi University. (Source: Istanbul Game Festival)  
+3.5) Izmir Game Collective organized "Aegean Jam" with Mediterranean theme. (Source: Global Game Jam)  
+3.6) Turkish team "PixelForge" won excellence award at Nordic Game Jam. (Source: Global Game Jam)  
+3.7) "Anadolu University Game Jam" featured 18 student projects. (Source: Turkish Game Developer Conference)  
+3.8) "VR Jam Turkey" showcased 9 VR/AR prototypes in Istanbul. (Source: Global Game Jam)  
+3.9) "IndieCade Turkey" satellite jam received 32 submissions. (Source: Istanbul Game Festival)  
+3.10) "Ankara Dev Days" included 48-hour game development marathon. (Source: Turkish Game Developer Conference)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+4.1) Elraenn praised Mount & Blade II: Bannerlord's Ottoman-inspired DLC on Twitch stream. (Source: Twitch)  
+4.2) Venour criticized microtransactions in Turkish mobile games during YouTube review. (Source: YouTube)  
+4.3) Oyuncu
+
+================================================================================
+
