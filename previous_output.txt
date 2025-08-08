@@ -1,83 +1,20 @@
-1) **New Turkish game releases and developer announcements**  
-- "Project: DarkEdge" announced by Istanbul-based studio Kaan Games, targeting Q4 2024 release. (Source: Game Developer)  
-- "Anatolian Legends: Troy" released on Steam by Marmara Studios, featuring Ottoman-inspired mythology. (Source: SteamDB)  
-- "Pixel Pasha" mobile game launched by Ankara Devs, blending Turkish folklore with roguelike mechanics. (Source: Polygon)  
-- "Bosphorus Drift" racing game enters early access by Izmir Racing Studio. (Source: IGN)  
-- "Sultan's Chess VR" announced for Meta Quest 3 by VR Anatolia. (Source: VRFocus)  
-- "Gobeklitepe: Genesis" archaeological puzzle game released on Nintendo Switch. (Source: GamesIndustry.biz)  
-- "Istanbul 1453" strategy game expansion released by Paradox Interactive's Turkish partner studio. (Source: Kotaku)  
-- "Shadow of the Minaret" stealth-action title secures publishing deal with Focus Entertainment. (Source: Game Developer)  
-- "Turkish Coffee Simulator" released on mobile by indie dev SimTürk. (Source: SteamDB)  
-- "Epic of Dede Korkut" narrative RPG announced by Black Sea Games for 2025. (Source: Polygon)  
+1) New Turkish game releases and developer announcements  
+There is no new update in this category today.  
 
-2) **Turkish game market trends and sales data**  
-- Mobile gaming revenue in Turkey grew 17% YoY, reaching $412M. (Source: Newzoo)  
-- PC gaming market share increased to 38% of total gaming revenue in Turkey. (Source: Newzoo)  
-- Esports viewership in Turkey grew 22% with 14.3M regular viewers. (Source: Newzoo)  
-- Local payment method integrations boosted Turkish mobile game purchases by 31%. (Source: GamesIndustry.biz)  
-- Steam user base in Turkey expanded to 8.7M active accounts. (Source: Steam Charts)  
-- Average playtime for strategy games increased 45% among Turkish users. (Source: SteamDB)  
-- Turkish-developed games generated $63M in export revenue in 2023. (Source: Game Developer)  
-- F2P adoption rate reached 89% among Turkish mobile gamers. (Source: Newzoo)  
-- VR headset ownership grew 28% year-over-year in Turkey. (Source: VRFocus)  
-- Localization investments by international studios increased 67% for Turkish markets. (Source: GamesIndustry.biz)  
+2) Turkish game market trends and sales data  
+There is no new update in this category today.  
 
-3) **Game jams in Turkey or with Turkish participants**  
-- Istanbul Game Jam 2024 announced for October 12-14 at ITU Arı Technopark. (Source: Istanbul Game Festival)  
-- Turkish team "Pixel Janissaries" won Global Game Jam's "Best Innovation" award. (Source: Global Game Jam)  
-- Ankara Indie Game Jam scheduled for November 5-7 at ODTÜ Teknokent. (Source: Turkish Game Developer Conference)  
-- Izmir Game Devs hosted "Aegean Jam" with 42 participating teams. (Source: Turkish Game Developer Conference)  
-- "VR Jam Turkey" concluded with 17 entries for Meta Quest platforms. (Source: VRFocus)  
-- Turkish students won 3rd place in Global Game Jam's student category. (Source: Global Game Jam)  
-- Bursa Game Dev Community announced "Uludağ Jam" for August 2024. (Source: Turkish Game Developer Conference)  
-- "Anatolian Folklore Jam" attracted 78 international teams including Turkish participants. (Source: Global Game Jam)  
-- Turkish Game Developers Association hosted "Ankara Mobile Jam" with 31 entries. (Source: Turkish Game Developer Conference)  
-- "Istanbul Indie Cup" jam focused on Ottoman-era themes announced for December. (Source: Istanbul Game Festival)  
+3) Game jams in Turkey or with Turkish participants  
+There is no new update in this category today.  
 
-4) **Community opinions from Turkish Twitch and YouTube creators**  
-- Streamer Elraenn criticized localization issues in AAA titles during Steam review. (Source: Twitch)  
-- YouTuber Oyuncu Abi praised "Mount & Blade II: Bannerlord" Turkish translation quality. (Source: YouTube)  
-- Creator Sadece Rush called for more Turkish voice acting in RPGs during live stream. (Source: Twitch)  
-- Gaming channel Oyun Gezegeni highlighted underrated Turkish indie games in weekly show. (Source: YouTube)  
-- Streamer Wtcn expressed frustration over regional pricing changes on Steam. (Source: Twitch)  
-- YouTube channel Oyun Kolu recommended "Sable" for its Turkish language support. (Source: YouTube)  
-- Creator İnci Sözlük criticized microtransaction designs in mobile games during podcast. (Source: YouTube)  
-- Streamer Tolga İle Oyun discussed Turkish historical accuracy in "Assassin's Creed" series. (Source: Twitch)  
-- YouTube channel Oyun Haber Türkiye analyzed Turkish gaming market growth trends. (Source: YouTube)  
-- Streamer Efsanevi Ayı hosted charity stream supporting Turkish game dev students. (Source: Twitch)  
+4) Community opinions from Turkish Twitch and YouTube creators  
+There is no new update in this category today.  
 
-5) **Technological developments impacting the Turkish gaming industry**  
-- Turkish studio TaleWorlds implemented new AI-driven NPC behavior system. (Source: Game Developer)  
-- Istanbul-based VR firm developed haptic feedback gloves for immersive gaming. (Source: VRFocus)  
-- UE5 adoption increased 45% among Turkish developers in 2023. (Source: Game Developer)  
-- Ankara University launched cloud gaming research initiative with local studios. (Source: Polygon)  
-- Turkish Telecom partnered with NVIDIA for GeForce NOW local server deployment. (Source: GamesIndustry.biz)  
-- Procedural content generation tools adopted by 32 Turkish indie studios. (Source: Game Developer)  
-- Istanbul Technical University developed motion capture studio for game developers. (Source: Polygon)  
-- Cross-platform development frameworks usage grew 67% in Turkish studios. (Source: Game Developer)  
-- Blockchain gaming projects decreased 28% due to regulatory changes. (Source: GamesIndustry.biz)  
-- AI localization tools adoption increased Turkish game exports by 19%. (Source: Game Developer)  
+5) Technological developments impacting the Turkish gaming industry  
+There is no new update in this category today.  
 
-6) **Relevant RSS feed highlights**  
-- "Turkish Game Devs Secure $12M Investment Round" - GamesIndustry.biz  
-- "Steam Regional Pricing Adjustments Impact Turkish Gamers" - Polygon  
-- "Interview with Mount & Blade's Turkish Developers" - IGN  
-- "VR Arcades Expand Across Istanbul" - VRFocus  
-- "Newzoo Report: Turkey as Emerging Mobile Gaming Hub" - Newzoo  
-- "Anatolian-Themed Games Gaining Global Attention" - Kotaku  
-- "Turkish Government Announces Game Development Grants" - Game Developer  
-- "Analysis: Esports Growth in Middle East Markets" - IGN  
-- "Localization Best Practices for Turkish Markets" - GamesIndustry.biz  
-- "UE5 Training Program Launched in Ankara" - Game Developer  
+6) Relevant RSS feed highlights  
+There is no new update in this category today.  
 
-7) **Currently popular Turkish games in the Turkish gaming market**  
-- "Mount & Blade II: Bannerlord" - 1.2M Turkish downloads (Source: SteamDB)  
-- "Sable" - 387K Turkish downloads (Source: Steam Charts)  
-- "Cooking Simulator" - 658K Turkish downloads (Source: SteamDB)  
-- "Ravenfield" - 421K Turkish downloads (Source: Steam Charts)  
-- "Turbo Golf Racing" - 189K Turkish downloads (Source: SteamDB)  
-- "Volcanoids" - 156K Turkish downloads (Source: Steam Charts)  
-- "Raji: An Ancient Epic" - 203K Turkish downloads (Source: SteamDB)  
-- "The Battle of Polytopia" - 1.8M Turkish mobile downloads (Source: Newzoo)  
-- "Gordian Quest" - 98K Turkish downloads (Source: Steam Charts)  
-- "Rise of the Slime" - 112K Turkish downloads (Source: SteamDB)
+7) Currently popular Turkish games in the Turkish gaming market  
+There is no new update in this category today.
