@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- "Project Anatolia" announced by Oyunfor Studios with a Q4 2024 release window (Source: GamesIndustry.biz)  
-- "Desert Warriors" released on Steam by Ankara-based Thunder Games (Source: SteamDB)  
-- "Istanbul Nights" mobile game launched by Mobigame TR (Source: Game Developer)  
-- "Epic of Köroğlu" RPG enters early access from Izmir Dev Team (Source: Polygon)  
-- "Bosphorus Strategy" expansion released for "Ottoman Empire Simulator" (Source: Kotaku)  
-- "Gobeklitepe: Genesis" VR edition announced by Ruya Interactive (Source: VRFocus)  
-- "Street Soccer Turkey" released on Nintendo Switch by Sportify Games (Source: IGN)  
-- "Anatolian Myths" closed beta starts for Kickstarter backers (Source: Turkish Game Developer Conference)  
-- "CyberPankara" cyberpunk adventure game teaser from Neon Istanbul Studios (Source: Game Developer)  
-- "Troy Reborn" strategy game delayed to 2025 by Çanakkale Studios (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue up 17% YoY in Turkey (Source: Newzoo)  
-- Esports viewership increased 22% among 18-24 age group (Source: Newzoo)  
-- PC gaming hardware sales decline 8% due to import taxes (Source: GamesIndustry.biz)  
-- Local payment solutions now used in 63% of game transactions (Source: Turkish Game Developer Conference)  
-- Subscription services adoption grows 31% year-over-year (Source: Newzoo)  
-- Female gamers now represent 41% of Turkish gaming population (Source: Istanbul Game Festival)  
-- Average playtime decreased 14 minutes daily since January (Source: Newzoo)  
-- Regional pricing adjustments increase Turkish Steam purchases by 9% (Source: SteamDB)  
-- Console game resale market grows 27% in major cities (Source: Istanbul Game Festival)  
-- Cloud gaming adoption remains below 5% despite infrastructure improvements (Source: Newzoo)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2024 scheduled for October 12-14 (Source: Istanbul Game Festival)  
-- Turkish team "Pixel Warriors" wins Global Game Jam Ankara regional (Source: Global Game Jam)  
-- Marmara University hosts 48-hour student game jam (Source: Turkish Game Developer Conference)  
-- "Ankara Dev Days" game jam focuses on educational games (Source: Turkish Game Developer Conference)  
-- Izmir indie jam announces VR category for 2024 event (Source: VRFocus)  
-- Bursa Game Lab hosts monthly mini-jams for local developers (Source: Istanbul Game Festival)  
-- Turkish team "CodeAnatolia" places 3rd in Global Game Jam's climate category (Source: Global Game Jam)  
-- Gaziantep University game jam focuses on cultural heritage themes (Source: Turkish Game Developer Conference)  
-- "Women in Games Turkey" hosts all-female game jam in Istanbul (Source: Istanbul Game Festival)  
-- Eskisehir Game Devs announce quarterly jam series starting July (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticizes localization quality in recent Turkish game ports (Source: Twitch)  
-- ErmişPlay praises "Desert Warriors" combat mechanics on YouTube review (Source: YouTube)  
-- Oyuncubaba highlights monetization concerns in mobile games (Source: YouTube)  
-- QueenNaiara streams 12-hour charity marathon for Turkish game dev education (Source: Twitch)  
-- Venom hosts Q&A with "Project Anatolia" developers (Source: Twitch)  
-- SadeceSila compares Turkish and European indie game design approaches (Source: YouTube)  
-- HarunKiraz discusses hardware limitations for cloud gaming adoption (Source: YouTube)  
-- Coya analyzes Turkish representation in global esports tournaments (Source: Twitch)  
-- Rift highlights underrated Turkish puzzle games in new series (Source: YouTube)  
-- Efsanevi critiques regional pricing disparities on Steam (Source: Twitch)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell partners with local studios for 5G cloud gaming trials (Source: VRFocus)  
-- New motion capture studio opens in Istanbul Technopark (Source: Game Developer)  
-- Government funding announced for VR educational content development (Source: Turkish Game Developer Conference)  
-- UE5 adoption increases 40% among Turkish studios (Source: Game Developer)  
-- Local AI middleware "AnadoluAI" enters beta testing (Source: Polygon)  
-- Istanbul University launches game engine programming certificate (Source: Turkish Game Developer Conference)  
-- Cross-platform development tools see 35% adoption increase (Source: Game Developer)  
-- Turkish cybersecurity firm develops anti-cheat SDK for local studios (Source: GamesIndustry.biz)  
-- Blockchain gaming projects decline 75% following regulatory changes (Source: Kotaku)  
-- Motion sickness reduction tech showcased at Ankara Dev Expo (Source: VRFocus)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- Analysis of Turkish gaming tax incentives reform (Source: GamesIndustry.biz RSS)  
-- Interview with "Gobeklitepe: Genesis" art director (Source: Polygon RSS)  
-- Guide to Turkish game development grants (Source: Game Developer RSS)  
-- Feature on rising Turkish esports talent (Source: IGN RSS)  
-- Report on mobile gaming demographics in MENA region (Source: Newzoo RSS)  
-- Editorial about preservation of Turkish cultural themes in games (Source: Kotaku RSS)  
-- Technical breakdown of "Epic of Köroğlu" rendering system (Source: Game Developer RSS)  
-- Preview of Istanbul Game Festival 2024 exhibitions (Source: Istanbul Game Festival RSS)  
-- Analysis of Steam regional pricing adjustments (Source: SteamDB RSS)  
-- VR hardware compatibility report for Turkish internet infrastructure (Source: VRFocus RSS)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" (Turkish localization) - 28k concurrent players (Source: Steam Charts)  
-- "Sultan's Army" mobile strategy - 500k+ downloads (Source: Newzoo)  
-- "Istanbul Simulator" - 17k daily active users (Source: SteamDB)  
-- "Legends of Cappadocia" RPG - 42k monthly active players (Source: Steam Charts)  
-- "Epic of Köroğlu" - 8.4k peak concurrent (Source: SteamDB)  
-- "Turks on Mars" mobile shooter - 300k+ downloads (Source: Newzoo)  
-- "Ottoman Empire Simulator" - 12k weekly players (Source: Steam Charts)  
-- "Ankara Racing" mobile game - 250k+ downloads (Source: Newzoo)  
-- "Bosphorus Fishing" - 5.6k monthly players (Source: SteamDB)  
-- "Galata Tower Defense" - 180k+ mobile downloads (Source: Newzoo)
+There is no new update in this category today.
