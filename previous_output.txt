@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- "Project Ferrum" announced by Taleworlds Entertainment with 2024 release window (Source: IGN)  
-- "Mount & Blade II: Bannerlord" expansion "Blood and Silk" released on Steam (Source: SteamDB)  
-- Dream Games' "Royal Match" introduces Ottoman Empire-themed event (Source: Game Developer)  
-- "Ravenbound" major content update released by Aesir Interactive (Source: Polygon)  
-- "Sable Maze: Sullivan River" launched by Turgut Brothers Games (Source: SteamDB)  
-- "Gediz: Legends of Anatolia" enters Early Access (Source: Kotaku)  
-- "Istanbul Noir" detective game announced by Kural Games (Source: GamesIndustry.biz)  
-- "Lost in Prayer" VR title released by Metafall Studios (Source: VRFocus)  
-- "Anatolian Ghosts" teaser trailer released by Oba Games (Source: YouTube)  
-- "Epic Heroes of Turkic Lore" mobile RPG announced by Peak Games (Source: Game Developer)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue up 17% YoY in Turkey (Source: Newzoo)  
-- PC gaming market share reaches 42% among Turkish players (Source: Newzoo)  
-- Esports viewership grows 28% in Turkey during Q2 (Source: Newzoo)  
-- Average in-game spending per user: $12.30 monthly (Source: Newzoo)  
-- Localization demand for Turkish language up 45% in Steam games (Source: SteamDB)  
-- Console sales decline 8% amid economic inflation (Source: GamesIndustry.biz)  
-- Turkish-developed games generate $120M export revenue in 2023 (Source: GamesIndustry.biz)  
-- Female gamers now represent 38% of Turkish player base (Source: Newzoo)  
-- Battle royale genre dominates 31% of playtime (Source: Steam Charts)  
-- Cloud gaming adoption rises to 15% of Turkish households (Source: Newzoo)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2023 scheduled for October 20-22 (Source: Istanbul Game Festival)  
-- Turkish team "Pixel Warriors" wins Global Game Jam Ankara regional (Source: Global Game Jam)  
-- Bosphorus Game Jam announces November theme: "Ottoman Alchemy" (Source: Turkish Game Developer Conference)  
-- Izmir Game Devs hosts monthly mini-jam series (Source: Turkish Game Developer Conference)  
-- "Anadolu Game Creators" jam focuses on Turkish folklore themes (Source: Istanbul Game Festival)  
-- Ankara Indie Jam accepting registrations until November 1 (Source: Turkish Game Developer Conference)  
-- Marmara University game design department hosts student jam (Source: Global Game Jam)  
-- "Women in Games Turkey" sponsors all-female development jam (Source: Istanbul Game Festival)  
-- Turkish team "CodeAnatolia" places 3rd in Nordic Game Jam (Source: Global Game Jam)  
-- Gaziantep Game Dev Community launches charity game jam for earthquake relief (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticizes Turkish localization quality in AAA titles (Source: Twitch)  
-- ErmişOyun praises "Mount & Blade II: Bannerlord" Ottoman DLC (Source: YouTube)  
-- Wtcn highlights input lag issues in Turkish cloud gaming services (Source: Twitch)  
-- Oyuncu Abi recommends "Gediz: Legends of Anatolia" for history fans (Source: YouTube)  
-- QueenNaiomi hosts charity stream for Turkish game dev scholarships (Source: Twitch)  
-- Oyun Gezegeni analyzes Turkish mobile game monetization trends (Source: YouTube)  
-- Venom streams 24-hour marathon of Turkish-developed games (Source: Twitch)  
-- Oyun Kolu criticizes regional pricing on Steam for Turkish users (Source: YouTube)  
-- SadeceSila showcases indie games from Anatolian developers (Source: Twitch)  
-- Oyun Haber discusses government support for game studios (Source: YouTube)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell launches 5G cloud gaming service with 15ms latency (Source: VRFocus)  
-- Havelsan develops military simulation engine for commercial adaptation (Source: Game Developer)  
-- Turkish VR headset manufacturer ReviVR secures $4M funding (Source: VRFocus)  
-- Istanbul Technical University opens motion capture research lab (Source: Game Developer)  
-- Blockchain gaming platform GamyFi partners with Turkish studios (Source: Polygon)  
-- AI localization tool "TürkçeAI" reduces translation costs by 60% (Source: Game Developer)  
-- Turkish Data Protection Authority issues new guidelines for game publishers (Source: GamesIndustry.biz)  
-- UE5 adoption increases among Turkish studios (Source: Game Developer)  
-- Cross-platform SDK developed by Bilyoner for Turkish mobile games (Source: Game Developer)  
-- Istanbul-based data center expansion reduces multiplayer latency by 40% (Source: Polygon)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkish Game Industry Export Report 2023" published (Source: GamesIndustry.biz)  
-- Interview with TaleWorlds CEO on console porting challenges (Source: IGN)  
-- Analysis of Turkish gaming tax regulations (Source: Game Developer)  
-- Feature on Istanbul's growing indie scene (Source: Polygon)  
-- Guide to Turkish mythology in games (Source: Kotaku)  
-- Report on mobile hyper-casual game trends in Turkey (Source: GamesIndustry.biz)  
-- Profile of female-led studio Sorgu Games (Source: Game Developer)  
-- VR hardware sales data in Middle East markets (Source: VRFocus)  
-- Case study on Peak Games' acquisition by Zynga (Source: GamesIndustry.biz)  
-- Tutorial series on Ottoman architecture for game assets (Source: Polygon)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 12,500 concurrent Turkish players (Source: Steam Charts)  
-- "Royal Match" - 4.8M monthly active Turkish users (Source: Newzoo)  
-- "Genshin Impact" - 320,000 daily Turkish players (Source: Steam Charts)  
-- "EA Sports FC 24" - Top-selling console game in Turkey (Source: Newzoo)  
-- "League of Legends" - 890,000 monthly Turkish players (Source: Newzoo)  
-- "Counter-Strike 2" - 68,400 peak concurrent Turkish players (Source: Steam Charts)  
-- "PUBG Mobile" - 2.1M monthly active Turkish users (Source: Newzoo)  
-- "Toon Blast" - 1.7M monthly Turkish players (Source: Newzoo)  
-- "FIFA Mobile" - 950,000 Turkish downloads in Q3 (Source: Newzoo)  
-- "Rise of Kingdoms" - 620,000 active Turkish players (Source: Steam Charts)
+There is no new update in this category today.
