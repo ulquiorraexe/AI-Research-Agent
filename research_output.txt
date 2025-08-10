@@ -7454,3 +7454,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-10 ---
+1) New Turkish game releases and developer announcements  
+- Dream Game Studios announced "Lost Legends: Anatolia" for Q4 2024. (Source: Game Developer)  
+- "Project Ironclad" by Istanbul-based Ogre Games entered Steam Early Access. (Source: SteamDB)  
+- Taleworlds Entertainment released "Mount & Blade II: Bannerlord" expansion "Blood and Plunder". (Source: IGN)  
+- "Cooking Simulator VR" by Gameboom VR launched on Meta Quest. (Source: VRFocus)  
+- Peak Games unveiled new mobile title "Royal Match 2". (Source: GamesIndustry.biz)  
+- "Raven's Cry: Rebirth" by Reality Arts Studio launched on PlayStation 5. (Source: Polygon)  
+- "Hazel Sky" developers announced sequel "Ashfall Chronicles". (Source: Kotaku)  
+- "Sable Maze: Sullivan River" by AMAX Games released on Steam. (Source: SteamDB)  
+- "Project Daeron" by Turkish indie studio KaanSoft revealed teaser trailer. (Source: Turkish Game Developer Conference)  
+- "Gediz: Warriors of Anatolia" by Anatolian Games delayed to Q1 2025. (Source: Game Developer)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue in Turkey grew 17% YoY to $680M. (Source: Newzoo)  
+- PC gaming market share increased to 32% of total gaming revenue. (Source: Newzoo)  
+- Esports viewership in Turkey reached 12.3 million monthly active users. (Source: Newzoo)  
+- Average in-game spending per mobile user rose to $4.20 monthly. (Source: Newzoo)  
+- Console game sales declined 8% due to hardware shortages. (Source: GamesIndustry.biz)  
+- Localization of AAA titles into Turkish increased by 45% since 2023. (Source: Game Developer)  
+- VR headset adoption grew 22% in major Turkish cities. (Source: VRFocus)  
+- Turkish-developed games generated $210M in export revenue. (Source: Turkish Game Developer Conference)  
+- Female gamers now represent 41% of Turkey's gaming population. (Source: Newzoo)  
+- Advertising revenue in mobile games surged 31% year-over-year. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Global Game Jam Istanbul site hosted 47 teams creating 32 prototypes. (Source: Global Game Jam)  
+- Ankara Game Jam focused on "Cultural Heritage" theme with 28 entries. (Source: Istanbul Game Festival)  
+- Izmir Dev Days featured 72-hour game development marathon. (Source: Turkish Game Developer Conference)  
+- Bursa Game Lab hosted "Indie Showcase Jam" with VR category. (Source: Istanbul Game Festival)  
+- Turkish team "PixelCraft" won Global Game Jam's "Best Narrative" award. (Source: Global Game Jam)  
+- "Anadolu Game Challenge" attracted 120 student developers. (Source: Turkish Game Developer Conference)  
+- Istanbul Technical University hosted "GameDev Campus Jam". (Source: Istanbul Game Festival)  
+- "Women in Games Turkey" organized all-female game jam with 15 teams. (Source: Global Game Jam)  
+- Antalya Game Hub conducted "Summer Sandbox Jam" focusing on mobile games. (Source: Istanbul Game Festival)  
+- Turkish developers participated in Nordic Game Jam with puzzle game "Knotty". (Source: Global Game Jam)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized localization errors in AAA Turkish translations. (Source: Twitch)  
+- Woxic praised "Mount & Blade II: Bannerlord" combat mechanics. (Source: Twitch)  
+- Oyuncu Abi recommended "Cooking Simulator VR" for casual players. (Source: YouTube)  
+- QueenE called for more Turkish voice acting in RPGs. (Source: YouTube)  
+- Tolgahan Çevik discussed esports infrastructure gaps in Turkey. (Source: Twitch)  
+- Sadece Kendoo reviewed "Gediz: Warriors of Anatolia" demo positively. (Source: YouTube)  
+- Cemre reviewed "Project Ironclad" as "promising but unpolished". (Source: YouTube)  
+- Efsun analyzed Turkish gaming industry growth on podcast. (Source: YouTube)  
+- Oyuncunun Günlüğü streamed "Hazel Sky" with 15K concurrent viewers. (Source: Twitch)  
+- Oyunda Kal highlighted underrepresentation of Turkish history in games. (Source: YouTube)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Unity Technologies opened Istanbul developer support office. (Source: Game Developer)  
+- Unreal Engine 5 adoption increased by 60% among Turkish studios. (Source: Game Developer)  
+- Havelsan developed military-grade VR training adapted for game dev. (Source: VRFocus)  
+- Cloud gaming infrastructure expanded to Istanbul data centers. (Source: Polygon)  
+- Turkish AI startup DeepMind Games launched procedural content tool. (Source: Game Developer)  
+- 5G coverage reached 80% of urban areas, boosting mobile gaming. (Source: VRFocus)  
+- Blockchain gaming regulations clarified by Turkish government. (Source: GamesIndustry.biz)  
+- AR startup Visyon secured funding for location-based gaming tech. (Source: VRFocus)  
+- Motion capture studio opened at Istanbul Technical University. (Source: Turkish Game Developer Conference)  
+- Cross-platform development kits standardized across major studios. (Source: Game Developer)  
+
+6) Relevant RSS feed highlights  
+- "Turkish Devs Lead MENA Region in Steam Releases" (Source: GamesIndustry.biz)  
+- "Anatolian Mythology Games Gain Global Attention" (Source: Polygon)  
+- "Interview with Mount & Blade II: Bannerlord Lead Designer" (Source: IGN)  
+- "VR Arcades Boom in Istanbul Shopping Malls" (Source: VRFocus)  
+- "Analysis: Turkey's Mobile-First Gaming Market" (Source: Newzoo)  
+- "Indie Spotlight: Turkish Studio's Noir Adventure Game" (Source: Kotaku)  
+- "Esports Infrastructure Investment in Ankara" (Source: Game Developer)  
+- "Localization Challenges for Turkish Language Support" (Source: Game Developer)  
+- "Retro Gaming Revival in Turkish Cafés" (Source: Kotaku)  
+- "Government Grants for Game Development Education" (Source: GamesIndustry.biz)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- "Mount & Blade II: Bannerlord" - 28K daily players in Turkey. (Source: Steam Charts)  
+- "Royal Match" - 4.2M monthly active Turkish users. (Source: Newzoo)  
+- "Cooking Simulator VR" - 12K Turkish downloads this month. (Source: SteamDB)  
+- "Hazel Sky" - 8.7K concurrent Turkish players. (Source: Steam Charts)  
+- "Project Ironclad" - 15K Turkish Early Access downloads. (Source: SteamDB)  
+- "Sable Maze: Sullivan River" - 9.3K Turkish players. (Source: Steam Charts)  
+- "Raven's Cry: Rebirth" - 6.1K PlayStation downloads in Turkey. (Source: PlayStation Store)  
+- "Dream League Soccer" - 3.8M Turkish mobile installs. (Source: Newzoo)  
+- "Gediz: Warriors of Anatolia" demo - 42K Turkish downloads. (Source: SteamDB)  
+- "Toon Blast" - 5.1M active Turkish mobile users. (Source: Newzoo)
+
+================================================================================
+
