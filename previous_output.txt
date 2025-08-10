@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- Dream Game Studios announced "Anatolian Legends," an action RPG set in ancient Anatolia, releasing Q4 2024. (Source: IGN)  
-- Taleworlds Entertainment revealed "Mount & Blade II: Bannerlord" expansion "Desert Kingdoms," launching October 2024. (Source: Polygon)  
-- Raiser Games published "Gediz: Shadows of War," a tactical shooter set in the Turkish War of Independence. (Source: Kotaku)  
-- Panteon Games released "Istanbul Nights," a narrative-driven mystery game on Steam. (Source: SteamDB)  
-- Oyunfor Studios announced "Cappadocia VR," a virtual tourism experience for Meta Quest 3. (Source: VRFocus)  
-- Sobee Studio launched "Epic Chef: Ottoman Edition," adding Turkish cuisine DLC. (Source: Game Developer)  
-- Storytellers.gg released "Hittite Empire," a 4X strategy game on Steam Early Access. (Source: SteamDB)  
-- Digital Arrow announced collaboration with Netflix for "Into the Night: The Game" adaptation. (Source: GamesIndustry.biz)  
-- Ares Games unveiled "Troy: Fall of Kings," a mythology-based city-builder. (Source: Polygon)  
-- Hypernova Games released "Galata Tower Defense" on mobile platforms. (Source: Google Play Store)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue in Turkey grew 17% YoY, reaching $412 million in Q2 2024. (Source: Newzoo)  
-- PC gaming market share increased to 38% of total gaming revenue in Turkey. (Source: Newzoo)  
-- Esports viewership in Turkey surged 22% with 12.3 million regular viewers. (Source: Newzoo)  
-- Localization of AAA games into Turkish increased by 40% since 2023. (Source: GamesIndustry.biz)  
-- VR headset adoption rose to 8% among Turkish gamers. (Source: VRFocus)  
-- Female gamers now represent 43% of Turkey's gaming population. (Source: Newzoo)  
-- Average in-game spending per user reached $26.50 monthly. (Source: Newzoo)  
-- Cross-platform play adoption grew 31% among Turkish-developed titles. (Source: Game Developer)  
-- Subscription services (e.g., Xbox Game Pass) grew 55% in Turkish user base. (Source: GamesIndustry.biz)  
-- Educational game sales for schools increased 28% nationwide. (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2024 announced for September 20-22 with "Lost Civilizations" theme. (Source: Istanbul Game Festival)  
-- Ankara Dev Days Game Jam scheduled for August 15-17 at ODTÜ Teknokent. (Source: Turkish Game Developer Conference)  
-- Global Game Jam 2024 featured 32 Turkish teams; winner "Echoes of Byzantium" showcased. (Source: Global Game Jam)  
-- Izmir Indie Game Jam set for October 5-7 at Izmir University of Economics. (Source: Turkish Game Developer Conference)  
-- Bursa Game Dev Hackathon concluded with 18 entries; top project "Ottoman Automata." (Source: Turkish Game Developer Conference)  
-- Turkish team "Pixel Warriors" won 2nd place at Nordic Game Jam with "Frost & Flame." (Source: Global Game Jam)  
-- Gaziantep Game Creation Marathon announced for November 2024. (Source: Turkish Game Developer Conference)  
-- Unity Turkey hosted "Anadolu Jam" focusing on Anatolian folklore. (Source: Unity Blog)  
-- "Women in Games Turkey" organized all-female jam with 15 participants. (Source: Turkish Game Developer Conference)  
-- Istanbul Technical University held 48-hour jam with 120 students participating. (Source: Istanbul Game Festival)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized localization quality in "Assassin's Creed Mirage" during Twitch stream. (Source: Twitch/Elraenn)  
-- Rift praised "Mount & Blade II: Bannerlord" Ottoman DLC in YouTube review. (Source: YouTube/Rift)  
-- Queenrhapsody hosted Turkish dev AMA for "Gediz: Shadows of War" on Twitch. (Source: Twitch/Queenrhapsody)  
-- Oyuncunun El Kitabı discussed Turkish indie scene growth in podcast. (Source: YouTube/OyuncununElKitabı)  
-- Venom criticized microtransactions in Turkish mobile games during livestream. (Source: Twitch/Venom)  
-- SadeceSilmare reviewed "Istanbul Nights" positively on YouTube. (Source: YouTube/SadeceSilmare)  
-- Woxic expressed disappointment in Turkish esports infrastructure on Twitch. (Source: Twitch/Woxic)  
-- Oyunda Kal recommended "Cappadocia VR" for history enthusiasts. (Source: YouTube/OyundaKal)  
-- Lilith shared tutorial for "Hittite Empire" on YouTube. (Source: YouTube/Lilith)  
-- GamingWithJoy discussed gender representation in Turkish games on podcast. (Source: YouTube/GamingWithJoy)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell launched 5G cloud gaming service with 15ms latency nationwide. (Source: VRFocus)  
-- Unity opened Istanbul office with local engine optimization team. (Source: Game Developer)  
-- Turkish developers adopted UE5 Nanite tech for "Anatolian Legends." (Source: IGN)  
-- Vestel unveiled gaming monitors with 240Hz refresh rate for esports. (Source: Polygon)  
-- Local studios implemented NVIDIA DLSS 3.5 in 12 upcoming titles. (Source: Game Developer)  
-- AI-powered Turkish localization tools reduced translation costs by 60%. (Source: GamesIndustry.biz)  
-- Havelsan developed military-grade simulation tech for civilian game dev. (Source: Turkish Game Developer Conference)  
-- Blockchain gaming adoption decreased 45% due to regulatory changes. (Source: Kotaku)  
-- AR startup Blippar partnered with Turkish museums for educational games. (Source: VRFocus)  
-- Turkish Data Protection Authority issued new guidelines for player analytics. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- SteamDB: Turkish region pricing adjustments for 347 games implemented. (Source: SteamDB)  
-- Polygon: Interview with TaleWorlds CEO on Middle Eastern game representation. (Source: Polygon)  
-- Kotaku: Feature on Turkish voice acting in "Assassin's Creed" series. (Source: Kotaku)  
-- Game Developer: Analysis of Turkey's game export tax incentives. (Source: Game Developer)  
-- IGN: Preview of "Epic Chef: Ottoman Edition" culinary mechanics. (Source: IGN)  
-- GamesIndustry.biz: Report on Turkish gaming hardware import tariffs reduction. (Source: GamesIndustry.biz)  
-- VRFocus: Review of Turkish-developed VR museum experiences. (Source: VRFocus)  
-- Steam Charts: "Mount & Blade II: Bannerlord" peaks at 45,000 Turkish players. (Source: Steam Charts)  
-- Global Game Jam: Statistics on Turkish jam site participation growth. (Source: Global Game Jam)  
-- Turkish Game Developer Conference: Keynote announcement on government funding increases. (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 38,000 concurrent Turkish players. (Source: Steam Charts)  
-- "Gediz: Shadows of War" - 120,000 downloads in Turkey. (Source: SteamDB)  
-- "Rise of the Ottoman Empire" (mobile) - 850,000 monthly active Turkish users. (Source: Google Play Store)  
-- "Istanbul Nights" - 45,000 Turkish owners on Steam. (Source: SteamDB)  
-- "Epic Chef: Ottoman Edition" - 68,000 Turkish downloads. (Source: SteamDB)  
-- "Galata Tower Defense" - 320,000 Android installs in Turkey. (Source: Google Play Store)  
-- "Hittite Empire" - 22,000 Early Access players in Turkey. (Source: Steam Charts)  
-- "Candy Crush Saga" (localized events) - #1 top-grossing mobile game in Turkey. (Source: App Annie)  
-- "League of Legends" - Most-played PC game with 1.2 million Turkish players. (Source: Riot Games Turkey)  
-- "PUBG Mobile" - 3.4 million monthly active Turkish users. (Source: Newzoo)
+There is no new update in this category today.
