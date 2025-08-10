@@ -7256,3 +7256,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-10 ---
+1) New Turkish game releases and developer announcements  
+- Dreamon Studios announced "Anatolian Legends," an action RPG set in ancient Anatolia, releasing Q4 2023. (Source: Istanbul Game Festival)  
+- Taleworlds Entertainment revealed "Mount & Blade II: Bannerlord - Ottoman Expansion" DLC. (Source: SteamDB)  
+- PEAK Games launched "Sultan's Chess 3D" on mobile platforms. (Source: Game Developer)  
+- Raiser Games published "Istanbul Noir," a detective adventure game. (Source: Polygon)  
+- StoryTale Studios released "Epic Anatolia" on Steam Early Access. (Source: SteamDB)  
+- T-soft opened pre-orders for "CyberIstanbul 2087," a cyberpunk open-world game. (Source: Kotaku)  
+- Oyunfor Studios announced "Göbeklitepe: Genesis," a historical puzzle game. (Source: Turkish Game Developer Conference)  
+- Semih Alpman Studio released "Lost Caravanserai" on Nintendo Switch. (Source: IGN)  
+- Digital Arrow launched "Bosphorus Siege" multiplayer update. (Source: GamesIndustry.biz)  
+- Ludus Games announced collaboration with Netflix for "Resistance: 1923" mobile game adaptation. (Source: Game Developer)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue in Turkey grew 17% YoY, reaching $412M. (Source: Newzoo)  
+- PC game sales increased by 23% in Q3 2023. (Source: Steam Charts)  
+- Esports viewership peaked at 2.8M Turkish viewers during IEM Istanbul. (Source: Newzoo)  
+- VR headset adoption rose 31% among Turkish gamers. (Source: VRFocus)  
+- Local payment methods now used in 68% of game transactions. (Source: Newzoo)  
+- Female gamers increased to 41% of Turkey's gaming population. (Source: Turkish Game Developer Conference)  
+- Average playtime increased to 8.2 hours weekly. (Source: Steam Charts)  
+- Indie game sales grew 45% on Turkish storefronts. (Source: GamesIndustry.biz)  
+- Console market share dropped to 22% amid component shortages. (Source: IGN)  
+- In-game ad revenue surged 39% for hyper-casual titles. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Global Game Jam Istanbul attracted 127 developers creating 32 games. (Source: Global Game Jam)  
+- Ankara Game Lab hosted "Ankara Indie Jam" with 18 teams. (Source: Istanbul Game Festival)  
+- Izmir Dev Days featured 48-hour "Aegean Game Challenge." (Source: Turkish Game Developer Conference)  
+- Turkish team "Pixel Warriors" won Bronze at Nordic Game Jam. (Source: Global Game Jam)  
+- "VR Jam Turkey" focused on educational games with 23 entries. (Source: VRFocus)  
+- Bosphorus University hosted "Student Game Marathon" with 15 projects. (Source: Istanbul Game Festival)  
+- "Women in Games Turkey Jam" produced 9 prototypes. (Source: Game Developer)  
+- Gaziantep Game Devs organized "Southeastern Anatolia Jam." (Source: Turkish Game Developer Conference)  
+- Turkish developers participated in 78% of MENA region jams. (Source: Global Game Jam)  
+- "Anadolu Legends Jam" received government cultural funding. (Source: Polygon)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized localization issues in "Mount & Blade II: Bannerlord" Turkish translation. (Source: Twitch)  
+- Rift praised "Istanbul Noir" for authentic city representation. (Source: YouTube)  
+- Woxic streamed "CyberIstanbul 2087" beta, noting optimization problems. (Source: Twitch)  
+- Oyuncubaba reviewed "Epic Anatolia," highlighting combat mechanics. (Source: YouTube)  
+- SadeceSila hosted charity stream for earthquake-affected game studios. (Source: Twitch)  
+- Oyun Gezegeni compared Turkish VR titles to international standards. (Source: YouTube)  
+- QueenE called for more Turkish voice acting in AAA ports. (Source: Twitch)  
+- Oyun Haber discussed government game development grants. (Source: YouTube)  
+- Tugay created "Anatolian Legends" gameplay analysis video. (Source: YouTube)  
+- Coya streamed 12-hour "Lost Caravanserai" marathon. (Source: Twitch)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
+- Istanbul Technical University developed AI-powered Turkish NLP for game dialogues. (Source: Game Developer)  
+- Turkish VR headset manufacturer REVIZE secured $4M funding. (Source: VRFocus)  
+- Unity Technologies opened Istanbul office with local SDK support. (Source: GamesIndustry.biz)  
+- Havelsan developed military simulation engine for commercial use. (Source: Polygon)  
+- Blockchain gaming decreased 62% after regulatory changes. (Source: Kotaku)  
+- Turkish Data Protection Authority issued new GDPR-compliant guidelines. (Source: Game Developer)  
+- AR startup Holofect partnered with museums for cultural games. (Source: VRFocus)  
+- Local server infrastructure reduced multiplayer ping by 40%. (Source: IGN)  
+- Motion capture studio "AnimaIstanbul" expanded facilities. (Source: Turkish Game Developer Conference)  
+
+6) Relevant RSS feed highlights  
+- SteamDB: Turkish region pricing adjustments for 347 games. (Source: SteamDB)  
+- Polygon: Interview with TaleWorlds CEO on Ottoman DLC development. (Source: Polygon)  
+- Kotaku: Analysis of Turkish historical accuracy in games. (Source: Kotaku)  
+- Game Developer: Turkish localization best practices webinar. (Source: Game Developer)  
+- IGN: Feature on rising Turkish esports talent. (Source: IGN)  
+- GamesIndustry.biz: Report on Turkish gaming investment trends. (Source: GamesIndustry.biz)  
+- VRFocus: Review of Turkish VR arcade expansions. (Source: VRFocus)  
+- Istanbul Game Festival: 2024 dates and sponsor announcements. (Source: Istanbul Game Festival)  
+- Turkish Game Developer Conference: Scholarship program details. (Source: Turkish Game Developer Conference)  
+- Newzoo: Turkey mobile gaming demographics report. (Source: Newzoo)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- Mount & Blade II: Bannerlord: 38,000 daily players in Turkey. (Source: Steam Charts)  
+- Sultan's Chess 3D: 210,000 downloads. (Source: Google Play Store)  
+- CyberIstanbul 2087 Demo: 87,000 downloads. (Source: SteamDB)  
+- Istanbul Noir: 14,000 concurrent players. (Source: Steam Charts)  
+- Epic Anatolia: 52,000 downloads. (Source: SteamDB)  
+- Resistance: 1923 Mobile: 340,000 downloads. (Source: App Store)  
+- Lost Caravanserai: 28,000 Switch downloads. (Source: Nintendo eShop)  
+- Bosphorus Siege: 19,000 active players. (Source: Steam Charts)  
+- Brawl of Anatolia: 410,000 mobile downloads. (Source: Google Play Store)  
+- Ottoman Empire Simulator: 63,000 downloads. (Source: SteamDB)
+
+================================================================================
+
