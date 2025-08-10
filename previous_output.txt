@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- Dream of Darya released on Steam with Ottoman Empire-inspired strategy gameplay. (Source: SteamDB)  
-- TaleWorlds Entertainment announced Mount & Blade II: Bannerlord expansion for Q4 2024. (Source: IGN)  
-- Rogue Games launched VR title Neon Veil on Meta Quest Store. (Source: VRFocus)  
-- PEAK Games revealed casual mobile puzzle game Color Bazaar for iOS/Android. (Source: Game Developer)  
-- Storytellers.gg released narrative adventure Sultana's Choice on Steam. (Source: Polygon)  
-- Oyunfor Studios announced open-world RPG Anadolu Chronicles targeting 2025 release. (Source: GamesIndustry.biz)  
-- Semih Alpsoy Games published tactical shooter Iron Front: Anatolia on Steam Early Access. (Source: Kotaku)  
-- Ludus Games launched educational history app Byzantium VR for schools. (Source: Game Developer)  
-- Hypernova Industries released arcade racer Istanbul Drift on Nintendo Switch. (Source: IGN)  
-- Inflexion Games announced partnership with Turkish studio for Nightingale localization. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 17% YoY, reaching $412M in 2023. (Source: Newzoo)  
-- PC gaming market share increased to 38% of total gaming revenue in Turkey. (Source: Newzoo)  
-- Esports viewership surged 45% with Valorant tournaments driving engagement. (Source: GamesIndustry.biz)  
-- Average in-game spending per mobile user rose to $4.20 monthly. (Source: Newzoo)  
-- Localization demand increased 60% for Arabic-language game versions. (Source: GamesIndustry.biz)  
-- VR headset adoption grew 22% year-over-year in major cities. (Source: VRFocus)  
-- Steam user base expanded to 8.3 million active Turkish accounts. (Source: Steam Charts)  
-- Console game sales declined 8% due to import tax increases. (Source: Newzoo)  
-- Indie game funding through government grants increased by 30%. (Source: Game Developer)  
-- Female gamer demographic rose to 41% of total players. (Source: Newzoo)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2024 announced for October 15-17 with "Lost Civilizations" theme. (Source: Istanbul Game Festival)  
-- Global Game Jam Ankara site produced 22 playable prototypes. (Source: Global Game Jam)  
-- Bosphorus VR Jam winners announced for best educational XR application. (Source: Turkish Game Developer Conference)  
-- Izmir Indie Game Challenge received 87 submissions across student categories. (Source: Istanbul Game Festival)  
-- Ankara Dev Days hosted 48-hour jam focused on mobile puzzle mechanics. (Source: Turkish Game Developer Conference)  
-- Marmara University Game Lab concluded summer jam with 15 student teams. (Source: Global Game Jam)  
-- Turkish team "Pixel Pioneers" won Global Game Jam's accessibility award. (Source: Global Game Jam)  
-- Antalya Game Creators hosted coastal jam session with 35 participants. (Source: Istanbul Game Festival)  
-- Turkish developers participated in Nordic Game Jam with puzzle-platformer entry. (Source: Global Game Jam)  
-- Gaziantep University hosted first regional jam focusing on cultural heritage games. (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized server latency issues in Turkish Valorant tournaments. (Source: Twitch)  
-- ErmişGameplay praised Mount & Blade II: Bannerlord's new Turkish localization. (Source: YouTube)  
-- QueenNaiomi hosted charity stream supporting Turkish indie developers. (Source: Twitch)  
-- Oyuncubaba reviewed Dream of Darya positively for historical accuracy. (Source: YouTube)  
-- TugayÖzkaya expressed concerns about mobile game monetization tactics. (Source: YouTube)  
-- SadeceSage streamed 12-hour marathon of Turkish-developed RPGs. (Source: Twitch)  
-- OyunKurdu compared Turkish VR titles to international standards. (Source: YouTube)  
-- PelinOyunda discussed gender representation in local game narratives. (Source: Twitch)  
-- OyunHaberTürk analyzed government support for game studios. (Source: YouTube)  
-- OyuncuKız highlighted accessibility features in new Turkish mobile games. (Source: Twitch)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Unity Technologies opened Istanbul developer support center. (Source: Game Developer)  
-- Havelsan developed military simulation engine for domestic training games. (Source: Polygon)  
-- Turkish VR arcades adopted new haptic feedback systems. (Source: VRFocus)  
-- Local studios implemented AI-powered localization tool LingvaNex. (Source: Game Developer)  
-- 5G coverage expansion enabled cloud gaming trials in Istanbul. (Source: Polygon)  
-- Blockchain gaming regulations clarified by Turkish regulatory body. (Source: GamesIndustry.biz)  
-- Motion capture studio established at Istanbul Technical University. (Source: Game Developer)  
-- Cross-platform development kits distributed via government tech grants. (Source: Polygon)  
-- AR navigation systems integrated into historical location-based games. (Source: VRFocus)  
-- Turkish Data Protection Authority issued guidelines for player analytics. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkish Devs Navigate New Monetization Laws" on GamesIndustry.biz RSS. (Source: GamesIndustry.biz)  
-- "Anatolian Mythology in Modern Gaming" feature on Polygon RSS. (Source: Polygon)  
-- "Case Study: Cross-Cultural Design in Sultana's Choice" on Game Developer RSS. (Source: Game Developer)  
-- "VR Arcade Boom in Istanbul" report on VRFocus RSS. (Source: VRFocus)  
-- "Interview with TaleWorlds CEO on Bannerlord Expansion" on IGN RSS. (Source: IGN)  
-- "Turkish Mobile Gaming Habits Report" data visualization on Newzoo RSS. (Source: Newzoo)  
-- "Localization Challenges for Middle Eastern Markets" on Kotaku RSS. (Source: Kotaku)  
-- "Steam Workshop Support for Turkish Indie Games" update on SteamDB RSS. (Source: SteamDB)  
-- "Government Grants for Game Development 2024" announcement feed. (Source: Turkish Game Developer Conference)  
-- "Esports Infrastructure Development Grants" bulletin on Istanbul Game Festival RSS. (Source: Istanbul Game Festival)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- Mount & Blade II: Bannerlord: 28,000 daily active Turkish players. (Source: Steam Charts)  
-- Dream of Darya: 150,000 downloads since release. (Source: SteamDB)  
-- Hero Wars (MY.GAMES): Top-grossing mobile game with 850,000 monthly active Turkish users. (Source: Newzoo)  
-- Coin Master (Moon Active): 1.2 million monthly Turkish players. (Source: Newzoo)  
-- Sultana's Choice: 45,000 downloads. (Source: SteamDB)  
-- 1945 Air Force (ONEMT): 680,000 active Turkish mobile installations. (Source: Newzoo)  
-- Iron Front: Anatolia: 12,000 concurrent players during peak hours. (Source: Steam Charts)  
-- Istanbul Drift: 38,000 Nintendo eShop downloads in Turkey. (Source: IGN)  
-- Neon Veil: 8,500 Meta Quest downloads. (Source: VRFocus)  
-- Color Bazaar: 220,000 mobile downloads in first month. (Source: Game Developer)
+There is no new update in this category today.
