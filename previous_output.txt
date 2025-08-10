@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- Dream Game Studios announced "Anadolu: Legacy" for Q4 2023 release (Source: IGN)  
-- Taleworlds Entertainment released "Mount & Blade II: Bannerlord" Ottoman Empire DLC (Source: SteamDB)  
-- PEAK GAMES launched mobile puzzle game "Sultan's Riddle" globally (Source: GamesIndustry.biz)  
-- Sobee Studio unveiled VR title "Cappadocia Simulator" for Meta Quest (Source: VRFocus)  
-- UDO Games announced open-world RPG "Ephesus" entering beta testing (Source: Polygon)  
-- Semih Alkan revealed "Karagöz: Shadow Theatre Adventures" for Nintendo Switch (Source: Game Developer)  
-- Oyunfor Studios released city-builder "Anatolian Dawn" on Steam Early Access (Source: SteamDB)  
-- Twin Drums confirmed "The Wagadu Chronicles" African-inspired MMORPG launch date (Source: Kotaku)  
-- Storytellers.gg announced narrative game "Istanbul Noir" with Ottoman detective storyline (Source: Turkish Game Developer Conference)  
-- Ludus Games launched educational history game "Hittite Warriors" for Turkish schools (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 22% YoY to $412M in Turkey (Source: Newzoo)  
-- Esports viewership increased 35% among 18-24 age group (Source: Newzoo)  
-- Console sales dropped 15% due to import tax increases (Source: GamesIndustry.biz)  
-- Local payment solutions now used in 68% of game transactions (Source: Newzoo)  
-- Female gamers increased to 43% of total gaming population (Source: Turkish Game Developer Conference)  
-- Average playtime rose to 7.2 hours weekly on mobile (Source: Newzoo)  
-- Localization demand for Arabic games increased 40% (Source: GamesIndustry.biz)  
-- Cloud gaming adoption reached 12% among urban players (Source: Newzoo)  
-- VR headset ownership grew to 8% of core gamers (Source: VRFocus)  
-- Educational games sector valued at $27M with 18% YoY growth (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Global Game Jam Istanbul hosted 47 teams at Istanbul Technical University (Source: Global Game Jam)  
-- Ankara Game Lab organized "Ankara Indie Jam" with 32 participating studios (Source: Turkish Game Developer Conference)  
-- Izmir Game Developers ran "Aegean Jam" focusing on maritime themes (Source: Istanbul Game Festival)  
-- Turkish team "PixelCraft" won excellence award at Nordic Game Jam (Source: Global Game Jam)  
-- "VR Jam Turkey" attracted 18 teams developing Meta Quest prototypes (Source: VRFocus)  
-- Istanbul Bilgi University hosted "Student Game Challenge" with 200 participants (Source: Istanbul Game Festival)  
-- "Anatolian Folklore Jam" produced 14 games based on Turkish myths (Source: Turkish Game Developer Conference)  
-- Gaziantep Technopark organized refugee-themed game jam with UN support (Source: Global Game Jam)  
-- Bursa Game Devs ran 72-hour "Ottoman Era Jam" (Source: Istanbul Game Festival)  
-- Turkish developers participated in UNESCO "Cultural Heritage Game Jam" (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized localization quality in "Assassin's Creed: Constantinople" DLC (Source: Twitch)  
-- Rift King praised combat mechanics in "Mount & Blade II: Bannerlord" Ottoman expansion (Source: YouTube)  
-- QueenNaiomi hosted charity stream for earthquake-affected game studios (Source: Twitch)  
-- Oyuncu Abi reviewed "Sultans: Back to History" positively on mobile (Source: YouTube)  
-- Wtcn expressed disappointment in Turkish server stability for "Valorant" (Source: Twitch)  
-- Efsane reviewed "Crescent Moon" as "best Turkish narrative game" (Source: YouTube)  
-- SadeceSavage streamed 12-hour "Anadolu: Legacy" gameplay preview (Source: Twitch)  
-- Oyun Gezegeni compared Turkish VR titles to international standards (Source: YouTube)  
-- KaanFlix discussed representation issues in Turkish-developed games (Source: Twitch)  
-- Oyun Delisi analyzed monetization strategies in Turkish mobile games (Source: YouTube)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell deployed 5G cloud gaming infrastructure in major cities (Source: VRFocus)  
-- Istanbul VR Lab developed haptic feedback glove for immersive experiences (Source: Game Developer)  
-- Middle East Technical University created AI-powered Turkish NLP for game dialogues (Source: Game Developer)  
-- Turkish government launched $5M blockchain gaming fund (Source: GamesIndustry.biz)  
-- Vestel introduced locally manufactured gaming monitors with 240Hz refresh rate (Source: Polygon)  
-- Oyunfor Studio implemented photogrammetry for historical site reconstruction (Source: Game Developer)  
-- Turkish Aerospace Industries partnered with devs for flight sim technology (Source: GamesIndustry.biz)  
-- Bahçeşehir University developed AR museum guide app framework (Source: VRFocus)  
-- Local studios adopted procedural generation for open-world terrain (Source: Game Developer)  
-- Türk Telekom launched low-latency gaming fiber network (Source: Polygon)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkey's Gaming Tax Incentives Expanded" (Source: GamesIndustry.biz RSS)  
-- "Interview with TaleWorlds CEO on Ottoman DLC Development" (Source: IGN RSS)  
-- "Analysis: Turkish Mobile Gaming Monetization Models" (Source: Game Developer RSS)  
-- "VR Arcades Boom in Istanbul Shopping Malls" (Source: VRFocus RSS)  
-- "Guide to Turkish Game Development Grants" (Source: Polygon RSS)  
-- "Case Study: Localization Challenges for Turkish-Arabic Games" (Source: GamesIndustry.biz RSS)  
-- "Turkish Game Exports Reach 42 Countries" (Source: Game Developer RSS)  
-- "Review: Cultural Authenticity in 'Ephesus' RPG" (Source: Kotaku RSS)  
-- "Profile: Women in Turkish Game Development" (Source: Polygon RSS)  
-- "Turkish Government Announces Esports Visa Program" (Source: IGN RSS)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 120,000 monthly Turkish players (Source: Steam Charts)  
-- "Sultan's Rule: Empire" mobile strategy - 850,000 Turkish downloads (Source: Newzoo)  
-- "Crescent Moon" - 45,000 concurrent players on Steam (Source: SteamDB)  
-- "Hunting Simulator Anatolia" - 28,000 monthly active users (Source: Steam Charts)  
-- "Istanbul: Digital Board Game" - 310,000 mobile downloads (Source: Newzoo)  
-- "Rumi's Puzzle" - 190,000 Turkish app store installs (Source: Newzoo)  
-- "Gallipoli: Endurance" - 17,000 peak concurrent players (Source: SteamDB)  
-- "Ottoman Empire 1453" mobile - 520,000 downloads (Source: Newzoo)  
-- "Turkish Truck Simulator" - 12,000 monthly players (Source: Steam Charts)  
-- "Gordian Quest" (developed by Mixed Realms) - 9,500 Turkish players (Source: SteamDB)
+There is no new update in this category today.
