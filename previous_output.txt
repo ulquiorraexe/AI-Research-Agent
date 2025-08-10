@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- Mount & Blade II: Bannerlord expansion announced by TaleWorlds Entertainment. (Source: IGN)  
-- Ikonei Island: An Earthlock Adventure released on Steam by Snowcastle Games. (Source: SteamDB)  
-- ROTWO: Dark Fantasy RPG enters early access by Turkish studio Dreamate. (Source: Game Developer)  
-- Project Ferocious gameplay trailer revealed by Ogre Pixel. (Source: Polygon)  
-- Sifu Turkish localization update launched by Sloclap. (Source: Kotaku)  
-- Gamedev World documentary featuring Turkish studios released. (Source: GamesIndustry.biz)  
-- Sandfall Interactive announces Project B99 with Unreal Engine 5. (Source: IGN)  
-- Paperville Panic! puzzle game launched by Krea Games. (Source: SteamDB)  
-- Trese Brothers collaborate with Istanbul-based devs for Star Traders 2 update. (Source: Game Developer)  
-- Lost in Sky 2: Voided Space DLC released by Thunder Devs. (Source: Polygon)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue in Turkey grew 18% YoY to $680M. (Source: Newzoo)  
-- PC gaming market share increased to 42% among Turkish players. (Source: Newzoo)  
-- Esports viewership in Turkey reached 12.3 million in Q2. (Source: GamesIndustry.biz)  
-- Average in-game spending per user rose to $32.50 monthly. (Source: Newzoo)  
-- Localization demand for Turkish games in MENA region up 67%. (Source: GamesIndustry.biz)  
-- VR headset adoption increased by 28% among Turkish gamers. (Source: VRFocus)  
-- Subscription-based gaming services grew by 41% in Turkey. (Source: Newzoo)  
-- Female gamer demographic now represents 38% of Turkish market. (Source: Newzoo)  
-- Cross-platform play adoption rate reached 76% for Turkish titles. (Source: GamesIndustry.biz)  
-- Educational game sales increased by 33% in Turkish schools. (Source: Newzoo)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Global Game Jam Istanbul site produced 42 playable prototypes. (Source: Global Game Jam)  
-- Ankara Game Lab Jam focused on climate change solutions. (Source: Turkish Game Developer Conference)  
-- Izmir Game Creators hosted 72-hour "Retro Revival" jam. (Source: Istanbul Game Festival)  
-- Turkish team "PixelCraft" won bronze at Nordic Game Jam. (Source: Global Game Jam)  
-- Bursa Indie Devs organized VR-focused jam with 15 teams. (Source: Turkish Game Developer Conference)  
-- Istanbul Technical University hosted student game jam with 120 participants. (Source: Istanbul Game Festival)  
-- Turkish developers participated in UNESCO Gaming for Peace jam. (Source: Global Game Jam)  
-- Gaziantep Game Makers ran accessibility-focused design jam. (Source: Turkish Game Developer Conference)  
-- "Women in Games Turkey" hosted all-female development jam. (Source: Istanbul Game Festival)  
-- Ankara Digital Arts Festival featured 48-hour game creation marathon. (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn praised Mount & Blade II: Bannerlord's combat mechanics on Twitch stream. (Source: Twitch)  
-- YouTube creator Oyuncu Abi criticized microtransactions in local mobile games. (Source: YouTube)  
-- Streamer Kimera highlighted narrative depth in Ikonei Island during gameplay. (Source: Twitch)  
-- YouTube channel Oyun Gezegeni reviewed Paperville Panic! positively. (Source: YouTube)  
-- Twitch streamer SadeceFleece expressed disappointment in recent server issues. (Source: Twitch)  
-- Creator Oyun Kolu recommended Project Ferocious for Souls-like fans. (Source: YouTube)  
-- Streamer Wtcn discussed Turkish localization quality in AAA titles. (Source: Twitch)  
-- YouTube channel Oyun Haber analyzed Turkish esports infrastructure. (Source: YouTube)  
-- Streamer Efsunlu criticized regional pricing on Steam. (Source: Twitch)  
-- Creator Oyun Delisi showcased Lost in Sky 2 gameplay mechanics. (Source: YouTube)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Unreal Engine 5 adoption increased by Turkish studios by 40%. (Source: Game Developer)  
-- Havok physics engine integration tutorial released in Turkish. (Source: Game Developer)  
-- Local cloud gaming infrastructure expanded by Türk Telekom. (Source: VRFocus)  
-- Procedural generation tools workshop held at Istanbul DevCon. (Source: Turkish Game Developer Conference)  
-- AI-powered localization tool "TürkçeAI" launched for developers. (Source: Game Developer)  
-- VR motion capture studio opened in Ankara Technopark. (Source: VRFocus)  
-- Blockchain gaming SDK developed by Istanbul-based tech firm. (Source: Polygon)  
-- Photogrammetry scanning services now available in Izmir. (Source: Game Developer)  
-- Cross-platform development framework workshop at Ozyegin University. (Source: Turkish Game Developer Conference)  
-- Real-time ray tracing implementation guide published in Turkish. (Source: Game Developer)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkish Devs Lead MENA Mobile Market Expansion" (Source: GamesIndustry.biz RSS)  
-- "Anatolian Mythology in Games: Cultural Representation Analysis" (Source: Polygon RSS)  
-- "Interview with TaleWorlds CEO on Bannerlord Development" (Source: IGN RSS)  
-- "VR Arcade Boom in Istanbul Shopping Malls" (Source: VRFocus RSS)  
-- "Turkish Government Announces New Game Development Grants" (Source: Game Developer RSS)  
-- "Esports Stadium Istanbul Hosts Regional Championship" (Source: Kotaku RSS)  
-- "Analysis: Turkish Gaming Demographics Shift" (Source: Newzoo RSS)  
-- "Localization Challenges for Turkish Indie Developers" (Source: Game Developer RSS)  
-- "Review: Lost in Sky 2's Technical Achievements" (Source: IGN RSS)  
-- "Turkish University Launches Game Design Scholarship" (Source: GamesIndustry.biz RSS)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- Mount & Blade II: Bannerlord - 850,000 downloads (Source: SteamDB)  
-- Sifu - 420,000 downloads (Source: Steam Charts)  
-- Paperville Panic! - 310,000 downloads (Source: SteamDB)  
-- Ikonei Island - 285,000 downloads (Source: Steam Charts)  
-- Project Ferocious (demo) - 220,000 downloads (Source: SteamDB)  
-- ROTWO: Dark Fantasy RPG - 180,000 downloads (Source: Steam Charts)  
-- Lost in Sky 2 - 150,000 downloads (Source: SteamDB)  
-- Gamedev World - 120,000 downloads (Source: Steam Charts)  
-- Sandfall Interactive's Project B99 trailer - 95,000 views (Source: YouTube)  
-- Star Traders 2 - 80,000 downloads (Source: SteamDB)
+There is no new update in this category today.
