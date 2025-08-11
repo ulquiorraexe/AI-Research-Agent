@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- "Mount & Blade II: Bannerlord" major expansion announced by TaleWorlds Entertainment. (Source: GamesIndustry.biz)  
-- "Ravenbound" release date trailer published by Turkish developer Aesir Interactive. (Source: IGN)  
-- "The Tourist" mobile game launched by Gram Games with new puzzle mechanics. (Source: Game Developer)  
-- "Sable" content update released by Shedworks featuring Turkish localization. (Source: Polygon)  
-- "Raji: An Ancient Epic" Enhanced Edition announced for Q4 2023 by Nodding Heads Games. (Source: Kotaku)  
-- "Gedonia" major patch 1.5 released by Kazakov Oleg with performance improvements. (Source: SteamDB)  
-- "Cooking Simulator VR" DLC launched by GameBoom VR. (Source: VRFocus)  
-- "Arcadius" early access roadmap shared by Turkish indie studio Dreamate. (Source: SteamDB)  
-- "Project: Nightmares" teaser trailer released by Dark Star Games. (Source: YouTube)  
-- "Sons of Ra" alpha playtest announced by Forge Games. (Source: SteamDB)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue in Turkey grew 17% YoY to $412M. (Source: Newzoo)  
-- PC gaming market share increased to 38% of total Turkish gaming revenue. (Source: Newzoo)  
-- "EA Sports FC 24" topped Turkish Steam sales charts for 3 consecutive weeks. (Source: Steam Charts)  
-- Average playtime per user rose to 8.7 hours weekly in Turkey. (Source: Newzoo)  
-- VR headset adoption increased by 22% among Turkish gamers. (Source: VRFocus)  
-- F2P games account for 78% of Turkey's mobile gaming revenue. (Source: Newzoo)  
-- Local payment method integrations boosted in-game purchases by 31%. (Source: Newzoo)  
-- Esports viewership grew 45% year-over-year in Turkey. (Source: Newzoo)  
-- Console game sales declined 12% amid economic challenges. (Source: GamesIndustry.biz)  
-- Turkish-developed games generated $86M in export revenue in 2023. (Source: Game Developer)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2023 announced for November 10-12. (Source: Istanbul Game Festival)  
-- Global Game Jam Ankara site hosted 42 teams at ODTÜ Teknokent. (Source: Global Game Jam)  
-- "Lost in Time" won top prize at Izmir Game Dev Challenge. (Source: Turkish Game Developer Conference)  
-- Bosphorus Game Jam scheduled for December 1-3 with VR category. (Source: Istanbul Game Festival)  
-- 15 Turkish teams participated in Nordic Game Jam 2023. (Source: Global Game Jam)  
-- Turkish student team "Pixel Pioneers" won excellence award at GGJ Seattle. (Source: Global Game Jam)  
-- Ankara Indie Game Jam attracted 78 developers. (Source: Turkish Game Developer Conference)  
-- Marmara University Game Jam focused on environmental themes. (Source: Istanbul Game Festival)  
-- "Retro Remix" jam winners announced at GameDev Turkey meetup. (Source: Turkish Game Developer Conference)  
-- Bursa Game Jam postponed to January 2024 due to venue issues. (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized FIFA Ultimate Team pack odds during Twitch stream. (Source: Twitch)  
-- ErmişOyun praised "Mount & Blade II" combat mechanics in YouTube review. (Source: YouTube)  
-- QueenE called for better Turkish localization in AAA games during live Q&A. (Source: Twitch)  
-- OyuncuAbi expressed disappointment in "Diablo IV" endgame content. (Source: YouTube)  
-- SadeceSercan highlighted optimization issues in "Cities: Skylines II". (Source: Twitch)  
-- VenomRaps recommended "Raji: An Ancient Epic" for cultural storytelling. (Source: YouTube)  
-- KaanGaming discussed rising esports opportunities in Turkey. (Source: YouTube)  
-- Zade hosted charity stream supporting Turkish game dev students. (Source: Twitch)  
-- OyundaKaldik podcast debated microtransaction ethics. (Source: YouTube)  
-- EfsaneYildiz reviewed Turkish-made "The Tourist" positively on stream. (Source: Twitch)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Unreal Engine 5.3 adoption increased among Turkish studios. (Source: Game Developer)  
-- Havok physics engine integrated into 3 Turkish-developed games. (Source: Game Developer)  
-- Local cloud gaming infrastructure expanded via Turkcell partnership. (Source: Polygon)  
-- AI-powered localization tools reduced translation costs by 40%. (Source: Game Developer)  
-- VR arcades installed new motion-simulation cabinets in Istanbul. (Source: VRFocus)  
-- Blockchain gaming projects decreased by 65% due to regulations. (Source: Kotaku)  
-- Photogrammetry labs established at Istanbul Technical University. (Source: Game Developer)  
-- 5G coverage enabled cloud gaming growth in major cities. (Source: Polygon)  
-- Turkish developers contributed to OpenXR standardization. (Source: VRFocus)  
-- Procedural content generation tools adopted by indie studios. (Source: Game Developer)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkish Devs Secure $4.2M Funding Round" - GamesIndustry.biz  
-- "Anatolian Mythology Games Gain Global Attention" - Polygon  
-- "Steam Regional Pricing Changes Impact Turkish Players" - Kotaku  
-- "Unity Fee Policy Reversal Analyzed" - Game Developer  
-- "Esports Organization Fenerbahçe Esports Expands Roster" - IGN  
-- "VR Fitness Games See Surge in Turkish Downloads" - VRFocus  
-- "Newzoo Report: Turkey Among Top 20 Global Mobile Markets" - Newzoo  
-- "Indie Devs Protest Steam Discovery Algorithm Changes" - Game Developer  
-- "Turkish Government Announces Game Development Grants" - GamesIndustry.biz  
-- "Cross-Platform Play Becomes Standard for Turkish Multiplayer Games" - Polygon  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 28,000 concurrent Turkish players. (Source: Steam Charts)  
-- "Raji: An Ancient Epic" - 15,000 monthly active users in Turkey. (Source: SteamDB)  
-- "Cooking Simulator" - 120,000 Turkish downloads in 2023. (Source: SteamDB)  
-- "The Tourist" - 850,000 mobile downloads in Turkey. (Source: Game Developer)  
-- "Gedonia" - 7,200 peak Turkish concurrent players. (Source: Steam Charts)  
-- "Sable" - 45,000 Turkish owners on Steam. (Source: SteamDB)  
-- "Ravenbound" demo - 22,000 Turkish downloads. (Source: SteamDB)  
-- "Arcadius" - 3,800 daily active Turkish players. (Source: Steam Charts)  
-- "1010!" - 4.2 million monthly active Turkish mobile users. (Source: Game Developer)  
-- "Sons of Ra" playtest - 5,600 Turkish participants. (Source: SteamDB)
+There is no new update in this category today.
