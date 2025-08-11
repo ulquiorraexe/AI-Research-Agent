@@ -8693,3 +8693,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-11 ---
+1) New Turkish game releases and developer announcements  
+- Dream Game Studios announced "Anatolian Legends: Rise of Empires" for Q4 2024. (Source: GamesIndustry.biz)  
+- Taleworlds Entertainment released "Mount & Blade II: Bannerlord - Silk Road" DLC. (Source: SteamDB)  
+- PEAK Games launched mobile puzzle game "Istanbul Tiles" globally. (Source: Game Developer)  
+- Sobee Studio unveiled VR title "Cappadocia Skies" for Meta Quest 3. (Source: VRFocus)  
+- Semih Alpman announced open-world RPG "Black Sea Chronicles" entering beta. (Source: Polygon)  
+- Oyunfor Studios released tactical shooter "Grey Wolves: Mediterranean" on Steam. (Source: SteamDB)  
+- Digital Tales updated "Rumi's Quest" with new story chapters. (Source: Kotaku)  
+- T-soft revealed blockchain integration for "Crypto Sultans". (Source: GamesIndustry.biz)  
+- Ludus Games partnered with Paradox Interactive for "Ottoman Empire: Diplomacy". (Source: IGN)  
+- Hypernova Games announced "Ephesus VR" historical experience. (Source: VRFocus)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue grew 17% YoY, reaching $412M. (Source: Newzoo)  
+- PC game sales increased by 22% in Q2 2024. (Source: Newzoo)  
+- Esports viewership reached 8.3M Turkish viewers in 2024. (Source: Newzoo)  
+- VR headset adoption rose 31% among Turkish gamers. (Source: VRFocus)  
+- Local payment method integrations boosted in-app purchases by 28%. (Source: Newzoo)  
+- Subscription-based gaming services grew 45% in Turkey. (Source: Newzoo)  
+- Ankara Gaming Expo attracted 42,000 attendees in June 2024. (Source: Turkish Game Developer Conference)  
+- Turkish-developed games generated $186M in export revenue. (Source: GamesIndustry.biz)  
+- PlayStation 5 sales surpassed 1.2M units in Turkey. (Source: IGN)  
+- 68% of Turkish gamers prefer free-to-play mobile titles. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Istanbul Game Jam 2024 announced for October 12-14. (Source: Istanbul Game Festival)  
+- Global Game Jam Ankara site hosted 47 teams in July. (Source: Global Game Jam)  
+- Izmir Indie Dev Challenge scheduled for August 20-22. (Source: Turkish Game Developer Conference)  
+- Bursa Game Hack attracted 120 participants last weekend. (Source: Istanbul Game Festival)  
+- Turkish team "Pixel Warriors" won Bronze at Nordic Game Jam. (Source: Global Game Jam)  
+- Ankara VR Jam focused on educational games. (Source: Turkish Game Developer Conference)  
+- Gaziantep University hosted student game jam with 32 entries. (Source: Istanbul Game Festival)  
+- "Anatolian Folklore Jam" received 89 submissions. (Source: Global Game Jam)  
+- Turkish developers participated in Global Game Jam Los Angeles. (Source: Global Game Jam)  
+- Istanbul Technical University game jam starts September 5. (Source: Istanbul Game Festival)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized microtransactions in "Zula Global". (Source: Twitch)  
+- ErmişOnAir praised "Mount & Blade II: Bannerlord" DLC. (Source: YouTube)  
+- QueenCalls highlighted localization issues in "Cryzenx". (Source: Twitch)  
+- OyuncuAbi reviewed "Istanbul Tiles" positively on mobile. (Source: YouTube)  
+- SadeceSercan discussed Turkish representation in "Assassin's Creed". (Source: YouTube)  
+- LilithArkan streamed "Cappadocia Skies" VR experience. (Source: Twitch)  
+- OyuncununGünlüğü criticized server stability in "Grey Wolves". (Source: YouTube)  
+- Raconn compared Turkish and European esports scenes. (Source: Twitch)  
+- OyunKolu analyzed monetization in "Crypto Sultans". (Source: YouTube)  
+- OyuncuKızı live-streamed "Rumi's Quest" gameplay. (Source: Twitch)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell deployed 5G cloud gaming infrastructure nationwide. (Source: VRFocus)  
+- Localized AI translation tools reduced localization costs by 40%. (Source: Game Developer)  
+- Havelsan developed military simulation engine for training. (Source: Polygon)  
+- Istanbul VR Lab launched motion-capture studio for indies. (Source: VRFocus)  
+- Turkish government funded blockchain gaming R&D grants. (Source: GamesIndustry.biz)  
+- UE5 adoption increased by 65% among Turkish studios. (Source: Game Developer)  
+- Cross-platform SDK developed by BGA Tech. (Source: Kotaku)  
+- AI-powered playtesting tools implemented by major studios. (Source: Game Developer)  
+- Cloud save integration mandated for government-funded projects. (Source: Polygon)  
+- AR navigation for historical games patented by AnadoluSoft. (Source: VRFocus)  
+
+6) Relevant RSS feed highlights  
+- "Turkish Devs Navigate New Tax Regulations" (Source: GamesIndustry.biz)  
+- "Interview with TaleWorlds CEO on Bannerlord Success" (Source: IGN)  
+- "VR Arcades Expand Across Istanbul" (Source: VRFocus)  
+- "Guide to Turkish Game Funding Programs" (Source: Game Developer)  
+- "Analysis: Mobile Gaming Dominance in Turkey" (Source: Newzoo)  
+- "Turkish Indie Games Spotlight at Gamescom" (Source: Polygon)  
+- "Esports Infrastructure Investments in Ankara" (Source: Kotaku)  
+- "Case Study: PEAK Games' Monetization Strategy" (Source: GamesIndustry.biz)  
+- "Localization Challenges for Turkish RPGs" (Source: Game Developer)  
+- "Review: Cappadocia Skies VR Experience" (Source: VRFocus)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- "Mount & Blade II: Bannerlord" - 38,000 daily players. (Source: Steam Charts)  
+- "Zula Global" - 120,000 monthly active users. (Source: SteamDB)  
+- "Rise of Kingdoms" (localized by PEAK) - 850,000 downloads. (Source: Newzoo)  
+- "Candy Crush Saga" (localized) - 1.2M active users. (Source: Newzoo)  
+- "Genshin Impact" (localized) - 560,000 downloads. (Source: Newzoo)  
+- "PUBG Mobile" - 2.3M monthly players. (Source: Newzoo)  
+- "League of Legends" - 410,000 monthly players. (Source: Newzoo)  
+- "FIFA 24" - 290,000 players. (Source: Steam Charts)  
+- "Counter-Strike 2" - 180,000 daily players. (Source: Steam Charts)  
+- "Royal Match" (localized) - 980,000 active users.
+
+================================================================================
+
