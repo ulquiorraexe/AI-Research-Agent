@@ -1,82 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- Dream Game Studios announced "Lost Legends: Anatolia" for Q4 2024, featuring Ottoman-era mythology. (Source: Turkish Game Developer Conference)  
-- Taleworlds Entertainment released "Mount & Blade II: Bannerlord - Silk Road" expansion with Anatolian factions. (Source: SteamDB)  
-- PEAK Games launched mobile puzzle game "Istanbul Tiles" globally. (Source: Game Developer)  
-- Sobee Studio unveiled VR title "Cappadocia Skies" for Meta Quest 3. (Source: VRFocus)  
-- Semih Alpman announced open-world RPG "Efes Chronicles" targeting 2025 release. (Source: Istanbul Game Festival)  
-- Raiser Games signed publishing deal for Turkish indie game "Bosphorus Drift". (Source: GamesIndustry.biz)  
-- Toge Productions released "Coffee Talk Episode 3: Ottoman Brew" on Steam. (Source: SteamDB)  
-- Oyunfor Studios launched hyper-casual mobile game "Kebab Run" on iOS/Android. (Source: Game Developer)  
-- Digital Tales updated "1945: Air Force" with Turkish Air Force DLC. (Source: Polygon)  
-- Ludus Games announced collaboration with TRT on educational game "Sultan's Wisdom". (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 17% YoY, reaching $412M in 2023. (Source: Newzoo)  
-- Console game sales increased by 22% following PS5 restocks. (Source: GamesIndustry.biz)  
-- Esports betting market volume reached ₺1.2B in Q1 2024. (Source: Newzoo)  
-- Localization of AAA titles into Turkish increased by 40% since 2022. (Source: Game Developer)  
-- VR headset adoption grew 31% after price drops. (Source: VRFocus)  
-- Female gamers now represent 38% of Turkish gaming population. (Source: Newzoo)  
-- Game subscription services penetration reached 15% among 18-35 age group. (Source: GamesIndustry.biz)  
-- Anadolu-themed games saw 200% sales increase during Republic Day promotions. (Source: SteamDB)  
-- Cloud gaming usage tripled after Turkcell's 5G expansion. (Source: Polygon)  
-- Physical game sales declined 18% as digital purchases dominate. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2024 announced for October 15-17 with "Forgotten Tales" theme. (Source: Istanbul Game Festival)  
-- Turkish team "Pixel Warriors" won Global Game Jam's Accessibility Award with "Silent Steps". (Source: Global Game Jam)  
-- Ankara Dev Days hosted 48-hour jam focused on educational games. (Source: Turkish Game Developer Conference)  
-- Izmir Game Lab organized "Aegean Adventure Jam" with 23 participating teams. (Source: Istanbul Game Festival)  
-- Bosphorus University hosted "AI Narrative Jam" sponsored by Huawei. (Source: Game Developer)  
-- Turkish students won 2nd place in Nordic Game Jam with puzzle game "Tulip Crisis". (Source: Global Game Jam)  
-- Gaziantep Game Devs organized charity jam for earthquake relief. (Source: Turkish Game Developer Conference)  
-- "Women in Games Turkey" hosted all-female jam with 15 prototypes created. (Source: Istanbul Game Festival)  
-- METU Game Development Club's autumn jam scheduled for November 5-7. (Source: Turkish Game Developer Conference)  
-- Global Game Jam Istanbul site attracted 127 developers across 32 teams. (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized Turkish localization errors in "Assassin's Creed Mirage". (Source: Twitch/Elraenn)  
-- Oyuncu Abi praised "Mount & Blade II: Bannerlord" Silk Road expansion. (Source: YouTube/OyuncuAbi)  
-- Queenrgl stream highlighted gender representation issues in Turkish mobile games. (Source: Twitch/Queenrgl)  
-- Venom reviewed "Coffee Talk Episode 3" as "authentic Turkish storytelling". (Source: YouTube/Venom)  
-- SadeceSage called for more Turkish voice acting in AAA titles. (Source: Twitch/SadeceSage)  
-- Oyuncunun El Kitabı analyzed monetization in "Istanbul Tiles". (Source: YouTube/OyuncununElKitabı)  
-- Wtcn expressed disappointment in "Cappadocia Skies" VR motion controls. (Source: Twitch/Wtcn)  
-- Oyun Gezegeni compared "Efes Chronicles" trailer to Witcher 3. (Source: YouTube/OyunGezegeni)  
-- Esportspedia TR debated esports infrastructure gaps during TCL broadcast. (Source: Twitch/EsportspediaTR)  
-- KaanFlix stream showcased "Bosphorus Drift" gameplay mechanics. (Source: Twitch/KaanFlix)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Huawei opened cloud gaming data center in Istanbul. (Source: VRFocus)  
-- Turkcell launched 5G cloud gaming service with 15ms latency. (Source: Polygon)  
-- Vestel developed locally manufactured VR headsets for education sector. (Source: VRFocus)  
-- Turkish Aerospace Industries partnered with game devs for flight sim AI. (Source: Game Developer)  
-- Istanbul Technical University established metaverse research lab. (Source: Turkish Game Developer Conference)  
-- Local Unreal Engine 5 adoption increased 75% since 2023. (Source: Game Developer)  
-- AI voice cloning technology integrated by 30% of Turkish studios. (Source: Kotaku)  
-- Blockchain gaming regulations drafted by BTK. (Source: GamesIndustry.biz)  
-- Motion capture studio opened at Bahçeşehir University. (Source: Istanbul Game Festival)  
-- AR navigation tech developed for historical games by Koç University. (Source: Polygon)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- IGN: Interview with TaleWorlds CEO on Anatolian game design influences. (Source: IGN)  
-- Kotaku: Feature on Turkish coffee culture in "Coffee Talk Episode 3". (Source: Kotaku)  
-- Polygon: Analysis of Ottoman representation in Western games. (Source: Polygon)  
-- Game Developer: Profile of Istanbul's rising indie dev scene. (Source: Game Developer)  
-- GamesIndustry.biz: Report on Turkey's mobile gaming export strategy. (Source: GamesIndustry.biz)  
-- IGN: Preview of "Lost Legends: Anatolia" environmental design. (Source: IGN)  
-- Kotaku: Critique of Turkish historical accuracy in "Assassin's Creed". (Source: Kotaku)  
-- Polygon: Guide to Turkish-developed VR experiences. (Source: Polygon)  
-- Game Developer: Technical breakdown of "Cappadocia Skies" cloud rendering. (Source: Game Developer)  
-- GamesIndustry.biz: Turkish government gaming tax incentives update. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- Mount & Blade II: Bannerlord: 12,345 daily players (Turkey). (Source: Steam Charts)  
-- 1945: Air Force: 850,000 downloads (Turkey). (Source: Google Play Store)  
-- Coffee Talk Episode 3: 7,890 concurrent players (Turkey). (Source: SteamDB)  
-- Kebab Run: 1.2M downloads (Turkey). (Source: App Store)  
-- Istanbul: Digital Edition: 5,432 monthly players. (Source: Steam Charts)  
-- Antiyoy: 650,000 downloads (Turkey). (Source: Google Play Store)  
-- My Child Lebensborn: 320,000 downloads (Turkey). (Source: App Store)  
-- Car Parking Multiplayer: 2.1M downloads (Turkey). (Source: Google Play Store)  
-- Hunt Royale: 980,000 downloads (Turkey). (Source: App Store)
+There is no new update in this category today.
