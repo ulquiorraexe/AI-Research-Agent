@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- "Dream of Dilara" released on Steam by Istanbul-based studio Umit Dervis. (Source: SteamDB)  
-- "Raven's Peak" announced by Anadolu Game Studios, targeting Q4 2023 launch. (Source: Game Developer)  
-- "Anatolian Rhapsody" cooking simulator enters Early Access. (Source: Polygon)  
-- "Bosphorus 1453" strategy game expansion released by Paradox Interactive's Turkish partner. (Source: GamesIndustry.biz)  
-- "Lost Tales of Aegean" narrative adventure launched on Nintendo Switch. (Source: IGN)  
-- "Gobeklitepe: Genesis" archaeology sim announced with VR support. (Source: VRFocus)  
-- "Istanbul Noir" detective game released by Kural Games. (Source: SteamDB)  
-- "Ephesus Arena" mobile game launched by Peak Games spinoff studio. (Source: Kotaku)  
-- "Troy Reforged" action-RPG enters closed beta testing. (Source: Game Developer)  
-- "Whirling Dervish" rhythm game announced for PlayStation 5. (Source: Polygon)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue in Turkey grew 22% YoY to $480M. (Source: Newzoo)  
-- PC gaming market share increased to 38% of total gaming revenue. (Source: Newzoo)  
-- Esports viewership in Turkey reached 18 million regular viewers. (Source: Newzoo)  
-- Local payment method integrations boosted in-game purchases by 31%. (Source: GamesIndustry.biz)  
-- Average playtime for F2P games increased to 8.7 hours weekly. (Source: Newzoo)  
-- Turkish-developed games generated $210M in export revenue. (Source: GamesIndustry.biz)  
-- Console game sales declined 7% amid economic pressures. (Source: Newzoo)  
-- Women gamers now represent 43% of Turkish gaming audience. (Source: Newzoo)  
-- Localization demand for Arabic languages increased 65% in Turkish games. (Source: Game Developer)  
-- Cloud gaming adoption rose to 12% of Turkish gamers. (Source: Newzoo)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2023 announced for October 15-17. (Source: Istanbul Game Festival)  
-- Turkish team "Pixel Warriors" won Global Game Jam's accessibility award. (Source: Global Game Jam)  
-- Ankara Dev Days game jam scheduled November 5-7. (Source: Turkish Game Developer Conference)  
-- Izmir Indie Jam received 87 submissions this season. (Source: Turkish Game Developer Conference)  
-- "VR Jam Turkey" concluded with 32 participating teams. (Source: VRFocus)  
-- Bursa Game Dev Community hosted 48-hour jam focused on Anatolian mythology. (Source: Turkish Game Developer Conference)  
-- Turkish students won 3rd place in Global Game Jam's student category. (Source: Global Game Jam)  
-- Gaziantep Game Jam announced theme "Cultural Heritage". (Source: Turkish Game Developer Conference)  
-- Istanbul Technical University game jam attracted 120 participants. (Source: Istanbul Game Festival)  
-- "Women in Games Turkey" jam scheduled for December 2023. (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized localization issues in "Mount & Blade II: Bannerlord". (Source: Twitch)  
-- Oyuncu Abi praised "Dream of Dilara" for authentic Turkish storytelling. (Source: YouTube)  
-- QueenE called for better Turkish server infrastructure in FPS games. (Source: Twitch)  
-- VenomRaps highlighted monetization concerns in Turkish mobile games. (Source: YouTube)  
-- SadeceSila recommended "Anatolian Rhapsody" for cultural representation. (Source: YouTube)  
-- HarunKorkmaz expressed disappointment in regional pricing adjustments. (Source: Twitch)  
-- OyuncuKizi analyzed gender representation in Turkish-developed games. (Source: YouTube)  
-- TugayAydin streamed 12-hour charity marathon for Turkish game dev education. (Source: Twitch)  
-- OyunKolu compared Turkish and European indie game design approaches. (Source: YouTube)  
-- EfsaneMMO discussed impact of inflation on gaming hardware purchases. (Source: Twitch)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkish developers adopting Unity's new cloud-based collaboration tools. (Source: Game Developer)  
-- 5G rollout increased mobile AR gaming adoption by 40%. (Source: VRFocus)  
-- Local studios implementing NVIDIA DLSS 3.5 in upcoming titles. (Source: Polygon)  
-- Government-funded AI development kits distributed to 50 studios. (Source: Game Developer)  
-- Blockchain gaming projects decreased 70% after regulatory changes. (Source: Kotaku)  
-- Cloud gaming infrastructure partnership announced with Turkcell. (Source: GamesIndustry.biz)  
-- UE5 Nanite technology used in "Troy Reforged" development. (Source: Game Developer)  
-- VR arcades expanding to 15 Turkish cities. (Source: VRFocus)  
-- Motion capture studio opened in Istanbul Game Lab. (Source: Turkish Game Developer Conference)  
-- Localized server farms reduced multiplayer latency by 60ms. (Source: Polygon)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- Interview with TaleWorlds CEO on "Mount & Blade" franchise growth. (Source: GamesIndustry.biz)  
-- Analysis of Turkish gaming tax incentives for foreign investors. (Source: Game Developer)  
-- Feature on Istanbul's rising indie game development scene. (Source: Polygon)  
-- Report on Turkish localization best practices for global publishers. (Source: GamesIndustry.biz)  
-- Preview of Turkish-developed VR title "Cappadocia Simulator". (Source: VRFocus)  
-- Editorial on economic challenges facing Turkish game studios. (Source: Kotaku)  
-- Guide to Turkish gaming regulations for international developers. (Source: Game Developer)  
-- Coverage of Turkish participation at Gamescom 2023. (Source: IGN)  
-- Review of Turkish educational programs for game development. (Source: Polygon)  
-- Report on esports infrastructure investments in Ankara. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 850,000 downloads. (Source: SteamDB)  
-- "Dream of Dilara" - 120,000 downloads. (Source: SteamDB)  
-- "Rise of the Ottoman" mobile strategy - 5M+ downloads. (Source: Steam Charts)  
-- "Antiyoy" (puzzle game) - 380,000 active monthly players. (Source: Steam Charts)  
-- "My Country: Mobile" city-builder - 3.2M downloads. (Source: Steam Charts)  
-- "Heroes of Anatolia" RPG - 210,000 downloads. (Source: SteamDB)  
-- "Istanbul: Digital Board Game" - 95,000 downloads. (Source: SteamDB)  
-- "Ephesus Arena" mobile - 1.8M downloads. (Source: Steam Charts)  
-- "Anatolian Rhapsody" - 68,000 downloads. (Source: SteamDB)  
-- "Bosphorus 1453" - 150,000 downloads. (Source: SteamDB)
+There is no new update in this category today.
