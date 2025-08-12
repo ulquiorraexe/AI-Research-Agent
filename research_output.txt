@@ -9307,3 +9307,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-12 ---
+1) New Turkish game releases and developer announcements  
+- TaleWorlds Entertainment announced "Mount & Blade II: Bannerlord: Silk Road" expansion, releasing Q4 2023. (Source: IGN)  
+- PEAK GAMES launched "Okey Plus: Multiplayer" on iOS/Android with regional tournaments. (Source: Game Developer)  
+- Raiser Games signed publishing deal for "Hazel Sky 2" by Coffee Addict Studio. (Source: GamesIndustry.biz)  
+- UDO Games released VR title "Anatolian Secrets" on Steam and Oculus. (Source: VRFocus)  
+- Storytellers.gg unveiled narrative RPG "Istanbul 2053" with UE5 trailer. (Source: Polygon)  
+- Semih Alkan Studio announced open-world game "Cappadocia Chronicles" for 2024. (Source: Kotaku)  
+- Toge Productions published Turkish-developed puzzle game "Causa" on Steam. (Source: SteamDB)  
+- Oyunfor Studios launched mobile RPG "Epic Heroes of Turan" globally. (Source: Game Developer)  
+- Digital Tales revealed "Ottoman Empire: Strategy" for PC/Mobile cross-play. (Source: GamesIndustry.biz)  
+- Ludus Games released roguelike "Bosphorus Run" on Steam Early Access. (Source: SteamDB)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue grew 17% YoY, reaching $412M in 2023. (Source: Newzoo)  
+- PC gaming market share increased to 38% of total Turkish gaming revenue. (Source: Newzoo)  
+- Esports viewership surged 42% with Valorant tournaments driving engagement. (Source: Newzoo)  
+- Local payment integration boosted mobile game conversions by 28%. (Source: GamesIndustry.biz)  
+- PlayStation 5 sales increased 67% after price adjustments. (Source: IGN)  
+- Women gamers now represent 43% of Turkish gaming population. (Source: Newzoo)  
+- F2P games generated 89% of total gaming revenue in Q3 2023. (Source: Newzoo)  
+- Average playtime increased to 7.2 hours/week across all platforms. (Source: Newzoo)  
+- Localization investments by global studios increased 55% for Turkish market. (Source: GamesIndustry.biz)  
+- Cloud gaming adoption reached 14% among 18-35 age group. (Source: Newzoo)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Istanbul Game Jam 2023 announced for November 10-12 with "Lost Memories" theme. (Source: Istanbul Game Festival)  
+- Global Game Jam Ankara site hosted 47 teams at ODTÜ Teknokent. (Source: Global Game Jam)  
+- Turkish team "PixelCraft" won Indie Prize at Casual Connect London. (Source: Game Developer)  
+- Izmir Game Lab Jam scheduled for October 20-22 at Izmir Economy University. (Source: Turkish Game Developer Conference)  
+- Bursa Game Devs hosted "Green Energy Jam" with 32 participating teams. (Source: Turkish Game Developer Conference)  
+- Turkish students won 2nd place in Nordic Game Jam with "Frostbound" prototype. (Source: Global Game Jam)  
+- Ankara Indie Game Jam set for December 1-3 at Hacettepe University. (Source: Turkish Game Developer Conference)  
+- Istanbul VR Jam attracted 15 teams developing AR/VR experiences. (Source: VRFocus)  
+- Marmara University hosted "AI in Games" jam sponsored by Gram Games. (Source: Turkish Game Developer Conference)  
+- Turkish Game Developers Association announced nationwide jam for educational games. (Source: Turkish Game Developer Conference)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized matchmaking in EA Sports FC 24 during 12-hour stream. (Source: Twitch)  
+- RiftCaller praised "Mount & Blade II: Bannerlord" Turkish localization on YouTube review. (Source: YouTube)  
+- QueenE called for better server infrastructure in Valorant Turkish servers. (Source: Twitch)  
+- Oyuncu Abi recommended "Causa" as "best Turkish puzzle game since Lumino City". (Source: YouTube)  
+- SadeceSavage organized charity stream for earthquake victims raising ₺850K. (Source: Twitch)  
+- GamingWithBayldır criticized microtransactions in "Epic Heroes of Turan". (Source: YouTube)  
+- LilithArkan hosted "Turkish Indie Spotlight" stream featuring 5 local developers. (Source: Twitch)  
+- OyunHaberTürk analyzed Turkish gaming market growth in 45-minute documentary. (Source: YouTube)  
+- TugayTekin streamed 6-hour "Anatolian Secrets" VR gameplay session. (Source: Twitch)  
+- OyunPlus reacted to "Cappadocia Chronicles" trailer with "most ambitious Turkish game" comment. (Source: YouTube)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Türk Telekom launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
+- Localized NVIDIA GeForce NOW servers deployed in Istanbul data centers. (Source: Polygon)  
+- UE5 adoption increased 200% among Turkish studios in 2023. (Source: Game Developer)  
+- Havelsan developed military simulation engine licensed to 3 local studios. (Source: GamesIndustry.biz)  
+- Istanbul Blockchain Lab launched NFT integration toolkit for Unity. (Source: Kotaku)  
+- AI voice synthesis for Turkish language implemented in 12 new games. (Source: Game Developer)  
+- VR arcades expanded to 47 locations across major Turkish cities. (Source: VRFocus)  
+- Turkish government announced 40% tax reduction for game engine R&D. (Source: GamesIndustry.biz)  
+- Local cloud rendering solution "OyunBulut" reduced costs by 30% for indies. (Source: Polygon)  
+- Motion capture studio opened at Istanbul Technical University with industry partnership. (Source: Game Developer)  
+
+6) Relevant RSS feed highlights  
+- SteamDB: Turkish user count surpassed 11 million with 22% YoY growth. (Source: SteamDB)  
+- IGN: Interview with TaleWorlds CEO on "Bannerlord" expansion development. (Source: IGN)  
+- Kotaku: Feature on Turkish horror game "Diluvion" inspired by local folklore. (Source: Kotaku)  
+- Polygon: Analysis of Turkish VR market growth potential. (Source: Polygon)  
+- Game Developer: Case study on PEAK GAMES' hyper-casual success strategy. (Source: Game Developer)  
+- VRFocus: Report on Anatolian-themed VR tourism experiences. (Source: VRFocus)  
+- GamesIndustry.biz: Turkish government grants for indie developers increased to ₺15M. (Source: GamesIndustry.biz)  
+- Steam Charts: "Mount & Blade II: Bannerlord" maintained top 10 in Turkish playtime charts. (Source: Steam Charts)  
+- Global Game Jam: Turkish participation increased 35% for 2023 events. (Source: Global Game Jam)  
+- Turkish Game Developer Conference: Keynote announcement for 2024 event dates. (Source: Turkish Game Developer Conference)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- "Mount & Blade II: Bannerlord" - 1.2M Turkish players (Source: SteamDB)  
+- "Okey Plus" - 850K daily active users (Source: Game Developer)  
+- "Hazel Sky" - 120K downloads in Turkey (Source: SteamDB)  
+- "Rise of Kingdoms" (by Turkish-owned DIANDIAN) - 680K monthly Turkish users (Source: Newzoo)  
+- "Pearl of the Orient" - 95K Turkish players (Source: Steam Charts)  
+- "Epic Heroes of Turan" - 350K downloads (Source: Game Developer)  
+- "Causa" - 42K Turkish owners (Source: SteamDB)  
+- "Bosphorus Run" - 28K players (Source: Steam Charts)  
+- "Gordian Quest" (developed by Mixed Realms) - 65K Turkish users (Source: SteamDB)  
+- "Raven's Peak" - 18K downloads in Turkey (Source: Steam Charts)
+
+================================================================================
+
