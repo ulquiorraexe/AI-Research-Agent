@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- Dream Game Studios announced "Lost Legends: Eternal Guardians" for Q4 2024 release. (Source: Istanbul Game Festival)  
-- Taleworlds Entertainment revealed new DLC "Bannerlord: Silk Road" launching October 2023. (Source: SteamDB)  
-- PEAK Games released mobile title "Anatolian Empires" globally. (Source: Game Developer)  
-- Storytellers.gg launched narrative game "Istanbul Noir" on Steam. (Source: Polygon)  
-- Oyunfor Studios opened pre-orders for VR game "Cappadocia Skies". (Source: VRFocus)  
-- Semih Alpman announced indie puzzle game "Ephesus Echoes" with a free demo. (Source: Turkish Game Developer Conference)  
-- Digital Castle released "Ottoman Chess 3D" on mobile platforms. (Source: GamesIndustry.biz)  
-- Metafiction Games secured funding for open-world project "Aegean Odyssey". (Source: Game Developer)  
-- Ludus Games partnered with Paradox Interactive for strategy title "Sultan's Legacy". (Source: IGN)  
-- Anadolu Gameworks released early access for survival game "Anatolia: Wildlands". (Source: Kotaku)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 17% YoY, reaching $412M. (Source: Newzoo)  
-- PC gaming market share increased to 28% of total Turkish gaming revenue. (Source: Newzoo)  
-- Esports viewership surged 40% with Valorant tournaments leading. (Source: Newzoo)  
-- Localization of AAA titles boosted sales by 22% in Q2. (Source: GamesIndustry.biz)  
-- VR headset adoption rose 15% following price drops. (Source: VRFocus)  
-- Female gamers now represent 38% of the Turkish player base. (Source: Newzoo)  
-- F2P mobile games generated 81% of total mobile revenue. (Source: Newzoo)  
-- Console sales dipped 7% due to import restrictions. (Source: GamesIndustry.biz)  
-- Average playtime increased to 7.2 hours weekly per user. (Source: Newzoo)  
-- Regional pricing adjustments increased Steam purchases by 31%. (Source: SteamDB)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2023 attracted 47 teams at ITU. (Source: Istanbul Game Festival)  
-- Global Game Jam Ankara site produced 22 prototypes. (Source: Global Game Jam)  
-- Izmir Game Devs hosted "Aegean Jam" with 120 participants. (Source: Turkish Game Developer Conference)  
-- Turkish team "Pixel Warriors" won Bronze at Nordic Game Jam. (Source: Global Game Jam)  
-- Bursa Game Lab organized "Green Jam" focusing on eco-themes. (Source: Istanbul Game Festival)  
-- Ankara University hosted 48-hour "Ankara Indie Jam". (Source: Turkish Game Developer Conference)  
-- "Women in Games Turkey" jam had 33 female-led entries. (Source: Global Game Jam)  
-- Marmara University jam featured Unreal Engine workshops. (Source: Istanbul Game Festival)  
-- Turkish students won "Best Design" at Global Game Jam Seattle. (Source: Global Game Jam)  
-- Gaziantep Dev Jam showcased refugee-themed games. (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized microtransactions in "Zula Global". (Source: Twitch/Elraenn)  
-- RiftCaller praised "Mount & Blade II" DLC on YouTube review. (Source: YouTube/RiftCaller)  
-- QueenEvee streamed "Istanbul Noir" with 85K concurrent viewers. (Source: Twitch/QueenEvee)  
-- OyuncuAbi discussed localization issues in AAA ports. (Source: YouTube/OyuncuAbi)  
-- SadeceSage highlighted underrated indie "Ephesus Echoes". (Source: Twitch/SadeceSage)  
-- GamingWithBayildim criticized mobile game ad frequency. (Source: YouTube/GamingWithBayildim)  
-- OyuncununGunlugu praised "Anatolia: Wildlands" survival mechanics. (Source: YouTube/OyuncununGunlugu)  
-- KaanGaming hosted dev interview for "Cappadocia Skies". (Source: Twitch/KaanGaming)  
-- OyunKolu compared Turkish VR titles to international standards. (Source: YouTube/OyunKolu)  
-- OyuncuAnne discussed parental controls in mobile games. (Source: YouTube/OyuncuAnne)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell deployed 5G cloud gaming infrastructure nationwide. (Source: VRFocus)  
-- Unity opened Istanbul office with localized engine support. (Source: Game Developer)  
-- Havelsan developed military-grade AI for simulation games. (Source: Polygon)  
-- Turkish VR arcades adopted haptic feedback suits. (Source: VRFocus)  
-- Oyunfor Studios implemented blockchain for in-game assets. (Source: Kotaku)  
-- Istanbul Technical University launched game dev AI lab. (Source: Game Developer)  
-- Local studios adopted photogrammetry for historical accuracy. (Source: Polygon)  
-- Turkish government funded AR heritage projects. (Source: GamesIndustry.biz)  
-- Peak Games optimized low-spec mobile rendering tech. (Source: Game Developer)  
-- Cross-platform SDKs gained 90% adoption rate. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- IGN featured "Rise of Turkish Game Dev" documentary. (Source: IGN)  
-- Kotaku covered "Anatolian Empires" cultural accuracy debate. (Source: Kotaku)  
-- Polygon reported on Istanbul's new gaming tax incentives. (Source: Polygon)  
-- Game Developer analyzed Turkish mobile monetization models. (Source: Game Developer)  
-- GamesIndustry.biz discussed Turkey's esports visa program. (Source: GamesIndustry.biz)  
-- VRFocus highlighted "Cappadocia Skies" tourism collaboration. (Source: VRFocus)  
-- SteamDB tracked record concurrent users for Turkish games. (Source: SteamDB)  
-- Global Game Jam published Turkish jammer success stories. (Source: Global Game Jam)  
-- IGN reviewed "Lost Legends" preview build. (Source: IGN)  
-- Kotaku investigated game localization labor practices. (Source: Kotaku)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 120K monthly Turkish players. (Source: Steam Charts)  
-- "Zula Global" - 85K daily mobile downloads. (Source: Newzoo)  
-- "Ride 4" (developed by Milestone Turkey) - 42K active Steam users. (Source: SteamDB)  
-- "Anatolian Empires" - 500K+ mobile installs. (Source: Newzoo)  
-- "Candy Crush Saga" (localized by Peak Games) - Top-grossing mobile title. (Source: Newzoo)  
-- "Istanbul Noir" - 28K concurrent players on Steam. (Source: Steam Charts)  
-- "Football Manager 2023" (Turkish league focus) - 15K weekly players. (Source: SteamDB)  
-- "Call of Duty Mobile" (Turkish servers) - 210K daily users. (Source: Newzoo)  
-- "League of Legends" - Most-watched esports title. (Source: Newzoo)  
-- "PUBG Mobile" - 180K peak daily Turkish players. (Source: Newzoo)
+There is no new update in this category today.
