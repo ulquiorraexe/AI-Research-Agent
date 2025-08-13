@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- "Ravenbound" by Turkish studio Aesir Interactive announced Q4 2023 release date (Source: GamesIndustry.biz)  
-- "Mount & Blade II: Bannerlord" major expansion "Blood and Smoke" revealed by TaleWorlds Entertainment (Source: Polygon)  
-- "The Tourist" puzzle game released by Istanbul-based Oba Games on Steam (Source: SteamDB)  
-- "Hazel Sky" sequel announced by Coffee Addict Studio with 2024 early access (Source: Game Developer)  
-- "Rise of the White Sun" strategy game by Antalya Devs enters closed beta (Source: Kotaku)  
-- "Lost in Prayer" horror title from Dreamsoft Games launches on Epic Games Store (Source: IGN)  
-- "Anatolia: A Bloody History" historical RPG release date moved to November 2023 (Source: SteamDB)  
-- "Pixelot" mobile RPG by Ankara Studio releases Android version (Source: Google Play Store)  
-- "Sandstorm: Arena" multiplayer shooter by Izmir Games exits early access (Source: Polygon)  
-- "Gediz: Shadows of Aegean" adventure game announced by Marmara Studios (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue in Turkey grew 17% YoY to $412M (Source: Newzoo)  
-- PC gaming market share increased to 38% of total gaming revenue (Source: Newzoo)  
-- Esports viewership in Turkey reached 16.3 million in 2023 (Source: IGN)  
-- Localization of AAA games into Turkish increased by 45% since 2022 (Source: GamesIndustry.biz)  
-- Average in-game spending per mobile user: $3.21 monthly (Source: Newzoo)  
-- PlayStation 5 sales increased 62% after price drop (Source: Polygon)  
-- 73% of Turkish gamers prefer free-to-play models (Source: Newzoo)  
-- VR headset adoption grew 28% year-over-year (Source: VRFocus)  
-- Female gaming audience now represents 41% of market (Source: Newzoo)  
-- Cloud gaming services usage up 33% in last quarter (Source: Kotaku)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Global Game Jam Istanbul hosted 47 teams at ITU in September 2023 (Source: Global Game Jam)  
-- "Ankara Game Summit" jam focused on educational games (Source: Turkish Game Developer Conference)  
-- "Bosphorus Jam" VR-focused event held at Kadir Has University (Source: VRFocus)  
-- Izmir Game Collective hosted 72-hour jam with environmental theme (Source: Istanbul Game Festival)  
-- Turkish team "Pixel Wizards" won bronze at Nordic Game Jam (Source: Global Game Jam)  
-- "Anadolu Game Challenge" attracted 31 student teams (Source: Turkish Game Developer Conference)  
-- "GameDevTR Online Jam" had 128 participants in August (Source: Istanbul Game Festival)  
-- "Ankara Indie Fest" included 48-hour development marathon (Source: Polygon)  
-- Istanbul Technical University hosted "Metaverse Jam" (Source: Global Game Jam)  
-- "Bursa Game Lab" jam focused on mobile hyper-casual games (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized localization quality in AAA ports (Source: Twitch/Elraenn)  
-- ErmişRO praised "Mount & Blade II: Bannerlord" Turkish voice acting (Source: YouTube/ErmişRO)  
-- Woxic called for better Turkish server infrastructure (Source: Twitch/Woxic)  
-- Oyuncu Abi reviewed "Ravenbound" positively on launch (Source: YouTube/Oyuncu Abi)  
-- QueenE expressed disappointment in regional pricing (Source: Twitch/QueenE)  
-- Cenk Kıvılcım recommended "The Tourist" puzzle mechanics (Source: YouTube/Cenk Kıvılcım)  
-- SadeceSercan highlighted input lag issues in cloud gaming (Source: Twitch/SadeceSercan)  
-- KaanFlix discussed underrepresentation in esports (Source: YouTube/KaanFlix)  
-- Asena discussed mobile game monetization concerns (Source: Twitch/Asena)  
-- OyundaKaldık reviewed "Hazel Sky" narrative design (Source: YouTube/OyundaKaldık)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell launched 5G cloud gaming service (Source: VRFocus)  
-- Localized Unreal Engine 5 documentation released (Source: Game Developer)  
-- Havelsan developed military simulation VR training (Source: Polygon)  
-- Istanbul-based VRLab Games secured funding for AR tech (Source: GamesIndustry.biz)  
-- Turkish government announced game development tax incentives (Source: Kotaku)  
-- New motion capture studio opened in Ankara Technopark (Source: Turkish Game Developer Conference)  
-- Blockchain gaming regulations introduced by BDDK (Source: Game Developer)  
-- AI localization tool "TürkçeAI" launched for game devs (Source: IGN)  
-- Partnership between OyunFor and Unity for Turkish developers (Source: GamesIndustry.biz)  
-- Istanbul University opened metaverse research lab (Source: VRFocus)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- "Turkish Devs Face Payment Processing Challenges" (Source: GamesIndustry.biz)  
-- "Anatolian Mythology in Games: Cultural Representation" (Source: Polygon)  
-- "Interview with TaleWorlds CEO on Bannerlord Success" (Source: IGN)  
-- "VR Arcades Boom in Istanbul Shopping Malls" (Source: VRFocus)  
-- "Analysis: Turkey's Esports Infrastructure Growth" (Source: Kotaku)  
-- "Guide: Localizing Games for Turkish Audience" (Source: Game Developer)  
-- "Turkish Mobile Games Expand to MENA Markets" (Source: GamesIndustry.biz)  
-- "Review: Coffee Addict Studio's Narrative Design" (Source: Game Developer)  
-- "Government Grants for Educational Game Development" (Source: Polygon)  
-- "Cross-platform Play Adoption in Turkish Games" (Source: IGN)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" - 1.2M Turkish downloads (Source: SteamDB)  
-- "Ravenbound" - 340,000 downloads (Source: Steam Charts)  
-- "Hazel Sky" - 187,000 downloads (Source: SteamDB)  
-- "The Tourist" - 92,000 downloads (Source: Steam Charts)  
-- "Gediz: Shadows of Aegean" - 68,000 downloads (Source: SteamDB)  
-- "Sandstorm: Arena" - 54,000 downloads (Source: Steam Charts)  
-- "Lost in Prayer" - 41,000 downloads (Source: SteamDB)  
-- "Pixelot" mobile - 780,000 downloads (Source: Google Play Store)  
-- "Rise of the White Sun" - 36,000 downloads (Source: Steam Charts)  
-- "Anatolia: A Bloody History" - 29,000 downloads (Source: SteamDB)
+There is no new update in this category today.
