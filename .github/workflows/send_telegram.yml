@@ -2,7 +2,7 @@ name: Telegram Daily Report
 
 on:
   schedule:
-    - cron: '*/2 * * * *'  # Her gün sabah 09:00'da UTC
+    - cron: '0 9 * * *'  # Her gün sabah 09:00'da UTC
   workflow_dispatch:
 
 permissions:
