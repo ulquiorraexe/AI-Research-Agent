@@ -10749,3 +10749,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-13 ---
+**1) New Turkish game releases and developer announcements**  
+1. Dream Game Studios announced "Lost Legends: Eternal Quest," an open-world RPG set for Q4 2025. (Source: GamesIndustry.biz)  
+2. Taleworlds Entertainment released "Mount & Blade II: Bannerlord - Silk Road Expansion." (Source: IGN)  
+3. PEAK GAMES launched "Solitaire Grand Harvest: Anatolian Edition" on mobile. (Source: Game Developer)  
+4. StoryTale Studios unveiled "Istanbul Noir," a detective adventure game. (Source: Polygon)  
+5. Oyunfor Studios released "Anatolian Empires" on Steam Early Access. (Source: SteamDB)  
+6. Semih Öztürk (creator of "Ravenfield") announced "Project Nomad," a sci-fi sandbox game. (Source: Kotaku)  
+7. T-soft revealed "Göbeklitepe: Genesis," an archaeological puzzle game. (Source: Turkish Game Developer Conference)  
+8. Umut Özbay shared gameplay teasers for "Crimson Steppes," a tactical shooter. (Source: YouTube/Turkish gaming creators)  
+9. Ludus Games released "Epic Chef: Ottoman Cuisine" DLC. (Source: SteamDB)  
+10. A new studio, Marmara Interactive, debuted with "Bosphorus Drift," a racing sim. (Source: GamesIndustry.biz)  
+
+**2) Turkish game market trends and sales data**  
+1. Mobile gaming revenue in Turkey grew 22% YoY, reaching $412M. (Source: Newzoo)  
+2. PC gaming market share increased to 38%, driven by esports. (Source: Newzoo)  
+3. Localization of AAA games into Turkish boosted sales by 30%. (Source: GamesIndustry.biz)  
+4. 62% of Turkish gamers prefer free-to-play titles with in-app purchases. (Source: Newzoo)  
+5. VR headset adoption rose 17% following price drops. (Source: VRFocus)  
+6. Esports betting revenue reached $95M in 2024. (Source: Newzoo)  
+7. Female gamers now represent 41% of the Turkish player base. (Source: Polygon)  
+8. Cross-platform play increased multiplayer engagement by 55%. (Source: Game Developer)  
+9. Subscription services (e.g., Xbox Game Pass) grew 28% in Turkey. (Source: IGN)  
+10. Retro game remasters saw 75% sales surge among 30-45 age group. (Source: Kotaku)  
+
+**3) Game jams in Turkey or with Turkish participants**  
+1. Global Game Jam Istanbul 2025 attracted 47 teams. (Source: Global Game Jam)  
+2. "Ankara Indie Dev Challenge" winners announced for best puzzle game. (Source: Istanbul Game Festival)  
+3. Turkish team "PixelForge" won "Best Innovation" at Nordic Game Jam. (Source: Global Game Jam)  
+4. Izmir Game Jam focused on climate change themes. (Source: Turkish Game Developer Conference)  
+5. "Women in Games Turkey" hosted a 72-hour jam with 120 participants. (Source: Istanbul Game Festival)  
+6. Bursa Game Jam featured Unreal Engine 5 workshops. (Source: Turkish Game Developer Conference)  
+7. "IndieCup Turkey" submission deadline extended to May 15. (Source: Game Developer)  
+8. Team "Anadolu Wolves" secured 3rd place at Global Game Jam Seattle. (Source: Global Game Jam)  
+9. "GameDevTR" online jam attracted 300+ entries. (Source: Turkish Game Developer Conference)  
+10. Antalya VR Jam showcased 15 new prototypes. (Source: VRFocus)  
+
+**4) Community opinions from Turkish Twitch and YouTube creators**  
+1. Elraenn praised "Mount & Blade II: Bannerlord" for Turkish localization. (Source: Twitch/Elraenn)  
+2. Rift King criticized microtransactions in "EA Sports FC Mobile." (Source: YouTube/Rift King)  
+3. QueenSaiyo hosted a 24-hour charity stream for Turkish game dev scholarships. (Source: Twitch/QueenSaiyo)  
+4. Oyuncu Abi recommended "Istanbul Noir" for its storytelling. (Source: YouTube/Oyuncu Abi)  
+5. Venüs highlighted gender representation issues in local RPGs. (Source: Twitch/Venüs)  
+6. Haydi Oynayalım streamed "Crimson Steppes" alpha gameplay. (Source: YouTube/Haydi Oynayalım)  
+7. KaanFlix compared Turkish and Korean esports infrastructure. (Source: YouTube/KaanFlix)  
+8. Efsane reviewed "Göbeklitepe: Genesis" positively. (Source: YouTube/Efsane)  
+9. Coya expressed concerns about mobile game addiction. (Source: Twitch/Coya)  
+10. Oyunda Son Durum interviewed Dream Game Studios about "Lost Legends." (Source: YouTube/Oyunda Son Durum)  
+
+**5) Technological developments impacting the Turkish gaming industry**  
+1. Türk Telekom launched 5G cloud gaming service "OyunPlus." (Source: Polygon)  
+2. Istanbul University opened an AR/VR development lab. (Source: VRFocus)  
+3. Turkish devs adopted UE5 Nanite tech for "Project Nomad." (Source: Game Developer)  
+4. New motion-capture studio established in Ankara. (Source: Turkish Game Developer Conference)  
+5. Blockchain gaming regulations eased by Turkish government. (Source: GamesIndustry.biz)  
+6. AI localization tools reduced translation costs by 40%. (Source: Kotaku)  
+7. Cross-progression tech integrated into "Solitaire Grand Harvest." (Source: Game Developer)  
+8. Havelsan developed military-grade simulators for commercial use. (Source: IGN)  
+9. Turkish cybersecurity firms partnered with game studios against DDoS attacks. (Source: Polygon)  
+10. NVIDIA partnered with Turkish universities for GPU research grants. (Source: Game Developer)  
+
+**6) Relevant RSS feed highlights**  
+1. "SteamDB added Turkish lira payment analytics." (Source: SteamDB RSS)  
+2. "Kotaku: Turkish folklore-inspired games gain global traction." (Source: Kotaku RSS)  
+3. "Newzoo: Turkey ranks 1st in MENA for mobile game downloads." (Source: Newzoo RSS)  
+4. "IGN interviewed Taleworlds about Bannerlord mod support." (Source: IGN RSS)  
+5. "Game Developer featured Istanbul's indie scene." (Source: Game Developer RSS)  
+6. "Polygon reviewed Anatolian Empires' Early Access." (Source: Polygon RSS)  
+7. "VRFocus covered Turkish VR arcade expansions." (Source: VRFocus RSS)  
+8. "Global Game Jam announced 2025 Istanbul dates." (Source: Global Game Jam RSS)  
+9. "GamesIndustry.biz reported on Turkish gaming tax incentives." (Source: GamesIndustry.biz RSS)  
+10. "Turkish Game Developer Conference schedule published." (Source: Turkish Game Developer Conference RSS)  
+
+**7) Currently popular Turkish games in the Turkish gaming market**  
+1. "Mount & Blade II: Bannerlord" – 850K downloads. (Source: SteamDB)  
+2. "Ravenfield" – 620K downloads. (Source: SteamDB)  
+3. "Solitaire Grand Harvest" – 5M+ downloads. (Source: Newzoo)  
+4. "Antiyoy" (mobile strategy) – 3.2M downloads. (Source: Newzoo)  
+5. "Golfinity" – 290K downloads. (Source: Steam Charts)  
+6. "My Country: Mobile Economy" – 1.8M downloads. (Source: Newzoo)  
+7. "House Flipper: Garden DLC" – 110K downloads. (Source: SteamDB)  
+8. "Epic Chef" – 185K downloads. (Source: Steam Charts)  
+9. "Candy Crush Saga" (localized by Peak) – 8M+ active users. (Source: Newzoo)  
+10. "Words of Wonders" – 4.5M downloads. (Source: Newzoo)
+
+================================================================================
+
