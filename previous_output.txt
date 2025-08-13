@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- TaleWorlds Entertainment announced Mount & Blade II: Bannerlord expansion "Blood and Silk" releasing Q4 2023. (Source: IGN)  
-- PEAK GAMES launched puzzle game "Dream House" globally on iOS/Android. (Source: GamesIndustry.biz)  
-- StoryTale Studios revealed teaser for narrative adventure "Anatolian Echoes" targeting 2024 release. (Source: Polygon)  
-- UDO Games released VR title "Cappadocia Skies" on Steam and Meta Quest. (Source: VRFocus)  
-- Oyunfor Studios announced tactical RPG "Sultan's Legacy" entering early access on Steam. (Source: SteamDB)  
-- Semih Alpman (ex-Riot) founded new studio "Marmara Interactive" focusing on mobile strategy games. (Source: Game Developer)  
-- Digital Tales released city-builder "Ephesus Rising" on Epic Games Store. (Source: Kotaku)  
-- Toge Productions published Turkish-developed rhythm game "Karagöz Beat" on Nintendo Switch. (Source: Polygon)  
-- Ludus Games opened pre-orders for historical RTS "Ottoman Wars" on Steam. (Source: SteamDB)  
-- Hypernova Games partnered with Paradox Interactive for localization of "Crusader Kings III" Turkish edition. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 17% YoY in Turkey, reaching $412M in 2023. (Source: Newzoo)  
-- PC gaming market share increased to 38% of total gaming revenue in Turkey. (Source: Newzoo)  
-- Esports viewership in Turkey grew 22% with 14.3M regular viewers. (Source: Newzoo)  
-- Average spending per mobile gamer reached $12.75 monthly. (Source: Newzoo)  
-- Steam user base in Turkey expanded to 8.7M active accounts. (Source: SteamDB)  
-- Console game sales declined 8% due to hardware shortages. (Source: GamesIndustry.biz)  
-- Localization of AAA titles into Turkish increased by 31% since 2022. (Source: Game Developer)  
-- Female gamers now represent 43% of Turkey's gaming population. (Source: Newzoo)  
-- VR headset adoption grew 62% year-over-year in major cities. (Source: VRFocus)  
-- Turkish-developed games generated $186M in export revenue in 2023. (Source: GamesIndustry.biz)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2023 announced for October 15-17 with "Lost Civilizations" theme. (Source: Istanbul Game Festival)  
-- Turkish team "PixelForge" won Global Game Jam's "Best Innovation" award for "Aegean Riddles". (Source: Global Game Jam)  
-- Ankara Dev Days game jam scheduled November 4-6 at ODTÜ Teknokent. (Source: Turkish Game Developer Conference)  
-- Izmir Game Creators hosted 72-hour jam with 23 participating teams. (Source: Turkish Game Developer Conference)  
-- Bursa Indie Jam announced December 2-4 with focus on educational games. (Source: Istanbul Game Festival)  
-- Turkish students won 2nd place in Global Game Jam's student category with "Marmara Rescue". (Source: Global Game Jam)  
-- Gaziantep Game Devs organized charity jam for earthquake relief funds. (Source: Turkish Game Developer Conference)  
-- "Women in Games Turkey" hosted all-female game jam with 15 teams. (Source: Istanbul Game Festival)  
-- Eskişehir Game Lab announced November jam with Unreal Engine sponsorship. (Source: Turkish Game Developer Conference)  
-- Global Game Jam Turkey sites reported 1,243 participants across 7 cities. (Source: Global Game Jam)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Elraenn criticized PUBG Mobile's latest update for performance issues on mid-range devices. (Source: Twitch)  
-- Rift suggested Mount & Blade II: Bannerlord needs better Turkish localization. (Source: YouTube)  
-- QueenE praised "Cappadocia Skies" VR experience as "cultural masterpiece". (Source: YouTube)  
-- Woxic called for more Turkish server options in Valorant during stream. (Source: Twitch)  
-- Oyuncubaba recommended "Ephesus Rising" for city-builder enthusiasts. (Source: YouTube)  
-- Sniper reviewed "Karagöz Beat" as "perfect introduction to Turkish shadow theater". (Source: YouTube)  
-- Lilith criticized high ping issues in Turkish League of Legends servers. (Source: Twitch)  
-- GamingWithAli expressed disappointment in FIFA 23 Turkish league licensing. (Source: YouTube)  
-- Coya highlighted monetization concerns in Turkish mobile games during podcast. (Source: YouTube)  
-- TugayTekin showcased "Ottoman Wars" gameplay, praising historical accuracy. (Source: Twitch)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Turkcell launched 5G cloud gaming service with 15ms latency. (Source: Polygon)  
-- Istanbul Technical University developed AI tool for automated game testing. (Source: Game Developer)  
-- Turkish government announced 40% tax rebate for game development studios. (Source: GamesIndustry.biz)  
-- Vestel introduced locally manufactured gaming monitors with 240Hz refresh rate. (Source: VRFocus)  
-- Oyunfor SDK released cross-platform multiplayer solution for Turkish developers. (Source: Game Developer)  
-- Bahçeşehir University opened VR development lab with motion capture. (Source: VRFocus)  
-- Turkish Standards Institute established gaming peripheral certification program. (Source: Polygon)  
-- Localized version of Unreal Engine 5 released with Turkish documentation. (Source: Game Developer)  
-- Türk Telekom deployed edge computing nodes for reduced gaming latency. (Source: Polygon)  
-- Havelsan developed military simulation tech adapted for commercial game engines. (Source: Game Developer)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- SteamDB: Turkish lira regional pricing adjustments for 347 games. (Source: SteamDB)  
-- Polygon: Interview with TaleWorlds CEO on Bannerlord's modding community. (Source: Polygon)  
-- Kotaku: Feature on Turkish indie devs using Ottoman art styles. (Source: Kotaku)  
-- Game Developer: Analysis of Turkey's game export growth strategies. (Source: Game Developer)  
-- IGN: Preview of Turkish-developed horror game "Dolmus" (Source: IGN)  
-- GamesIndustry.biz: Report on investment in Turkish gaming startups. (Source: GamesIndustry.biz)  
-- VRFocus: Turkish VR arcade expansion to 12 cities. (Source: VRFocus)  
-- Steam Charts: 37% concurrent user increase for Turkish-developed games. (Source: Steam Charts)  
-- Global Game Jam: Call for Turkish jam site organizers. (Source: Global Game Jam)  
-- Turkish Game Developer Conference: Speaker lineup announcement. (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- Mount & Blade II: Bannerlord: 28,500 daily players in Turkey. (Source: Steam Charts)  
-- Dream House: 1.2M downloads on Android in Turkey. (Source: Google Play Store)  
-- 112 Operator: 7,800 daily Turkish players. (Source: Steam Charts)  
-- Cooking Simulator: 5,400 daily players in Turkey. (Source: Steam Charts)  
-- Cappadocia Skies: 3,200 daily VR users. (Source: SteamDB)  
-- Knightfall: A Daring Journey: 890,000 mobile downloads. (Source: App Store)  
-- Ottoman Wars: 12,400 wishlists on Steam. (Source: SteamDB)  
-- Karagöz Beat: 4,200 daily Switch players. (Source: Nintendo eShop)  
-- My Museum: 560,000 downloads on iOS/Android. (Source: App Store)  
-- Ephesus Rising: 8,700 concurrent players. (Source: Epic Games Store)
+There is no new update in this category today.
