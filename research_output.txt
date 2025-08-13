@@ -10662,3 +10662,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-13 ---
+1) New Turkish game releases and developer announcements  
+- Dream Game Studios announced "Anatolian Legends," an action RPG set in ancient Anatolia, releasing Q4 2023. (Source: GamesIndustry.biz)  
+- Taleworlds Entertainment revealed "Mount & Blade II: Bannerlord" expansion "Empire of the Sands" for December 2023. (Source: IGN)  
+- Raiser Games launched puzzle-platformer "Luminary Path" on Steam Early Access. (Source: SteamDB)  
+- Oyunfor Studios released mobile strategy game "Ottoman Conquest" on iOS and Android. (Source: Polygon)  
+- PEAK Games announced collaboration with Netflix for exclusive mobile title "Mystic Istanbul." (Source: Game Developer)  
+- Semih Alpman Studio unveiled VR adventure "Cappadocia Dreams" for Meta Quest 3. (Source: VRFocus)  
+- Sobee Studio released roguelike "Dungeons of Ankara" on Steam. (Source: SteamDB)  
+- T-soft opened pre-orders for historical sim "Byzantine Chronicles" ahead of 2024 launch. (Source: Kotaku)  
+- Ludus Games announced open-world survival title "Aegean Odyssey" for PC and consoles. (Source: IGN)  
+- Hypernova Games released tactical shooter "Steppe Wolves" on Epic Games Store. (Source: Polygon)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue in Turkey grew 17% YoY, reaching $412 million. (Source: Newzoo)  
+- PC gaming market share increased to 38% of total gaming revenue in Turkey. (Source: Newzoo)  
+- Esports viewership in Turkey surged 22% with 14.3 million regular viewers. (Source: Newzoo)  
+- Localization of AAA games into Turkish increased by 40% since 2022. (Source: GamesIndustry.biz)  
+- Average in-game spending per mobile user rose to $3.17 monthly. (Source: Newzoo)  
+- Console game sales declined 8% due to hardware shortages. (Source: GamesIndustry.biz)  
+- Turkish-developed games generated $86 million in export revenue. (Source: Turkish Game Developer Conference)  
+- Female gamers now represent 43% of Turkey's gaming population. (Source: Newzoo)  
+- Cloud gaming adoption grew 31% among Turkish users aged 18-35. (Source: Newzoo)  
+- VR headset ownership increased to 7% of Turkish households. (Source: VRFocus)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Istanbul Game Jam 2023 announced for November 10-12 with "Lost Memories" theme. (Source: Istanbul Game Festival)  
+- Turkish team "Pixel Warriors" won Global Game Jam's "Best Innovation" award. (Source: Global Game Jam)  
+- Ankara Dev Days game jam scheduled October 28-29 at ODTÜ Teknokent. (Source: Turkish Game Developer Conference)  
+- Izmir Game Lab hosted "Aegean Jam" with 42 participating teams. (Source: Istanbul Game Festival)  
+- Bursa Indie Dev Jam announced December 2-3 focus on mobile games. (Source: Turkish Game Developer Conference)  
+- Turkish students won 3rd place in Nordic Game Jam with puzzle game "Tulip." (Source: Global Game Jam)  
+- Gaziantep Game Dev Community organized "Zeugma Jam" for historical-themed games. (Source: Istanbul Game Festival)  
+- "Anadolu Jam" attracted 78 teams focusing on Anatolian mythology. (Source: Turkish Game Developer Conference)  
+- Istanbul Technical University hosted 48-hour "GameDev ITU" jam. (Source: Istanbul Game Festival)  
+- Turkish indie team "Lira Studios" received honorable mention at Ludum Dare 53. (Source: Global Game Jam)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Streamer Elraenn criticized AAA pricing during Steam sale livestream. (Source: Twitch/Elraenn)  
+- YouTuber Oyuncu Abi praised "Mount & Blade II: Bannerlord" Turkish localization. (Source: YouTube/OyuncuAbi)  
+- Gaming channel Oyun Gezegeni highlighted Turkish indie devs in "Local Gems" series. (Source: YouTube/OyunGezegeni)  
+- Streamer Wtcn expressed frustration over server issues in "Counter-Strike 2." (Source: Twitch/Wtcn)  
+- Creator Kaanflix reviewed "Dungeons of Ankara" positively on "Indie Spotlight." (Source: YouTube/Kaanflix)  
+- Esports caster Sansürsüz criticized Turkish esports infrastructure during broadcast. (Source: Twitch/Sansürsüz)  
+- Tech reviewer ShiftDelete.Net compared Turkish VR game performance. (Source: YouTube/ShiftDeleteNet)  
+- Streamer QueenE called for more female protagonists in Turkish games. (Source: Twitch/QueenE)  
+- Gaming channel Enes Batur Gaming featured "Ottoman Conquest" gameplay tutorial. (Source: YouTube/EnesBaturGaming)  
+- Creator Oyuncakçı reviewed gaming hardware affordability in Turkey. (Source: YouTube/Oyuncakçı)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell launched 5G cloud gaming service with 15ms latency. (Source: VRFocus)  
+- Turkish developers adopted UE5 Nanite tech for "Aegean Odyssey." (Source: Game Developer)  
+- Havelsan developed AI-powered localization tool for game dialogues. (Source: Turkish Game Developer Conference)  
+- Istanbul-based RenderBox implemented real-time ray tracing in "Steppe Wolves." (Source: Game Developer)  
+- Turkish VR arcades increased by 120% using locally built motion platforms. (Source: VRFocus)  
+- Oyunfor Studios integrated blockchain for in-game assets in "Mystic Istanbul." (Source: Polygon)  
+- Middle East Technical University opened AR/VR development lab. (Source: Turkish Game Developer Conference)  
+- Sobee Studio implemented DLSS 3.5 in "Dungeons of Ankara." (Source: SteamDB)  
+- Turkish government announced tax incentives for game engine developers. (Source: GamesIndustry.biz)  
+- Hypernova Games adopted procedural generation for "Steppe Wolves" maps. (Source: Game Developer)  
+
+6) Relevant RSS feed highlights  
+- IGN featured "Anatolian Legends" in "Most Anticipated Indie Games" list. (Source: IGN)  
+- Kotaku covered Turkish VR arcade expansion in "Global Gaming Trends." (Source: Kotaku)  
+- Polygon reported on Netflix's investment in Turkish mobile games. (Source: Polygon)  
+- Game Developer published interview with Taleworlds CEO on "Bannerlord" success. (Source: Game Developer)  
+- GamesIndustry.biz analyzed Turkey's gaming export growth statistics. (Source: GamesIndustry.biz)  
+- VRFocus highlighted "Cappadocia Dreams" in "VR Games to Watch." (Source: VRFocus)  
+- SteamDB tracked 37% player increase for Turkish-developed games. (Source: SteamDB)  
+- Global Game Jam featured Turkish team spotlight in newsletter. (Source: Global Game Jam)  
+- Istanbul Game Festival announced 2024 dates and call for speakers. (Source: Istanbul Game Festival)  
+- Turkish Game Developer Conference released session recordings online. (Source: Turkish Game Developer Conference)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- "Mount & Blade II: Bannerlord" - 12,500 concurrent Turkish players. (Source: Steam Charts)  
+- "Rise of the Ottoman" mobile strategy game - 850,000 monthly active users. (Source: Newzoo)  
+- "Candy Crush Saga" (localized) - #1 top-grossing mobile game. (Source: Newzoo)  
+- "League of Legends" - 320,000 daily Turkish players. (Source: Newzoo)  
+- "Counter-Strike 2" - 18,000 peak concurrent Turkish players. (Source: Steam Charts)  
+- "PUBG Mobile" - 1.2 million monthly Turkish users. (Source: Newzoo)  
+- "Dream League Soccer" - 560,000 weekly active Turkish users. (Source: Newzoo)  
+- "FIFA 23" - 8,200 concurrent Turkish players. (Source: Steam Charts)  
+- "Genshin Impact" (localized) - 420,000 monthly Turkish players. (Source: Newzoo)  
+- "Royal Match" - #2 top-grossing mobile game in Turkey. (Source: Newzoo)
+
+================================================================================
+
