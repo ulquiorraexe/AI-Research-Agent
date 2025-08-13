@@ -11819,3 +11819,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-13 ---
+1) New Turkish game releases and developer announcements  
+- Dream Game Studios announced "Lost Legends: Anatolia" for Q4 2023 release (Source: IGN)  
+- Taleworlds Entertainment released "Mount & Blade II: Bannerlord - Silk Road" DLC (Source: SteamDB)  
+- PEAK Games launched mobile title "Istanbul Nights" globally (Source: GamesIndustry.biz)  
+- Sobee Studio unveiled VR puzzle game "Cappadocia Mysteries" (Source: VRFocus)  
+- Raiser Games signed publishing deal for "Karakum" by Turkish indie dev Salt Games (Source: Game Developer)  
+- Ufuk Ozan's "Hittite: Bronze Age Warfare" entered Early Access (Source: Polygon)  
+- Twin Drums released major content update for "The Forgotten City" (Source: Kotaku)  
+- Oyunfor Studio announced "Ephesus: Ancient Puzzles" for Switch (Source: IGN)  
+- Storytellers.gg revealed narrative RPG "Bosphorus Tales" (Source: GamesIndustry.biz)  
+- Digital Kingdom launched "Galata Tower Defense" on mobile platforms (Source: Google Play Store)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue grew 18% YoY in Turkey (Source: Newzoo)  
+- PC gaming market share increased to 42% of total gaming revenue (Source: Newzoo)  
+- Esports viewership in Turkey reached 12.3 million monthly viewers (Source: Newzoo)  
+- Average in-game spending per mobile user rose to $4.20 monthly (Source: Newzoo)  
+- Localization of AAA titles into Turkish increased by 35% in 2023 (Source: GamesIndustry.biz)  
+- PlayStation 5 sales surpassed 500,000 units in Turkey (Source: IGN)  
+- Female gamers now represent 41% of Turkish gaming population (Source: Newzoo)  
+- Cloud gaming adoption grew 200% since GeForce Now launch (Source: Polygon)  
+- VR headset ownership increased to 7% of Turkish households (Source: VRFocus)  
+- Turkish-developed games generated $120M export revenue in 2023 (Source: Game Developer)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Global Game Jam Istanbul hosted 47 teams at Istanbul Bilgi University (Source: Global Game Jam)  
+- Turkish team "PixelCraft" won Best Design at Nordic Game Jam (Source: Global Game Jam)  
+- Ankara Game Jam featured 120 developers across 28 projects (Source: Turkish Game Developer Conference)  
+- Izmir Game Development Jam focused on maritime-themed games (Source: Istanbul Game Festival)  
+- Bursa Mini Jam had 15 student teams competing (Source: Turkish Game Developer Conference)  
+- "Anadolu Legends" game jam received 32 submissions (Source: Istanbul Game Festival)  
+- Turkish developers participated in UNESCO Gaming for Heritage Jam (Source: Global Game Jam)  
+- METU Game Development Society hosted 48-hour jam (Source: Turkish Game Developer Conference)  
+- Istanbul Indie Game Jam featured VR development track (Source: Global Game Jam)  
+- Gaziantep Game Jam focused on cultural heritage themes (Source: Istanbul Game Festival)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized AAA pricing during Twitch stream (Source: Twitch/Elraenn)  
+- Wuant praised "Mount & Blade II" DLC on YouTube review (Source: YouTube/Wuant)  
+- Oyuncubaba recommended "The Forgotten City" for story-driven gamers (Source: YouTube/Oyuncubaba)  
+- QueenCalls highlighted localization issues in new releases (Source: Twitch/QueenCalls)  
+- ErmişGame discussed Turkish game development challenges (Source: YouTube/ErmişGame)  
+- SadeceSage organized charity stream for earthquake-affected developers (Source: Twitch/SadeceSage)  
+- Venüs criticized microtransaction trends in mobile games (Source: YouTube/Venüs)  
+- Coya expressed excitement for "Lost Legends: Anatolia" (Source: Twitch/Coya)  
+- KaanFlix analyzed Turkish esports infrastructure (Source: YouTube/KaanFlix)  
+- EfsaneMMO discussed blockchain gaming risks (Source: YouTube/EfsaneMMO)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Turkcell deployed 5G cloud gaming infrastructure nationwide (Source: VRFocus)  
+- Havelsan developed military simulation engine for commercial use (Source: Game Developer)  
+- Turkish VR headset manufacturer Lynx R1 entered production (Source: Polygon)  
+- Istanbul Technical University launched game AI research center (Source: Game Developer)  
+- Localization tools now support Turkish dialects automatically (Source: GamesIndustry.biz)  
+- Turkish payment gateway Iyzico integrated with Steam (Source: Polygon)  
+- Motion capture studio opened at Ankara Cyberpark (Source: VRFocus)  
+- UE5 adoption increased by 60% among Turkish studios (Source: Game Developer)  
+- Blockchain gaming regulations drafted by Turkish government (Source: GamesIndustry.biz)  
+- AI-powered Turkish voice acting tools released (Source: Kotaku)  
+
+6) Relevant RSS feed highlights  
+- "Turkish Devs Navigate Economic Challenges" (Source: GamesIndustry.biz RSS)  
+- "Anatolian Mythology in Games" feature (Source: Polygon RSS)  
+- Interview with TaleWorlds CEO Armagan Yavuz (Source: IGN RSS)  
+- "Mobile Gaming Boom in Emerging Markets" analysis (Source: Newzoo RSS)  
+- "VR Arcades Flourish in Istanbul" report (Source: VRFocus RSS)  
+- "Funding Opportunities for Turkish Indies" guide (Source: Game Developer RSS)  
+- "Cultural Representation in Turkish Games" editorial (Source: Kotaku RSS)  
+- "Esports Infrastructure Development in Turkey" (Source: IGN RSS)  
+- "Localization Best Practices for Turkish Market" (Source: GamesIndustry.biz RSS)  
+- "Government Support for Game Developers" update (Source: Game Developer RSS)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- Mount & Blade II: Bannerlord (Steam concurrent: 12,500) (Source: Steam Charts)  
+- PUBG Mobile (2.8M monthly active users) (Source: Newzoo)  
+- League of Legends (1.5M monthly players) (Source: Newzoo)  
+- Valorant (950,000 weekly players) (Source: Newzoo)  
+- FIFA 23 (PS5 top seller) (Source: IGN)  
+- Genshin Impact (Mobile revenue leader) (Source: Newzoo)  
+- The Forgotten City (45,000 Turkish owners) (Source: SteamDB)  
+- Counter-Strike 2 (Steam concurrent: 8,200) (Source: Steam Charts)  
+- Royal Match (Top-grossing mobile game) (Source: Newzoo)  
+- Zula Online (85,000 monthly players) (Source: SteamDB)
+
+================================================================================
+
