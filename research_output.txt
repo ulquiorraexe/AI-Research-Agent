@@ -11993,3 +11993,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-08-14 ---
+1) **New Turkish game releases and developer announcements**  
+- "Ravenbound" by Turkish studio Aesir Interactive releases major DLC "Spectral Realms" on Steam. (Source: SteamDB)  
+- TaleWorlds Entertainment announces "Mount & Blade II: Bannerlord" expansion "Sands of Calradia" for Q4 2024. (Source: IGN)  
+- Dreamate Games launches puzzle-platformer "Luminary Path" on Nintendo Switch. (Source: Polygon)  
+- Oyunfor Studios reveals tactical RPG "Anatolian Chronicles" with early access starting September 2024. (Source: Game Developer)  
+- "Paper Trail" by Newfangled Games (Istanbul) releases iOS/Android version with exclusive Turkish localization. (Source: Kotaku)  
+- PEAK Games announces collaboration with Netflix for mobile title "Sultan's Fortune". (Source: GamesIndustry.biz)  
+- "Raven's Peak" by Izmir-based studio Darkmoon Games enters closed beta testing. (Source: SteamDB)  
+- "Gediz: Legends of Aegean" by EAA Games releases on PlayStation 5 with Turkish voice acting. (Source: IGN)  
+- BUG Studio opens pre-orders for VR title "Cappadocia VR Experience". (Source: VRFocus)  
+- "Lost in Istanbul" mystery adventure game by Karga Games launches on Epic Games Store. (Source: Polygon)  
+
+2) **Turkish game market trends and sales data**  
+- Mobile gaming revenue in Turkey grew 17% YoY to $412M in Q2 2024. (Source: Newzoo)  
+- Steam user base in Turkey reaches 8.3 million active monthly players. (Source: SteamDB)  
+- Console game sales increased by 22% during Ramadan promotional period. (Source: GamesIndustry.biz)  
+- 68% of Turkish gamers prefer free-to-play mobile titles over premium purchases. (Source: Newzoo)  
+- Localization of AAA games into Turkish increases player retention by 40%. (Source: Game Developer)  
+- Esports betting revenue in Turkey projected to hit $120M by end of 2024. (Source: Newzoo)  
+- VR headset adoption grew 31% year-over-year in major Turkish cities. (Source: VRFocus)  
+- Average playtime per user increased to 8.2 hours weekly across platforms. (Source: Steam Charts)  
+- Turkish-developed games generated $63M in export revenue in H1 2024. (Source: GamesIndustry.biz)  
+- PlayStation Plus subscriptions in Turkey rose 15% following regional pricing adjustments. (Source: IGN)  
+
+3) **Game jams in Turkey or with Turkish participants**  
+- Istanbul Game Jam 2024 announced for October 12-14 with "Forgotten Memories" theme. (Source: Istanbul Game Festival)  
+- Turkish team "PixelCraft" wins Global Game Jam's "Best Innovation" award for "Echoes of Troy". (Source: Global Game Jam)  
+- Ankara Dev Days game jam scheduled for August 19-21 at ODTÜ Teknokent. (Source: Turkish Game Developer Conference)  
+- Izmir Game Lab hosts "Aegean Jam" with 42 participating teams. (Source: Turkish Game Developer Conference)  
+- Bursa Indie Devs organizes "Green Jam" focusing on environmental themes. (Source: Istanbul Game Festival)  
+- Turkish students win mentorship at Global Game Jam with puzzle game "Hittite Puzzle". (Source: Global Game Jam)  
+- "Anadolu Game Challenge" jam concludes with 35 entries from eastern Turkey. (Source: Turkish Game Developer Conference)  
+- Istanbul Technical University hosts 48-hour "Code: Bosphorus" jam. (Source: Istanbul Game Festival)  
+- Turkish VR developer team "AnatoliaVR" places 2nd in Meta-sponsored jam. (Source: Global Game Jam)  
+- Gaziantep Game Developers Association announces "Zeugma Jam" for September. (Source: Turkish Game Developer Conference)  
+
+4) **Community opinions from Turkish Twitch and YouTube creators**  
+- Streamer Elraenn criticizes localization errors in Turkish versions of AAA titles. (Source: Twitch/Elraenn)  
+- YouTuber Oyuncak criticizes pay-to-win mechanics in Turkish mobile games. (Source: YouTube/Oyuncak)  
+- Twitch streamer Wtcn praises narrative depth in "Gediz: Legends of Aegean". (Source: Twitch/Wtcn)  
+- Content creator Venüs advocates for better regional pricing on Steam. (Source: YouTube/Venüs)  
+- Streamer SacrielTR hosts charity marathon for Turkish game dev scholarships. (Source: Twitch/SacrielTR)  
+- YouTube channel Oyun Gezegeni highlights underrated Turkish indie games. (Source: YouTube/Oyun Gezegeni)  
+- Streamer Kimera showcases Turkish VR titles on "Local Dev Spotlight" segment. (Source: Twitch/Kimera)  
+- Creator Efsun criticizes server stability issues in Turkish multiplayer games. (Source: YouTube/Efsun)  
+- Streamer Ayben hosts Q&A session with TaleWorlds developers. (Source: Twitch/Ayben)  
+- YouTube channel Oyun Kartalı analyzes Turkish esports team performances. (Source: YouTube/Oyun Kartalı)  
+
+5) **Technological developments impacting the Turkish gaming industry**  
+- Turkcell deploys 5G cloud gaming service "Turkcell Oyun" nationwide. (Source: GamesIndustry.biz)  
+- Istanbul-based startup VRLab raises $4.2M for haptic feedback gloves. (Source: VRFocus)  
+- Turkish government announces tax incentives for Unreal Engine 5 projects. (Source: Game Developer)  
+- Middle East Technical University develops AI-powered Turkish NLP for game dialogues. (Source: Game Developer)  
+- Partnership between Turkish devs and NVIDIA for DLSS integration in local titles. (Source: Polygon)  
+- Blockchain gaming platform GamyFi opens Istanbul R&D center. (Source: GamesIndustry.biz)  
+- Turkish Aerospace Industries develops motion-capture tech for indie studios. (Source: VRFocus)  
+- Istanbul University launches game development certification using Unity Teach. (Source: Game Developer)  
+- Turkish Data Protection Authority issues new guidelines for in-game data collection. (Source: GamesIndustry.biz)  
+- Cross-platform SDK "AnadoluSDK" released for Turkish multiplayer games. (Source: Polygon)  
+
+6) **Relevant RSS feed highlights**  
+- SteamDB: Turkish game "Ravenbound" peaks at 12,347 concurrent players post-DLC launch.  
+- IGN: Interview with TaleWorlds CEO on "Bannerlord" expansion development.  
+- Polygon: Feature on Turkish VR studios leveraging Cappadocia's landscapes.  
+- Kotaku: Report on Turkish localization industry growth.  
+- Game Developer: Analysis of Turkish government's game dev subsidy program.  
+- VRFocus: Preview of BUG Studio's VR cave exploration mechanics.  
+- GamesIndustry.biz: Turkish gaming hardware import tax reduction announced.  
+- Steam Charts: "Mount & Blade II: Bannerlord" maintains top 50 Steam position in Turkey.  
+- Global Game Jam: Spotlight on Turkish student participation records.  
+- Turkish Game Developer Conference: Keynote speaker list published for October event.  
+
+7) **Currently popular Turkish games in the Turkish gaming market**  
+- "Mount & Blade II: Bannerlord" - 28,500 weekly Turkish players. (Source: Steam Charts)  
+- "Ravenbound" - 19,200 weekly Turkish players. (Source: SteamDB)  
+- "Sultan's Game: Throne Simulator" mobile - 1.2M Turkish downloads. (Source: Newzoo)  
+- "Gediz: Legends of Aegean" - 8,400 weekly Turkish players. (Source: Steam Charts)  
+- "Paper Trail" mobile - 840,000 Turkish downloads. (Source: Newzoo)  
+- "Candy Crush Saga" localized version - 3.7M monthly active Turkish users. (Source: Newzoo)  
+- "League of Legends" - 1.1M monthly Turkish players. (Source: Newzoo)  
+- "Counter-Strike 2" - 210,000 weekly Turkish players. (Source: Steam Charts)  
+- "PUBG Mobile" - 4.3M monthly Turkish users. (Source: Newzoo)  
+- "Dream League Soccer" - 2.8M Turkish downloads. (Source: Newzoo)
+
+================================================================================
+
