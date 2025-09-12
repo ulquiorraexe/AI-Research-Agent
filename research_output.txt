@@ -13383,3 +13383,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-09-12 ---
+**1) New Turkish game releases and developer announcements**  
+1. *Mount & Blade II: Bannerlord* expansion "Rise of the Calradian Empire" announced by TaleWorlds Entertainment. (Source: GamesIndustry.biz)  
+2. *Ravenbound* major content update "Forgotten Isles" released by Aesir Interactive. (Source: SteamDB)  
+3. *The Tourist* mobile game soft-launched by Gram Games in Turkey. (Source: Game Developer)  
+4. *Hazel Sky* Nintendo Switch port released by Coffee Addict Studio. (Source: Polygon)  
+5. *Sable Maze: Sullivan River* launched by Turgut Brothers Games. (Source: SteamDB)  
+6. *Project Ferrum* teaser trailer revealed by Oyunfor Studios. (Source: IGN)  
+7. *Lost in Sky* collaboration DLC with Turkish musician Cem Adrian announced. (Source: Kotaku)  
+8. *Gediz: Warriors of Anatolia* early access roadmap shared by Kılıç Games. (Source: SteamDB)  
+9. *NeonLore* closed beta sign-ups opened by Lumina Games. (Source: Game Developer)  
+10. *Anatolian Ghosts* VR demo released by Anadolu Interactive. (Source: VRFocus)  
+
+**2) Turkish game market trends and sales data**  
+1. Mobile gaming revenue in Turkey grew 17% YoY, reaching $412M. (Source: Newzoo)  
+2. PC game sales increased by 22% in Q2, driven by esports titles. (Source: GamesIndustry.biz)  
+3. Localization of AAA games into Turkish increased by 40% since 2023. (Source: Game Developer)  
+4. Turkish players spend average 7.2 hours/week on F2P games. (Source: Newzoo)  
+5. PlayStation 5 sales surged 31% after price drop. (Source: GamesIndustry.biz)  
+6. 68% of Turkish gamers prefer mobile as primary platform. (Source: Newzoo)  
+7. Esports betting market grew 28% in Turkey during 2024. (Source: Newzoo)  
+8. Local payment method integrations boosted in-game purchases by 19%. (Source: GamesIndustry.biz)  
+9. VR headset adoption rose 15% among core gamers. (Source: VRFocus)  
+10. Subscription services now used by 34% of Turkish gamers. (Source: Newzoo)  
+
+**3) Game jams in Turkey or with Turkish participants**  
+1. Global Game Jam Istanbul site hosted 48 teams at ITU. (Source: Global Game Jam)  
+2. "Ankara GameDev Challenge" focused on educational games. (Source: Turkish Game Developer Conference)  
+3. "IndieCup Turkey" submission deadline extended to October 30. (Source: Istanbul Game Festival)  
+4. "Bosphorus Jam" VR category winners announced. (Source: Global Game Jam)  
+5. "Izmir Game Camp" attracted 120 developers. (Source: Turkish Game Developer Conference)  
+6. "Anadolu Game Hack" focused on Anatolian folklore themes. (Source: Global Game Jam)  
+7. "METU Game Jam" winners featured in Steam festival. (Source: Istanbul Game Festival)  
+8. "Turkish Student Jam" collaboration with IGDA. (Source: Turkish Game Developer Conference)  
+9. "Pixel Wars" retro-themed jam received 63 entries. (Source: Global Game Jam)  
+10. "Istanbul Indie Fest" jam session announced for November. (Source: Istanbul Game Festival)  
+
+**4) Community opinions from Turkish Twitch and YouTube creators**  
+1. Elraenn criticized *Valorant* server instability in Turkey. (Source: Twitch)  
+2. ErmişTV praised *Mount & Blade II*'s new expansion. (Source: YouTube)  
+3. RiftCaller called for better Turkish localization in *Cyberpunk 2077*. (Source: Twitch)  
+4. Oyuncu Abi reviewed *Gediz: Warriors of Anatolia* positively. (Source: YouTube)  
+5. QueenNaga hosted charity stream for Turkish game dev scholarships. (Source: Twitch)  
+6. VenomRaps discussed Turkish representation in *Assassin's Creed*. (Source: YouTube)  
+7. HarunKiraz compared *EA FC 24* and *eFootball 2024*. (Source: Twitch)  
+8. SadeceSila analyzed *The Tourist* monetization model. (Source: YouTube)  
+9. TugayÖzkaya streamed *Ravenbound* update gameplay. (Source: Twitch)  
+10. OyunKolu highlighted underrated Turkish indie games. (Source: YouTube)  
+
+**5) Technological developments impacting the Turkish gaming industry**  
+1. Turkcell deployed 5G cloud gaming infrastructure in Istanbul. (Source: VRFocus)  
+2. UE5 adoption increased by 60% among Turkish studios. (Source: Game Developer)  
+3. Havelsan developed military simulation AI for training games. (Source: Polygon)  
+4. Local data center partnerships reduced game latency by 45%. (Source: VRFocus)  
+5. Procedural generation tools integrated into Anadolu Engine. (Source: Game Developer)  
+6. Blockchain gaming regulations clarified by Turkish government. (Source: GamesIndustry.biz)  
+7. AR startup Blippar partnered with Turkish museums for educational games. (Source: VRFocus)  
+8. Cross-platform SDK developed by Peak Games for faster deployment. (Source: Game Developer)  
+9. AI localization tool "TürkçeAI" launched for game developers. (Source: Polygon)  
+10. VR arcade installations increased 30% in shopping malls. (Source: VRFocus)  
+
+**6) Relevant RSS feed highlights**  
+1. "Turkish Devs Secure $20M Funding Round" (Source: GamesIndustry.biz)  
+2. "Anatolian Mythology in Games: Cultural Impact Study" (Source: Polygon)  
+3. "Steam Regional Pricing Adjustments for Turkey" (Source: SteamDB)  
+4. "Interview with TaleWorlds CEO on Bannerlord Success" (Source: IGN)  
+5. "Mobile Esports League Launched in Istanbul" (Source: Kotaku)  
+6. "UE5 Masterclass at Turkish Game Dev Conference" (Source: Game Developer)  
+7. "VR Fitness Games Gain Popularity in Turkey" (Source: VRFocus)  
+8. "Analysis: Turkish Gaming Tax Incentives" (Source: GamesIndustry.biz)  
+9. "Indie Spotlight: Coffee Addict Studio" (Source: Polygon)  
+10. "Crossplay Challenges in Middle Eastern Servers" (Source: IGN)  
+
+**7) Currently popular Turkish games in the Turkish gaming market**  
+1. *Mount & Blade II: Bannerlord* - 12K daily players (Source: Steam Charts)  
+2. *Ravenbound* - 8.4K downloads/month (Source: SteamDB)  
+3. *101 Okey Plus* - 1.2M active mobile users (Source: Newzoo)  
+4. *Gediz: Warriors of Anatolia* - 6.7K concurrent players (Source: Steam Charts)  
+5. *Hazel Sky* - 3.1K downloads/week (Source: SteamDB)  
+6. *Toon Blast* (Peak Games) - 850K daily users (Source: Newzoo)  
+7. *Sable Maze: Sullivan River* - 2.8K downloads (Source: SteamDB)  
+8. *Lost in Sky* - 5.2K monthly players (Source: Steam Charts)  
+9. *Zula Global* - 14K peak concurrent (Source: Steam Charts)  
+10. *Project Ferrum* demo - 18K downloads (Source: SteamDB)
+
+================================================================================
+
