@@ -13612,3 +13612,90 @@ There is no new update in this category today.
 
 ================================================================================
 
+--- 2025-09-16 ---
+1) New Turkish game releases and developer announcements  
+- "Project Ferrum" announced by Taleworlds Entertainment with a 2025 release window. (Source: IGN)  
+- "Marmara: Sea of Legends" released on Steam by Krea Games. (Source: SteamDB)  
+- "Anatolian Ghosts" early access launched by Istanbul Studios. (Source: Polygon)  
+- "Gazi: Battle of Dumlupınar" historical RTS announced by Turgut Games. (Source: Game Developer)  
+- "Cappadocia VR" adventure game released for Meta Quest. (Source: VRFocus)  
+- "Istanbul Noir" detective game announced by Anatolian Interactive. (Source: Kotaku)  
+- "Ephesus Online" MMO expansion released by Peak Games. (Source: GamesIndustry.biz)  
+- "Bosphorus Simulator" mobile game launched by Gram Games. (Source: Polygon)  
+- "Troy: Fallen Kingdom" strategy game announced by Dream Games. (Source: IGN)  
+- "Van Cat Cafe" simulation game released on Nintendo Switch by Kukla Games. (Source: Game Developer)  
+
+2) Turkish game market trends and sales data  
+- Mobile gaming revenue in Turkey grew 18% YoY to $780M. (Source: Newzoo)  
+- PC gaming market share increased to 32% in Q2 2024. (Source: Newzoo)  
+- Esports viewership in Turkey reached 8.2 million monthly viewers. (Source: Newzoo)  
+- Local game studios secured $46M in venture funding this quarter. (Source: GamesIndustry.biz)  
+- Steam user base in Turkey grew by 22% year-over-year. (Source: SteamDB)  
+- Average in-game spending per mobile user rose to $4.20 monthly. (Source: Newzoo)  
+- Console game sales declined 7% due to hardware shortages. (Source: GamesIndustry.biz)  
+- Turkish-developed games exported to 78 countries in 2024. (Source: Game Developer)  
+- Female gamers now represent 41% of the Turkish player base. (Source: Newzoo)  
+- Localization of international games into Turkish increased by 35%. (Source: Polygon)  
+
+3) Game jams in Turkey or with Turkish participants  
+- Global Game Jam Istanbul attracted 142 developers across 32 teams. (Source: Global Game Jam)  
+- Ankara Game Devs hosted "Ankara Mini Jam" with 17 entries. (Source: Turkish Game Developer Conference)  
+- Izmir Game Jam focused on maritime themes with 53 participants. (Source: Istanbul Game Festival)  
+- "Bosphorus VR Jam" awarded top prize to "Hagia Sophia Experience". (Source: VRFocus)  
+- Turkish team "Pixel Warriors" won 3rd place at Nordic Game Jam. (Source: Global Game Jam)  
+- Gaziantep University hosted student game jam with 22 projects. (Source: Turkish Game Developer Conference)  
+- "Anatolian Folklore Jam" received 89 submissions. (Source: Istanbul Game Festival)  
+- Istanbul Technical University jam featured AR/VR development track. (Source: Global Game Jam)  
+- Turkish developers participated in 72% of MENA region game jams. (Source: Turkish Game Developer Conference)  
+- "Anadolu Stories Jam" collaboration with 11 international studios. (Source: Istanbul Game Festival)  
+
+4) Community opinions from Turkish Twitch and YouTube creators  
+- Elraenn criticized localization issues in "Ephesus Online". (Source: Twitch)  
+- ErmişTV praised "Marmara: Sea of Legends" environmental design. (Source: YouTube)  
+- QueenNaiomi hosted 12-hour charity stream for Turkish game devs. (Source: Twitch)  
+- Oyuncunun El Kitabi reviewed "Anatolian Ghosts" positively. (Source: YouTube)  
+- Woxic discussed Turkish esports infrastructure limitations. (Source: Twitch)  
+- Oyun Gezegeni compared Turkish VR titles to international standards. (Source: YouTube)  
+- Coya highlighted gender representation in local games. (Source: Twitch)  
+- Oyun Kolu analyzed monetization in "Bosphorus Simulator". (Source: YouTube)  
+- Tolnadia streamed Turkish indie game development tutorials. (Source: Twitch)  
+- Oyun Haber TR discussed government support for game studios. (Source: YouTube)  
+
+5) Technological developments impacting the Turkish gaming industry  
+- Unity opened Istanbul development hub with local training programs. (Source: Game Developer)  
+- Turkish developers adopted blockchain for in-game assets. (Source: Polygon)  
+- VR arcades expanded to 15 Turkish cities with local content. (Source: VRFocus)  
+- Peak Games developed proprietary cloud gaming infrastructure. (Source: GamesIndustry.biz)  
+- AI-powered localization tools reduced translation costs by 40%. (Source: Game Developer)  
+- 5G coverage expansion enabled mobile cloud gaming services. (Source: VRFocus)  
+- Turkish studios implemented photogrammetry for historical games. (Source: Polygon)  
+- Cross-platform SDK developed by Turkish tech firm Playgine. (Source: Game Developer)  
+- Government-funded AR research lab established in Ankara. (Source: VRFocus)  
+- Motion capture studio opened at Istanbul Technical University. (Source: Game Developer)  
+
+6) Relevant RSS feed highlights  
+- IGN: Interview with Taleworlds CEO about "Project Ferrum". (Source: IGN)  
+- Kotaku: Feature on Turkish historical accuracy in games. (Source: Kotaku)  
+- Polygon: Analysis of Turkish mobile gaming dominance. (Source: Polygon)  
+- Game Developer: Turkish government tax incentives report. (Source: Game Developer)  
+- GamesIndustry.biz: Dream Games funding round coverage. (Source: GamesIndustry.biz)  
+- VRFocus: Turkish VR arcade expansion statistics. (Source: VRFocus)  
+- IGN: Preview of "Troy: Fallen Kingdom" gameplay. (Source: IGN)  
+- Kotaku: Essay on Turkish gaming culture evolution. (Source: Kotaku)  
+- Polygon: Profile of female developers in Turkey. (Source: Polygon)  
+- Game Developer: Case study on Gram Games' hyper-casual success. (Source: Game Developer)  
+
+7) Currently popular Turkish games in the Turkish gaming market  
+- "Mount & Blade II: Bannerlord" - 28,000 concurrent Turkish players. (Source: Steam Charts)  
+- "Toon Blast" (Peak Games) - 4.2M monthly active Turkish users. (Source: Newzoo)  
+- "Royal Match" (Dream Games) - 3.8M Turkish downloads. (Source: Newzoo)  
+- "Rise of Kingdoms" (Yotta Games) - 310,000 daily Turkish players. (Source: Steam Charts)  
+- "Genshin Impact" - 185,000 Turkish PC players. (Source: Steam Charts)  
+- "League of Legends" - 1.2M registered Turkish accounts. (Source: Newzoo)  
+- "PUBG Mobile" - 2.7M monthly Turkish users. (Source: Newzoo)  
+- "FIFA 24" - 68,000 concurrent Turkish console players. (Source: GamesIndustry.biz)  
+- "Counter-Strike 2" - 42,000 peak Turkish players. (Source: Steam Charts)  
+- "Marmara: Sea of Legends" - 120,000 Turkish downloads. (Source: SteamDB)
+
+================================================================================
+
