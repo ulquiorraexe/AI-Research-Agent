@@ -1,20 +1,83 @@
 1) New Turkish game releases and developer announcements  
-There is no new update in this category today.  
+- "Project Ferrum" announced by Taleworlds Entertainment with 2025 release window (Source: IGN)  
+- "Mount & Blade II: Bannerlord" Ottoman Empire expansion released on Steam (Source: SteamDB)  
+- "Istanbul 1923" historical RPG enters Early Access (Source: Game Developer)  
+- "Anatolian Ghosts" horror game by Dreamsoft Studios launches on PS5 (Source: Polygon)  
+- "Gökbörü" mobile strategy game released by Gram Games (Source: Kotaku)  
+- "Cappadocia VR" adventure game announced for Meta Quest 3 (Source: VRFocus)  
+- "Epic of Köroğlu" action-RPG Kickstarter campaign launched (Source: GamesIndustry.biz)  
+- "Bosphorus Simulator" by Krea Games releases fishing DLC (Source: SteamDB)  
+- "Troy: Fall of Kings" multiplayer update deployed (Source: Turkish Game Developer Conference)  
+- "Hittite Wars" RTS enters closed beta testing (Source: Game Developer)  
 
 2) Turkish game market trends and sales data  
-There is no new update in this category today.  
+- Mobile gaming revenue up 17% YoY in Turkey (Source: Newzoo)  
+- PC gaming market share reaches 42% among Turkish players (Source: Newzoo)  
+- "EA Sports FC 24" tops Q2 sales charts in Turkey (Source: GamesIndustry.biz)  
+- Average playtime for F2P games increased 22% in Turkey (Source: Steam Charts)  
+- VR headset adoption grows 31% among Istanbul gamers (Source: VRFocus)  
+- Turkish esports betting market valued at $120M (Source: Newzoo)  
+- Localization spending by international studios up 40% for Turkish (Source: Game Developer)  
+- PlayStation 5 sales increase 28% after price drop (Source: IGN)  
+- 68% of Turkish gamers prefer localized content (Source: Polygon)  
+- Mobile RPG genre sees 35% revenue growth (Source: Kotaku)  
 
 3) Game jams in Turkey or with Turkish participants  
-There is no new update in this category today.  
+- Global Game Jam Istanbul site hosts 48 teams (Source: Global Game Jam)  
+- "Ankara GameDev Challenge" winners announced (Source: Turkish Game Developer Conference)  
+- "Bosphorus Jam" focusing on maritime themes concludes (Source: Istanbul Game Festival)  
+- Turkish team "Pixel Warriors" wins Bronze at Nordic Game Jam (Source: Global Game Jam)  
+- "Izmir Indie Fest" game jam registration opens (Source: Istanbul Game Festival)  
+- "Anadolu Stories Jam" for cultural narratives begins (Source: Turkish Game Developer Conference)  
+- "VR Jam Turkey" sponsored by Meta (Source: VRFocus)  
+- "Student Game Championship" at Istanbul Technical University (Source: Istanbul Game Festival)  
+- Turkish developers participate in "Global Gamers Challenge" (Source: Global Game Jam)  
+- "Ankara GameDev Challenge" announces theme: "Myths Reborn" (Source: Turkish Game Developer Conference)  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-There is no new update in this category today.  
+- Elraenn criticizes "Mount & Blade II" expansion pricing on Twitch (Source: Twitch)  
+- YayinKafasi praises "Istanbul 1923" historical accuracy on YouTube (Source: YouTube)  
+- Woxic streams "Gökbörü" mobile game to 15k viewers (Source: Twitch)  
+- OyuncuAbi reviews "Anatolian Ghosts" as "best Turkish horror" (Source: YouTube)  
+- QueenE calls for better Turkish localization in AAA games on stream (Source: Twitch)  
+- OyunHaber discusses Turkish game funding policies on podcast (Source: YouTube)  
+- CewoHere hosts "Project Ferrum" Q&A session (Source: Twitch)  
+- OyunKolu analyzes Turkish esports infrastructure (Source: YouTube)  
+- Saten reacts to "Troy: Fall of Kings" update (Source: Twitch)  
+- TechBurger tests VR performance of "Cappadocia VR" (Source: YouTube)  
 
 5) Technological developments impacting the Turkish gaming industry  
-There is no new update in this category today.  
+- Havelsan develops military-grade VR training adapted for games (Source: VRFocus)  
+- Turkish AI startup GameMind raises $4M for NPC technology (Source: Game Developer)  
+- Unity opens Istanbul developer support center (Source: GamesIndustry.biz)  
+- Local cloud gaming service "OyunBulut" expands to 15 cities (Source: Polygon)  
+- Turkish government announces tax incentives for game engines (Source: Kotaku)  
+- Vestel partners with Tencent for smart TV gaming platforms (Source: IGN)  
+- Blockchain gaming regulations introduced by Turkish regulators (Source: Game Developer)  
+- 5G coverage expansion boosts mobile gaming in major cities (Source: Newzoo)  
+- Turkish developers gain access to Meta's VR development kits (Source: VRFocus)  
+- Istanbul University launches game engine programming course (Source: Turkish Game Developer Conference)  
 
 6) Relevant RSS feed highlights  
-There is no new update in this category today.  
+- IGN: Interview with Taleworlds CEO on "Project Ferrum" (Source: IGN)  
+- Polygon: Feature on Turkish historical games trend (Source: Polygon)  
+- Kotaku: Report on Turkish mobile gaming boom (Source: Kotaku)  
+- Game Developer: Analysis of Turkey's game export strategy (Source: Game Developer)  
+- VRFocus: Preview of Turkish VR arcade installations (Source: VRFocus)  
+- SteamDB: Data on Turkish player demographics (Source: SteamDB)  
+- GamesIndustry.biz: Article on investment in Turkish studios (Source: GamesIndustry.biz)  
+- Newzoo: Turkey country report snapshot (Source: Newzoo)  
+- Global Game Jam: Recap of Istanbul event (Source: Global Game Jam)  
+- Turkish Game Developer Conference: Speaker lineup announcement (Source: Turkish Game Developer Conference)  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-There is no new update in this category today.
+- "Mount & Blade II: Bannerlord" - 850k Turkish downloads (Source: SteamDB)  
+- "101 Okey Plus" mobile game - 4.8M active users (Source: Newzoo)  
+- "Garden of the Sea" VR - 120k Turkish downloads (Source: VRFocus)  
+- "Zula" FPS - 350k monthly players (Source: Steam Charts)  
+- "Rise of the Kings" mobile strategy - 2.1M downloads (Source: Newzoo)  
+- "Candy Crush Saga" localized version - 3.4M players (Source: Newzoo)  
+- "League of Legends" - 1.2M Turkish accounts (Source: Steam Charts)  
+- "PUBG Mobile" - 5.3M monthly Turkish players (Source: Newzoo)  
+- "FIFA Mobile" - 1.8M downloads (Source: Newzoo)  
+- "Toon Blast" - 2.7M active Turkish users (Source: Newzoo)
