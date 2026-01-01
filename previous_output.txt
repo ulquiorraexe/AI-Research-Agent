@@ -1,83 +1,20 @@
 1) New Turkish game releases and developer announcements  
-- "Project Anatolia" announced by Istanbul-based studio Oyunfor, featuring Ottoman-era strategy gameplay (Source: Turkish Game Developer Conference)  
-- "Shadow of the Bosphorus" released on Steam by Ankara Devs, a horror adventure set in Istanbul (Source: SteamDB)  
-- "Nomad Kings" mobile game launched by Izmir Studio, combining city-building with Turkic history (Source: Game Developer)  
-- "Crypto Caravans" NFT game announced by Blockchain Games Istanbul (Source: GamesIndustry.biz)  
-- "Epic of Dede Korkut" RPG enters early access from Bursa Interactive (Source: Polygon)  
-- "Istanbul 1453 VR" release date set for Q4 2024 by Conquest Games (Source: VRFocus)  
-- "Türk Yıldızları" flight simulator update adds new campaign missions (Source: SteamDB)  
-- "Göbeklitepe: Genesis" puzzle game announced by Şanlıurfa Devs (Source: Turkish Game Developer Conference)  
-- "Karagöz" narrative game Kickstarter funded at 250% (Source: Kotaku)  
-- "Sultans of Strategy" expansion pack released for "Ottoman Empire Simulator" (Source: IGN)  
+There is no new update in this category today.  
 
 2) Turkish game market trends and sales data  
-- Mobile gaming revenue grew 22% YoY in Turkey, reaching $412M (Source: Newzoo)  
-- Esports viewership up 35% with Valorant tournaments dominating (Source: Newzoo)  
-- Local payment integrations boosted in-game purchases by 18% (Source: GamesIndustry.biz)  
-- Steam user base in Turkey increased to 8.3 million active accounts (Source: SteamDB)  
-- Console sales down 7% due to import restrictions (Source: IGN)  
-- Puzzle games account for 31% of top-grossing mobile titles (Source: Newzoo)  
-- Localization demand rises as 68% prefer Turkish-language interfaces (Source: Game Developer)  
-- Gaming hardware imports decreased by 15% amid currency fluctuations (Source: Polygon)  
-- Average playtime increased to 7.2 hours weekly (Source: Newzoo)  
-- Regional pricing adjustments caused 12% drop in premium game sales (Source: SteamDB)  
+There is no new update in this category today.  
 
 3) Game jams in Turkey or with Turkish participants  
-- Istanbul Game Jam 2024 attracted 47 teams developing Ottoman-themed prototypes (Source: Istanbul Game Festival)  
-- Turkish team "Pixel Warriors" won Global Game Jam's sustainability category (Source: Global Game Jam)  
-- Ankara Indie Dev Jam focused on educational games for Turkish curriculum (Source: Turkish Game Developer Conference)  
-- Izmir VR Jam produced 12 mixed-reality demos (Source: VRFocus)  
-- "Women in Games Turkey" hosted female-only game jam with 32 participants (Source: Turkish Game Developer Conference)  
-- Bosphorus Game Jam partnered with Istanbul University for student projects (Source: Istanbul Game Festival)  
-- Turkish developers participated in Nordic Game Jam with mythology-themed entry (Source: Global Game Jam)  
-- Gaziantep Game Jam emphasized earthquake recovery narratives (Source: Turkish Game Developer Conference)  
-- Marmara University hosted 72-hour jam with transportation theme (Source: Istanbul Game Festival)  
-- "Retro Revival Jam" in Antalya drew 25 teams creating 8-bit games (Source: Turkish Game Developer Conference)  
+There is no new update in this category today.  
 
 4) Community opinions from Turkish Twitch and YouTube creators  
-- Streamer Elraenn criticized pay-to-win mechanics in Turkish mobile games (Source: Twitch)  
-- YouTube creator Oyuncak criticized localization errors in "Epic of Dede Korkut" (Source: YouTube)  
-- Twitch streamer Woxic praised "Shadow of the Bosphorus" horror design (Source: Twitch)  
-- Gaming channel Oyun Haber Türkiye highlighted underrated indie title "Nomad Kings" (Source: YouTube)  
-- Popular creator Rift urged boycott of NFT game "Crypto Caravans" (Source: Twitch)  
-- Esports commentator SansarÖlüm called for better tournament organization (Source: YouTube)  
-- Streamer QueenE endorsed "Project Anatolia" historical accuracy (Source: Twitch)  
-- Tech reviewer TeknoMehmet criticized VR motion sickness in Turkish titles (Source: YouTube)  
-- Content creator İnci highlighted gender representation in new releases (Source: Twitch)  
-- Gaming news channel Oyun Plus discussed monetization concerns in Turkish mobile games (Source: YouTube)  
+There is no new update in this category today.  
 
 5) Technological developments impacting the Turkish gaming industry  
-- Unity localization tools now support Ottoman Turkish script (Source: Game Developer)  
-- Istanbul-based VR firm BiliTech unveiled motion-capture studio for indie devs (Source: VRFocus)  
-- Government-funded AI initiative reduces translation costs by 40% (Source: GamesIndustry.biz)  
-- Cloud gaming infrastructure expanded via Turkcell's 5G network (Source: Polygon)  
-- Unreal Engine workshops launched at Ankara Tech University (Source: Game Developer)  
-- Turkish-developed procedural terrain tool "AnatoliaGen" released (Source: Game Developer)  
-- Blockchain integration kits for Unity gain popularity (Source: Kotaku)  
-- Motion-sensing tech adapted for Turkish folk dance games (Source: VRFocus)  
-- Cross-platform SDK "BosphorusBridge" simplifies mobile-PC porting (Source: Game Developer)  
-- AI moderation tools combat toxicity in Turkish gaming communities (Source: Polygon)  
+There is no new update in this category today.  
 
 6) Relevant RSS feed highlights  
-- IGN features interview with "Shadow of the Bosphorus" lead designer (Source: IGN)  
-- GamesIndustry.biz reports Turkish government gaming grants increased to $6M (Source: GamesIndustry.biz)  
-- Kotaku covers controversy around NFT game "Crypto Caravans" (Source: Kotaku)  
-- Polygon highlights Turkish VR historical preservation projects (Source: Polygon)  
-- Game Developer publishes case study on Istanbul indie studio scaling (Source: Game Developer)  
-- IGN reviews "Nomad Kings" mobile strategy game (Source: IGN)  
-- GamesIndustry.biz analyzes Turkish esports sponsorship growth (Source: GamesIndustry.biz)  
-- Kotaku reports on localization challenges for Turkish dialects (Source: Kotaku)  
-- Polygon features Turkish sound design innovations (Source: Polygon)  
-- Game Developer covers Ankara's new game development incubator (Source: Game Developer)  
+There is no new update in this category today.  
 
 7) Currently popular Turkish games in the Turkish gaming market  
-- "Mount & Blade II: Bannerlord" (TaleWorlds) - 1.2M Turkish downloads (Source: SteamDB)  
-- "Ravenfield" (SteelRaven7) - 850K downloads (Source: Steam Charts)  
-- "My Country: Mobile" (Melsoft Games) - Top 3 grossing mobile game (Source: Newzoo)  
-- "Sultans of Deccani" (Twin Drums) - 320K active Turkish players (Source: Steam Charts)  
-- "Rise of Kings" (Dreamotion) - 500K monthly mobile users (Source: Newzoo)  
-- "Turbolancer" (Kishmish Games) - 180K Steam downloads (Source: SteamDB)  
-- "Gordian Quest" (Mixed Realms) - 75K Turkish players (Source: Steam Charts)  
-- "Iron Order 1919" (Brytenwalda) - Top 10 strategy game on Turkish App Store (Source: Newzoo)  
-- "Rise of the Pasha" (Turgut Games) - 210K downloads (Source: SteamDB)  
-- "Candy Crush Saga" (King) localized events driving 1.5M daily Turkish users (Source: Newzoo)
+There is no new update in this category today.
